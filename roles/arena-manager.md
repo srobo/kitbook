@@ -9,6 +9,7 @@ Specifically, this includes the following:
    * Markers
    * Any fixed or mobile installations in the arena (tokens,
      pedestals, etc.)
+ * Displays around the arena. 
 
 ## Subordinates
 

@@ -10,19 +10,20 @@ report to the production manager:
 
  * [Arena Manager](roles/arena-manager)
  * [Pits Manager](roles/pits-manager)
+ * [Network Manager](roles/network-manager)
 
-## TODO
+## Matters of Interest
 
-The following things will be appearing on this wiki soon:
-
- * Information on the venue layout
- * Arena construction/procurement/logistics details
- * Networking layout and hire information
- * Storage arrangements
- * PRS and PPL licenses
- * Insurance
- * Risk assessments
- * Venue arrangements
+ * [The Arena](arena/index): How the arena is constructed.
+   * [Arena Lighting](arena/lighting): How the arena lighting is setup.
+ * Venue:
+   * [Layout](venue/layout): The layout of the venue.
+ * [Networking](network): The networking setup.
+ * [Power](power): The power arrangements.
+ * [Sound](sound): The sound arrangements.
+   * [Music Licenses](sound/licenses): Music licenses.
+ * [Event Insurance](insurance) 
+ * [Risk Assessments](risk-assessments)
 
 ## License
 
