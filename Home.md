@@ -7,5 +7,5 @@ manager.
 
 The production team consists of the following roles:
 
- * [/roles/arena-manager](Arena Manager)
+ * [Arena Manager](roles/arena-manager)
  * [/roles/pits-manager](Pits Manager)
