@@ -19,6 +19,10 @@ The following things will be appearing on this wiki soon:
  * Arena construction/procurement/logistics details
  * Networking layout and hire information
  * Storage arrangements
+ * PRS and PPL licenses
+ * Insurance
+ * Risk assessments
+ * Venue arrangements
 
 ## License
 
