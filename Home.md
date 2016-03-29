@@ -5,7 +5,8 @@ manager.
 
 ## Subordinate Roles
 
-The production team consists of the following roles:
+The production team consists of the following two roles, both of which
+report to the production manager:
 
  * [Arena Manager](roles/arena-manager)
- * [/roles/pits-manager](Pits Manager)
+ * [Pits Manager](roles/pits-manager)
