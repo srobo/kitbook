@@ -10,3 +10,18 @@ report to the production manager:
 
  * [Arena Manager](roles/arena-manager)
  * [Pits Manager](roles/pits-manager)
+
+## TODO
+
+The following things will be appearing on this wiki soon:
+
+ * Information on the venue layout
+ * Arena construction/procurement/logistics details
+ * Networking layout and hire information
+ * Storage arrangements
+
+## License
+
+This work is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License. To view a copy of
+this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
