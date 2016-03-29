@@ -12,5 +12,5 @@ Specifically, this includes the following:
 
 ## Subordinates
 
-The arena manager may bring in volunteers who report to the pits
-manager.  These volunteers may not create further subordinate roles.
+The arena manager may bring in subordinate volunteers.  These
+volunteers may not create further subordinate roles.
