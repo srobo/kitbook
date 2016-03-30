@@ -1,7 +1,7 @@
 # Network Manager
 
-The network manager is responsible for designing and installing the
-network at the competition.
+The network manager is responsible for designing, installing and
+uninstalling the network at the competition.
 
 ## Subordinates
 

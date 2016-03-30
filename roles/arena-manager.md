@@ -1,7 +1,7 @@
 # Arena Manager
 
-The arena manager is responsible for constructing the arena.
-Specifically, this includes the following:
+The arena manager is responsible for constructing and deconstructing
+the arenas.  Specifically, this includes the following:
 
  * Arena carpet
  * Arena walls

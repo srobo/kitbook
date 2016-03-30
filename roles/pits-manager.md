@@ -1,7 +1,7 @@
 # Pits Manager
 
-The pits manager is responsible for installing the team pits at the
-competition.
+The pits manager is responsible for installing and uninstalling team
+pits at the competition.
 
 ## Subordinates
 
