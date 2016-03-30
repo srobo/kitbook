@@ -5,5 +5,5 @@ network at the competition.
 
 ## Subordinates
 
-The pits manager may bring in subordinate volunteers.  These
+The network manager may bring in subordinate volunteers.  These
 volunteers may not create further subordinate roles.
