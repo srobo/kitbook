@@ -25,6 +25,11 @@ report to the production manager:
  * [Event Insurance](insurance) 
  * [Risk Assessments](risk-assessments)
 
+## Ticketing System
+
+Tasks that are being handled by the production team are ticketed in
+the issue tracker associated with this repository.
+
 ## License
 
 This work is licensed under the Creative Commons
