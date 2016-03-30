@@ -17,11 +17,11 @@ report to the production manager:
  * [The Arena](arena/index): How the arena is constructed.
    * [Arena Lighting](arena/lighting): How the arena lighting is setup.
  * Venue:
-   * [Layout](venue/layout): The layout of the venue.
+    * [Layout](venue/layout): The layout of the venue.
  * [Networking](network): The networking setup.
  * [Power](power): The power arrangements.
  * [Sound](sound): The sound arrangements.
-   * [Music Licenses](sound/licenses): Music licenses.
+    * [Music Licenses](sound/licenses): Music licenses.
  * [Event Insurance](insurance) 
  * [Risk Assessments](risk-assessments)
 
