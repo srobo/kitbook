@@ -14,6 +14,7 @@ report to the production manager:
 
 ## Matters of Interest
 
+ * [Schedule](schedule) of the event production
  * [The Arena](arena/index): How the arena is constructed.
    * [Arena Lighting](arena/lighting): How the arena lighting is setup.
  * Venue:
