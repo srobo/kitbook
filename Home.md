@@ -10,7 +10,7 @@ Role | Volunteer | Documentation
 Competition Event Coordinator | Rob Spanton
 Game Design Coordinator | [unfilled]
 Kickstart Events Coordinator | [unfilled]
-Team Coordinator | [unfilled]
+Team Coordinator | Jeremy Morse
 Kit Coordinator | Richard Barlow
 Ancillary Software Coordinator | [unfilled]
 
