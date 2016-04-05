@@ -7,7 +7,7 @@ documentation.
 
 Role | Volunteer | Documentation
 -----|-----------|--------------
-Competition Event Coordinator | Rob Spanton
+Competition Event Coordinator | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
 Game Design Coordinator | [unfilled]
 Kickstart Events Coordinator | [unfilled]
 Team Coordinator | Jeremy Morse
