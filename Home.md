@@ -11,7 +11,7 @@ Competition Volunteer Welfare Coordinator | [unfilled]
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
 Competition Team Coordinator | Jeremy Morse
 Competition Software Coordinator | Peter Law
-Competition Team Support Coordinator | [unfilled]
+Competition Team Support Coordinator | Richard Barlow
 Competition H&S Coordinator | [unfilled]
 Match Coordinator | [unfilled]
 
