@@ -9,8 +9,8 @@ Role | Volunteer | Documentation
 Reward Manager | [unfilled]
 Competition Volunteer Welfare Coordinator | [unfilled]
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
-Competition Team Coordinator | [unfilled]
-Competition Software Coordinator | [unfilled]
+Competition Team Coordinator | Jeremy Morse
+Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | [unfilled]
 Competition H&S Coordinator | [unfilled]
 Match Coordinator | [unfilled]
