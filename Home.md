@@ -1,3 +1,4 @@
+[ops](https://bitbucket.org/srobo/ops-manual/wiki/Home)/comp-programme
 # Student Robotics Competition Programme Operations Documentation
 
 This is the Competition Programme Coordinator's operations
@@ -13,9 +14,6 @@ Kickstart Events Coordinator | [unfilled]
 Team Coordinator | Jeremy Morse
 Kit Coordinator | Richard Barlow
 Ancillary Software Coordinator | [unfilled]
-
-
-[Up Documentation](https://bitbucket.org/srobo/ops-manual/wiki/Home)
 
 ## License
 
