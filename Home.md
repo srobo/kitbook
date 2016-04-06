@@ -1,3 +1,5 @@
+[ops](https://bitbucket.org/srobo/ops-manual/wiki/Home)/[comp-programme](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home)/event-coord
+
 # Student Robotics Competition Event Documentation
 
 This is the Competition Event Coordinator's operations documentation.
@@ -14,8 +16,6 @@ Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | Richard Barlow
 Competition H&S Coordinator | [unfilled]
 Match Coordinator | [unfilled]
-
-[Up Documentation](https://bitbucket.org/srobo/ops-manual/wiki/Home)
 
 ## License
 
