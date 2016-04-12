@@ -14,7 +14,7 @@ Role | Volunteer
 -----|-----------
 [Arena Manager](roles/arena-manager) | Richard Barlow
 [Pits Manager](roles/pits-manager) | [unfilled]
-[Network Manager](roles/network-manager) | [unfilled]
+[Network Manager](roles/network-manager) | Jeremy Morse
 
 ## Matters of Interest
 
