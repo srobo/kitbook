@@ -8,9 +8,11 @@ manager.
 The production team consists of the following roles, all of which
 report to the production manager:
 
- * [Arena Manager](roles/arena-manager)
- * [Pits Manager](roles/pits-manager)
- * [Network Manager](roles/network-manager)
+Role | Volunteer |
+-----|-----------|
+[Arena Manager](roles/arena-manager) | Richard Barlow
+[Pits Manager](roles/pits-manager) | [unfilled]
+[Network Manager](roles/network-manager) [unfilled]
 
 ## Matters of Interest
 
