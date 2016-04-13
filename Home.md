@@ -19,16 +19,17 @@ Role | Volunteer
 ## Matters of Interest
 
  * [Schedule](schedule) of the event production
- * [The Arena](arena/index): How the arena is constructed.
-   * [Arena Lighting](arena/lighting): How the arena lighting is setup.
- * Venue:
-    * [Layout](venue/layout): The layout of the venue.
- * [Networking](network): The networking setup.
- * [Power](power): The power arrangements.
- * [Sound](sound): The sound arrangements.
-    * [Music Licenses](sound/licenses): Music licenses.
- * [Event Insurance](insurance) 
- * [Risk Assessments](risk-assessments)
+
+Things that may appear here in the future:
+
+ * Arena construction details
+ * Venue layout
+ * Networking setup
+ * Power setup
+ * Sound setup
+ * Lighting setup
+ * Insurance details
+ * Risk assessments
 
 ## Ticketing System
 
