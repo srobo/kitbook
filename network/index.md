@@ -3,6 +3,9 @@
 The network at the SR2016 competition will be similar to that deployed
 at the SR2015 competition.
 
+Details of the cabling and cable protection can be found on the
+[cabling page](network/cabling).
+
 ## Network Provision from Newbury Racecourse
 
 Newbury will be providing:
@@ -34,3 +37,4 @@ A router will be installed on this floor.
 The two routers will be desktop machines on loan from Rob Spanton.
 Both of these machines will have two ethernet sockets.  They will be
 running DHCP servers, and perform NAT onto the Newbury network.
+
