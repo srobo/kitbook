@@ -18,13 +18,13 @@ Role | Volunteer
 
 ## Matters of Interest
 
+ * [Networking](network/index.md)
  * [Schedule](schedule) of the event production
 
 Things that may appear here in the future:
 
  * Arena construction details
  * Venue layout
- * Networking setup
  * Power setup
  * Sound setup
  * Lighting setup
