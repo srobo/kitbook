@@ -1,7 +1,8 @@
 # SR2016 Competition Network Cabling
 
 This page is the canonical reference for the lengths of cable required
-for the SR2016 network cabling.
+for the SR2016 network cabling.  These will be hired from
+[ITR](http://www.itrentals.com/about-it-rentals).
 
 ## Cabling
 
