@@ -15,9 +15,8 @@ Competition Team Coordinator | Jeremy Morse
 Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | Richard Barlow
 Competition H&S Coordinator | [unfilled][^3]
-Match Coordinator | Rob Spanton[^1]
+Match Coordinator | Tom Leese
 
-[^1]: Very likely to be replaced by Tom Leese on 14/4/2016
 [^2]: Very likely to be filled by Tim Jones on 12/04/2016
 [^3]: Very likely to be filled by Thomas Scarsbrook on 18/04/2016
 
