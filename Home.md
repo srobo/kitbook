@@ -8,8 +8,8 @@ This is the Competition Event Coordinator's operations documentation.
 
 Role | Volunteer | Documentation
 -----|-----------|--------------
-Reward Manager | [unfilled][^2]
-Competition Volunteer Welfare Coordinator | [unfilled]
+Reward Manager | Tim Jones
+Competition Volunteer Welfare Coordinator | Howard Buck
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
 Competition Team Coordinator | Jeremy Morse
 Competition Software Coordinator | Peter Law
@@ -17,7 +17,6 @@ Competition Team Support Coordinator | Richard Barlow
 Competition H&S Coordinator | [unfilled][^3]
 Match Coordinator | Tom Leese
 
-[^2]: Very likely to be filled by Tim Jones on 12/04/2016
 [^3]: Very likely to be filled by Thomas Scarsbrook on 18/04/2016
 
 ## License
