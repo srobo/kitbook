@@ -14,10 +14,8 @@ Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-prod
 Competition Team Coordinator | Jeremy Morse
 Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | Richard Barlow
-Competition H&S Coordinator | [unfilled][^3]
+Competition H&S Coordinator | Thomas Scarsbrook
 Match Coordinator | Tom Leese
-
-[^3]: Very likely to be filled by Thomas Scarsbrook on 18/04/2016
 
 ## License
 
