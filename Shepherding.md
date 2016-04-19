@@ -4,7 +4,7 @@
 
 ## Head Shepherd
 
-The head shepherd is responsible for managing the shepherds which they may bring in subordinate volunteers.
+The head shepherd is responsible for managing the shepherds which they may bring in as their only subordinate role.
 
 ## Shepherd
 
