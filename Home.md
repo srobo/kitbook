@@ -8,7 +8,7 @@ This is the Competition Team Support Coordinator's documentation. The Competitio
 The main source of support for teams is Helpdesk. Helpdesk is always manned by at least two volunteers and ideally three volunteers. There should always be at least one volunteer who has experience with the SR kit on Helpdesk at any point in time. Further details can be found in the [[Helpdesk]] docs.
 
 ## Battery Charging
-Teams have their batteries and chargers taken off of them when they arrive at the competition. Student Robotics takes responsibility for charging of batteries throughout the competition. The battery charging station is located next to Helpdesk. The battery charging station is always manned by at least one volunteer and ideally two volunteers. Further details can be found in the [Battery Charging Docs](batt-charging)
+Teams have their batteries and chargers taken off of them when they arrive at the competition. Student Robotics takes responsibility for charging of batteries throughout the competition. The battery charging station is located next to Helpdesk. The battery charging station is always manned by at least one volunteer and ideally two volunteers. Further details can be found in the [[Battery Charging]] docs.
 
 ## Roving Helpers
 
