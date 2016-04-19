@@ -6,4 +6,8 @@
 
 ### Head Match Scorer
 
+The head match scorer is responsible for managing the scorers which they may bring in as their only subordinate role. They may also perform the same roles as the match scorer or be solely responsible for the match scorers.
+
 ### Match Scorer
+
+A match scorer is responsible for ensuring that the scores from the matches are entered in a timely fashion. They will usually be stationed at a desk near the arena(s) for the duration of their role.
