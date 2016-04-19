@@ -15,7 +15,7 @@ Competition Team Coordinator | Jeremy Morse
 Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | Richard Barlow
 Competition H&S Coordinator | Thomas Scarsbrook
-Match Coordinator | Tom Leese
+Match Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-match-coordinator/wiki)
 
 ## License
 
