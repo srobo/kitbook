@@ -6,8 +6,9 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
  * Two copies of the rules - one attached to a desk by some means
  * Helpdesk logbook
- * Spare kit
+ * Spare kit in the 'spare kit box'
  * List of spare kit
+ * Broken kit box
  * Laptop
  * Red insulating tape
  * Permanent marker
@@ -28,7 +29,7 @@ Whenever a team comes to Helpdesk with an issue that cannot be solved instantly 
 
 Many teams will come to Helpdesk requesting help with the development of their robot or, more likely, help using the Student Robotics kit and associated software. As mentioned earlier, Helpdesk volunteers are not expected to tell teams what to do, but rather offer advice. Helpdesk volunteers should strive to answer questions about the use of the kit and software.
 
-Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a Roving Helper should be summoned, via radio if necessary.
+Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](roving-helper) should be summoned, via radio if necessary.
 
 In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. The following people are available for specific help and can be summoned over the radio:
 
