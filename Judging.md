@@ -5,3 +5,5 @@
 ## Roles
 
 ### Judge
+
+The judge is responsible for making the final word on any decision relating to teams in a game.
