@@ -1,3 +1,5 @@
+> [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Competition Event Coordinator](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
+
 # Student Robotics Competition Team Support Documentation
 
 This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. There are no subordinate roles.
