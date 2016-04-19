@@ -10,7 +10,7 @@ The match coordinator team consists of the following roles, all of which report 
 
 | Role | Volunteer |
 | --- | --- |
-| Head Shepherd | |
+| [Head Shepherd](https://github.com/thomasleese/sr-match-coordinator/wiki/Shepherding#head-shepherd) | |
 | Head Match Scorer | |
 | Commentator |  |
 | Judge | |
