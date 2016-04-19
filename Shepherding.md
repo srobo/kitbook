@@ -2,10 +2,12 @@
 
 # Shepherding
 
-## Head Shepherd
+## Roles
+
+### Head Shepherd
 
 The head shepherd is responsible for managing the shepherds which they may bring in as their only subordinate role.
 
-## Shepherd
+### Shepherd
 
-A shepherd is a volunteer who is in charge of finding teams before matches. They report to the Head Shepherd and may not create further subordinate roles.
+A shepherd is responsible for finding teams and ensuring they make it to their matches. They report to the Head Shepherd and may not create further subordinate roles.
