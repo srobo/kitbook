@@ -11,6 +11,7 @@ The main source of support for teams is Helpdesk. Helpdesk is always manned by a
 Teams have their batteries and chargers taken off of them when they arrive at the competition. Student Robotics takes responsibility for charging of batteries throughout the competition. The battery charging station is located next to Helpdesk. The battery charging station is always manned by at least one volunteer and ideally two volunteers. Further details can be found in the [[Battery Charging]] docs.
 
 ## Roving Helpers
+Teams will always have quick questions about the kit, the game and the competition in general. Most of these questions can be handled by volunteers on the spot. To help deal with these questions quickly and efficiently there should be volunteers known as Roving Helpers wandering around the pits. There should be as many Roving Helpers as possible throughout the competition, but there is no minimum number. Further details can be found in the [[Roving Helper]] docs.
 
 ## License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
