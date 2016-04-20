@@ -11,3 +11,7 @@ The head match scorer is responsible for managing the scorers which they may bri
 ### Match Scorer
 
 A match scorer is responsible for ensuring that the scores from the matches are recorded and entered in a timely fashion. They may not bring in any subordinate volunteers.
+
+### Match Score Entry
+
+A 
