@@ -13,3 +13,5 @@ to crimping, but use common sense. People who don't wish the wristband to be
 crimped should provide an explanation that you believe. If you decide not to
 crimp it, inform them that they will need to have the wristband (loose)
 throughout BOTH days of the competition.
+
+After the initial influx, this roll will be absorbed by the reception staff.

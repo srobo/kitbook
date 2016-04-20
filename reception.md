@@ -32,4 +32,7 @@ any technical questions or unknown matters to other people in SR. Any member
 of the public should be allowed into the building if they sign a media consent
 form.
 
+After the initial influx of people, the 'crimper' and 'teamleader-desk' roles
+will be absorbed by the receptionist.
+
 [0] Training on how to use this software will be given on the morning by jmorse.
