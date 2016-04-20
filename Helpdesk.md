@@ -26,6 +26,10 @@ At least one volunteer on Helpdesk must have prior experience of the use of the 
 
 Whenever a team comes to Helpdesk with an issue that cannot be solved instantly their TLA and a very brief (couple of words) summary of the problem must be written on a post-it note and stuck up on a board of current issues. This ensures that no problems get dropped while they are being investigated. When the issue is resolved the post-it note can be thrown away. If it appears that a particular post-it has remained on the board for an extended period of time and there has been no obvious activity to resolve the issue then a volunteer should be dispatched to the team to see if it's still a problem.
 
+### Handling of requests for robot safety checks
+
+The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should direct teams enquiring about safety checks to the Health & Safety Coordinator (Scarzy).
+
 ### Handling of general robot development requests
 
 Many teams will come to Helpdesk requesting help with the development of their robot or, more likely, help using the Student Robotics kit and associated software. As mentioned earlier, Helpdesk volunteers are not expected to tell teams what to do, but rather offer advice. Helpdesk volunteers should strive to answer questions about the use of the kit and software.
