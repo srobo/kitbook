@@ -15,6 +15,12 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 
 Every volunteer manning the Battery Charging must have read this document fully. Any doubts must be discussed with Rich Barlow ASAP.
 
+## Safety
+
+The batteries have many built in safety features and, unless severely abused, are completely safe. All batteries undergoing charging must be place inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery DO NOT attempt to tackle the fire - the batteries contain a flammable metal (Lithium) which cannot be safely tackled with most fire extinguishers.
+
+If at any point you have any doubts about safety immediately summon Rich Barlow via [[Helpdesk]].
+
 ## Procedures
 
 ### Swapping a team's battery
