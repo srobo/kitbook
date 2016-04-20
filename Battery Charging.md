@@ -17,9 +17,11 @@ Every volunteer manning the Battery Charging must have read this document fully.
 
 ## Safety
 
-The batteries have many built in safety features and, unless severely abused, are completely safe. All batteries undergoing charging must be place inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery DO NOT attempt to tackle the fire - the batteries contain a flammable metal (Lithium) which cannot be safely tackled with most fire extinguishers.
+The biggest risk of damage or injury is from the banana plugs coming unplugged from the charger. These are the red and black plugs that go into the side of the charger. All of the chargers should have the cables cable-tied to the charger to make it difficult to remove these plugs. Under no circumstances should these red and black plugs be unplugged from the chargers.
 
-If at any point you have any doubts about safety, immediately summon Rich Barlow via [[Helpdesk]].
+The batteries themselves have many built in safety features and, unless severely abused, are completely safe. All batteries undergoing charging must be placed inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery DO NOT attempt to tackle the fire - the batteries contain a flammable metal (Lithium) which cannot be safely tackled with most fire extinguishers.
+
+If at any point you have any doubts about safety, immediately summon the Competition Team Support Coordinator (Rich Barlow) and the Health & Safety Coordinator (Scarzy) via [[Helpdesk]].
 
 ## Procedures
 
