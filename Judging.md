@@ -6,4 +6,4 @@
 
 ### Judge
 
-The judge is responsible for making the final word on any decision relating to teams in a game.
+The judge is responsible for making the final word on any decision relating to teams in a game. Any decisions related to health and safety must not be made by the judge and instead must get passed on to the Health and Safety Coordinator. The judge may not bring in any subordinates.
