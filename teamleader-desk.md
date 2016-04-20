@@ -20,3 +20,5 @@ should ask them whether they have any of the two items above on them, and if
 they do, retain them. If they're embedded in a robot, get the competitor to
 extract them. Retained items should be put in a RUB or on the desk; someone
 from helpdesk will move them upstairs (XXX co-ordination).
+
+After initial influx, the reception will absorb this role.
