@@ -13,7 +13,7 @@ The match coordinator team consists of the following roles, all of which report 
 | [Head Shepherd](https://github.com/thomasleese/sr-match-coordinator/wiki/Shepherding#head-shepherd) | Elisabeth zu Erbach |
 | [Head Match Scorer](https://github.com/thomasleese/sr-match-coordinator/wiki/Match-Scoring#head-match-scorer) | Tom Leese |
 | [Commentator](https://github.com/thomasleese/sr-match-coordinator/wiki/Commentating#commentator) | *Varies* |
-| [Judge](https://github.com/thomasleese/sr-match-coordinator/wiki/Judging#judge) | Peter Law |
+| [Judge](https://github.com/thomasleese/sr-match-coordinator/wiki/Judging#judge) | Tom Leese |
 
 ## Matters of Interest
 
