@@ -14,6 +14,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Permanent marker
  * Large post-it notes
  * Radio
+ * Emergency contact numbers for the Competition Team Support Coordinator (Rich Barlow) and the Competition Event Coordinator (Rob Spanton)
 
 ## Volunteer Requirements
 
