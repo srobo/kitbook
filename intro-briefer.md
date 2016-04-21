@@ -15,3 +15,4 @@ The competition intro talk should:
  * Explain (and illustrate) the procedure for operating the robot in a match,
    from gate to gate.
  * Lay down rules on who is allowed where
+ * Describe tinker time and make it clear how one books tinker time.
