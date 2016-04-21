@@ -11,7 +11,7 @@ Role | Volunteer | Documentation
 Reward Manager | Tim Jones
 Competition Volunteer Welfare Coordinator | Howard Buck
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
-Competition Team Coordinator | Jeremy Morse
+Competition Team Coordinator | Jeremy Morse | [Docs](https://github.com/jmorse/comp-team-roles)
 Competition Software Coordinator | Peter Law
 Competition Team Support Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home)
 Competition H&S Coordinator | Thomas Scarsbrook
