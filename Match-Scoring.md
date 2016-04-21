@@ -2,7 +2,11 @@
 
 # Match Scoring
 
+Anything related to scoring matches goes here.
+
 ## Roles
+
+Here is a description of the roles related to scoring matches.
 
 ### Head Match Scorer
 
