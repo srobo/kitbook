@@ -2,12 +2,18 @@
 
 # Shepherding
 
+Anything related to shepherding goes here.
+
 ## Roles
+
+Here is a description of the roles related to shepherding.
 
 ### Head Shepherd
 
-The head shepherd is responsible for managing the shepherds which they may bring in as their only subordinate role.
+**Responsible for managing the shepherds which they may bring in as their only subordinate role.**
 
 ### Shepherd
 
-A shepherd is responsible for finding teams and ensuring they make it to their matches. They report to the Head Shepherd and may not create further subordinate roles.
+**Responsible for finding teams and ensuring they make it to their matches.**
+
+They report to the Head Shepherd and may not create further subordinate roles.
