@@ -8,6 +8,8 @@
 
 **Responsible for managing the scorers and score entry which they may bring in as their only subordinate roles.**
 
+They should station themselves near the arena/staging area to ensure any questions with regards to scoring can be asked.
+
 ### Match Scorer
 
 **Responsible for being in the arena, saving robots and scoring matches. They may not bring in any subordinate volunteers.**
@@ -20,4 +22,8 @@ As well as scoring, your responsibilities also includes making sure robots start
 
 ### Match Score Entry
 
-Match Score Entry involves taking the scores from the match scorers and inputting them into the competition software. They may not bring in any subordinate volunteers.
+**Responsible for receiving scores from the match scorers and entering them into the competition software. They may not bring in any subordinate volunteers.**
+
+In the role of score entry you will be stationed at a desk near to the arena/staging area. When a score sheet is given to you by the match scorers, you will enter the scores into a computer and then file the score sheet in a folder.
+
+You will be working closely with the head match scorer and also the competition software coordinator who will be stationed near to you (most likely on the same desk) and available if you have any questions.
