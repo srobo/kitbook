@@ -1,7 +1,11 @@
 Crimping staff are responsible for operating wristband crimpers, to securely
-attach wristbands to the wrists of competition attendees. Everyone who passes
-through reception should have a wristband; if it's uncrimped, you should crimp
-it. Once crimped, inform the person that they need to have the wristband on for
+attach wristbands to the wrists of competition attendees. Everyone permitted
+through reception will be given a loose wristband: crimpers stand behind
+reception and crimp the wristband once an attendee is allowed in. (If someone
+re-enters the competition with an already crimped wristband, no need to crimp
+them again).
+
+Upon crimping, inform the person that they need to have the wristband on for
 BOTH days of the competition. Training will be available from jmorse on the
 morning of each day; don't operate the crimper without it, they can be harmful.
 
