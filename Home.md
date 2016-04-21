@@ -14,7 +14,3 @@ The match coordinator team consists of the following roles, all of which report 
 | [Head Match Scorer](https://github.com/thomasleese/sr-match-coordinator/wiki/Match-Scoring#head-match-scorer) | Tom Leese |
 | [Commentator](https://github.com/thomasleese/sr-match-coordinator/wiki/Commentating#commentator) | *Varies* |
 | [Judge](https://github.com/thomasleese/sr-match-coordinator/wiki/Judging#judge) | Tom Leese |
-
-## Matters of Interest
-
-None at the moment.
