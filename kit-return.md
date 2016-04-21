@@ -14,6 +14,10 @@ rejected [0]. When presented with a RUB full of kit, kit return staff should:
    kit return.
  * If items are missing and not on-site, write these onto a printed 'missing kit
    form', and have the team member sign it.
+ * Check against a printed list of extra-kit that kits have received through
+   the year due to breakagaes / replacements. Any extra kit the team has
+   received should be in the kit box: if it isn't, treat it as missing kit.
+ * Ensure there are no batteries in the kit box.
  * Release the team member to leave
  * Take the ticked-off list-of-kit form, sign it, and place it in the RUB
  * Tape the RUB handles up with electrical tape (to indicate it should be
