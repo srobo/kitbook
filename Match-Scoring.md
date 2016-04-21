@@ -6,11 +6,17 @@
 
 ### Head Match Scorer
 
-The head match scorer is responsible for managing the scorers and score entry which they may bring in as their only subordinate roles. They may also perform the same roles as their subordinates or be solely responsible for their subordinates.
+**Responsible for managing the scorers and score entry which they may bring in as their only subordinate roles.**
 
 ### Match Scorer
 
-A match scorer is responsible for ensuring that the scores from the matches are recorded and entered in a timely fashion. This involves standing in the arena and watching the matches. They may not bring in any subordinate volunteers.
+**Responsible for being in the arena, saving robots and scoring matches. They may not bring in any subordinate volunteers.**
+
+As a match scorer you will be stationed inside the arena during matches. There will be two of you in each arena throughout the match and you will be given score sheets on pieces of paper to score the match. 
+
+Once a match has finished it is your responsibility to take your completed score sheet to the score entry desk which will be near the arenas, at which point responsibility for the score sheets is transferred to the score entry people, however you should return promptly to the arena because they may need to find you if there are any questions.
+
+As well as scoring, your responsibilities also includes making sure robots start in the right corner, and that robots that are stuck and might potentially get damaged are switched off. You are not responsible for making sure a match starts with the correct number of teams -- that is down to the shepherds.
 
 ### Match Score Entry
 
