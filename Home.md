@@ -9,7 +9,7 @@ This is the Competition Event Coordinator's operations documentation.
 Role | Volunteer | Documentation
 -----|-----------|--------------
 Reward Manager | Tim Jones
-Competition Volunteer Welfare Coordinator | Howard Buck
+Competition Volunteer Welfare Coordinator | Howard Buck | [Docs](https://gist.github.com/howiegoing/5876963bc0dcb63a6fa1028b02d1a5a6)
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
 Competition Team Coordinator | Jeremy Morse | [Docs](https://github.com/jmorse/comp-team-roles)
 Competition Software Coordinator | Peter Law
