@@ -35,5 +35,3 @@ If you have any questions you may first ask the head match scorer and secondly t
 In the role of score entry you will be stationed at a desk near to the arena/staging area. When a score sheet is given to you by the match scorers, you will enter the scores into a computer and then file the score sheet in a folder.
 
 You will be working closely with the head match scorer and also the competition software coordinator who will be stationed near to you (most likely on the same desk) and available if you have any questions.
-
-If you have any questions you may first ask the head match scorer and secondly the judge.
