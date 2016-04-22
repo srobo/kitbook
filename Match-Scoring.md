@@ -18,11 +18,13 @@ They should station themselves near the arena/staging area to ensure any questio
 
 **Responsible for being in the arena, saving robots and scoring matches. They may not bring in any subordinate volunteers.**
 
-As a match scorer you will be stationed inside the arena during matches. There will be two of you in each arena throughout the match and you will be given score sheets on pieces of paper to score the match. 
+In this role you will be assigned an arena and work with a partner. You will be allowed to freely walk in and out of the arena during matches, however it is very important that you do not obstruct any robot vision. Both of you will be each given a score sheet on a clipboard which you must both individually fill in at the end of the match. Once a match has finished it is your responsibility to take your completed score sheet to the score entry desk which will be near the arenas and you must return promptly to the arena in case there are any scoring questions. Teams are not allowed to enter the arena until scoring has finished.
 
-Once a match has finished it is your responsibility to take your completed score sheet to the score entry desk which will be near the arenas, at which point responsibility for the score sheets is transferred to the score entry people, however you should return promptly to the arena because they may need to find you if there are any questions.
+As well as scoring, your responsibilities include making sure robots start in the right corner, and that robots that are stuck and might potentially get damaged are switched off. You are not responsible for making sure a match starts with the correct number of teams -- that is down to the shepherds. You must also make sure that any arena props (tokens, for example) are in the correct place at the start of each match.
 
-As well as scoring, your responsibilities also includes making sure robots start in the right corner, and that robots that are stuck and might potentially get damaged are switched off. You are not responsible for making sure a match starts with the correct number of teams -- that is down to the shepherds.
+It is recommended that you read the [first section of the rules](https://www.studentrobotics.org/docs/rules/) before starting to make sure you understand the rules and how the arena is laid out. 
+
+If you have any questions you may first ask the head match scorer and secondly the judge.
 
 ### Match Score Entry
 
@@ -31,3 +33,5 @@ As well as scoring, your responsibilities also includes making sure robots start
 In the role of score entry you will be stationed at a desk near to the arena/staging area. When a score sheet is given to you by the match scorers, you will enter the scores into a computer and then file the score sheet in a folder.
 
 You will be working closely with the head match scorer and also the competition software coordinator who will be stationed near to you (most likely on the same desk) and available if you have any questions.
+
+If you have any questions you may first ask the head match scorer and secondly the judge.
