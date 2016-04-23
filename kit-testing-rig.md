@@ -1,6 +1,6 @@
 # Kit Testing Rig
 
-To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [[Helpdesk]] page.
+To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [[Helpdesk]] page. Throughout this document the acronym DUT is used to refer to the Device Under Test.
 
 ## Rig Contents
 
@@ -18,3 +18,6 @@ To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing 
  * One set of Ruggeduino screw shields
  * Five LEDs with flying leads
  * Two microswitches with flying leads
+
+The following parts of the kit can be tested with the rig: Power Board, Motor Board, Servo Board, Ruggeduino, Micro USB Cable and the Webcam. To test any of these items simply click the relevant button in the kit testing rig GUI on the laptop and follow the on-screen instructions.
+
