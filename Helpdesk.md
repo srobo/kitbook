@@ -5,6 +5,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 ## Equipment
 
  * Two copies of the rules - one attached to a desk by some means
+ * A copy of this document
  * Helpdesk logbook
  * Spare kit in the 'spare kit box'
  * List of spare kit
