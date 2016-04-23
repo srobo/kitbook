@@ -1,8 +1,10 @@
 # Kit Testing Rig
 
-To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [[Helpdesk]] page. Throughout this document the acronym DUT is used to refer to the Device Under Test.
+To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [[Helpdesk]] page.
 
 ## Rig Contents
+
+**Under no circumstances must any of the kit testing rig parts be removed from the designated table at Helpdesk. Teams must bring the part to be tested to Helpdesk.**
 
  * A laptop running the kit testing rig GUI
  * A multimeter
