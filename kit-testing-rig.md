@@ -1,3 +1,5 @@
+** This page is WIP. The Kit Testing Rig will not be deployed at SR2016 **
+
 # Kit Testing Rig
 
 To help with checking of potentially faulty kit, [[Helpdesk]] has a kit testing rig to allow quick and easy testing of some parts of the kit. Not all parts of the kit can be tested with the rig and so more traditional debugging methods must be employed, as documented on the [[Helpdesk]] page.
