@@ -29,6 +29,8 @@ At least one volunteer on Helpdesk must have prior experience of the use of the 
 
 ### Handling of all requests
 
+Whenever a team comes to Helpdesk with an issue a Helpdesk Volunteer must fill in their TLA and a single-sentence description of the issue on an Issue Form. When the issue has been resolved a single sentence description of the resolution must be written on the form. This is primarily for analytical purposes so that we can improve the operation of Helpdesk in future years.
+
 Whenever a team comes to Helpdesk with an issue that cannot be solved instantly their TLA and a very brief (couple of words) summary of the problem must be written on a post-it note and stuck up on a board of current issues. This ensures that no problems get dropped while they are being investigated. When the issue is resolved the post-it note can be thrown away. If it appears that a particular post-it has remained on the board for an extended period of time and there has been no obvious activity to resolve the issue then a volunteer should be dispatched to the team to see if it's still a problem.
 
 ### Handling of requests for robot safety checks
