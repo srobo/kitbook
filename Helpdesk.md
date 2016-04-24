@@ -27,6 +27,8 @@ At least one volunteer on Helpdesk must have prior experience of the use of the 
 
 ## Procedures
 
+Almost all of Helpdesk's operations are covered by the following procedures. A logbook is available on Helpdesk to allow Helpdesk Volunteers to write down notes and information not captured in the provided forms. Please feel free to note down any observations or suggestions that could improve Helpdesk.
+
 ### Handling of all requests
 
 Whenever a team comes to Helpdesk with an issue a Helpdesk Volunteer must fill in their TLA and a single-sentence description of the issue on an Issue Form. When the issue has been resolved a single sentence description of the resolution must be written on the form. This is primarily for analytical purposes so that we can improve the operation of Helpdesk in future years.
