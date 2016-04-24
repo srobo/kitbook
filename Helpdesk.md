@@ -13,6 +13,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Spare kit in the 'spare kit box'
  * List of spare kit
  * Broken kit box
+ * Issue Form box
  * Laptop to view documentation and the IDE
  * Red insulating tape
  * Permanent marker
