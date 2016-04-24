@@ -60,8 +60,6 @@ Python API
 
 ### Handling suspected damaged kit requests
 
-**NB: this procedure may change if the laptop on Helpdesk is configured to aid in hardware testing.**
-
 If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit being damaged then the following procedure should be followed:
 
  1. Request that the team take a freshly charged battery and see if the problem persists.
@@ -72,14 +70,4 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 ### Swapping out kit
 
-**NB: this procedure may change if I produce some printed kit swap forms.**
-
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. This kit must be handed out by following the procedure detailed below. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
-
- 1. Receive the piece of damaged kit from the team.
- 1. If the piece of kit has a part code (pretty much anything that's not a cable), write it down in the log book along with the date and time, the team's TLA and a description of the fault (does not need to be more than a single sentence).
- 1. Apply some red insulating tape to the item so that it can clearly be identified as broken.
- 1. Place the broken piece of kit into the broken kit box.
- 1. Retrieve a replacement piece of kit from the spare kit box.
- 1. Write down the replacement part code (where applicable) in the log book so that it's clear which bit of kit it is replacing.
- 1. Hand the replacement piece of kit to the team.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/src/master/forms/kit_swap_form.odt) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
