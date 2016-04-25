@@ -16,4 +16,6 @@ The arenas consist of the following major components:
 
 ## Game Agnostic Set-up Plan
 
+Each year, no matter what the game, the arenas require construction. Currently SR has two arenas at the competition. Each arena is an 8x8m carpeted area surrounded by 300mm high MDF walls. For further details about the design see the [rules](https://www.studentrobotics.org/rules). The following is a rough plan for arena construction.
+
 ## SR2016 Game (Sunny Side Up) Specific Set-up Plan
