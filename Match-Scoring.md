@@ -16,7 +16,15 @@ They should station themselves near the arena/staging area to ensure any questio
 
 In this role you will be assigned an arena and work with a partner. You will be allowed to enter the arena during matches if it is deemed necessary, however it is very important that you do not obstruct any robot or its vision and leave the arena as soon as possible. Each of you will be each given a score sheet on a clipboard which you must both individually fill in fully by the end of the match. Anything that happens after the match has ended must not be counted as a score and the arena must not be changed until both scorers have finished. Once a match has finished it is your responsibility to take your completed score sheet to the score entry desk which will be near the arenas and you must return promptly to the arena in case you need to be found for further scoring questions. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
 
-As well as scoring, your responsibilities include making sure robots start in the right corner, switching off robots that do not automatically turn off after a match ends and switching off robots when a team requests that you do so. You must also make sure that any arena props (tokens, for example) are in the correct place at the start of each match as detailed below. You are not responsible, however, for making sure a match starts with the correct number of teams -- that is down to the shepherds.
+As well as scoring, your responsibilities include making sure robots start in the right corner and switching off robots that do not automatically turn off after a match ends or when a team requests that you do so. You must also make sure that any arena props (tokens, for example) are in the correct place at the start of each match as detailed below. You are not responsible, however, for making sure a match starts with the correct number of teams -- that is down to the shepherds.
+
+Teams must not be allowed in the arena during a match and only one team member is allowed in the area between the crowd barrier and arena wall. It is the responsibility of the team members to place their robot in the start zone before the match starts. If a robot moves off before the match starts (aside from minor servo-resetting arm movements) teams are allowed to switch off their robot, reset it and start again. However, if the mis-started robot touches any arena prop then they are immediately disqualified. Once the robot start button has been pressed and the match has started, teams are not allowed to interact with their robots until after scoring has taken place.
+
+If the team members indicates that they wish for you to turn off their robot (i.e. "throwing in the towel") you may do so but by doing so they forfeit the match which will be recorded in the score sheets as a disqualification. There are two cases where you are allowed to switch off a robot yourself, one is when the match ends and the other is when a robot is causing **unintentional and significant** damage to another robot (i.e. mashes into another robot, pins it, stopping it from being able to function -- includes one dragging the other around if they become intertwined), and in that case it is up to you to decide which robot should be switched off but their match is not forfeited. If the damage is intentional, then the team will get forfeited (potentially for previous matched too), but this decision should be left to the judge. A checklist for robot damage is available below.
+
+You must read [points 1.1 to 1.7 and 3.5 of the rules](https://www.studentrobotics.org/docs/rules/) before starting this role to make sure you understand the game, the scoring rules and how the arena is laid out.
+
+If you have any questions you may first ask the head match scorer and secondly the judge.
 
 ### Arena Setup Checklist
 
@@ -28,11 +36,12 @@ As well as scoring, your responsibilities include making sure robots start in th
 
 ![Arena Diagram](https://cloud.githubusercontent.com/assets/510498/14783612/a9026b9a-0ae8-11e6-89ef-678acd9ec48a.png)
 
-Teams must not be allowed in the arena during a match and only one team member is allowed in the area between the crowd barrier and arena wall. If that team members indicates that they wish for you to turn off their robot (i.e. "throwing in the towel") you may do so but by doing so they forfeit the match which will be recorded in the score sheets as a disqualification. It is the responsibility of the team members to place their robot in the start zone before the match starts. If a robot moves off before the match starts (aside from minor servo-resetting arm movements) teams are allowed to switch off their robot, reset it and start again. However, if the mis-started robot touches any arena prop then they are immediately disqualified. Once the robot start button has been pressed and the match has started, teams are not allowed to interact with their robots until after scoring has taken place.
+### Robot Damage Checklist
 
-You must read [points 1.1 to 1.7 and 3.5 of the rules](https://www.studentrobotics.org/docs/rules/) before starting this role to make sure you understand the game, the scoring rules and how the arena is laid out.
-
-If you have any questions you may first ask the head match scorer and secondly the judge.
+- If the damage is intentional, seek the judge.
+- If the damage is unintentional:
+  - If a robot mashes into another robot, but only briefly, leaving both robots free to move (including situations in which, say, one robot has a fragile, flaily arm that gets snapped off in the collision) then you must leave the robots to continue -- the teams are aware that accidental bumps and scrapes are inevitable.
+  - If a robot mashes into another robot, and pins it, stopping it from being able to function (including one dragging the other around if they become intertwined) then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are **not** forfeited in this case.
 
 ## Match Score Entry
 
