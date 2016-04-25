@@ -56,6 +56,6 @@ Each year, no matter what the game, the arenas require construction. Currently S
  1. Mark out the corners with the fluorescent gaffer tape and write the corner number on the carpet with the tape. **[15 mins]**
  1. Place the crowd-control barrier around the arenas. **[15 mins]**
 
-**Total construction time: 4 hours 15 mins.**
+Total construction time: **4 hours 15 mins.**
 
 ## SR2016 Game (Sunny Side Up) Specific Set-up Plan
