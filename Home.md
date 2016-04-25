@@ -18,14 +18,19 @@ The arenas consist of the following major components:
 
 Each year, no matter what the game, the arenas require construction. Currently SR has two arenas at the competition. Each arena is an 8x8m carpeted area surrounded by 300mm high MDF walls. For further details about the design see the [rules](https://www.studentrobotics.org/rules). The following is a rough plan for arena construction.
 
-
 ### Materials
 
  * Budget cord carpet - 2x 18x4m rolls and 1x 9x4m roll
- * NEC approved low-tac double sided-tape 5x 38mm x 5m rolls
- * Insulating tape (for marking out)
+ * NEC approved low-tac double sided-tape - 5x 38mm x 5m rolls
+ * Insulating tape (for marking out - so the colour is unimportant)
  * Arena walls
  * XXmmxXXmm wood screws [not sure what size, will take 20mm and 30mm then update this doc afterwards]
+ * 50x 5-litre HDPE jerrycans
+ * A water supply
+ * Double-sided finger-lift tape - 1x 12mm x 50m roll
+ * White gaffer tape - 1x 50mm x 50m roll
+ * Arena wall libkoki markers
+ * Fluorescent gaffer tape - 4x 48mm x 25m rolls one each of yellow, green, orange and pink
 
 ### Tools
 
