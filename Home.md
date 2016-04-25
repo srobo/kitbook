@@ -13,3 +13,7 @@ The arenas consist of the following major components:
  * Props (game specific)
  * Markers (both on walls and props)
  * Corner displays
+
+## Game Agnostic Set-up Plan
+
+## SR2016 Game (Sunny Side Up) Specific Set-up Plan
