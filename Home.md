@@ -3,3 +3,13 @@
 # Student Robotics Arena Manager
 
 This is the Arena Manager's documentation. The Arena Manager is responsible for constructing and de-constructing the arenas at the competition.
+
+## Arena components
+
+The arenas consist of the following major components:
+
+ * Carpet
+ * Walls
+ * Props (game specific)
+ * Markers (both on walls and props)
+ * Corner displays
