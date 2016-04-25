@@ -59,3 +59,9 @@ Each year, no matter what the game, the arenas require construction. Currently S
 Total construction time: **4 hours 15 mins.**
 
 ## SR2016 Game (Sunny Side Up) Specific Set-up Plan
+
+The SR2016 game requires tokens to be constructed. These tokens consist of cardboard box cubes with 250mm side-length covered with libkoki markers. To assist human spectators, coloured gaffer tape is applied to the faces of the cube.
+
+### Materials
+
+ *
