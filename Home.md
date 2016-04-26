@@ -47,13 +47,16 @@ Each year, no matter what the game, the arenas require construction. Currently S
 
  1. Mark out where the carpet will be laid on the venue floor with insulation tape. **[15 mins]**
  1. Lay the carpet by applying strips of NEC double sided tape to the floor and roll the carpet out onto it in sections. **[1 hour]**
- 1. Mark out where the arena walls will be laid on the carpet with insulating tape. **[15 mins]**
+ 1. The following steps can be carried out in parallel. Two people work on each step.
+    1. Mark out where the arena walls will be laid on the carpet with insulating tape. **[15 mins]**
+    1. Fill the jerrycans with water. **[15 mins]**
  1. Place the arena walls onto the carpet. The wall sections are number and must be placed in the correct order so that the screw holes line up. **[30 mins]**
  1. Screw the wall sections together. **[30 mins]**
- 1. Fill the 5-litre jerrycans with water and place them on the wall feet. **[30 mins]**
+ 1. Place the jerrycans on the wall feet. **[15 mins]**
  1. Mark out where the arena wall markers are to be stuck with insulating tape on the carpet next to the wall face. **[15 mins]**
- 1. Apply the markers to the walls using a cross of double-sided tape and surround the edges with white gaffer tape. **[30 mins]**
+ 1. Apply the markers to the walls using a cross of double-sided tape and surround the edges with white gaffer tape. Take care to ensure the ordering and arena assignment (A/B) is correct. **[30 mins]**
  1. Mark out the corners with the fluorescent gaffer tape and write the corner number on the carpet with the tape. **[15 mins]**
+ 1. Apply the A/B markers to the outside of the arena walls. **[15 mins]**
  1. Place the crowd-control barrier around the arenas. **[15 mins]**
 
 Total construction time: **4 hours 15 mins.**
@@ -64,4 +67,6 @@ The SR2016 game requires tokens to be constructed. These tokens consist of cardb
 
 ### Materials
 
- *
+ * Cardboard boxes - 36x 9"x9"x9" double-wall boxes (external dimensions approx. 245mm x 254mm x 254mm)
+ * Token libkoki markers
+ * 
