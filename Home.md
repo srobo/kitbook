@@ -75,3 +75,7 @@ The SR2016 game requires tokens to be constructed. These tokens consist of cardb
  * White cloth gaffer tape - 6x 24mm x 25m rolls
  * Grey cloth gaffer tape - 3x 24mm x 25m rolls
  * Fluorescent cloth gaffer tape - 12x 24mm x 25m rolls three each of yellow, green, orange and pink
+
+### Equipment
+
+ * Laptop running the token verification software
