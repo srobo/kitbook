@@ -43,7 +43,7 @@ Each year, no matter what the game, the arenas require construction. Currently S
  * PZ2 screwdriver
  * 2x battery drills w. PZ2 screwdriver bits
 
-## Procedure
+### Procedure
 
  1. Mark out where the carpet will be laid on the venue floor with insulation tape. **[15 mins]**
  1. Lay the carpet by applying strips of NEC double sided tape to the floor and roll the carpet out onto it in sections. **[1 hour]**
@@ -76,6 +76,23 @@ The SR2016 game requires tokens to be constructed. These tokens consist of cardb
  * Grey cloth gaffer tape - 3x 24mm x 25m rolls
  * Fluorescent cloth gaffer tape - 12x 24mm x 25m rolls three each of yellow, green, orange and pink
 
-### Equipment
+### Tools
 
  * Laptop running the token verification software
+
+### Procedure
+
+**There are two sets of tokens to be built. Those for arena A and those for arena B. It is extremely important that the markers for these are kept separate throughout the build process. To help with this the tokens are to be built in two batches - first those for arena A then those for arena B. To complicate matters further there are three different token nets per arena so always triple check that you have the right markers.**
+
+ 1. Fold the flat-packed box into a cube.
+ 1. Use the white tape to seal the top and bottom flaps along the seam.
+ 1. Obtain a complete set of markers (top, bottom, sides 0 through 3) all for the same arena and net (A, B or C).
+ 1. Apply a cross of double-sided tape to a side of the box.
+ 1. Stick the correct marker onto the box, taking care to align it in the centre of the face. Also take care to ensure that the orientation is correct relative to the other markers on the box.
+ 1. Repeat the above two steps until all of the markers have been stuck on the box.
+ 1. Verify the token with the verification program on the laptop. If the verification program indicates the token is correct continue, otherwise fix the problem.
+ 1. Use the white tape to cover all 12 edges of the box and seal the marker edges.
+ 1. Apply coloured gaffer tape to each side of the box, surrounding the marker. Take care to ensure that it is outside of the grey square surrounding each marker. See the marker construction cheat-sheet for the side to colour mapping.
+ 1. Apply grey gaffer tape to the top and bottom of the box, surrounding the marker. Again, take care to ensure that it is outside of the grey square.
+ 1. Verify the token with the verification program again.
+ 1. Repeat.
