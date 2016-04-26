@@ -43,11 +43,11 @@ More specifically, they should watch the shepherding app and notify the team she
 
 If it seems like the timing does not work out (teams waiting for a long time for staging or teams arriving too late for staging) the timekeeper should discuss an update of the fetching schedule with the head shepherd.
 
-#### Bouncer
+#### Guard
 
-The responsibility of the bouncer is to open and close the staging area at appropriate times and control entry to this area.
+The responsibility of the guard is to open and close the staging area at appropriate times and control entry to this area.
 
-More specifically the bouncer should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety test. When letting a team (=person with robot) into the staging area the bouncer should tell them which corner they will stage for, ideally mentioning the colour and approximate location of the staging desk if possible. We recommend that the bouncer keeps a record of which teams have already been admitted for a particular match. In previous years, the bouncer would also tell the timekeeper when a match was fully staged so that this information could be relayed to the team shepherds. If the bouncer sees a team leaving the staging area with robot markers still attached to their robot, she should request that the team return the markers before leaving the staging area.
+More specifically the guard should not allow anyone into the staging area unless they are a blueshirt or staging for the next match. Only one person from each team is allowed in the staging area and they must wear a high-vis vest showing their team name, indicating that they have passed the safety test. When letting a team (=person with robot) into the staging area the guard should tell them which corner they will stage for, ideally mentioning the colour and approximate location of the staging desk if possible. We recommend that the guard keeps a record of which teams have already been admitted for a particular match. In previous years, the guard would also tell the timekeeper when a match was fully staged so that this information could be relayed to the team shepherds. If the guard sees a team leaving the staging area with robot markers still attached to their robot, she should request that the team return the markers before leaving the staging area.
 
 #### Badgers
 
