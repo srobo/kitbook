@@ -89,7 +89,7 @@ The SR2016 game requires tokens to be constructed. These tokens consist of cardb
  1. Obtain a complete set of markers (top, bottom, sides 0 through 3) all for the same arena and net (A, B or C). **[30 sec]**
  1. Apply a cross of double-sided tape to a side of the box.
  1. Stick the correct marker onto the box, taking care to align it in the centre of the face. Also take care to ensure that the orientation is correct relative to the other markers on the box.
- 1. Repeat the above two steps until all of the markers have been stuck on the box. **[5 mins]**
+ 1. Repeat the above two steps until all of the markers have been stuck on the box. **[10 mins]**
  1. Verify the token with the verification program on the laptop. If the verification program indicates the token is correct continue, otherwise fix the problem. **[1 min]**
  1. Use the white tape to cover all 12 edges of the box and seal the marker edges. **[2 mins]**
  1. Apply coloured gaffer tape to each side of the box, surrounding the marker. Take care to ensure that it is outside of the grey square surrounding each marker. See the marker construction cheat-sheet for the side to colour mapping. **[5 mins]**
@@ -97,4 +97,4 @@ The SR2016 game requires tokens to be constructed. These tokens consist of cardb
  1. Verify the token with the verification program again. **[1 min]**
  1. Repeat.
 
-Setup time: *30 mins**. Construction time per token: **~18mins**. Total construction time (with four people): **3 hours 15 mins**.
+Setup time: **30 mins**. Construction time per token: **~23mins**. Total construction time (with four people): **~4 hours**.
