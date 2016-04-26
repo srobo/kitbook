@@ -65,8 +65,13 @@ Total construction time: **4 hours 15 mins.**
 
 The SR2016 game requires tokens to be constructed. These tokens consist of cardboard box cubes with 250mm side-length covered with libkoki markers. To assist human spectators, coloured gaffer tape is applied to the faces of the cube.
 
+**Four people are required for token construction**
+
 ### Materials
 
  * Cardboard boxes - 36x 9"x9"x9" double-wall boxes (external dimensions approx. 245mm x 254mm x 254mm)
  * Token libkoki markers
- * 
+ * Double-sided finger-lift tape - 4x 12mm x 50m rolls
+ * White cloth gaffer tape - 6x 24mm x 25m rolls
+ * Grey cloth gaffer tape - 3x 24mm x 25m rolls
+ * Fluorescent cloth gaffer tape - 12x 24mm x 25m rolls three each of yellow, green, orange and pink
