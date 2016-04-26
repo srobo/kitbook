@@ -27,7 +27,7 @@ If at any point you have any doubts about safety, immediately summon the Competi
 
 ### Swapping a team's battery
 
-Teams will bring discharged batteries to the Battery Charging station and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it in the discharged battery box. A charged battery should be removed from the charged battery box and handed to the team.
+Teams will bring discharged batteries to the Battery Charging station and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it in the discharged battery box. A charged battery should be removed from the charged battery box and handed to the team. Do not allow teams to take batteries from the box themselves - we want to prevent teams from hoarding batteries.
 
 ### Charging a discharged battery
 
