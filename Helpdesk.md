@@ -48,17 +48,17 @@ Some queries may require a volunteer to visit the team in their pit to observe b
 In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. The following people are available for specific help and can be summoned over the radio:
 
 Electronic Hardware
-:  Rich Barlow
-:  Rob Spanton
+:   Rich Barlow
+:   Rob Spanton
 
 IDE
-:  Peter Law
+:   Peter Law
 
 Python API
-:  Peter Law
-:  Rich Barlow
-:  Rob Spanton
-:  Jeremy Morse
+:   Peter Law
+:   Rich Barlow
+:   Rob Spanton
+:   Jeremy Morse
 
 ### Handling suspected damaged kit requests
 
