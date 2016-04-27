@@ -10,7 +10,7 @@ Arrival desk staff will have sign-in / sign-out sheet(s) for team leaders to
 record that their teams have arrived and when they leave. Reception will direct
 team leaders to the desk; you should get the team-leader to sign the sheet.
 
-You should then inform the team-leader that we remove two SR-issued items from
+You should then inform the team-leader that we remove three SR-issued items from
 teams on entry:
  * Batteries
  * Battery chargers
