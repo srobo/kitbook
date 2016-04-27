@@ -14,6 +14,7 @@ You should then inform the team-leader that we remove two SR-issued items from
 teams on entry:
  * Batteries
  * Battery chargers
+ * Battery charging bags
 and that they *must* arrange for their team to deliver those items to the desk.
 
 Competitors with kit will turn up (from reception, or from team leaders). You
