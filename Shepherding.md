@@ -23,7 +23,7 @@ Here is a description of the roles related to shepherding.
 
 They report to the Head Shepherd and may not create further subordinate roles.
 
-Below is a description of the various tasks shepherds might be assigned to. At different stages of the competition (inital matches or finals) additional temporary tasks will be necessary.
+Below is a description of the various tasks shepherds might be assigned to. You will receive your assignment to one of the roles from the Head Shepherd. At different stages of the competition (inital matches or finals) additional temporary tasks will be necessary.
 
 #### Team shepherds
 
