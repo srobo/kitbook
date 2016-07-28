@@ -15,6 +15,7 @@ Each kit must go through the following process. Once the CHECKIN task has been p
 ## CHECKIN
 
 Tools: Laptop, barcode/QR scanner
+Duration: 1 person day
 
 Remove each part from the kit box and move it into a directory containing all checked in kit in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having `condition: unknown`.
 
@@ -23,6 +24,7 @@ If there are any parts remaining in the kit box in the Inventory after all parts
 ## VISUAL
 
 Tools: Laptop, barcode/QR scanner
+Duration: 2 person days
 
 Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible.
 
@@ -47,6 +49,19 @@ See the following table for example of functional damage for each part and what 
 
 ## CLEAN
 
+Tools: Bowl, J cloths, washing up liquid, IPA
+Duration: 2 person days
+
+Using wringed-out cloth, give each part a wipe with soapy water. If it has adhesive residue, wipe it with IPA and then soapy water.
+
 ## TEST
 
+Tools: See part specific test procedure
+Duration: 6 person days
+
 ## CHECKOUT
+
+Tools: Laptop, barcode/QR scanner
+Duration: 1 person day
+
+Place each part into the appropriate storage box and update the location in the Inventory.
