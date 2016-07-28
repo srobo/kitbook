@@ -20,7 +20,9 @@ If there are any parts remaining in the kit box in the Inventory after all parts
 
 ## VISUAL
 
-Inspect parts for visible functional damage - mild cosmetic damage is not a concern. See the following table for example of functional damage for each part and what to do if there is damage. For some parts the damage observed means that there is little point in continuing with testing and therefore it should just be marked as broken and put into the broken part box (and moved in the inventory). In other situations it may be that the damage can be repaired, so further testing should continue. In this case add the part code to the list of failed visual inspections, update the inventory with details of the failure and otherwise treat it as a pass (do not put it in the broken part box).
+Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible.
+
+See the following table for example of functional damage for each part and what to do if there is damage. For some parts the damage observed means that there is little point in continuing with testing and therefore it should just be marked as broken and put into the broken part box (and moved in the inventory). In other situations it may be that the damage can be repaired, so further testing should continue. In this case add the part code to the list of failed visual inspections, update the inventory with details of the failure and otherwise treat it as a pass (do not put it in the broken part box).
 
 | Part | Examples of functional damage | Action |
 |------|-------------------------------|--------|
