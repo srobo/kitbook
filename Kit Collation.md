@@ -14,11 +14,15 @@ Each kit must go through the following process. Once the CHECKIN task has been p
 
 ## CHECKIN
 
+Tools: Laptop, barcode/QR scanner
+
 Remove each part from the kit box and move it into a directory containing all checked in kit in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having `condition: unknown`.
 
 If there are any parts remaining in the kit box in the Inventory after all parts have been removed make a note of their part codes. This will be followed up with the team if necessary.
 
 ## VISUAL
+
+Tools: Laptop, barcode/QR scanner
 
 Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible.
 
