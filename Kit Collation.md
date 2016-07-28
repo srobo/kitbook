@@ -24,12 +24,20 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 
 | Part | Examples of functional damage | Action |
 |------|-------------------------------|--------|
-| Power board | Cuts or nicks in wires, case cracked/broken, charring, exposed copper on wires | Add to fail list, continue to CLEAN |
+| Power board | cuts or nicks in wires, case cracked/broken, charring, exposed copper on wires | Add to fail list, continue to CLEAN |
 | Motor board | case cracked/broken, charring | Add to fail list, continue to CLEAN |
 | Servo board | case cracked/broken, charring, blackened pins | Add to fail list, continue to CLEAN |
 | Ruggeduino | case cracked/broken, charring | Add to fail list, continue to CLEAN |
 | Screw shields | bent pins, chewed up screw heads | Mark as broken, place in broken part box |
 | Odroid | case cracked/broken | Add to fail list, continue to CLEAN |
+| Tablet | cracked screen | Mark as broken, place in broken part box |
+| USB charger | bent pins, cracked case | Mark as broken, place in broken part box |
+| USB hub | cracked case, damaged connector | Mark as broken, place in broken part box |
+| WiFi dongle | cracked case, damaged connector | Mark as broken, place in broken part box |
+| Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) | Mark as broken, place in broken part box |
+| Battery charger | cracked case, damaged wires, missing cable tie, missing buttons | Add to fail list, continue to CLEAN |
+| Battery bag | torn stitching | Mark as broken, place in broken part box |
+| Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) | Mark as broken, place in broken part box |
 
 ## CLEAN
 
