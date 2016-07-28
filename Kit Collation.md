@@ -20,4 +20,4 @@ Remove each part from the kit box and move it into a new directory in the Invent
 
 ## TEST
 
-## STORE
+## CHECKOUT
