@@ -59,6 +59,8 @@ Using wringed-out cloth, give each part a wipe with soapy water. If it has adhes
 Tools: See part specific test procedure
 Duration: 6 person days
 
+If a part fails testing then mark it as broken in the Inventory, along with a short description of the issue, and place it in the broken part box.
+
 ## CHECKOUT
 
 Tools: Laptop, barcode/QR scanner
