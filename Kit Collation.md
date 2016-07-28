@@ -4,7 +4,7 @@ The purpose of Kit Collation is to gather together all kit parts from the previo
 
 ## Tasks
 
-1. CHECKIN - Unpack each kit and scan its contents into a new directory in the Inventory.
+1. [CHECKIN](#markdown-header-checkin) - Unpack each kit and scan its contents into a new directory in the Inventory.
 1. VISUAL - Visually inspect each part for damage.
 1. CLEAN - Clean each part.
 1. TEST - Test each part, where possible.
