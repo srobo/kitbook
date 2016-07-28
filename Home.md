@@ -1,6 +1,6 @@
 # Student Robotics Kit Operations Documentation
 
-This is the Kit Coordinator's documentation. The Kit Coordinator is responsible for ensuring the existence of the kit all everything associated with that.
+This is the Kit Coordinator's documentation. The Kit Coordinator is responsible for ensuring the existence of the kit and everything associated with that.
 
 ## Subordinate Roles
 
