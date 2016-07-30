@@ -44,6 +44,7 @@ See the following table for example of functional damage for each part and what 
 | WiFi dongle | cracked case, damaged connector | Mark as broken, place in broken part box |
 | Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) | Mark as broken, place in broken part box |
 | Battery charger | cracked case, damaged wires, missing cable tie, missing buttons | Add to fail list, continue to CLEAN |
+| Battery charger supply | cracked case, damaged strain relief | Mark as broken, place in broken part box |
 | Battery bag | torn stitching | Mark as broken, place in broken part box |
 | Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) | Mark as broken, place in broken part box |
 
@@ -66,4 +67,13 @@ If a part fails testing then mark it as broken in the Inventory, along with a sh
 Tools: Laptop, barcode/QR scanner
 Duration: 1 person day
 
-Place each part into the appropriate storage box and update the location in the Inventory.
+Place each part into the appropriate storage box and update the location in the Inventory. Count the following non-tracked items and note down the totals:
+
+ * USB Memory Stick
+ * Micro USB Cable
+ * Full-size USB Cable
+ * 7.5mm CamCon
+ * 5mm CamCon
+ * 3.81mm CamCon
+ * Odroid Power Cable
+ * Screw Driver
