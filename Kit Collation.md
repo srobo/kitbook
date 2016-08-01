@@ -67,7 +67,7 @@ If a part fails testing then mark it as broken in the Inventory, along with a sh
 | Battery | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/battery.md | 1 day |
 | Battery Charger | | |
 | Power board | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/power-board.md | 0.5 days |
-| Motor board | | |
+| Motor board | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/motor-board.md | 0.5 days |
 | Servo board | | |
 | Ruggeduino | | |
 | Odroid | | |
