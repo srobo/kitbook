@@ -73,7 +73,7 @@ If a part fails testing then mark it as broken in the Inventory, along with a sh
 | Odroid | | |
 | Tablet | | |
 | USB charger | | |
-| USB hub | | |
+| USB hub | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/usb-hub.md | |
 | Webcam | | |
 | WiFi dongle | | |
 
