@@ -62,6 +62,10 @@ Duration: 6 person days
 
 If a part fails testing then mark it as broken in the Inventory, along with a short description of the issue, and place it in the broken part box.
 
+| Part | Procedure | Duration |
+|------|-----------|----------|
+| Battery | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/battery.md | 1 day |
+
 ## CHECKOUT
 
 Tools: Laptop, barcode/QR scanner
