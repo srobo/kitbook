@@ -1,6 +1,6 @@
 # Kit Collation
 
-The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [[Kit Packing]] Event.
+The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [[Kit Packing]] Event. See [[SR2017 Kit Collation Plan]] for a detailed plan.
 
 ## Process
 
