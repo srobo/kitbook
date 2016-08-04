@@ -28,32 +28,28 @@ If the Inventory shows any parts remaining in the kit box after all of the parts
 
 ## VISUAL
 
-Tools: Laptop, barcode/QR scanner
+Tools: Laptop, barcode/QR scanner, label printer
 Duration: 2 person days
 
-**UPDATE REQUIRED: Don't differentiate between fixable and non-fixable parts. Always update `physical_condition` to either `working` or `broken`. At the TEST stage, depending on the type of part, either test it regardless of the `physical condition` or mark its `functional_condition` as `broken` if its `physical_condition` is `broken`.**
+Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible. See the following table for example of functional damage for each part:
 
-Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible.
-
-See the following table for example of functional damage for each part and what to do if there is damage. For some parts the damage observed means that there is little point in continuing with testing and therefore it should just be marked as broken and put into the broken part box (and moved in the inventory). In other situations it may be that the damage can be repaired, so further testing should continue. In this case add the part code to the list of failed visual inspections, update the inventory with details of the failure and otherwise treat it as a pass (do not put it in the broken part box).
-
-| Part | Examples of functional damage | Action |
-|------|-------------------------------|--------|
-| Power board | cuts or nicks in wires, case cracked/broken, charring, exposed copper on wires | Add to fail list, continue to CLEAN |
-| Motor board | case cracked/broken, charring | Add to fail list, continue to CLEAN |
-| Servo board | case cracked/broken, charring, blackened pins | Add to fail list, continue to CLEAN |
-| Ruggeduino | case cracked/broken, charring | Add to fail list, continue to CLEAN |
-| Screw shields | bent pins, chewed up screw heads | Mark as broken, place in broken part box |
-| Odroid | case cracked/broken | Add to fail list, continue to CLEAN |
-| Tablet | cracked screen | Mark as broken, place in broken part box |
-| USB charger | bent pins, cracked case | Mark as broken, place in broken part box |
-| USB hub | cracked case, damaged connector | Mark as broken, place in broken part box |
-| WiFi dongle | cracked case, damaged connector | Mark as broken, place in broken part box |
-| Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) | Mark as broken, place in broken part box |
-| Battery charger | cracked case, damaged wires, missing cable tie, missing buttons | Add to fail list, continue to CLEAN |
-| Battery charger supply | cracked case, damaged strain relief | Mark as broken, place in broken part box |
-| Battery bag | torn stitching | Mark as broken, place in broken part box |
-| Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) | Mark as broken, place in broken part box |
+| Part | Examples of functional damage |
+|------|-------------------------------|
+| Power board | cuts or nicks in wires, case cracked/broken, charring, exposed copper on wires |
+| Motor board | case cracked/broken, charring |
+| Servo board | case cracked/broken, charring, blackened pins |
+| Ruggeduino | case cracked/broken, charring |
+| Screw shields | bent pins, chewed up screw heads |
+| Odroid | case cracked/broken |
+| Tablet | cracked screen |
+| USB charger | bent pins, cracked case |
+| USB hub | cracked case, damaged connector |
+| WiFi dongle | cracked case, damaged connector |
+| Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) |
+| Battery charger | cracked case, damaged wires, missing cable tie, missing buttons |
+| Battery charger supply | cracked case, damaged strain relief |
+| Battery bag | torn stitching |
+| Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) |
 
 ## CLEAN
 
