@@ -53,10 +53,10 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 
 ## CLEAN
 
-Tools: Bowl, J cloths, washing up liquid, IPA
+Tools: Bowl, J cloths, washing up liquid, IPA, label residue remover
 Duration: 2 person days
 
-Using wringed-out cloth, give each part a wipe with soapy water. If it has adhesive residue, wipe it with IPA and then soapy water.
+Using wringed-out cloth, give each part a wipe with soapy water. If it has adhesive residue, wipe it with label residue remover and then soapy water once the reside has been removed. For removal of grease and pen marks wipe it with IPA.
 
 ## TEST
 
