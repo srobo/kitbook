@@ -85,7 +85,9 @@ Follow the part specific testing procedure linked in the table below. Once the c
 Tools: Laptop, barcode/QR scanner
 Duration: 1 person day
 
-Place each part into the appropriate storage box and update the location in the Inventory. Count the following non-tracked items and note down the totals:
+Allocate a box or two for storage of broken parts. Allocate a box or two for storage of working parts of a single type (e.g. one box for servo boards, a couple of boxes for power boards). Check the condition of each part and, if both the `functional_condition` and `physical_condition` fields are set to `working`, place it in the appropriate working box and move it in the Inventory to that box. Otherwise place it in the broken box and move it in the Inventory to the broken box.
+
+Also, count the following untracked items and note down the totals. Bag the CamCon connectors up by size and write the number of connectors contained on the bag.
 
  * USB Memory Stick
  * Micro USB Cable
