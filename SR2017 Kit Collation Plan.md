@@ -12,6 +12,10 @@ All `ruggeduino-case` assets should be deleted and their case asset stickers rem
 
 All `usb-stick*` assets should be deleted. We are no longer going to track these in the Inventory. We will treat them in the same way as we treat camcons and USB cables - they will be counted at the end of the KCE.
 
-Once all parts have been moved their status is to be set to 'unknown'.
+Once all parts have been moved their `condition` and `physical_condition` are to be set to 'unknown'.
 
 CHECKIN completed at 15:11 on 4th August (day 2)
+
+## VISUAL
+
+We are going to add a new `physical_condition` flag, that will have a value of either `working`, `broken` or `unknown`. Ideally the `condition` flag would be renamed to `functional_condition`, but this breaks the tooling so we'll leave it for now. The purpose of the two flags are as follows: `functional_condition` indicates whether the part works or not after being tested, `physical_condition` indicates whether there are other issues with the part that mean it should not be shipped to teams (smashed case, bare copper, etc). There is no point in updating the `functional_condition` (currently `condition`) flag while the kit is in the hands of teams - as it cannot be tested.
