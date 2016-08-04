@@ -22,9 +22,9 @@ We will only ship parts that have both a `functional_condition` and `physical_co
 Tools: Laptop, barcode/QR scanner
 Duration: 1 person day
 
-Remove each part from the kit box and move it into a directory containing all checked in kit in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having `condition: unknown`.
+Remove each part from the kit box and move it into a `checked-in` directory in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having `functional_condition: unknown` and `physical_condition: unknown`.
 
-If there are any parts remaining in the kit box in the Inventory after all parts have been removed make a note of their part codes. This will be followed up with the team if necessary.
+If the Inventory shows any parts remaining in the kit box after all of the parts have been physically removed move them into a `missing` directory.
 
 ## VISUAL
 
