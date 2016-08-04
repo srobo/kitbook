@@ -11,6 +11,7 @@ Each kit must go through the following process. Once the CHECKIN task has been p
 1. [CLEAN](#markdown-header-clean) - Clean each part.
 1. [TEST](#markdown-header-test) - Test each part, where possible.
 1. [CHECKOUT](#markdown-header-checkout) - Pack parts of the same type into boxes and update the Inventory.
+1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts
 
 ## CHECKIN
 
@@ -92,3 +93,7 @@ Place each part into the appropriate storage box and update the location in the 
  * 3.81mm CamCon
  * Odroid Power Cable
  * Screw Driver
+
+## CHASEUP
+
+After the event the parts left in the `kit-collation-venue/missing` directory need to be chased up. Each part should be traced back to the team it belonged to and the team leader notified of the missing items. Note that they may be missing due to parts being swapped at the competition, etc, so they may not have any knowledge of the parts whereabouts.
