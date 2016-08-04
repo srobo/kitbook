@@ -4,14 +4,14 @@ The purpose of Kit Collation is to gather together all kit parts from the previo
 
 ## Process
 
-Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts.
+Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.
 
-1. [CHECKIN](#markdown-header-checkin) - Unpack each kit and scan its contents into a new directory in the Inventory.
+1. [CHECKIN](#markdown-header-checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
 1. [VISUAL](#markdown-header-visual) - Visually inspect each part for damage.
 1. [CLEAN](#markdown-header-clean) - Clean each part.
 1. [TEST](#markdown-header-test) - Test each part, where possible.
 1. [CHECKOUT](#markdown-header-checkout) - Pack parts of the same type into boxes and update the Inventory.
-1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts
+1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts.
 
 ## CHECKIN
 
