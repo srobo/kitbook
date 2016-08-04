@@ -13,3 +13,5 @@ All `ruggeduino-case` assets should be deleted and their case asset stickers rem
 All `usb-stick*` assets should be deleted. We are no longer going to track these in the Inventory. We will treat them in the same way as we treat camcons and USB cables - they will be counted at the end of the KCE.
 
 Once all parts have been moved their status is to be set to 'unknown'.
+
+CHECKIN completed at 15:11 on 4th August (day 2)
