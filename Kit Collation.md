@@ -63,7 +63,7 @@ Using wringed-out cloth, give each part a wipe with soapy water. If it has adhes
 Tools: See part specific test procedure
 Duration: 6 person days
 
-If a part fails testing then mark it as broken in the Inventory, along with a short description of the issue, and place it in the broken part box.
+Follow the part specific testing procedure linked in the table below. Once the condition of the part has been assessed, update its `functional_condition` field to either `working` or `broken`.
 
 | Part | Procedure | Duration |
 |------|-----------|----------|
