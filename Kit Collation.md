@@ -31,7 +31,7 @@ If the Inventory shows any parts remaining in the kit box after all of the parts
 Tools: Laptop, barcode/QR scanner, label printer
 Duration: 2 person days
 
-Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible. See the following table for example of functional damage for each part:
+Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also reapply asset stickers if the current one is damaged or illegible. See the following table for example of functional damage for each part. Note that a case is considered to be damaged if a panel is cracked entirely in half (or close to it) or if a piece has broken off such that the board can be touched.
 
 | Part | Examples of functional damage |
 |------|-------------------------------|
