@@ -13,6 +13,10 @@ Each kit must go through the following process. Once the CHECKIN task has been p
 1. [CHECKOUT](#markdown-header-checkout) - Pack parts of the same type into boxes and update the Inventory.
 1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts.
 
+Throughout the process the state of each part is tracked through two fields: `functional_condition` (currently `condition` for backwards compatibility) and `physical_condition`. The `functional_condition` field has a value of either `unknown`, `broken` or `working` and is set based upon the outcome of the testing procedure carried out in the TEST task. The `physical_condition` field has one of the same three values that the `functional_condition` field can have, but it is set based upon a visual inspection of the part during the VISUAL task.
+
+We will only ship parts that have both a `functional_condition` and `physical_condition` of `working`. After the Kit Collation Event any parts with either a `functional_condition` or `physical_condition` of `broken` will be assessed to see whether they can be repaired or need to be replaced.
+
 ## CHECKIN
 
 Tools: Laptop, barcode/QR scanner
