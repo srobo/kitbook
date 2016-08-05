@@ -38,7 +38,7 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 | Power board | cuts, nicks or exposed copper on wires; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
 | Motor board | case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click) |
 | Servo board | case cracked/broken, charring on board, blackened pins, connectors broken/full of stuff |
-| Ruggeduino | case cracked/broken, charring |
+| Ruggeduino | case cracked/broken/missing screws, charring on board, connectors broken/full of stuff |
 | Screw shields | bent pins, chewed up screw heads |
 | Odroid | case cracked/broken, case hinge broken (try pulling apart at hinge end), connectors broken/full of stuff |
 | Tablet | cracked screen |
