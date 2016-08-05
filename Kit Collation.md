@@ -40,7 +40,7 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 | Servo board | case cracked/broken, charring, blackened pins |
 | Ruggeduino | case cracked/broken, charring |
 | Screw shields | bent pins, chewed up screw heads |
-| Odroid | case cracked/broken |
+| Odroid | case cracked/broken, case hinge broken (try pulling apart at hinge end), connectors broken/full of stuff |
 | Tablet | cracked screen |
 | USB charger | bent pins, cracked case |
 | USB hub | cracked case, damaged connector |
