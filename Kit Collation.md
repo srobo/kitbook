@@ -43,7 +43,7 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 | Odroid | case cracked/broken, case hinge broken (try pulling apart at hinge end), connectors broken/full of stuff |
 | Tablet | cracked screen |
 | USB charger | bent pins, cracked case |
-| USB hub | cracked case, damaged connector |
+| USB hub | cracked case, damaged connector, loose parts rattling around inside |
 | WiFi dongle | cracked case, damaged connector |
 | Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) |
 | Battery charger | cracked case, damaged wires, missing cable tie, missing buttons |
