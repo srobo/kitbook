@@ -35,7 +35,7 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 
 | Part | Examples of functional damage |
 |------|-------------------------------|
-| Power board | cuts or nicks in wires, case cracked/broken, charring, exposed copper on wires |
+| Power board | cuts or nicks in wires, case cracked/broken, charring on board, connectors broken/full of stuff, missing case screws, exposed copper on wires, loose screw terminal |
 | Motor board | case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click) |
 | Servo board | case cracked/broken, charring on board, blackened pins, connectors broken/full of stuff |
 | Ruggeduino | case cracked/broken, charring |
