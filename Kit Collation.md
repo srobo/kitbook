@@ -31,9 +31,9 @@ If the Inventory shows any parts remaining in the kit box after all of the parts
 Tools: Laptop, barcode/QR scanner, label printer
 Duration: 2 person days
 
-Inspect parts for visible functional damage - mild cosmetic damage is not a concern. Also apply a new asset sticker if the current one is damaged or illegible. See the following table for example of functional damage for each part. Note that a case is considered to be damaged if a panel is cracked entirely in half (or close to it) or if a piece has broken off such that the board can be touched. Once the physical condition of the part has been assessed, update its `physical_condition` field to either `working` or `broken`. If it is broken, add a short description of the issue.
+Inspect parts for visible physical damage - mild cosmetic damage is not a concern. Also apply a new asset sticker if the current one is damaged or illegible. See the following table for example of visible physical damage for each part. Note that a case is considered to be damaged if a panel is cracked entirely in half (or close to it) or if a piece has broken off such that the board can be touched. Once the physical condition of the part has been assessed, update its `physical_condition` field to either `working` or `broken`. If it is broken, add a short description of the issue.
 
-| Part | Examples of functional damage |
+| Part | Examples of physical damage |
 |------|-------------------------------|
 | Power board | cuts, nicks or exposed copper on wires; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
 | Motor board | case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click) |
