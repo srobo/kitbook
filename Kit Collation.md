@@ -51,6 +51,16 @@ Inspect parts for visible functional damage - mild cosmetic damage is not a conc
 | Battery bag | torn stitching |
 | Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) |
 
+Some parts are not tracked in the Inventory, but still require visual inspection. If any of these parts fail they should be thrown in the bin:
+
+| Part | Example of visible damage |
+|------|---------------------------|
+| USB memory stick | |
+| Micro USB cable | |
+| Full-size USB cable |
+| Odroid power cable | |
+| Screwdriver | |
+
 ## CLEAN
 
 Tools: Bowl, J cloths, washing up liquid, IPA, label residue remover
