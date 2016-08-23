@@ -13,7 +13,7 @@ Game Design Coordinator | [unfilled]
 Kickstart Events Coordinator | [unfilled]
 Team Coordinator | Jeremy Morse
 Kit Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
-Ancillary Software Coordinator | Tom Leese
+Ancillary Software Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-ancillary-software-coordinator/wiki)
 
 ## License
 
