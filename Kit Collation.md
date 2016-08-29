@@ -35,7 +35,7 @@ Inspect parts for visible physical damage - mild cosmetic damage is not a concer
 
 | Part | Examples of physical damage |
 |------|-------------------------------|
-| Power board | cuts, nicks or exposed copper on wires; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
+| Power board | cuts, nicks or exposed copper on wires; large heatshrink slipping off of XT 60; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff |
 | Motor board | case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click) |
 | Servo board | case cracked/broken, charring on board, blackened pins, connectors broken/full of stuff |
 | Ruggeduino | case cracked/broken/missing screws, charring on board, connectors broken/full of stuff |
@@ -46,7 +46,7 @@ Inspect parts for visible physical damage - mild cosmetic damage is not a concer
 | USB hub | cracked case, damaged connector, loose parts rattling around inside |
 | WiFi dongle | cracked case, damaged connector |
 | Webcam | cracked case, damaged cable, damaged connector (missing stand is OK) |
-| Battery charger | cracked case, damaged wires, missing cable tie, missing buttons |
+| Battery charger | cracked case, damaged wires, large heatshrink slipping off of XT 60, missing cable tie, missing buttons |
 | Battery charger supply | cracked case, damaged strain relief |
 | Battery bag | torn stitching |
 | Battery | Damaged wires, swollen to the point of being hard (squidgy is OK) |
