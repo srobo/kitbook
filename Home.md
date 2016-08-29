@@ -15,6 +15,10 @@ Team Coordinator | Fiona Gillan
 Kit Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
 Ancillary Software Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-ancillary-software-coordinator/wiki)
 
+## Communication
+
+All of the people listed above are part of the [`srcomp-prog`](https://groups.google.com/forum/#!forum/srcomp-prog) mailing list.  This list is for those people to use when they need to communicate with the rest of the team (or a significant chunk of it).
+
 ## License
 
 This work is licensed under the Creative Commons
