@@ -19,6 +19,10 @@ Ancillary Software Coordinator | Tom Leese | [Docs](https://github.com/thomaslee
 
 All of the people listed above are part of the [`srcomp-prog`](https://groups.google.com/forum/#!forum/srcomp-prog) mailing list.  This list is for those people to use when they need to communicate with the rest of the team (or a significant chunk of it).
 
+## Things
+
+ * [SR2017](SR2017/index.md)
+
 ## License
 
 This work is licensed under the Creative Commons
