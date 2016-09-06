@@ -10,7 +10,7 @@ Role | Volunteer | Documentation
 -----|-----------|--------------
 Competition Event Coordinator | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
 Game Design Coordinator | [unfilled]
-Kickstart Events Coordinator | [unfilled]
+Kickstart Events Coordinator | Thomas Scarsbrook
 Team Coordinator | Fiona Gillan
 Kit Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
 Ancillary Software Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-ancillary-software-coordinator/wiki)
