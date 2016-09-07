@@ -19,3 +19,15 @@ Once the preparation tasks have been completed the packing can commence. The pro
   1. Pack the Jiffy bags and remaining parts into the box with scrunched up paper.
 
 Once all kits have been packed they can be loaded onto a pallet.
+
+## WIRE
+## CAMCON
+## LAYOUT
+
+## FILL
+## SCAN
+## CHECK
+## JIFFY
+## PACK
+
+## PALLET
