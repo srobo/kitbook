@@ -6,19 +6,19 @@ The purpose Kit Packing is to take the tested parts from the [[Kit Collation]] E
 
 Before kits can be packed, there is some preparation work that must be done. Each of these tasks can be performed in parallel.
 
-  1. The wire must be cut to length.
-  1. The camcon connectors must be counted out and bagged.
-  1. Boxes of each type of part must be laid out around the room.
+  1. [WIRE](#markdown-header-wire) - The wire must be cut to length.
+  1. [CAMCON](#markdown-header-camcon) - The camcon connectors must be counted out and bagged.
+  1. [LAYOUT](#markdown-header-layout) - Boxes of each type of part must be laid out around the room.
 
 Once the preparation tasks have been completed the packing can commence. The process is strictly sequential for each kit, but multiple kits may be flowing through the process simultaneously.
 
-  1. Fill a kit box with the parts.
-  1. Scan and move all of the tracked parts into the box in the Inventory.
-  1. Perform a check of the box contents and check off everything on a check list.
-  1. Pack the box contents into Jiffy bags.
-  1. Pack the Jiffy bags and remaining parts into the box with scrunched up paper.
+  1. [FILL](#markdown-header-fill) - Fill a kit box with the parts.
+  1. [SCAN](#markdown-header-scan) - Scan and move all of the tracked parts into the box in the Inventory.
+  1. [CHECK](#markdown-header-check) - Perform a check of the box contents and check off everything on a check list.
+  1. [JIFFY](#markdown-header-jiffy) - Pack the box contents into Jiffy bags.
+  1. [PACK](#markdown-header-pack) - Pack the Jiffy bags and remaining parts into the box with scrunched up paper.
 
-Once all kits have been packed they can be loaded onto a pallet.
+[PALLET](#markdown-header-pallet) - Once all kits have been packed they can be loaded onto a pallet.
 
 ## WIRE
 ## CAMCON
