@@ -28,3 +28,7 @@ Micro USB cable          | [untracked]           | 5   |
 0.5mm² wire (blue)       | [untracked]           | 3m  |
 0.5mm² wire (yellow)     | [untracked]           | 3m  |
 Camcon 2-way 7.5mm       | [untracked]           | 10  |
+Camcon 2-way 5mm         | [untracked]           | 7   |
+Camcon 3.81mm            | [untracked]           | 1   |
+Odroid power cable       | [untracked]           | 1   |
+Screwdriver ~2mm         | [untracked]           | 1   |
