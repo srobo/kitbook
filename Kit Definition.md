@@ -17,3 +17,14 @@ Lipo battery 11.1V 2.2Ah | battery-lipo-11.1v2.2-turnigy | 2 |
 USB hub 7-port           | usb-hub-startech      | 2   |
 USB WiFi dongle          | usb-wifi-tl-wn823n    | 2   |
 Tablet power supply      | usb-charger           | 1   |
+USB memory stick         | [untracked]           | 1   |
+Full size USB cable      | [untracked]           | 3   |
+Micro USB cable          | [untracked]           | 5   |
+1mm² wire (red)          | [untracked]           | 1.8m |
+1mm² wire (black)        | [untracked]           | 1.8m |
+1mm² wire (blue)         | [untracked]           | 1.8m |
+0.5mm² wire (red)        | [untracked]           | 3m  |
+0.5mm² wire (black)      | [untracked]           | 3m  |
+0.5mm² wire (blue)       | [untracked]           | 3m  |
+0.5mm² wire (yellow)     | [untracked]           | 3m  |
+Camcon 2-way 7.5mm       | [untracked]           | 10  |
