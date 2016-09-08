@@ -5,6 +5,7 @@ This page serves as the canonical list of parts constituting a Student Robotics 
 Part                     | Inventory Asset Type  | Qty |
 -------------------------|-----------------------|-----|
 18l Really Useful Box    | rub-18l-rub           | 1   |
+Disclaimer               | Note 1                | 1   |
 Power board v4           | power-board-pbv4b     | 1   |
 Motor board v4           | motor-board-mcv4b     | 2   |
 Servo board v4           | servo-board-sbv4b     | 1   |
@@ -32,3 +33,5 @@ Camcon 2-way 5mm         | [untracked]           | 7   |
 Camcon 3.81mm            | [untracked]           | 1   |
 Odroid power cable       | [untracked]           | 1   |
 Screwdriver ~2mm         | [untracked]           | 1   |
+
+Note 1: See disclaimer.odt in https://bitbucket.org/srobo/team-paperwork
