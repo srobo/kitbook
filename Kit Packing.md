@@ -21,6 +21,14 @@ Once the preparation tasks have been completed the packing can commence. The pro
 [PALLET](#markdown-header-pallet) - Once all kits have been packed they can be loaded onto a pallet.
 
 ## WIRE
+
+Each kit contains 3 lengths of thick (1mm²) wire and 4 lengths of thin (0.5mm²) wire. Since the wire is purchased on 100m reels it needs to be cut to length and folded/knotted ready for packing. The wire needs to be cut into the following:
+
+ * 1.8m lengths of 1mm² wire (red, black and blue)
+ * 3m lengths of 0.5mm² wire (red, black, blue and yellow)
+
+After being cut the wires should be folded and knotted. A demonstration on how to do this will be given at the event.
+
 ## CAMCON
 ## LAYOUT
 
