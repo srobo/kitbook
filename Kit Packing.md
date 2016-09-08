@@ -46,7 +46,13 @@ To help with the filling of kits, boxes of each constituent part should be place
 Once all preparation steps have been completed the kit boxes can be filled with parts. Take an empty Really Useful Box and traverse the room, placing parts in the box as you go. Each station will have a sign indicating the quantity to be placed in the box.
 
 ## SCAN
+
+Once a box has been filled with all kit parts the tracked items must be moved into the box in the Inventory.
+
 ## CHECK
+
+After the tracked parts have been moved in the Inventory the box contents should be verified and checked off on a check list. Ideally this task would be performed by a different person to the one who filled it and the one who moved it in the Inventory - to reduce the likelihood of systematic errors. Once the check list is complete it can be left in the box.
+
 ## JIFFY
 ## PACK
 
