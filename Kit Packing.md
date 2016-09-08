@@ -71,3 +71,5 @@ To prevent the Jiffy bags and remaining parts from moving around too much in tra
 The lid should be secured with two cable ties through the lids/handles in diagonally opposite corners.
 
 ## PALLET
+
+The final task, once all kits have been packed, is to load them onto a wooden pallet. The pallet will then be shipped to our post handling provider, who will forward them onto Kickstart venues at our instruction. A standard pallet is 1.2x1.0m and the load can generally be up to 2m high (what is known as a 'full' pallet). The kit boxes should be stacked on the pallet in layers of 6 (2x3). They are 0.2m high so 54 kits results in a load height of 1.8m. When all of the kits have been stacked they must be strapped to the pallet using polypropylene strapping and finally the whole assembly wrapped in stretch wrap.
