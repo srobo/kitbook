@@ -39,9 +39,12 @@ Each kit contains various 'Camcon' pluggable terminal block connectors. These mu
 
 ## LAYOUT
 
-To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing an part. All parts should be laid out, including the wire and camcons. See the [canonical kit list](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Kit_Definition) for reference.
+To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing an part. All parts should be laid out, including the wire and camcons. See the [canonical kit list](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Kit_Definition) for reference. Each box/station of parts must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
 
 ## FILL
+
+Once all preparation steps have been completed the kit boxes can be filled with parts. Take an empty Really Useful Box and traverse the room, placing parts in the box as you go. Each station will have a sign indicating the quantity to be placed in the box.
+
 ## SCAN
 ## CHECK
 ## JIFFY
