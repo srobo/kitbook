@@ -54,6 +54,16 @@ Once a box has been filled with all kit parts the tracked parts must be moved in
 After the tracked parts have been moved in the Inventory the box contents should be verified and checked off on a check list. Ideally this task would be performed by a different person to the one who filled it and the one who moved it in the Inventory - to reduce the likelihood of systematic errors. Once the check list is complete it must be left in the box.
 
 ## JIFFY
+
+A checked kit (one that has a completed check list in it) is ready to have its parts safely wrapped for transport. This is done by putting the vulnerable parts of the kit into Jiffy bags. There are two sizes of Jiffy bags: small brown ones and large white ones. Place the following parts into the specified bags and do NOT seal them. Place the filled bags back into the box.
+
+ * Small brown: 2x motor boards, 1x ruggeduino
+ * Small brown: 1x power board, 1x servo board, 2x WiFi dongles, 1x USB stick
+ * Small brown: 2x USB hubs, 1x Odroid
+ * Large white: 1x tablet
+ * Large white: 1x battery charger
+ * Large white: 1x battery charger PSU, 1x webcam, 1x tablet charger
+
 ## PACK
 
 ## PALLET
