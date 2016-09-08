@@ -66,4 +66,8 @@ A checked kit (one that has a completed check list in it) is ready to have its p
 
 ## PACK
 
+To prevent the Jiffy bags and remaining parts from moving around too much in transit the empty space needs to be filled. This is done by tearing off a few metres of brown paper from a roll and scrunching it up. Some scrunched paper should be placed at the bottom of the box. The parts should be placed on top of this and finally a layer of scrunched paper should be placed on the top.
+
+The lid should be secured with two cable ties through the lids/handles in diagonally opposite corners.
+
 ## PALLET
