@@ -51,7 +51,7 @@ Once a box has been filled with all kit parts the tracked parts must be moved in
 
 ## CHECK
 
-After the tracked parts have been moved in the Inventory the box contents should be verified and checked off on a check list. Ideally this task would be performed by a different person to the one who filled it and the one who moved it in the Inventory - to reduce the likelihood of systematic errors. Once the check list is complete it must be left in the box.
+After the tracked parts have been moved in the Inventory the box contents should be verified and checked off on a [check list](https://bitbucket.org/richardbarlow/sr-hw-prod-coord/raw/master/kpe/sr2017/checklist.odt). Ideally this task would be performed by a different person to the one who filled it and the one who moved it in the Inventory - to reduce the likelihood of systematic errors. Once the check list is complete it must be left in the box.
 
 ## JIFFY
 
