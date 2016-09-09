@@ -54,7 +54,7 @@ Once all preparation steps have been completed the kit boxes can be filled with 
 
 ## SCAN
 
-Once a box has been filled with all kit parts the tracked parts must be moved into the box in the Inventory. Once all of the tracked parts have been moved, the box should be physically marked to indicate it has completed the SCAN task (stick a piece of coloured tape on it).
+Once a box has been filled with all kit parts the parts that are tracked in the Inventory must be scanned to check that they are marked as working (both functionally and physically) and are not development parts. If all of the parts are valid then they should all be moved into the Really Useful Box in the Inventory. Once all of the tracked parts have been moved, the box should be physically marked to indicate it has completed the SCAN task (stick a piece of coloured tape on it).
 
 ## CHECK
 
