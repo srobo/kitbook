@@ -46,7 +46,7 @@ Some parts are designated for development use only and should not be shipped to 
  * Power Board: Development have red PCBs
  * Servo Board: Development have red PCBs
  * Motor Board: Development have red PCBs
- * USB Hub: Development have sticker on them stating so
+ * USB Hub: Development have a sticker on them stating so
 
 ## FILL
 
