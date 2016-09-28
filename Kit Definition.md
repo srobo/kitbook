@@ -2,6 +2,8 @@
 
 This page serves as the canonical list of parts constituting a Student Robotics kit.
 
+## Hardware
+
 Part                     | Inventory Asset Type  | Qty |
 -------------------------|-----------------------|-----|
 18l Really Useful Box    | rub-18l-rub           | 1   |
@@ -39,3 +41,10 @@ Odroid power cable       | [untracked]           | 1   |
 Screwdriver ~2mm         | [untracked]           | 1   |
 
 Note 1: See disclaimer.odt in https://bitbucket.org/srobo/team-paperwork
+
+## Software
+
+ * Odroid image
+ * IDE
+ * sr-robot
+ * simulator
