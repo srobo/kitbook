@@ -9,7 +9,7 @@ This is the Kit Coordinator's documentation. The Kit Coordinator is responsible 
 Role  |   Volunteer   |   Location of Documentation
 ------|---------------|----------------------------
 Kit Software Coordinator | [unfilled] |
-Kit Logistics Coordinator | [unfilled] |
+Kit Logistics Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-logistics-coord/wiki/Home)
 Kit Support Coordinator | [unfilled] |
 Hardware Development Coordinator | [unfilled] |
 Hardware Production Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Home)
