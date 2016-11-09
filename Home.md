@@ -8,9 +8,9 @@ This is the Kit Software Coordinator's documentation. The Kit Software Coordinat
 
 The following 'unnamed' roles (a term from the Operations Manual) report to the Kit Software Coordinator. These roles are defined by the Kit Software Coordinator and may not create subordinate roles.
 
-Role  |   Volunteer   |   Location of Documentation
-------|---------------|----------------------------
-Legacy Server Maintainer | [unfilled]
+Role  |  Role Definition  |   Volunteer   |   Location of Volunteer Documentation
+------|-------------------|---------------|---------------------------------------
+Legacy Server Maintainer | TBD | [unfilled]
 
 ## License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
