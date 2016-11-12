@@ -7,6 +7,12 @@ The role of the LSM is to maintain the operation of the legacy server inherited 
 
 Since there is the intention to ultimately retire the legacy server, this role has an inherently finite lifetime. Once the server has been retired this role will cease to exist.
 
-Note that this role does not allow for any further development of features specific to the legacy server itself; it is purely a maintenance role to keep the server operational. This does not preclude development and improvement of the services currently running on the legacy server by the relevant roles.
+Note that this role does not allow for any further development of features specific to the legacy server itself; it is purely a maintenance role to keep the server operational. This does not preclude development of the services currently running on the legacy server by the relevant roles and the LSM providing support to those roles as necessary.
 
 ## Responsibilities
+
+ * Ensuring the continued availability of all services hosted on the legacy server.
+ * Application of security patches/update where necessary.
+ * Modification of the server configuration when required by a service hosted on the server (i.e. if the IDE required a puppet change).
+ * Assisting other roles in the migration of services currently hosted on the legacy server.
+ * Providing encouragement to the roles responsible for the services currently hosted on the legacy server to migrate them away.
