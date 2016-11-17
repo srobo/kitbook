@@ -42,6 +42,8 @@ Screwdriver ~2mm         | [untracked]           | 1   |
 
 Note 1: See disclaimer.odt in https://bitbucket.org/srobo/team-paperwork
 
+All of the above plus packaging (jiffy bags and paper void fill) weights 4.95kg.
+
 ## Software
 
  * Odroid image
