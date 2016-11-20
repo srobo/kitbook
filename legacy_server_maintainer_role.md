@@ -20,6 +20,7 @@ Note that this role does not allow for any further development of features speci
 ## Reporting
 
 The LSM must provide a report summarising all activities relating to their role to the Kit Software Coordinator each month. This report should be in the form of an email containing at least the following information:
+
   * Any incidents that have resulted in lost of service availability.
   * Any modifications that have been made to the server configuration.
   * what services are still to be migrated away from the legacy server.
