@@ -16,3 +16,11 @@ Note that this role does not allow for any further development of features speci
  * Modification of the server configuration when required by a service hosted on the server (i.e. if the IDE required a puppet change).
  * Assisting other roles in the migration of services currently hosted on the legacy server.
  * Providing encouragement to the roles responsible for the services currently hosted on the legacy server to migrate them away.
+
+## Reporting
+
+The LSM must provide a report summarising all activities relating to their role to the Kit Software Coordinator each month. This report should be in the form of an email containing at least the following information:
+  * Any incidents that have resulted in lost of service availability.
+  * Any modifications that have been made to the server configuration.
+  * what services are still to be migrated away from the legacy server.
+  * Any known upcoming/planned modifications.
