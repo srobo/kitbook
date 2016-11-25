@@ -9,7 +9,7 @@ This is the Kit Support Coordinator's documentation. The Kit Support Coordinator
 ## Assessing claims of broken kit
 
 1. Create an issue in the kit support coord issue tracker to keep track of all of the information relating to this claim as it progresses.
-1. Ascertain exactly who is making the claim (team TLA or volunteer name).
+1. Ascertain exactly who is making the claim (team TLA or volunteer name) and record how this claim was made (email to kit-support@, forum post, word of mouth, etc).
 1. Assess the extent of the damage and the circumstances under which it occurred. Specifically ascertain the following:
     * What parts of the kit does the team/volunteer consider to be broken.
     * How exactly the kit was wired up at the time of the incident which is suspected to have caused the damage.
