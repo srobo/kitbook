@@ -20,7 +20,7 @@ This is the Kit Support Coordinator's documentation. The Kit Support Coordinator
 1. If possible, request that the team/volunteer performs some quick tests of other parts of the kit to assess their functionality. E.g. try plugging the webcam into a PC and see if it works.
 1. Send a request to the Kit Logistics Coordinator to dispatch the necessary replacement parts.
 1. Inform the team/volunteer that replacement parts on in transit.
-1. Instruct the team/volunteer to place all broken parts (those that are being replaced) into a cardboard box, seal it, and mark it with the following: 'Suspected broken, see issue #NNN' where NNN is the number of the issue being used to track this claim. Note, the state of the parts in the Inventory should *not* be modified; the parts will be tested at the next Kit Collation Event and their condition assessed fully then.
+1. Instruct the team/volunteer to place all broken parts (those that are being replaced) into a cardboard box, seal it, and mark it with the following: 'Suspected broken, see issue #NNN' where NNN is the number of the issue being used to track this claim. Note, the state of the parts in the Inventory should **not** be modified; the parts will be tested at the next Kit Collation Event and their condition assessed fully then.
 
 ## License
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
