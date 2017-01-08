@@ -11,7 +11,7 @@ Role | Volunteer | Documentation
 Reward Manager | 
 Competition Volunteer Welfare Coordinator | Howard Buck | [Docs](https://gist.github.com/howiegoing/5876963bc0dcb63a6fa1028b02d1a5a6)
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
-Competition Team Coordinator | Jeremy Morse | [Docs](https://github.com/jmorse/comp-team-roles)
+Competition Team Coordinator |  | [Docs](https://github.com/jmorse/comp-team-roles)
 Competition Software Coordinator |
 Competition Team Support Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home)
 Competition H&S Coordinator | Thomas Scarsbrook | [Docs](http://scarzybrook.co.uk/SR/robotinspector.pdf)
