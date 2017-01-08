@@ -12,9 +12,9 @@ report to the production manager:
 
 Role | Volunteer 
 -----|-----------
-[Arena Manager](roles/arena-manager) | Richard Barlow
-[Pits Manager](roles/pits-manager) | Chris Baines
-[Network Manager](roles/network-manager) | Jeremy Morse
+[Arena Manager](roles/arena-manager) | 
+[Pits Manager](roles/pits-manager) | 
+[Network Manager](roles/network-manager) | 
 
 ## Matters of Interest
 
