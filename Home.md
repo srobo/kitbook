@@ -12,6 +12,7 @@ report to the production manager:
 
 Role | Volunteer 
 -----|-----------
+[Venue Manager](roles/venue-manager.md) | Rob Spanton
 [Arena Manager](roles/arena-manager) | 
 [Pits Manager](roles/pits-manager) | 
 [Network Manager](roles/network-manager) | 
@@ -20,6 +21,7 @@ Role | Volunteer
 
  * [Networking](network/index.md)
  * [Schedule](schedule) of the event production
+ * [Venue Requirements](venue)
 
 Things that may appear here in the future:
 
