@@ -1,4 +1,4 @@
-Welcome to the sr-team-coord wiki - a work in progress...
+Welcome to the sr-team-coord wiki which contains the relevant information for the Team Coordinator role.
 
 | Local Team Coordinator | Area covered | Email address |
 |-----------------------------|------|---------------|
