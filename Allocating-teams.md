@@ -30,7 +30,7 @@
  * A spreadsheet for each LTC containing the info for the teams for whom they are responsible: Team Leader Name, Email address, Phone number, Organisation, Organisation Address, Postcode, TLA, Rookie.
  * ‘Kickstart Teams’ for Kickstart Coordinator: TLA, Organisation,  Postcode, LTC Area, LTC, LTC Email address.
 
-Send ‘Team Leader Intro’ email via MailChimp to successful Team Leaders including following information:
+* Send ‘Team Leader Intro’ email via MailChimp to successful Team Leaders including following information:
  * Kickstart info
  * User account info
  * Inform re. TLA (using info from ‘SRYear Teams’ spreadsheet
