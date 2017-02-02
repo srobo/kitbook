@@ -38,7 +38,7 @@ Camcon 2-way 7.5mm       | [untracked]           | 10  |
 Camcon 2-way 5mm         | [untracked]           | 7   |
 Camcon 3.81mm            | [untracked]           | 1   |
 Odroid power cable       | [untracked]           | 1   |
-Screwdriver ~2mm         | [untracked]           | 1   |
+Screwdriver 2.5mm flat   | [untracked]           | 1   |
 
 Note 1: See disclaimer.odt in https://bitbucket.org/srobo/team-paperwork
 
