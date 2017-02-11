@@ -1,8 +1,6 @@
 # Kit Shipping
 
-Part of the Kit Logistics Coordinator's responsibilities cover moving either whole or parts of kits around the UK and the world. This is generally referred to as shipping \(even though it rarely involves ships!\). There are specific points throughout the year when kit needs to be shipped and the procedures followed are detailed below.
-
-
+Part of the Kit Logistics Coordinator's responsibilities cover moving either whole or parts of kits around the UK and the world. This is generally referred to as shipping \(even though it rarely involves ships!\). There are specific points throughout the year when kit needs to be shipped and the procedures followed are detailed in the [Procedures](/kit-transport/procedures.md) chapter.
 
 ## General shipping info
 
