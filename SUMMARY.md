@@ -3,7 +3,8 @@
 * [Introduction](README.md)
 * [Kit Storage](chapter1.md)
 * [Kit Shipping](kit-transport.md)
-  * [Procedures](/kit-transport.md#procedures)
+  * [Procedures](kit-transport/procedures.md)
 * [Post Handling](post-handling.md)
+* Asset Tracking \(aka Inventory\)
 * [Logistics Software](logistics-software.md)
 
