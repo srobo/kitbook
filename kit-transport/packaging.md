@@ -1,5 +1,9 @@
 # Packaging
 
+This information on packaging of kits and kit parts is for internal use only. The Kit Logistics Coordinator will use this information to instruct volunteers and third parties as necessary.
+
+## Packaging Info
+
 * Kits should generally be shipped in the while 18l Really Useful Box \(RUB\).
 * All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap.
 * Batteries **must** be placed inside the charging bag.

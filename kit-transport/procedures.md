@@ -1,5 +1,7 @@
 # Procedures
 
+These are the procedures that the Kit Logistics Coordinator follows to perform their Kit Shipping responsibilities. No one else is expected to follow these procedures, they are for internal documentation only.
+
 ## Shipping kits to Kickstarts
 
 To provide sufficient time for problems/delays, kits should be shipped to Kickstart locations no later than 1 week before Kickstart. Shipping the kits many weeks in advance may not be possible due to limited storage requirements at some Kickstart locations.
@@ -90,6 +92,7 @@ Begin by requesting the following information from the Team Coordinator for the 
 * Once the details have been confirmed, arrange for the package to be collected from yourself and delivered to the team.
 
 * Once you have the tracking number from the courier, email the LTC with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.
+
 * Once the kit has been delivered, move the kit in the Inventory to the appropriate `team` sub directory \(e.g. `teams/2017/srz`\).
 
 ## Shipping kits to storage at the end of the competition
