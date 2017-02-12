@@ -17,6 +17,10 @@ Competition Team Support Coordinator | Richard Barlow | [Docs](https://bitbucket
 Competition H&S Coordinator | Thomas Scarsbrook | [Docs](http://scarzybrook.co.uk/SR/robotinspector.pdf)
 Match Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-match-coordinator/wiki)
 
+## Information
+
+ * [SR2017 Event Details](sr2017-event)
+
 ## License
 
 This work is licensed under the Creative Commons
