@@ -12,7 +12,7 @@ Reward Manager |
 Competition Volunteer Welfare Coordinator |  | [Docs](https://gist.github.com/howiegoing/5876963bc0dcb63a6fa1028b02d1a5a6)
 Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
 Competition Team Coordinator |  | [Docs](https://github.com/jmorse/comp-team-roles)
-Competition Software Coordinator |
+Competition Software Coordinator | TBC(Peter Law)
 Competition Team Support Coordinator | TBC(Richard Barlow) | [Docs](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home)
 Competition H&S Coordinator | Thomas Scarsbrook | [Docs](http://scarzybrook.co.uk/SR/robotinspector.pdf)
 Match Coordinator | TBC(Tom Leese) | [Docs](https://github.com/thomasleese/sr-match-coordinator/wiki)
