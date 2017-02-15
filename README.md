@@ -12,6 +12,3 @@ The responsibilities of the Kit Logistics Coordinator are as follows:
 To fulfil these responsibilities the Kit Logistics Coordinator also does the following
 
 * Maintain a suite of logistics software
-
-
-

@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Kit Storage](chapter1.md)
+* [Kit Storage](kit-storage.md)
 * [Kit Shipping](kit-transport.md)
   * [Procedures](kit-transport/procedures.md)
   * [Packaging](kit-transport/packaging.md)
