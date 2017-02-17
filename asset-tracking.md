@@ -10,7 +10,7 @@ Each asset, for example an individual webcam, has a corresponding record in the 
 
 The Inventory primarily records the location of each asset, its value, its physical and functional state, its asset code and a history of any changes made to any of these properties. Secondary to these properties, certain assets have extra information recorded such as MAC address (for assets that have an Ethernet or Bluetooth PHY), serial number and modification flags.
 
-To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an `asset code`, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the *asset code* is suitably marked onto the asset
+To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an *asset code*, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the *asset code* is suitably marked onto the asset
 
 ### Asset Lifecycle
 
