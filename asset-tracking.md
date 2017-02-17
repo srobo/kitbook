@@ -35,6 +35,8 @@ graph LR
   test-->repair
   test-->use
   repair-->use
+  test-->decommission
+  decommission-->disposal
 {% endmermaid %}
 
 #### Creation
