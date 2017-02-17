@@ -29,6 +29,7 @@ disposal=>end: Disposal
 create->commission
 commission->usage
 usage->testing
+testing->decommission
 decommission->disposal
 ```
 
