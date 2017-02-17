@@ -4,11 +4,11 @@ These are the procedures related to the Kit Logistics Coordinator's post handing
 
 ## Handling received mail
 
-Notify the person as defined in the following table.
+If specified, request that the first page is scanned and then notify the person as defined in the following table.
 
-| Addressee | Email |
-| --- | --- |
-| Treasurer | treasurer@studentrobotics.org |
+| Addressee | Scan first page? | Email |
+| :--- | :--- | :--- |
+| Treasurer | Yes | treasurer@studentrobotics.org |
 
 ## Topping up UK Postbox
 
