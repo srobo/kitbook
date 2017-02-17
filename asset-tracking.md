@@ -53,7 +53,7 @@ When an asset is purchased or manufactured, a record must be entered into the In
 
 More than one of the above techniques can be used to provide redundancy.
 
-The ideal marking solution is both human and machine readable and should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged, however one has to physically plug a cable in to read the code. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.
+The ideal marking solution is both human and machine readable and should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged; However one has to physically plug a cable in to read the code. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.
 
 #### Commission
 #### Use
