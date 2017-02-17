@@ -32,6 +32,7 @@ graph LR
   create-->commission
   commission-->use
   use-->modify
+  use-->test
   modify-->test
   test-->repair
   test-->use
