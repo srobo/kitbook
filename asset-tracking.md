@@ -33,7 +33,7 @@ graph LR
   commission-->use
   use-->test
   test-->repair
-  test-->use
+  test-->repair
   repair-->use
   test-->decommission
   decommission-->disposal
