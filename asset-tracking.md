@@ -1,6 +1,8 @@
 # Asset Tracking
 
-One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all Student Robotics assets. This is generally referred to as Asset Tracking. It is important that the organisation is aware of the location and state of all of its assets at all times.
+One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all Student Robotics' assets. This is generally referred to as Asset Tracking. It is important that the organisation is aware of the location and state of all of its assets at all times.
+
+This chapter documents the high-level organisation aspects around Student Robotics asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how we use the system to track our assets. **TODO: link to user manual/docs**
 
 ## The Inventory
 
