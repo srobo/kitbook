@@ -33,8 +33,8 @@ graph LR
   commission-->use
   use-->test
   test-->repair
-  test-->repair
-  repair-->use
+  test-->use
+  repair-->test
   test-->decommission
   decommission-->disposal
 {% endmermaid %}
