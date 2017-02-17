@@ -64,6 +64,11 @@ Not all assets will require commissioning. Generally these are things such as US
 Once an asset has been commissioned, its physical and functional states must be updated in its record appropriately. In the case of assets that do not require any special commissioning procedure to be carried out, it should be assumed that they are both physically and functionally working and their records updated as such.
 
 #### Use
+
+Once an asset has been commissioned, or has been tested and shown to be working, it is ready to be used for its intended purpose. For the majority of assets this means that it will become part of a kit and ultimately be used by a team.
+
+During the *use* stage of an assets lifetime the majority of the updates to its record in the Inventory will be to keep track of its physical location; for example with a particular team.
+
 #### Test
 #### Repair
 #### Modify
