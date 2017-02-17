@@ -23,7 +23,7 @@ create=>start: Creation
 commission=>operation: Commissioning|past
 usage=>operation: Usage|current
 testing=>operation: Testing|invalid
-
+decommission=>operation: Decommission
 disposal=>end: Disposal
 
 create->commission
