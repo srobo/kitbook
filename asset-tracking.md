@@ -20,18 +20,26 @@ For each asset that SR owns there is a reasonably well defined sequence of stage
 
 ```flow
 create=>start: Creation
-commission=>operation: Commissioning
+commission=>operation: Commissioning|past
+usage=>operation: Usage|current
+testing=>operation: Testing|invalid
+
+disposal=>end: Disposal
 
 create->commission
+commission->usage
+usage->testing
+decommission->disposal
 ```
 
 #### Creation
 #### Commissioning
-#### Operation
+#### Usage
 #### Testing
 #### Repair
-#### Updating/Modifying
-#### Decommissioning/Disposal
+#### Updating
+#### Decommissioning
+#### Disposal
 
 [^1]: This is not quite true as certain low-value assets are not tracked individually.
 
