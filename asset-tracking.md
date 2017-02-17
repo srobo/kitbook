@@ -56,6 +56,13 @@ More than one of the above techniques can be used to provide redundancy.
 The ideal marking solution is both human and machine readable and should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged; However one has to physically plug a cable in to read the code. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.
 
 #### Commission
+
+Some assets will require commissioning after they have been added to the Inventory. This can be best explained with an example: When a newly manufactured motor board is added to the Inventory it is yet to be programmed or fully tested (although it may have had some basic end-of-line testing performed upon it). Once it has been added to the Inventory, in the *Creation* stage, it is ready to be programmed and tested before being used. This initial programming and testing of the motor board is part of its *commissioning* process.
+
+Not all assets will require commissioning. Generally these are things such as USB hubs, where it is assumed that the manufacturer has suitably tested their product and there is no further programming required.
+
+Once an asset has been commissioned, its physical and functional states must be updated in its record appropriately. In the case of assets that do not require any special commissioning procedure to be carried out, it should be assumed that they are both physically and functionally working and their records updated as such.
+
 #### Use
 #### Test
 #### Repair
