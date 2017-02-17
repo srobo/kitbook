@@ -16,7 +16,7 @@ To provide the one-to-one mapping between assets and their Inventory records, ea
 
 ### Asset Lifecycle
 
-For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. These 
+For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. This flow is shown in the diagram below.
 
 {% mermaid %}
 graph LR
@@ -42,6 +42,17 @@ graph LR
 {% endmermaid %}
 
 #### Creation
+
+When an asset is purchased or manufactured, a record must be entered into the Inventory. At this point a new asset code is automatically generated. The asset code **must** be marked onto the asset[^2]. The asset code can be marked in the following ways:
+
+  * Printed paper label with QR code and text
+  * Dymo label with code128 barcode and text
+  * Handwritten with permanent marker
+  * UHF RFID tag[^3]
+  * Programmed onto the asset (e.g. such that it is possible to read over USB)
+
+The ideal marking solution is both human and machine readable should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged, however one has to physically plug a cable in. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.
+
 #### Commission
 #### Use
 #### Test
@@ -51,4 +62,5 @@ graph LR
 #### Disposal
 
 [^1]: This is not quite true as certain low-value assets are not tracked individually.
-
+[^2]: There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled.
+[^3]: Currently in the planning stage.
