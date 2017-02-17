@@ -19,18 +19,27 @@ To provide the one-to-one mapping between assets and their Inventory records, ea
 For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. These 
 
 {% mermaid %}
-graph LR;
-  A-->B;
-  B-->C;
+graph LR
+  create(Creation)
+  commission(Commission)
+  use(Use)
+  test(Test)
+  repair(Repair)
+  modify(Modify)
+  decommission(Decommission)
+  disposal(Disposal)
+  
+  create-->commission
+  commission-->use
 {% endmermaid %}
 
 #### Creation
-#### Commissioning
-#### Usage
-#### Testing
+#### Commission
+#### Use
+#### Test
 #### Repair
-#### Updating
-#### Decommissioning
+#### Modify
+#### Decommission
 #### Disposal
 
 [^1]: This is not quite true as certain low-value assets are not tracked individually.
