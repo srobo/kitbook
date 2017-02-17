@@ -82,6 +82,6 @@ As in the *commission* stage, an asset's physical and functional condition must 
 #### Decommission
 #### Disposal
 
-[^1]: This is not quite true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
+[^1]: This is not strictly true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
 [^2]: There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled.
 [^3]: Currently in the planning stage.
