@@ -1,12 +1,14 @@
 # Asset Tracking
 
-One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all SRs assets. This is generally referred to as Asset Tracking. It is important that the organisation is aware of the location and state of all of its assets at all times.
+One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all SRs assets. This is generally referred to as asset tracking. To allow SR to operate it is important that the location and state of all of its assets are known at all times.
 
 This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets. **TODO: link to user manual/docs**
 
 ## The Inventory
 
-To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. It is important to note that only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
+To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. Unfortunately, due to historical of the term, SR uses the term *Inventory* to refer to its asset tracking system. However, in the rest of the world inventory generally refers to a record of things that a company sells and assets are things a company owns and uses to operate. It's not a big problem, but it is something to be aware of when dealing with third parties.
+
+Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
 
 Each asset, for example an individual webcam, has a corresponding record in the Inventory. Within this record various properties of the asset are held such that it is possible to unambiguously identify the matching asset from its Inventory record and conversely, identify the matching Inventory record from the asset. There is a one-to-one mapping of assets to Inventory records.
 
@@ -80,6 +82,6 @@ As in the *commission* stage, an asset's physical and functional condition must 
 #### Decommission
 #### Disposal
 
-[^1]: This is not quite true as certain low-value assets are not tracked individually.
+[^1]: This is not quite true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
 [^2]: There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled.
 [^3]: Currently in the planning stage.
