@@ -34,6 +34,7 @@ graph LR
   use-->test
   test-->repair
   test-->use
+  repair-->use
 {% endmermaid %}
 
 #### Creation
