@@ -31,6 +31,9 @@ graph LR
   
   create-->commission
   commission-->use
+  use-->test
+  test-->repair
+  test-->use
 {% endmermaid %}
 
 #### Creation
