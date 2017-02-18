@@ -90,7 +90,7 @@ When modifications are made to an asset it is important to track the changes in 
 
 #### Decommission {#decommission}
 
-If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. It must first be determined if the asset is to be sold/given away or if it is to be thrown away as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are requirements.
+If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. It must first be determined if the asset is to be sold/given away or if it is to be thrown away as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are common requirements.
 
 For assets that are to be sold or given to a third party all SR logos and 'property of' messages must be removed/obliterated. This ensures that future owners and users of the assets do not mistakenly think that it is property of SR and that SR itself does not mistakenly think that it is property belonging to SR.
 
