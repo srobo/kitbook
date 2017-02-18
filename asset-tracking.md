@@ -37,9 +37,10 @@ graph TB
   use-->test
   use-->decommission
   modify-->test
-  test<-->repair
-  test-->use
-  test-->decommission
+  test-- fixable -->repair
+  test-- working -->use
+  test-- unfixable -->decommission
+  repair-->test
   decommission-->disposal
 {% endmermaid %}
 
