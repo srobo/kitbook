@@ -37,9 +37,8 @@ graph TB
   use-->test
   use-->decommission
   modify-->test
-  test-->repair
+  test<-->repair
   test-->use
-  repair-->test
   test-->decommission
   decommission-->disposal
 {% endmermaid %}
@@ -91,6 +90,10 @@ When modifications are made to an asset it is important to track the changes in 
 #### Decommission {#decommission}
 
 If an asset is broken and unrepairable or if an asset is simply no longer required then it must first be decommissioned and then disposed of.
+
+Some assets will have specific decommissioning requirements, however in all cases the following must be done:
+
+ * If the asset is to be sold/given to a third party, remove or obliterate SR logo and any 'property of' messages.
 
 #### Disposal {#disposal}
 
