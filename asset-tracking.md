@@ -35,6 +35,7 @@ graph LR
   commission-->use
   use-->modify
   use-->test
+  use-->decommission
   modify-->test
   test-->repair
   test-->use
@@ -88,6 +89,9 @@ Throughout the lifetime of an asset it may be necessary to perform modifications
 When modifications are made to an asset it is important to track the changes in its Inventory record. These generally take the form of *modification flags* that indicate if a particular asset has been modified. If a modification across all assets of a given type is planed, for example soldering on an extra component to all motor boards, then all motor board Inventory records should be updated to indicate that none of them have received the modification. Once each asset is modified, its Inventory record must be updated appropriately.
 
 #### Decommission {#decommission}
+
+If an asset is found to be broken
+
 #### Disposal {#disposal}
 
 [^1]: This is not strictly true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
