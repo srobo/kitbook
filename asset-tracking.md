@@ -6,7 +6,7 @@ This chapter documents the high-level organisation aspects around SR asset track
 
 ## The Inventory
 
-To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. Unfortunately, due to historical use of the term, SR uses the term *Inventory* to refer to its asset tracking system. In the rest of the world inventory generally refers to a record of things that a company sells whereas assets are things a company owns and uses to operate; tracked in their asset tracking system. It's not a big problem, but it is something to be aware of.
+To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. Unfortunately, due to historical use of the term, SR uses the term *Inventory* to refer to its asset tracking system. Normally inventory refers to a record of things that an organisation sells whereas assets are things that an organisation owns and uses to operate; tracked in its asset tracking system. It is not a big problem, but it is an unusual quirk to be aware of.
 
 Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
 
