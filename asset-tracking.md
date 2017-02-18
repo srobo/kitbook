@@ -43,7 +43,7 @@ graph LR
   decommission-->disposal
 {% endmermaid %}
 
-#### Creation
+#### Creation {#creation}
 
 When an asset is purchased or manufactured, a record must be entered into the Inventory. At this point a new asset code is automatically generated. The asset code **must** be marked onto the asset[^2]. The asset code can be marked in the following ways:
 
@@ -57,7 +57,7 @@ More than one of the above techniques can be used to provide redundancy.
 
 The ideal marking solution is both human and machine readable and should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged; However one has to physically plug a cable in to read the code. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.
 
-#### Commission
+#### Commission {#commission}
 
 Some assets will require commissioning after they have been added to the Inventory. This can be best explained with an example: When a newly manufactured motor board is added to the Inventory it is yet to be programmed or fully tested (although it may have had some basic end-of-line testing performed upon it). Once it has been added to the Inventory, in the *Creation* stage, it is ready to be programmed and tested before being used. This initial programming and testing of the motor board is part of its *commissioning* process.
 
@@ -65,30 +65,30 @@ Not all assets will require commissioning. Generally these are things such as US
 
 Once an asset has been commissioned, its physical and functional condition must be updated appropriately in its record. In the case of assets that do not require any special commissioning procedure to be carried out, it should be assumed that they are both physically and functionally working and their records updated as such.
 
-#### Use
+#### Use {#use}
 
 Once an asset has been commissioned, or has been tested and shown to be working, it is ready to be used for its intended purpose. For the majority of assets this means that it will become part of a kit and ultimately be used by a team.
 
 During the *use* stage of an assets lifetime the majority of the updates to its record in the Inventory will be to keep track of its physical location; for example with a particular team. Occasionally there may also be other updates to its record required, such as adding a note to its description.
 
-#### Test
+#### Test {#test}
 
 The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the Kit Collation Event, run by the Hardware Production Coordinator. **TODO: Link to HPC docs.** Assets that have been repaired or modified must also undergo testing.
 
 As in the *commission* stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be *decommissioned* and *disposed* of.
 
-#### Repair
+#### Repair {#repair}
 
 If an asset is found to be broken, it may be possible to repair it. An example of this is a motor board that has a cracked case. It is trivial to replace the broken parts of the case and therefore allow the motor board to once again be used (after being retested).
 
-#### Modify
+#### Modify {#modify}
 
 Throughout the lifetime of an asset it may be necessary to perform modifications to it. This may be to add extra functionality, improve reliability or to fix a known problem. For most assets the opportunity to perform these modifications is at the Kit Collation Event, run by the Hardware Production Coordinator. If modifications are required they will perform them as necessary.
 
 When modifications are made to an asset it is important to track the changes in its Inventory record. These generally take the form of *modification flags* that indicate if a particular asset has been modified. If a modification across all assets of a given type is planed, for example soldering on an extra component to all motor boards, then all motor board Inventory records should be updated to indicate that none of them have received the modification. Once each asset is modified, its Inventory record must be updated appropriately.
 
-#### Decommission
-#### Disposal
+#### Decommission {#decommission}
+#### Disposal {#disposal}
 
 [^1]: This is not strictly true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
 [^2]: There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled.
