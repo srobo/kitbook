@@ -9,6 +9,7 @@
 * [Post Handling](post-handling.md)
 * [Asset Tracking](asset-tracking.md)
 * [Logistics Software](logistics-software.md)
+* [✉ Contact the Kit Logistics Coordinator](mailto:logistics@studentrobotics.org)
 
 
 
