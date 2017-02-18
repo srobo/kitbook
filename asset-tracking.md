@@ -10,6 +10,8 @@ To record all of the necessary information regarding SR assets, all[^1] assets a
 
 Each asset, for example an individual webcam, has a corresponding record in the Inventory. Within this record various properties of the asset are held such that it is possible to unambiguously identify the matching asset from its Inventory record and conversely, identify the matching Inventory record from the asset. There is a one-to-one mapping of assets to Inventory records.
 
+Each type of asset is identified by its *name*; for example a Logitech C270 webcam has the name `webcam-logitech-c270`. All assets of the same type have the same name. When creating assets that do not have an existing name in the Inventory, care must be taken to ensure that the new name given to the asset is suitably descriptive. This ensures that it does not clash with future assets that are similar, but not the same; for example an asset with the name `usb-charger` is not descriptive enough, but `usb-charger-a-500ma` is.
+
 The Inventory primarily records the location of each asset, its value, its physical and functional condition, its asset code and a history of any changes made to any of these properties. Secondary to these properties, certain assets have extra information recorded such as MAC address (for assets that have an Ethernet or Bluetooth PHY), serial number and modification flags.
 
 To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an *asset code*, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the asset code is suitably marked onto the asset such that it can be read in the future.
