@@ -13,7 +13,8 @@
 
 ## Documentation Hierarchy
 
-* [⬑ Trustee Docs](https://bitbucket.org/srobo/ops-manual/wiki/Home)
-* [⬑ Competition Programme Coordinator Docs](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home)
 * [⬑ Kit Coordinator Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
+* [⬑ Competition Programme Coordinator Docs](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home)
+* [⬑ Trustee Docs](https://bitbucket.org/srobo/ops-manual/wiki/Home)
+
 
