@@ -21,7 +21,7 @@ Only property of SR is tracked in the Inventory; meaning that property of third 
 For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. This flow is shown in the diagram below.
 
 {% mermaid %}
-graph LR
+graph TB
   create(Creation)
   commission(Commission)
   use(Use)
@@ -90,7 +90,7 @@ When modifications are made to an asset it is important to track the changes in 
 
 #### Decommission {#decommission}
 
-If an asset is found to be broken
+If an asset is broken and unrepairable or if an asset is simply no longer required then it must first be decommissioned and then disposed of.
 
 #### Disposal {#disposal}
 
