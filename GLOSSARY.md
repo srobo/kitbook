@@ -1,3 +1,0 @@
-## CPY
-
-Competition Programme Year
