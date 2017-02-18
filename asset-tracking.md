@@ -90,11 +90,23 @@ When modifications are made to an asset it is important to track the changes in 
 
 #### Decommission {#decommission}
 
-If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. It must first be determined if the asset is to be sold/given away or if it is to be thrown away as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are common requirements.
+If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. The Kit Logistics Coordinator must only decommission and dispose of an asset when explicitly instructed to do so by the person responsible for the asset. **TODO: Define who is responsible for each type of asset**
+
+It must first be determined if the asset is to be sold/given away or if it is to be thrown away, as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are common steps that must be taken.
 
 For assets that are to be sold or given to a third party all SR logos and 'property of' messages must be removed/obliterated. This ensures that future owners and users of the assets do not mistakenly think that it is property of SR and that SR itself does not mistakenly think that it is property belonging to SR.
 
+Once an asset has been fully decommissioned its Inventory record must be updated with a *modification flag* that indicates that it has been decommissioned.
+
 #### Disposal {#disposal}
+
+Once an asset has been decommissioned, it must be either sold/given away or thrown away, depending upon what was previously agreed when starting the decommissioning process.
+
+If an asset is to be sold the Kit Logistics Coordinator will work with the person previously responsible for that asset to determine the best way to sell the asset. If the estimated value of the asset at the time of selling is above £50 then the trustees are to be be consulted.
+
+If an asset is to be thrown away the Kit Logistics Coordinator will work with the person previous responsible for that asset to determine if there are any special requirements regarding its disposal; for example WEEE regulations for electronics. Also if the value of the asset, as shown in its Inventory record, is above £50 then the trustees are to be consulted.
+
+Once an asset has been disposed of, either via selling/giving away or by throwing away, its Inventory record must be removed from the Inventory. Only records that have a decommissioned modification flag should be removed from the Inventory.
 
 [^1]: This is not strictly true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked.
 [^2]: There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled.
