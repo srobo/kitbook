@@ -11,5 +11,6 @@
 * [Logistics Software](logistics-software.md)
 * [✉ Contact the Kit Logistics Coordinator](mailto:logistics@studentrobotics.org)
 
+---
 
-
+ * [Kit Coordinator Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
