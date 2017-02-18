@@ -8,13 +8,13 @@ This chapter documents the high-level organisation aspects around SR asset track
 
 To record all of the necessary information regarding SR assets, all[^1] assets are tracked in the Inventory. Unfortunately, due to historical use of the term, SR uses the term *Inventory* to refer to its asset tracking system. Normally inventory refers to a record of things that an organisation sells whereas assets are things that an organisation owns and uses to operate; tracked in its asset tracking system. It is not a big problem, but it is an unusual quirk to be aware of.
 
-Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
-
 Each asset, for example an individual webcam, has a corresponding record in the Inventory. Within this record various properties of the asset are held such that it is possible to unambiguously identify the matching asset from its Inventory record and conversely, identify the matching Inventory record from the asset. There is a one-to-one mapping of assets to Inventory records.
 
 The Inventory primarily records the location of each asset, its value, its physical and functional condition, its asset code and a history of any changes made to any of these properties. Secondary to these properties, certain assets have extra information recorded such as MAC address (for assets that have an Ethernet or Bluetooth PHY), serial number and modification flags.
 
 To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an *asset code*, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the asset code is suitably marked onto the asset such that it can be read in the future.
+
+Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.
 
 ### Asset Lifecycle
 
@@ -78,7 +78,15 @@ The Inventory should, as far as is possible, represent the current state of all 
 As in the *commission* stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be *decommissioned* and *disposed* of.
 
 #### Repair
+
+If an asset is found to be broken, it may be possible to repair it. An example of this is a motor board that has a cracked case. It is trivial to replace the broken parts of the case and therefore allow the motor board to once again be used (after being retested).
+
 #### Modify
+
+Throughout the lifetime of an asset it may be necessary to perform modifications to it. This may be to add extra functionality, improve reliability or to fix a known problem. For most assets the opportunity to perform these modifications is at the Kit Collation Event, run by the Hardware Production Coordinator. If modifications are required they will perform them as necessary.
+
+When modifications are made to an asset it is important to track the changes in its Inventory record. These generally take the form of *modification flags* that indicate if a particular asset has been modified. If a modification across all assets of a given type is planed, for example soldering on an extra component to all motor boards, then all motor board Inventory records should be updated to indicate that none of them have received the modification. Once each asset is modified, its Inventory record must be updated appropriately.
+
 #### Decommission
 #### Disposal
 
