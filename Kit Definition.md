@@ -22,7 +22,7 @@ USB WiFi dongle          | usb-wifi-tl-wn823n    | 2   |
 Tablet power supply      | usb-charger           | 1   |
 Webcam                   | webcam-logitech-c270 OR webcam-logitech-c500 | 1 |
 Battery bag              | lipo-bag-overlander-22x30 OR lipo-bag-hpi-18x22 | 1 |
-Battery charger supply   | battery-charger-imax-b6-supply OR batter-charger-e4-supply | 1 |
+Battery charger supply   | battery-charger-imax-b6-supply OR battery-charger-e4-supply | 1 |
 Battery charger          | battery-charger-imax-b6 OR battery-charger-e4 | 1 |
 USB memory stick         | [untracked]           | 1   |
 Full size USB cable      | [untracked]           | 3   |
