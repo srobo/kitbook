@@ -6,7 +6,9 @@ This is the Arena Manager's documentation. The Arena Manager is responsible for 
 
 ## Tasks
 
-Pre-competition:
+The following tasks are generally applicable from one year to the next. As the responsibilities of the role change these tasks should be updated to suit.
+
+Pre-competition (in no particular order):
 
  * Specify and order tape (coloured gaffer for corner related things, double-sided for carpet laying and marker application [arena and tokens], black for carpet edge and other uses).
  * Specify and source/hire crowd barrier requirements for use around arenas and staging area.
@@ -18,13 +20,15 @@ Pre-competition:
  * Specify and hire screens and screen mounts.
  * Work with Competition Software Coordinator to obtain necessary display hardware.
  * Specify and source/hire staging area desks.
+ * Specify and source/order arena walls (we already own some, so only required if they change).
 
-Setup:
+Setup (roughly in time order):
 
- * Install crowd barriers around arenas and staging area.
- * Install markings on arena floor in accordance with the game rules, to denote the starting positions of props and to provide human readable markings (corner numbers).
- * Install labels on the outside of each arena to identify the arena (e.g. 'A' and 'B').
  * Install carpet.
+ * Install arena walls.
+ * Install markings on arena floor in accordance with the game rules, to denote the starting positions of props and to provide human readable markings (corner numbers).
+ * Install crowd barriers around arenas and staging area.
+ * Install labels on the outside of each arena to identify the arena (e.g. 'A' and 'B').
  * Install fire extinguishers (1 per arena).
  * Install network for corner screens and match coordination area.
  * Install power for corner screens and match coordination area.
@@ -33,7 +37,9 @@ Setup:
  * Install staging area desks and one-way system (tape on the floor + signs).
  * Install staging area management bay, for the storage of competition USB keys and robot badges.
 
-The documentation for each year can be found on the relevant page:
+## Year Specific Documentation
+
+The above tasks are vague descriptions of what needs to be done. Details documentation for each year can be found on the relevant page:
 
  * [[SR2016]]
  * [[SR2017]]
