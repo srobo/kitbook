@@ -9,12 +9,15 @@ This is the Arena Manager's documentation. The Arena Manager is responsible for 
 Pre-competition:
 
  * Specify and order tape (coloured gaffer for corner related things, double-sided for carpet laying and marker application [arena and tokens], black for carpet edge and other uses).
- * Specify and hire crowd barrier requirements for use around arenas and staging area.
+ * Specify and source/hire crowd barrier requirements for use around arenas and staging area.
  * Specify and order carpet.
  * Specify and hire network equipment.
  * Specify and hire power equipment.
- * Specify and order libkoki markers and arena labels.
- * Specify and order materials for game props.
+ * Specify and order libkoki markers (game dependent) and arena labels.
+ * Specify and order materials for game props (game dependent).
+ * Specify and hire screens and screen mounts.
+ * Work with Competition Software Coordinator to obtain necessary display hardware.
+ * Specify and source/hire staging area desks.
 
 Setup:
 
@@ -25,6 +28,10 @@ Setup:
  * Install fire extinguishers (1 per arena).
  * Install network for corner screens and match coordination area.
  * Install power for corner screens and match coordination area.
+ * Install the corner screens.
+ * Install the display hardware onto the back of the screens.
+ * Install staging area desks and one-way system (tape on the floor + signs).
+ * Install staging area management bay, for the storage of competition USB keys and robot badges.
 
 The documentation for each year can be found on the relevant page:
 
