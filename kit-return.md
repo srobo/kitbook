@@ -27,3 +27,12 @@ rejected [0]. When presented with a RUB full of kit, kit return staff should:
  * Place the RUB onto a stack of returned kit.
 
 [0] With the exception of German teams, as they didn't get any RUBs in sr2016.
+## License
+
+This work is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License. To view a copy of
+this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+This work is based on work done by Jeremy Morse, which was under the
+Creative Commons Attribution 4.0 License.  To view a copy of this
+license, visit https://creativecommons.org/licenses/by/4.0/.

@@ -18,3 +18,12 @@ area during tinker time: multiple team members should be allowed access to the
 arenas during this period (in contrast with during matches), but only teams
 who have booked time. Once their time is up, the co-ordinator should instruct
 the teams whose bookings have expired to leave.
+## License
+
+This work is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License. To view a copy of
+this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+This work is based on work done by Jeremy Morse, which was under the
+Creative Commons Attribution 4.0 License.  To view a copy of this
+license, visit https://creativecommons.org/licenses/by/4.0/.
