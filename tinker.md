@@ -1,3 +1,5 @@
+# Tinker Time Coordinator
+
 The tinker-time co-ordinator controls access to the arenas during 'tinker time',
 a period at the start of the competition where competitors can give their robot
 a quick test in the actual arena environment.
@@ -18,6 +20,7 @@ area during tinker time: multiple team members should be allowed access to the
 arenas during this period (in contrast with during matches), but only teams
 who have booked time. Once their time is up, the co-ordinator should instruct
 the teams whose bookings have expired to leave.
+
 ## License
 
 This work is licensed under the Creative Commons

@@ -1,3 +1,5 @@
+# Door Guard Volunteer
+
 At the end of the competition, teams tend to evaporate without warning. We wish
 to ensure that they return the loaned SR kit, unless they've arranged otherwise.
 To this end, door guards are people who guard the exit doors at the venue:

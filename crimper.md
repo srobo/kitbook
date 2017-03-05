@@ -1,3 +1,5 @@
+# Crimper Volunteer
+
 Crimping staff are responsible for operating wristband crimpers, to securely
 attach wristbands to the wrists of competition attendees. Everyone permitted
 through reception will be given a loose wristband: crimpers stand behind

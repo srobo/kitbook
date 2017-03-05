@@ -1,3 +1,5 @@
+# Reception Volunteer
+
 Reception staff control entry to the building and validate people's competition
 tickets and/or wristbands. Each reception staffer has a desk, chair, and
 computer.

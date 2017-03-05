@@ -1,3 +1,5 @@
+# Introductory Briefer
+
 The introductory and H&S brief-er gives a ~10m talk at the beginning of the
 competition regarding matters of importance, which at a high level are:
  * Health and Safety 
@@ -16,6 +18,7 @@ The competition intro talk should:
    from gate to gate.
  * Lay down rules on who is allowed where
  * Describe tinker time and make it clear how one books tinker time.
+
 ## License
 
 This work is licensed under the Creative Commons

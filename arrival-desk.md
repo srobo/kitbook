@@ -1,4 +1,4 @@
-Brand new this year!
+# Arrival Desk Volunteer
 
 The arrival desk is a location for co-ordinating with teams and volunteers at
 the start of the competition. There are two aims:
@@ -28,6 +28,7 @@ throughout the competition. They need to be provided with the t-shirt they
 ordered and a printed schedule of what they're doing for the day.
 
 After initial influx, the reception will absorb this role.
+
 ## License
 
 This work is licensed under the Creative Commons
