@@ -1,6 +1,6 @@
 # Competition Team Coordinator Role Documentation
 
-This is the
+This is the documentation for the competition team coordinator role.
 
 There are 7 subordinate roles at the event, each of which is described
 in the following documents:
