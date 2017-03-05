@@ -13,8 +13,8 @@ report to the production manager:
 Role | Volunteer 
 -----|-----------
 [Venue Manager](roles/venue-manager.md) | Rob Spanton
-[Arena Manager](roles/arena-manager) | 
-[Pits Manager](roles/pits-manager) | 
+[Arena Manager](roles/arena-manager) | Rich Barlow
+[Pits Manager](roles/pits-manager) | Rich Barlow
 [Network Manager](roles/network-manager) | 
 
 ## Matters of Interest
