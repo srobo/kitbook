@@ -1,5 +1,7 @@
 # Competition Team Coordinator
 
+This document is a description of the high-level responsibilities of the competition team coordinator role (and not how the role should be done!)
+
 The competition team coordinator has the following responsibilities:
 
  1. Ensuring teams are well-informed about the event whilst they are
