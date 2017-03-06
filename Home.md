@@ -10,16 +10,22 @@ The following tasks are generally applicable from one year to the next. As the r
 
 Pre-competition (in no particular order):
 
- * Specify and order tape (coloured gaffer for corner related things, double-sided for carpet laying and marker application [arena and tokens], black for carpet edge and other uses).
- * Specify and source/hire crowd barrier requirements for use around arenas and staging area.
+ * Specify the following and communicate requirements to the Production Manager, who will handle hire:
+    * Network equipment (switches, cables, etc). Work with Competition Software Coordinator to spec.
+    * Power equipment.
+    * Screens and screen mounts. Work with Competition Software Coordinator to spec.
+    * Desks and chairs for the staging and match coordination areas.
+    * Crowd barriers for use around the arenas and the staging area.
+ * Specify and order tape. A non-exhaustive list:
+    * Coloured gaffer for corner related things (e.g. game props, corner markings, robot badges).
+    * Double-sided for carpet laying.
+    * Double-sided tape for marker application (arena and tokens).
+    * Black gaffer tape for carpet edge and other misc uses.
+    * White gaffer tape for game props (if required) and other misc uses.
  * Specify and order carpet.
- * Specify and hire network equipment.
- * Specify and hire power equipment.
- * Specify and order libkoki markers (game dependent) and arena labels.
- * Specify and order materials for game props (game dependent).
- * Specify and hire screens and screen mounts.
- * Work with Competition Software Coordinator to obtain necessary display hardware.
- * Specify and source/hire staging area desks.
+ * Specify and order libkoki markers (game dependent) and arena labels. (Check arena labels from the previous year to assess suitability.)
+ * Specify and order materials for game props (e.g. cardboard boxes).
+ * Work with Competition Software Coordinator to arrange for display computers to be available during set up.
  * Specify and source/order arena walls (we already own some, so only required if they change).
 
 Setup (roughly in time order):
