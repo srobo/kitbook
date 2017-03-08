@@ -23,8 +23,8 @@ When teams have to return a kit to us we provide them with a return shipping pac
 | 112x80mm caution lithium ion battery label | 1 | [Limpet Labels](http://www.limpetlabels.co.uk/shop/view/293_Caution_Lithium_Battery_Labels/755_Caution_Lithium_Ion_Battery_Labels_%28112_x_80mm%29) |  |
 | A6 plain document wallet | 2 | [UK Packaging ref 10008](http://www.ukpackaging.com/document-wallets-a6-document-enclosed-wallets-plain) | One to use for address label. One spare. |
 | 750mm wide kraft paper | 2m | [UK Packaging ref 11042](http://www.ukpackaging.com/kraft-paper-rolls-imitation-kraft-kraft-paper-rolls-imitation-kraft-750mmx220m) |  |
-|  |  |  |  |
-|  |  |  |  |
+| 120x215mm \(internal\) gold jiffy bag | 4 | [UK Packaging ref 09033](http://www.ukpackaging.com/arofol-classic-postal-bags-gold-2) |  |
+| 170x245mm \(internal\) white jiffy bag | 4 | [UK Packaging ref 09312](http://www.ukpackaging.com/jiffy-earth-aware-airkraft-white-ak1-170x245mm-50-pack) |  |
 
 
 
