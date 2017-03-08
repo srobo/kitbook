@@ -16,8 +16,15 @@ This information on packaging of kits and kit parts is for internal use only. Th
 
 When teams have to return a kit to us we provide them with a return shipping pack. This kit contains the following:
 
-* 1 off 575x700mm polythene bag \([http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu)\) [bag research](return_shipping_bag_research)
-* 4 off 160x4.8mm cable ties \([http://www.cabletiesonline.co.uk/cable-ties/cable-ties-160mm-x-4-8mm/prod\_402.html](http://www.cabletiesonline.co.uk/cable-ties/cable-ties-160mm-x-4-8mm/prod_402.html)\)
+| Item | Quantity | URL | Notes |
+| :--- | :--- | :--- | :--- |
+| 575x700mm polythene bag | 1 | [UK Packaging ref 08220](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu) | TODO research link |
+| 160x4.8mm cable tie | 5 | [Cableties Online](https://www.cabletiesonline.co.uk/cable-ties-b-w/cable-ties-160mm-x-4.html) | Two per handle. One spare. |
+| 112x80mm caution lithium ion battery label | 1 | [Limpet Labels](http://www.limpetlabels.co.uk/shop/view/293_Caution_Lithium_Battery_Labels/755_Caution_Lithium_Ion_Battery_Labels_%28112_x_80mm%29) |  |
+| A6 plain document wallet | 2 | [UK Packaging ref 10008](http://www.ukpackaging.com/document-wallets-a6-document-enclosed-wallets-plain) | One to use for address label. One spare. |
+| 750mm wide kraft paper | 2m | [UK Packaging ref 11042](http://www.ukpackaging.com/kraft-paper-rolls-imitation-kraft-kraft-paper-rolls-imitation-kraft-750mmx220m) |  |
+|  |  |  |  |
+|  |  |  |  |
 
 
 
