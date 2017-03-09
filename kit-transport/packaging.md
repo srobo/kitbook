@@ -30,26 +30,26 @@ When teams have to return a kit to us we provide them with a return shipping pac
 
 1. Check all parts are present \(use list provided and notify LTC of any missing items\).
 2. Place parts into jiffy bags \(do not seal unless specified\):
-   1. Large white:
+   1. Large white **\[photo of four bags with the parts in front\]:**
       1. 1x tablet
       2. 1x battery charger
       3. 1x battery charger power supply, 1x webcam, 1x tablet charger
       4. 1x power board, 1x servo board
-   2. Small brown:
+   2. Small brown **\[photo of four bags with the parts in front\]**:
       1. 2x batteries
       2. 2x motor boards, 1x ruggeduio with screw shields plugged in
       3. 2x USB hubs, 1x brain board
       4. Remaining loose items: wifi dongles, usb memory stick, camcons \(7.5, 5 and 3.81mm\), screwdriver, brain board power cable. **seal**.
-3. Place jiffy bag containing the batteries into the battery charging bag
+3. Place jiffy bag containing the batteries into the battery charging bag **\[photo of jiffy bag partially in charging bag\]**
 4. Tear the brown paper into two equally sized pieces
-5. Scrunch up one piece of brown paper and place in the bottom of the RUB
-6. Place battery charging bag, jiffy bags and all cables \(full size USB, micro USB and any wire\) into the RUB
-7. Scrunch up the other piece of brown paper and place on top of the stuff
-8. Fit the lid onto the RUB and seal handles with four cable ties \(do not cut the cable ties as the sharp corners could tear the bag\)
-9. Place the sealed RUB into the bag
-10. Seal the bag closed
+5. Scrunch up one piece of brown paper and place in the bottom of the RUB **\[photo of scrunched up paper in the bottom of RUB\]**
+6. Place battery charging bag, jiffy bags and all cables \(full size USB, micro USB and any wire\) into the RUB **\[photo of stuff in RUB\]**
+7. Scrunch up the other piece of brown paper and place on top of the stuff **\[photo of scrunched up paper on top\]**
+8. Fit the lid onto the RUB and seal handles with four cable ties \(do not cut the cable ties as the sharp corners could tear the bag\) **\[photo of cable tie being threaded through, photo of loose cable tie, photo of complete handle demonstrating tail direction\]**
+9. Place the sealed RUB into the bag **\[photo of RUB partially in the bag\]**
+10. Seal the bag closed **\[photo of the sealed bag highlighting it being tight\]**
 11. Stick the LiPo sticker onto the bag
-12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag \(don't forget to remove the narrow backing strip too\).
+12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag \(don't forget to remove the narrow backing strip too\) **\[photo of lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
 14. Notify your LTC that the kit is ready for collection.
 
