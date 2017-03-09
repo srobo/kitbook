@@ -18,7 +18,7 @@ When teams have to return a kit to us we provide them with a return shipping pac
 
 | Item | Quantity | URL | Notes |
 | :--- | :--- | :--- | :--- |
-| 575x700mm polythene bag | 1 | [UK Packaging ref 08220](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu) | [Bag size research](research#return-shipping-bag) |
+| 575x700mm polythene bag | 1 | [UK Packaging ref 08220](http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu) | [Bag size research](../research.md#return-shipping-bag) |
 | 160x4.8mm cable tie | 5 | [Cableties Online](https://www.cabletiesonline.co.uk/cable-ties-b-w/cable-ties-160mm-x-4.html) | Two per handle. One spare. |
 | 112x80mm caution lithium ion battery label | 1 | [Limpet Labels](http://www.limpetlabels.co.uk/shop/view/293_Caution_Lithium_Battery_Labels/755_Caution_Lithium_Ion_Battery_Labels_%28112_x_80mm%29) |  |
 | A6 plain document wallet | 2 | [UK Packaging ref 10008](http://www.ukpackaging.com/document-wallets-a6-document-enclosed-wallets-plain) | One to use for address label. One spare. |
