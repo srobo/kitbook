@@ -26,5 +26,32 @@ When teams have to return a kit to us we provide them with a return shipping pac
 | 120x215mm \(internal\) gold jiffy bag | 4 | [UK Packaging ref 09033](http://www.ukpackaging.com/arofol-classic-postal-bags-gold-2) |  |
 | 170x245mm \(internal\) white jiffy bag | 4 | [UK Packaging ref 09312](http://www.ukpackaging.com/jiffy-earth-aware-airkraft-white-ak1-170x245mm-50-pack) |  |
 
+### Instruction Notes
+
+1. Check all parts are present \(use list provided and notify LTC of any missing items\).
+2. Place parts into jiffy bags \(do not seal unless specified\):
+   1. Large white:
+      1. 1x tablet
+      2. 1x battery charger
+      3. 1x battery charger power supply, 1x webcam, 1x tablet charger
+      4. 1x power board, 1x servo board
+   2. Small brown:
+      1. 2x batteries
+      2. 2x motor boards, 1x ruggeduio with screw shields plugged in
+      3. 2x USB hubs, 1x brain board
+      4. Remaining loose items: wifi dongles, usb memory stick, camcons \(7.5, 5 and 3.81mm\), screwdriver, brain board power cable. **seal**.
+3. Place jiffy bag containing the batteries into the battery charging bag
+4. Tear the brown paper into two equally sized pieces
+5. Scrunch up one piece of brown paper and place in the bottom of the RUB
+6. Place battery charging bag, jiffy bags and all cables \(full size USB, micro USB and any wire\) into the RUB
+7. Scrunch up the other piece of brown paper and place on top of the stuff
+8. Fit the lid onto the RUB and seal handles with four cable ties \(do not cut the cable ties as the sharp corners could tear the bag\)
+9. Place the sealed RUB into the bag
+10. Seal the bag closed
+11. Stick the LiPo sticker onto the bag
+12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag \(don't forget to remove the narrow backing strip too\).
+13. Hand the package to reception/who ever it will be collected from.
+14. Notify your LTC that the kit is ready for collection.
+
 
 
