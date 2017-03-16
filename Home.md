@@ -10,10 +10,10 @@ manager.
 The production team consists of the following roles, all of which
 report to the production manager:
 
-Role | Volunteer 
------|-----------
+Role | Volunteer | Docs
+-----|-----------|---
 [Venue Manager](roles/venue-manager.md) | Rob Spanton
-[Arena Manager](roles/arena-manager) | Rich Barlow
+[Arena Manager](roles/arena-manager) | Rich Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/Home)
 [Pits Manager](roles/pits-manager) | Rich Barlow
 [Network Manager](roles/network-manager) | 
 
