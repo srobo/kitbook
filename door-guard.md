@@ -6,9 +6,11 @@ To this end, door guards are people who guard the exit doors at the venue:
 near the reception end of the building there are exits to the car park.
 
 Door guards shouldn't constrict access to the exits, but instead challenge
-people exiting thus:
+people exiting:
+
  * Has your team been signed out at reception?
- * (If carrying kit) Has your team arranged a loan extension for the kit?
+ * (If carrying kit **without** a kit authorisation sticker on it) Send them to the kit return desk before allowing them to leave.
+ * (If carring kit **with** a kit authorisation sticker) Allow them to leave.
 
 Guard duty starts from the moment the final match stops (many teams don't wait
 for awards before leaving).

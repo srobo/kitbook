@@ -6,29 +6,36 @@ sign out at reception should ensure that kit return staff do not have to
 actively solicit kit from teams: they should present it to the staff.
 
 Kit should only be accepted when it is placed in a RUB: loose kit should be
-rejected [0]. When presented with a RUB full of kit, kit return staff should:
- * Put the RUB on the kit return desk and instruct the team member to hang
-   around while the contents are checked
- * Take a printed list-of-kit and examine the returned kit, ticking off items
-   that are definitely in the RUB.
- * If any items are missing, ask the team member where they are; they should
-   return them immediately if the kit items are on site, we do not allow partial
-   kit return.
- * If items are missing and not on-site, write these onto a printed 'missing kit
-   form', and have the team member sign it.
- * Check against a printed list of extra-kit that kits have received through
-   the year due to breakagaes / replacements. Any extra kit the team has
-   received should be in the kit box: if it isn't, treat it as missing kit.
- * Ensure there are no batteries in the kit box.
- * Release the team member to leave
- * Take the ticked-off list-of-kit form, sign it, and place it in the RUB
- * Tape the RUB handles up with electrical tape (to indicate it should be
-   treated as sealed)
- * Put a name label on the *end* of the RUB and write the teams TLA on it
-   (to allow for swift lookup of whos-rub-has-been-returned)
- * Place the RUB onto a stack of returned kit.
+rejected. When presented with a RUB full of kit, kit return staff should:
 
-[0] With the exception of German teams, as they didn't get any RUBs in sr2016.
+**Don't let people leave the competition for good with any kit if they aren't on the list of teams authorised to keep their kit**
+
+* For teams returning their kit (the majority of teams):
+    * Check the contents against a list of parts expected in the kit.
+     Make all reasonable attempts to retrieve kit there and then i.e. if they've left a bit upstairs they go and get it.
+    * If they do not have something, record it on a missing kit form.
+    * If the kit return form indicates that they have more than a normal kit to return (i.e. they had broken kit and did not return it upon arrival), see if they can return it now. If not, record it on a missing kit form.
+    * Indicate if all parts are present or if a missing kit form has been filled in on the kit return form (provided by me).
+    * Write down the part code of the Really Useful Box on the kit return form.
+    * Get their team leader to sign and write their name on the kit return form.
+
+* For teams keeping their kit (based on a list of teams authorised to do this):
+    * Write down the part code of the Really Useful Box on the kit return form.
+    * Give them two batteries, a battery charging bag and a charger+PSU. Record the part numbers of these five things on the kit return form.
+    * Get their team leader to sign and write their name on the kit return form.
+    * Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
+
+* For each returned kit:
+    * Remove any batteries from the kit and store them separately
+    * Seal the handles of the kit with tape
+    * Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
+    * Stack the box with the post-it visible
+
+    
+This workflow is shown in the diagram below.
+
+![Kit return flow](./Diagrams/KitReturnDeskFlow.svg)
+
 ## License
 
 This work is licensed under the Creative Commons

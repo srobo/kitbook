@@ -5,39 +5,15 @@ tickets and/or wristbands. Each reception staffer has a desk, chair, and
 computer.
 
 There are four flavours of visitor to the competition: competitors,
-team-leaders, volunteers and true-visitors.
+team-leaders, volunteers and true-visitors. **Everyone** must complete a media consent form (MCF). Under 18's must have this form completed by a parent or guardian.
 
-When someone enters the building, the following procedure should be
-followed:
- * Call the guest forwards to their desk
- * Entrance to the competition is allowed according to the rules below: you
-   should start by asking whether the guest is a competitor or not, and then
-   determine what flavour of visitor they are from there.
-   * If they are a COMPETITOR or TEAM-LEADER with a TICKET:
-     * Scan the QR code on the ticket (with the reception-desk software [0]) and
-       check them in
-   * If they are a team-leader WITHOUT a ticket:
-     * Have them fill in a media consent form
-   * If they are a COMPETITOR and wish to fill in or return a MCF:
-     * Call for jmorse, who will determine whether we should accept it
-   * If they are a volunteer:
-     * Have them fill in a media consent form
-   * If they are a true-visitor:
-     * Have them fill in a media consent form
-     * Check whether they appear on a guest-list that you'll be issued with.
-       If they are, then someone at the comeptition wants to know when they
-       arrive: you should phone the number on the guest list when this occurs.
-   * If none of these criteria are met, you should deny them entry to the
-     competition.
- * If entry is granted, hand the guest a wristband and ask them to get it
-   crimped.
- * Some guests should visit the arrival desk when they arrive. These are:
-   * All volunteers
-   * All team-leaders
-   * Any competitors holding robots or kit boxes
- * Allow the person into the building
+When someone enters the building, you should follow the procedure below.
 
-At the start of the competition day there will be four reception staffers
+**Note: Training on how to use the scanning software will be given on the morning by the competition team coordinator.**
+
+![Reception Desk Flow](./Diagrams/ReceptionDeskFlow.svg)
+
+At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
 will reduce to two. Additionally, after the initial influx, receptionists
 should allow people wearing SR wristbands to enter the building at will (they
@@ -54,7 +30,6 @@ After the initial influx of people, the 'crimper' and 'arrival-desk' roles
 will be absorbed by the receptionist. If you have a time slot after the first
 slot of the day, read those roles too.
 
-[0] Training on how to use this software will be given on the morning by jmorse.
 ## License
 
 This work is licensed under the Creative Commons
