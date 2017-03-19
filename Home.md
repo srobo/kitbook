@@ -1,42 +1,32 @@
-# Welcome
+> [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Competition Event Coordinator](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home) » [Production Manager](https://bitbucket.org/rspanton/sr-production/wiki/Home)
 
-Welcome to your wiki! This is the default page we've installed for your convenience. Go ahead and edit it.
+# Student Robotics Pit Manager
 
-## Wiki features
+This is the Pit Manager's documentation. The Pit Manager is responsible for constructing and de-constructing the pits at the competition.
 
-This wiki uses the [Markdown](http://daringfireball.net/projects/markdown/) syntax. The [MarkDownDemo tutorial](https://bitbucket.org/tutorials/markdowndemo) shows how various elements are rendered. [Bitbucket documentation](https://confluence.atlassian.com/display/BITBUCKET/Use+a+wiki) has more information about how using a wiki.
+## Tasks
 
-The wiki itself is actually a git repository, which means you can clone it, edit it locally/offline, add images or any other file type, and push it back to us. It will be live immediately.
+The following tasks are generally applicable from one year to the next. As the responsibilities of the role change these tasks should be updated to suit.
 
-Go ahead and try:
+Pre-competition (in no particular order):
 
-```
-$ git clone https://richardbarlow@bitbucket.org/richardbarlow/sr-pit-manager.git/wiki
-```
+ * Specify the following and communicate requirements to the Production Manager, who will handle hire:
+    * Power equipment.
+    * Tables and chairs.
+ * Specify and order tape. A non-exhaustive list:
+    * Black gaffer tape for pit flags and other misc uses.
+    * White gaffer tape for pit flags and other misc uses.
 
-Wiki pages are normal files, with the .md extension. You can edit them locally, as well as creating new ones.
+Setup (roughly in time order):
 
-## Syntax highlighting
+ * Mark out the pit boundaries
+ * Place the pit tables and chairs
+ * Assemble pit flags
+ * Attach pit flags to desks (following map)
+ * Attach pit sheets to desks
 
+## Year Specific Documentation
 
-You can also highlight snippets of text (we use the excellent [Pygments][] library).
+The above tasks are vague descriptions of what needs to be done. Details documentation for each year can be found on the relevant page:
 
-[Pygments]: http://pygments.org/
-
-
-Here's an example of some Python code:
-
-```
-#!python
-
-def wiki_rocks(text):
-    formatter = lambda t: "funky"+t
-    return formatter(text)
-```
-
-
-You can check out the source of this page to see how that's done, and make sure to bookmark [the vast library of Pygment lexers][lexers], we accept the 'short name' or the 'mimetype' of anything in there.
-[lexers]: http://pygments.org/docs/lexers/
-
-
-Have fun!
+ * [[SR2017]]
