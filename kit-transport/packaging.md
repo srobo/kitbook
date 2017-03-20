@@ -26,7 +26,9 @@ When teams have to return a kit to us we provide them with a return shipping pac
 | 120x215mm \(internal\) gold jiffy bag | 4 | [UK Packaging ref 09033](http://www.ukpackaging.com/arofol-classic-postal-bags-gold-2) |  |
 | 170x245mm \(internal\) white jiffy bag | 4 | [UK Packaging ref 09312](http://www.ukpackaging.com/jiffy-earth-aware-airkraft-white-ak1-170x245mm-50-pack) |  |
 | 220x320mm \(internal\) white jiffy bag | 1 | [UK Packaging ref 09314](http://www.ukpackaging.com/postal-packaging/jiffy-bags/jiffy-earth-aware-airkraft-white-ak3-220x320mm-50-pack) | To put the whole return shipping pack into. |
-| Return shipping pack instructions | 1 | [Revision 1](https://github.com/srobo/return-shipping-pack/releases/download/v1/return-shipping-pack-instructions.pdf) |  |
+| Return shipping pack instructions | 1 | [Revision SR2017-2](https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/return-shipping-pack-instructions.pdf) |  |
+| Loan extension instructions | 1 | [Revision SR2017-2](https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/loanext-instructions.pdf) | Only included in return shipping packs handed out at the end of the competition. |
+| Kit list | 1 | [Kit Definition](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Kit%20Definition) | Only included in return shipping packs handed out at the end of the competition. Remove 'disclaimer'  and the wire from the list. |
 
 ### Instruction Notes
 
