@@ -2,7 +2,13 @@
 
 # Student Robotics Competition Team Support Documentation
 
-This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of three roles: [[Helpdesk]] Volunteers, [[Battery Charging]] Volunteers and [[Roving Helpers]]. These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
+This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of three roles:
+
+ * [[Helpdesk]] Volunteers
+ * [[Battery Charging]] Volunteers
+ * [[Roving Helpers]]
+
+These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
 
 ## Helpdesk
 The main source of support for teams is Helpdesk. Helpdesk is always manned by at least two volunteers and ideally three volunteers. There should always be at least one volunteer who has experience with the SR kit on Helpdesk at any point in time. Further details can be found in the [[Helpdesk]] docs.
