@@ -2,9 +2,10 @@
 
 # Student Robotics Competition Team Support Documentation
 
-This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of three roles:
+This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of four roles:
 
  * [[Helpdesk]] Volunteers
+ * [[Battery Shufflers]]
  * [[Battery Charging]] Volunteers
  * [[Roving Helpers]]
 
