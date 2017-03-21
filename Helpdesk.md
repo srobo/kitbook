@@ -98,6 +98,8 @@ Based on issues handled in previous years, the following may be helpful:
 
 | Key phrase | Resolution |
 |------------|------------|
-| "Failed to dequeue buffer Assertion 'frame != ((void*0)' failed" | There was a problem with the webcam. Make sure it's plugged in. Make sure the webcam is plugged directly into the brain board (not via a USB hub). If the problem keeps occurring, try swapping out the webcam. |
+| "Failed to dequeue buffer Assertion 'frame != ((void*0)' failed" | There was a problem with the webcam. Make sure it's plugged in. Make sure the webcam is plugged directly into the brain board (not via a USB hub). If the problem keeps occurring, try swapping out the webcam (following the procedure). |
 | Need to initialise servos to non-zero position | Use 'Custom Robot Object Initialisation' and set position between `.init()` and `.wait_start()`. (On 'Programming->sr' page of docs near the bottom) |
-|
+| How to access starting corner/zone number in code | Use 'R.zone' (On 'Programming->sr' page of docs in the 'Other Robot Attributes' section) |
+| Worried about token/marker offset of 100 in competition mode | We handle this automatically, they do not need to worry. If their code works in development mode with development markers, it will work in competition mode with competition markers. They must ensure that they plug the arena/competition key provided to them in the staging area into their robot before they turn the power on. |
+| Any issues with tablets/charging of tablets | Remind teams that they can access the robot interface on any WiFi enabled defined, i.e. a laptop, phone or tablet of their own. Direct them to the 'Kits->WiFi' page in the docs. If they really want to use the tablet and the battery is knackered, swap it out (following the procedure). |
