@@ -25,11 +25,11 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 ## Volunteer Requirements
 
-At least one volunteer on Helpdesk must have prior experience of the use of the Student Robotics kit. All volunteers must sign-in on the Helpdesk Volunteer Sign-in sheet when starting their shift.
+At least one volunteer on Helpdesk must have prior experience of the use of the Student Robotics kit.
 
 ## Procedures
 
-Almost all of Helpdesk's operations are covered by the following procedures. A logbook is available on Helpdesk to allow Helpdesk Volunteers to write down notes and information not captured in the provided forms. Please feel free to note down any observations or suggestions that could improve Helpdesk.
+Almost all of Helpdesk's operations are covered by the following procedures.
 
 ### Handling of all requests
 
