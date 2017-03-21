@@ -88,6 +88,16 @@ Some teams have been granted permission to keep the kit for a little while after
 
 Teams may request a piece of velcro to use on their robot for the purpose of attaching the robot badges. As we have a limited supply of velcro, please follow the instructions on the velcro measurements/instruction sheet. Make sure that you cross off their TLA once they have a piece of velcro so that they can't keep coming back for more.
 
+### Handling requests for sample robot badge
+
+The robots have 'robot badges' on them during competition matches. A team may ask for a sample badge to check for size. Helpdesk has a single sample badge to lend out to teams. Teams **MUST** return this badge to helpdesk ASAP. When handing it out take note of the team's TLA and chase them up if they haven't returned it in 5 mins.
+
 ### Frequently Asked Questions
 
 Based on issues handled in previous years, the following may be helpful:
+
+| Key phrase | Resolution |
+|------------|------------|
+| "Failed to dequeue buffer Assertion 'frame != ((void*0)' failed" | There was a problem with the webcam. Make sure it's plugged in. Make sure the webcam is plugged directly into the brain board (not via a USB hub). If the problem keeps occurring, try swapping out the webcam. |
+| Need to initialise servos to non-zero position | Use 'Custom Robot Object Initialisation' and set position between `.init()` and `.wait_start()`. (On 'Programming->sr' page of docs near the bottom) |
+|
