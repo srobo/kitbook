@@ -5,9 +5,9 @@
 This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of four roles:
 
  * [[Helpdesk]] Volunteers
- * [[Battery Shufflers]]
+ * [[Battery Shuffler]]
  * [[Battery Charging]] Volunteers
- * [[Roving Helpers]]
+ * [[Roving Helper]]
 
 These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
 
@@ -15,7 +15,7 @@ These roles will be filled by various people throughout the competition. All vol
 The main source of support for teams is Helpdesk. Helpdesk is always manned by at least two volunteers and ideally three volunteers. There should always be at least one volunteer who has experience with the SR kit on Helpdesk at any point in time. Further details can be found in the [[Helpdesk]] docs.
 
 ## Battery Shufflers
-When teams arrive at the competition we take their batteries, chargers and battery bags off of them at the arrival desk. These parts need ferrying from the arrival desk to the battery charging station. Also, at the end of the competition, teams that have a loan extension approval will need to be given batteries, a charger and a battery bag before they leave. These parts need ferrying from the battery charging station to the arrival desk. Further details can be found in the [[Battery Shufflers]] docs.
+When teams arrive at the competition we take their batteries, chargers and battery bags off of them at the arrival desk. These parts need ferrying from the arrival desk to the battery charging station. Also, at the end of the competition, teams that have a loan extension approval will need to be given batteries, a charger and a battery bag before they leave. These parts need ferrying from the battery charging station to the arrival desk. Further details can be found in the [[Battery Shuffler]] docs.
 
 ## Battery Charging
 Student Robotics takes responsibility for charging of batteries throughout the competition. The battery charging station is located next to [[Helpdesk]]. The battery charging station is always manned by at least one volunteer and ideally two volunteers. Further details can be found in the [[Battery Charging]] docs.
