@@ -18,6 +18,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Radio
  * Emergency contact numbers for the Competition Team Support Coordinator (Rich Barlow) and the Competition Event Coordinator (Rob Spanton)
  * Spare robot badge for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+ * Saturday evening battery/charger loans
 
 ## Volunteer Requirements
 
@@ -71,6 +72,14 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 ### Swapping out kit
 
 After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/src/master/forms/kit_swap_form.odt) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+
+### Handling requests for batteries/chargers/bags on Saturday evening
+
+Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Saturday Evening Battery/Charger Loans' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station.
+
+### Handling requests for batteries/chargers/bags on Sunday evening
+
+Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries and stuff. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' downstairs when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not as that is where teams keeping kit will receive their batteries and stuff.
 
 ### Frequently Asked Questions
 
