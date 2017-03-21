@@ -13,7 +13,7 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 
 ## Volunteer Requirements
 
-Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be discussed with Rich Barlow ASAP. All volunteers must sign-in on the Battery Charging Volunteer Sign-in sheet when starting their shift. The sign-in sheet is kept on Helpdesk.
+Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be discussed with Rich Barlow ASAP.
 
 ## Safety
 
