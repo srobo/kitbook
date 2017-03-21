@@ -60,7 +60,6 @@ Python API
 :   Peter Law
 :   Rich Barlow
 :   Rob Spanton
-:   Jeremy Morse
 
 ### Handling suspected damaged kit requests
 
