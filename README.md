@@ -13,6 +13,8 @@ in the following documents:
  * [Reception](./reception.md)
  * [Tinker](./tinker.md)
 
+**Note: Typically the comptetition team coordinator role also includes ensuring teams have adequate orientation and information about the rules. A document covering this for the 2017 competition can be found [here](./orientationAndPitRules.md).**
+
 ## License
 
 This work is licensed under the Creative Commons
