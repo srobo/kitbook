@@ -34,6 +34,14 @@ After the initial influx of people, the 'arrival-desk' role
 will be absorbed by the receptionist. If you have a time slot after the first
 slot of the day, read that role description too.
 
+## Required items
+You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
+
+* A laptop with scanning software running to scan tickets on entry
+* Spare MCFs to allow visitors to enter
+* Pens to fill in MCFs
+* Wristbands to give to entrants
+
 ## License
 
 This work is licensed under the Creative Commons

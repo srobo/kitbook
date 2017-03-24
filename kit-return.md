@@ -36,8 +36,8 @@ This workflow is shown in the diagram below.
 
 ![Kit return flow](./Diagrams/KitReturnDeskFlow.svg)
 
-## Documentation
-You should have the following documents present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
+## Required Items
+You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
 
 * Sign-out sheet.
 * Kit return table (indicating teams and kit to return).
