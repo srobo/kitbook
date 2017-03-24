@@ -1,5 +1,7 @@
 # Crimper Volunteer
 
+**Note: For the 2017 competition, the armbands provided have plastic fixings. This means that the crimper role will be performed directly by reception staff and there will be no secondary role**
+
 Crimping staff are responsible for operating wristband crimpers, to securely
 attach wristbands to the wrists of competition attendees. Everyone permitted
 through reception will be given a loose wristband: crimpers stand behind

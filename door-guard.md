@@ -9,11 +9,11 @@ Door guards shouldn't constrict access to the exits, but instead challenge
 people exiting:
 
  * Has your team been signed out at reception?
- * (If carrying kit **without** a kit authorisation sticker on it) Send them to the kit return desk before allowing them to leave.
+ * (If carrying kit **without** a kit authorisation sticker on it) Send them to the kit return desk before allowing them to leave. If they think they should be able to retain their kit (pre-agreed with SR before the competition), make sure they have visited the kit return desk prior to leaving to obtain the relevant authorisation sticker.
  * (If carring kit **with** a kit authorisation sticker) Allow them to leave.
 
-Guard duty starts from the moment the final match stops (many teams don't wait
-for awards before leaving).
+Guard duty starts from the moment the kickoffs begin (many teams don't wait
+for awards or to see matches they aren't participating in before leaving).
 ## License
 
 This work is licensed under the Creative Commons

@@ -36,6 +36,18 @@ This workflow is shown in the diagram below.
 
 ![Kit return flow](./Diagrams/KitReturnDeskFlow.svg)
 
+## Documentation
+You should have the following documents present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
+
+* Sign-out sheet.
+* Kit return table (indicating teams and kit to return).
+* Missing kit form (indicating which teams have reported missing kit prior to the comptetition).
+* Extra kit form (indicating which teams have been provided with additional kit prior, or during the comptetition).
+* Kit extension list (indicating which teams are allowed to keep their kit after the competition).
+* Kit extension labels (to mark boxes that may leave the building).
+* Kit return shipping packs (to provide to teams that are keeping kit).
+* Name labels to mark up the RUBs.
+
 ## License
 
 This work is licensed under the Creative Commons
