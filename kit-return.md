@@ -39,6 +39,7 @@ This workflow is shown in the diagram below.
 ## Required Items
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
 
+* This documentation and flow chart.
 * Sign-out sheet.
 * Kit return table (indicating teams and kit to return).
 * Missing kit form (indicating which teams have reported missing kit prior to the comptetition).
