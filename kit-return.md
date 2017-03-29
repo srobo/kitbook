@@ -23,6 +23,7 @@ rejected. When presented with a RUB full of kit, kit return staff should:
     * Write down the part code of the Really Useful Box on the kit return form.
     * Give them two batteries, a battery charging bag and a charger+PSU. Record the part numbers of these five things on the kit return form.
     * Get their team leader to sign and write their name on the kit return form.
+    * Give the team a return kit and ensure you inform them that they will be responsible for return shipping charges.
     * Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
 
 * For each returned kit:
@@ -41,10 +42,8 @@ You should have the following items present for your duties. If you do not, plea
 
 * This documentation and flow chart.
 * Sign-out sheet.
-* Kit return table (indicating teams and kit to return).
-* Missing kit form (indicating which teams have reported missing kit prior to the comptetition).
-* Extra kit form (indicating which teams have been provided with additional kit prior, or during the comptetition).
-* Kit extension list (indicating which teams are allowed to keep their kit after the competition).
+* Kit return table (indicating teams and kit to return, as well as details of teams that are authorised to keep kit).
+* Missing kit form (blank forms that you can use to mark items that are missing from returned kit).
 * Kit extension labels (to mark boxes that may leave the building).
 * Kit return shipping packs (to provide to teams that are keeping kit).
 * Name labels to mark up the RUBs.
