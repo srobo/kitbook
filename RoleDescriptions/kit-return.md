@@ -35,7 +35,7 @@ rejected. When presented with a RUB full of kit, kit return staff should:
     
 This workflow is shown in the diagram below.
 
-![Kit return flow](./Diagrams/KitReturnDeskFlow.svg)
+![Kit return flow](../Diagrams/KitReturnDeskFlow.svg)
 
 ## Required Items
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.

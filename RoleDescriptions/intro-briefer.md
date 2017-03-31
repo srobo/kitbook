@@ -1,6 +1,6 @@
 # Introductory Briefer
 
-The introductory and H&S brief-er gives a ~10m talk at the beginning of the
+The introductory and H&S briefer gives a ~10m talk at the beginning of the
 competition regarding matters of importance, which at a high level are:
 
  * Health and Safety 
