@@ -1,10 +1,10 @@
-SR2018 Arena Documentation
-==========================
+SR2017 Arena Documentation Feedback
+===================================
 
-Feedback/Notes from SR2017
---------------------------
+Display Assembly
+----------------
 
-Peter, who was involved in the display assembly, provided the following feedback for improving Display Assembly:
+Peter, who was involved in the display assembly, provided the following feedback:
 
  * Add a roll of black insulating tape to the materials, for cable tidying.
  * Add a second screwdriver to the equipment, to allow two people to be assembly simultaneously.
