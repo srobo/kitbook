@@ -1,6 +1,6 @@
 **Allocating Teams**
 
-* Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:
+* Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:   
     * Team Leader Name
     * Email address
     * Phone number
