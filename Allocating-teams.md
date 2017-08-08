@@ -1,17 +1,17 @@
 **Allocating Teams**
 
 * Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:
- * Team Leader Name
- * Email address
- * Phone number
- * Organisation
- * Organisation address
- * Organisation postcode
- * TLA
- * Rookie
- * LTC
- * LTC Area
- * LTC Email address
+    * Team Leader Name
+    * Email address
+    * Phone number
+    * Organisation
+    * Organisation address
+    * Organisation postcode
+    * TLA
+    * Rookie
+    * LTC
+    * LTC Area
+    * LTC Email address
 
 
 * Remove duplicate applications, keeping a record of the duplicate applications in case it is possible to allocate more than one team to an organisation.
