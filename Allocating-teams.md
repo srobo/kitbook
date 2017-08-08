@@ -31,9 +31,9 @@
  * ‘Kickstart Teams’ for Kickstart Coordinator: TLA, Organisation,  Postcode, LTC Area, LTC, LTC Email address.
 
 * Send ‘Team Leader Intro’ email via MailChimp to successful Team Leaders including following information:
- * Kickstart info
- * User account info
- * Inform re. TLA (using info from ‘SRYear Teams’ spreadsheet
- * Inform re. allocated LTC
- * Advice re. seeking help – i.e  website, forum, LTC, Mentor, Team Coordinator
- * Explain re. SR being a volunteer-run organisation.
+    * Kickstart info
+    * User account info
+    * Inform re. TLA (using info from ‘SRYear Teams’ spreadsheet
+    * Inform re. allocated LTC
+    * Advice re. seeking help – i.e  website, forum, LTC, Mentor, Team Coordinator
+    * Explain re. SR being a volunteer-run organisation.
