@@ -36,3 +36,9 @@ We have made a note that your organisation’s team dropped out without informin
 **Feedback**
 
 The Team Coordinator should seek feedback from the Team Leaders, LTCs and Mentors on their experiences and consider updating and refining processes.  In addition, the Team Coordinator should also reflect on own processes and update and refine as appropriate.  The Team Coordinator should liaise with relevant members of the SR team to improve processes.
+
+**Update Team Archive**
+
+Update Team Archive document with outcome of teams from this year's competition, i.e. whether dropped out (and when) or competed.
+
+Ideally this Archive would capture more and different types of information from each team during the SR programme which would be a relevant and useful resource for future years.  This would help to generate statistics about the teams involved in SR each year which would help to identity trends and to inform future organisation of SR.
