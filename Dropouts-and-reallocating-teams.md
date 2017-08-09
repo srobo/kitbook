@@ -2,6 +2,7 @@
 
 * A Team Leader would email their LTC informing them of their intention to withdraw from the competition.
 * The LTC emails the Team Coordinator (and Kickstart Coordinator if prior to Kickstart).
+* Efforts should be made to identify any issues that are preventing the team from continuing and solutions found if possible.  If they would still like to dropout after discussion, then follow procedure below.
 * LTC spreadsheet should be updated.
 * Team Coordinator to update SRYear Teams spreadsheet and other relevant spreadsheets.
 * Team Coordinator needs to re-allocate space to either new team or if no new teams remain, to allocate a second team to an organisation, if requested (taking into consideration successful participation of a second team in previous years’ competitions, by consulting ‘Team Archive’)
