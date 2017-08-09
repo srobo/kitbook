@@ -1,6 +1,6 @@
 **Dropouts**
 
-* A team leader would email their LTC informing them of their intention to withdraw from the competition.
+* A Team Leader would email their LTC informing them of their intention to withdraw from the competition.
 * The LTC emails the Team Coordinator (and Kickstart Coordinator if prior to Kickstart).
 * LTC spreadsheet should be updated.
 * Team Coordinator to update SRYear Teams spreadsheet and other relevant spreadsheets.
