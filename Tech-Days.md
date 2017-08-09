@@ -1,3 +1,5 @@
+Work needs to be done to produce guidance for LTCs about how to organise a Tech Day.
+
 Feedback questions for Tech Days:
   1. What were your objectives for the Tech Day?
   2. Do you feel that these objectives were successfully met?
