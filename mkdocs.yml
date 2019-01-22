@@ -4,6 +4,9 @@ repo_url: https://github.com/srobo/runbook
 strict: true
 edit_uri: blob/master/docs/
 theme:
+  logo:
+    icon: library_books
+  favicon: favicon.ico
   name: material
   feature:
     tabs: true
