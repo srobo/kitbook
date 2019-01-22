@@ -1,0 +1,55 @@
+site_name: SR RunBook
+site_url: https://srobo.github.io/runbook/
+repo_url: https://github.com/srobo/runbook
+strict: true
+edit_uri: blob/master/docs/
+theme:
+  name: material
+  feature:
+    tabs: true
+  palette:
+    primary: 'blue'
+    accent: 'blue'
+copyright: 'Copyright &copy; Student Robotics'
+
+# Customization
+extra:
+  social:
+    - type: globe
+      link: https://studentrobotics.org
+    - type: github-alt
+      link: https://github.com/srobo
+    - type: twitter
+      link: https://twitter.com/studentrobotics
+
+      # Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - mdx_include:
+      base_path: docs
+
+
+plugins:
+  - search
+  - markdownextradata

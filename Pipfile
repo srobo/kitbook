@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mkdocs = "*"
+mkdocs-material = "*"
+pymdown-extensions = "*"
+mdx-include = "*"
+yamllint = "*"
+mkdocs-markdownextradata-plugin = "*"
+
+[requires]
+python_version = "3"
+
+[scripts]
+serve = "mkdocs serve"
+build = "mkdocs build"
+lint-yaml = "yamllint -sc yamllint.yml yamllint.yml docs/ mkdocs.yml"
