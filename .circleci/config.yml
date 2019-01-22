@@ -1,0 +1,24 @@
+version: 2.0
+
+jobs:
+    build:
+        docker:
+            - image: circleci/python:3
+        steps:
+            - checkout
+
+            - restore_cache:
+                key: cache-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+            - run: pipenv install --dev
+            - save_cache:
+                key: cache-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
+                paths:
+                    - "/home/circleci/.local/share/virtualenvs"
+            - run: pipenv run build
+            - run: pipenv run lint-yaml
+
+workflows:
+    version: 2
+    build-and-deploy:
+        jobs:
+            - build
