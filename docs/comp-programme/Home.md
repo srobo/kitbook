@@ -15,7 +15,7 @@ Role | Volunteer | Documentation
 Competition Event Coordinator | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
 Game Design Coordinator | [unfilled] | [Overview](roles/game-design-coord.md)
 Kickstart Events Coordinator | Thomas Scarsbrook
-Team Coordinator | Fiona Gillan | [Docs](https://github.com/fgillan/sr-team-coord/wiki), [Draft Docs](https://github.com/srobo/team-coord-draft-docs/wiki)
+Team Coordinator | Fiona Gillan | [Docs](/teams)
 Kit Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
 Ancillary Software Coordinator |
 
