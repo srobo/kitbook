@@ -41,7 +41,7 @@ If you have any queries, please do let me know and hopefully as a team we can su
 
       3.If the forum is not working (no reply or unsatisfied with the outcome) contact their LTC
 
-    * Therefore if an LTC receives an email requesting help with some kit, they should politely guide the team to the forum or their mentor first - they may even find that their question has already been asked and answered. 
-    * If the team then indicates that they do not wish to make their problem public then the LTC can forward on their query to the relevant person. 
-    * For kit related queries this is kit-support@studentrobotics.org.   
+    * Therefore if an LTC receives an email requesting help with some kit, they should politely guide the team to the forum or their mentor first - they may even find that their question has already been asked and answered.
+    * If the team then indicates that they do not wish to make their problem public then the LTC can forward on their query to the relevant person.
+    * For kit related queries this is kit-support@studentrobotics.org.
     * For anything else they should do the default of emailing teams@studentrobotics.org.

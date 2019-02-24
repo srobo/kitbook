@@ -10,7 +10,7 @@ Use this sheet to **sign in** volunteers on Sunday the 2nd of April 2017.
 | gpayne | 8:30am | | |
 | hbuck | 8:30am | | |
 | jbutler | 8:30am | | |
-| jgough | 8:30am | 
+| jgough | 8:30am |
 | jhoward | 8:30am | | |
 | jroff | 8:30am | | |
 | jseden | 8:30am | | |

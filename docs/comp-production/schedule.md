@@ -21,7 +21,7 @@ First half of competition happening.
 
 
 ## 1st May, Sunday
-Second half of competition happening.  Get-out 
+Second half of competition happening.  Get-out
 
 
 ## 2nd May, Monday

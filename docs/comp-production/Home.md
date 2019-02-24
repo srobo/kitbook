@@ -15,7 +15,7 @@ Role | Volunteer | Docs
 [Venue Manager](roles/venue-manager.md) | Rob Spanton
 [Arena Manager](roles/arena-manager) | Rich Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/Home)
 [Pits Manager](roles/pits-manager) | Rich Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-pit-manager/wiki/Home)
-[Network Manager](roles/network-manager) | 
+[Network Manager](roles/network-manager) |
 
 ## Matters of Interest
 

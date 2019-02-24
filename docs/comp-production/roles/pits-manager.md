@@ -7,4 +7,3 @@ pits at the competition.
 
 The pits manager may bring in subordinate volunteers.  These
 volunteers may not create further subordinate roles.
-

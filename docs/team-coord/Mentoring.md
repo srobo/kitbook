@@ -32,7 +32,7 @@ Responsibilities
 
 There are currently five Local Team Coordinators who cover a rough geographic area of the country.  They will be responsible for you as a Mentor and will hopefully be able to arrange social events throughout the year where you can meet other Mentors.
 
-Think this is something you would like to be involved in?  We would ideally allocate a Mentor to each of the 54 teams so we need as many of you to volunteer as possible…so get involved and help guide a team to success in this year’s competition!  
+Think this is something you would like to be involved in?  We would ideally allocate a Mentor to each of the 54 teams so we need as many of you to volunteer as possible…so get involved and help guide a team to success in this year’s competition!
 
 If you would like to be considered for this role we require the following information:
 

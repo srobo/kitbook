@@ -42,4 +42,3 @@ This results in the following lengths being required:
 | 5 | 2 |
 | 6 | 1 |
 | 7 | 1 |
-

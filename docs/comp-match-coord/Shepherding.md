@@ -39,7 +39,7 @@ Note that the main responsibility of the shepherds is to notify all teams who ar
 
 The responsibility of the timekeeper is to be aware of the schedule and assist the shepherds in the other roles.
 
-More specifically, they should watch the shepherding app and notify the team shepherds via radio when it is time for them to fetch their teams. The timekeeper should also notify the other shepherds of any updates or changes of schedule. 
+More specifically, they should watch the shepherding app and notify the team shepherds via radio when it is time for them to fetch their teams. The timekeeper should also notify the other shepherds of any updates or changes of schedule.
 
 If it seems like the timing does not work out (teams waiting for a long time for staging or teams arriving too late for staging) the timekeeper should discuss an update of the fetching schedule with the head shepherd.
 

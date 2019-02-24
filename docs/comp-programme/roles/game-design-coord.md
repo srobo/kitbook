@@ -32,4 +32,3 @@ In previous years, the rules have consisted of several sections.  We are conside
  5. Kit return (Which parts of the kit will be returned).
 
 Not all of the above should be your responsibility as the game design coordinator -- you are only responsible for the game rules and specifications of the props within the arena.  The other parts will be dealt with by the Kit Coordinator, Kit Support Coordiantor and Competition Programme Coordinator.  All of the above elements will be presented to teams as part of the Kit documentation, which the Kit Support Coordinator will manage.
-

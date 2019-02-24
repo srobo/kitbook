@@ -32,7 +32,7 @@ rejected. When presented with a RUB full of kit, kit return staff should:
     * Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
     * Stack the box with the post-it visible
 
-    
+
 This workflow is shown in the diagram below.
 
 ![Kit return flow](../Diagrams/KitReturnDeskFlow.svg)

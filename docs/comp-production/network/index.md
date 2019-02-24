@@ -37,4 +37,3 @@ A router will be installed on this floor.
 The two routers will be desktop machines on loan from Rob Spanton.
 Both of these machines will have two ethernet sockets.  They will be
 running DHCP servers, and perform NAT onto the Newbury network.
-

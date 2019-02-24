@@ -1,6 +1,6 @@
 **Allocating Teams**
 
-* Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:   
+* Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:
     * Team Leader Name
     * Email address
     * Phone number
@@ -15,7 +15,7 @@
 
 
 * Remove duplicate applications, keeping a record of the duplicate applications in case it is possible to allocate more than one team to an organisation.
-* Consult Team Archive to establish whether the team is (i) a rookie, (ii) obtain previous TLA.  
+* Consult Team Archive to establish whether the team is (i) a rookie, (ii) obtain previous TLA.
 * If rookie team, need to allocate a new TLA, taking care to ensure that it has not been used previously.
 
 
@@ -46,7 +46,7 @@ So, what happens next?
 Our volunteers are busy planning this year’s Kickstart event where you will be introduced to the SR Programme and receive your SR kit.  It will be held on 15th October, 2016 at various locations around the UK.  You will be notified which Kickstart event you have been assigned to attend over the next few days.
 Throughout the SR Programme your team members will require access to SR services.  Therefore, you, as Team Leader, will shortly receive an email containing your SR username and password which will enable you to create user accounts for your team members.
 
-Each team has been assigned a Three Letter Abbreviation (TLA) for ease of communication.  
+Each team has been assigned a Three Letter Abbreviation (TLA) for ease of communication.
 
 Your TLA is:
 

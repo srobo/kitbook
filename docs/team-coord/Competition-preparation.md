@@ -12,7 +12,7 @@ Example email sent to potential dropout Team Leader:
 
 It seems such a shame to put your team's hard work to waste by not competing.  There is 'tinker time' at the competition to work on your robot further and attending and competing is the culmination of the whole SR process.
 
-Also by having a kit for all this time, and not competing, you have deprived another team of the opportunity to compete, and we have had to turn away teams this year due to high demand.  Securing a team slot and being allocated a kit result in the expectation that you will compete in the competition - slots are limited by the number of kits we have available and the competition is the culmination of the SR year so we want all our teams to be there competing and having fun. 
+Also by having a kit for all this time, and not competing, you have deprived another team of the opportunity to compete, and we have had to turn away teams this year due to high demand.  Securing a team slot and being allocated a kit result in the expectation that you will compete in the competition - slots are limited by the number of kits we have available and the competition is the culmination of the SR year so we want all our teams to be there competing and having fun.
 
 Furthermore, in terms of entering next year, which we would wholeheartedly encourage, dropping out at this stage would influence the allocation process next year, thereby impacting on your chances of competing.  Attending and experiencing the competition in whatever state the robot is in with be invaluable for future years - it really is the taking part that counts.
 

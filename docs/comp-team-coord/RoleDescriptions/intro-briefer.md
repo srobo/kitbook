@@ -3,7 +3,7 @@
 The introductory and H&S briefer gives a ~10m talk at the beginning of the
 competition regarding matters of importance, which at a high level are:
 
- * Health and Safety 
+ * Health and Safety
  * How the competition operates
 
 In that order.
@@ -20,13 +20,13 @@ The competition intro talk should:
  * Introduce tinker time
  * Explain (and illustrate) the procedure for operating the robot in a match,
    from gate to gate.
-   * Especially highlight that teams must insert the USB stick provided at the staging area  **before** turning on their robot at the beginning of the match. 
+   * Especially highlight that teams must insert the USB stick provided at the staging area  **before** turning on their robot at the beginning of the match.
  * Lay down rules on who is allowed where
  * Describe tinker time and make it clear how one books tinker time.
  * Give a short overview of the game itself (more or less what is printed on the competition flyer). Some important points to highlight:
-	 * "A" tokens are **red Apples** 🍎 
-	 * "B" tokens are **yellow Bananas** 🍌 
-	 * "C" tokens are **white/brown Coconuts** 🌴 
+	 * "A" tokens are **red Apples** 🍎
+	 * "B" tokens are **yellow Bananas** 🍌
+	 * "C" tokens are **white/brown Coconuts** 🌴
 
 ## License
 

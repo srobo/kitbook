@@ -10,7 +10,7 @@ Use this sheet to **sign in** volunteers on Saturday the 1st of April 2017.
 | cprice | 8:30am | | XL |
 | gpayne | 8:30am | | XXL |
 | hbuck | 8:30am | | M |
-| jgough | 8:30am | 
+| jgough | 8:30am |
 | jhoward | 8:30am | | |
 | jroff | 1:00pm | | M |
 | jseden | 8:30am | | M |

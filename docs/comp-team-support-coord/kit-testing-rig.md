@@ -24,4 +24,3 @@ The testing rig consists of the following parts:
  * Two microswitches with flying leads
 
 The following parts of the kit can be tested with the rig: Power Board, Motor Board, Servo Board, Ruggeduino, Micro USB Cable and the Webcam. To test any of these items simply click the relevant button in the kit testing rig GUI on the laptop and follow the on-screen instructions. Note that the multimeter is not directly referenced in any of the testing procedures, it is supplied to allow measurements to be taken as the operator sees fit.
-

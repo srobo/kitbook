@@ -5,7 +5,7 @@ After a kickstart event has completed, and the dust has settled, it is time to p
  1. The questionnaire described below is completed by the Kickstart Events Coordinator (KEC).
  2. The KEC's response is reviewed by the Competition Programme Coordinator.  This may involve some conversation with the KEC, and potentially other parties.
  3. A report is produced as described below.  This indicates how the event went, and recommends a set of changes to the processes that were followed to deliver the kickstart events.
- 
+
 ## KEC Review Questionnaire
 
  1. What were your objectives for the kickstart event?
