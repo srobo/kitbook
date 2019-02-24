@@ -25,7 +25,6 @@ All of the people listed above are part of the [`srcomp-prog`](https://groups.go
 
 ## Things
 
- * [SR2017](/comp-programme/SR2017)
  * Kickstart
      * [Review process](/comp-programme/kickstart/review)
  * Competition
