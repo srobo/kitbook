@@ -78,4 +78,4 @@ For matters related to the operation of the competition (such as querying a scor
 
 We hope you have a fun competition!
 
-![Venue Map](../Diagrams/venue-map.svg)
+![Venue Map](../diagrams/venue-map.svg)

@@ -18,4 +18,4 @@ in the following documents:
  * [Reception](./role-descriptions/reception)
  * [Tinker](./role-descriptions/tinker)
 
-**Note: Typically the comptetition team coordinator role also includes ensuring teams have adequate orientation and information about the rules. A document covering this for the 2017 competition can be found [here](./process-docs/orientationAndPitRules).**
+**Note: Typically the comptetition team coordinator role also includes ensuring teams have adequate orientation and information about the rules. A document covering this for the 2017 competition can be found [here](./process-docs/orientation-and-pit-rules).**

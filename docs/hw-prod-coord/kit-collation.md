@@ -5,7 +5,7 @@ original:
 ---
 # Kit Collation
 
-The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [Kit Packing](/hw-prod-coord/Kit_Packing) Event. See [SR2017 Kit Collation Plan](/hw-prod-coord/SR2017_Kit_Collation_Plan) for a detailed plan. See [SR2018 Kit Collation Plan](/hw-prod-coord/SR2018_Kit_Collation_Plan) for a details of the upcoming KCE.
+The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [Kit Packing](/hw-prod-coord/kit-packing) Event. See [SR2017 Kit Collation Plan](/hw-prod-coord/SR2017_Kit_Collation_Plan) for a detailed plan. See [SR2018 Kit Collation Plan](/hw-prod-coord/SR2018_Kit_Collation_Plan) for a details of the upcoming KCE.
 
 ## Process
 

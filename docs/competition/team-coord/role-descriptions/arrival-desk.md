@@ -43,7 +43,7 @@ After initial influx, the reception will absorb this role.
 
 The following flow is an outline of the processes described above:
 
-![Arrival Desk Flow (Arrivals)](../Diagrams/ArrivalDeskArrivalsFlow.svg)
+![Arrival Desk Flow (Arrivals)](../diagrams/ArrivalDeskArrivalsFlow.svg)
 
 ## Required Items
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.

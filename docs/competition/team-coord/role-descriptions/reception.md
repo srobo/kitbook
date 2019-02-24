@@ -20,7 +20,7 @@ When someone enters the building, you should follow the procedure below.
 
 **Note: Training on how to use the scanning software will be given on the morning by the competition team coordinator.**
 
-![Reception Desk Flow](../Diagrams/ReceptionDeskFlow.svg)
+![Reception Desk Flow](../diagrams/ReceptionDeskFlow.svg)
 
 At the start of the competition day, there will be four reception staffers
 covering the entrance. Once the initial influx of people is complete, this
