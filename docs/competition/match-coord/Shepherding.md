@@ -3,8 +3,6 @@ original:
   authors: Elisabeth and Thomas Leese
   url: https://github.com/thomasleese/sr-match-coordinator/wiki/Shepherding
 ---
-> [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Competition Event Coordinator](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home) » [Match Coordinator](https://github.com/thomasleese/sr-match-coordinator/wiki)
-
 # Shepherding
 
 Anything related to shepherding goes here.

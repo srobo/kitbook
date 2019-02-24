@@ -3,8 +3,6 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home
 ---
-> [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home)
-
 # Student Robotics Kit Operations Documentation
 
 This is the Kit Coordinator's documentation. The Kit Coordinator is responsible for ensuring the existence of the kit and everything associated with that.

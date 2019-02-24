@@ -3,8 +3,6 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-pit-manager/wiki/Home
 ---
-> [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Competition Event Coordinator](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home) » [Production Manager](https://bitbucket.org/rspanton/sr-production/wiki/Home)
-
 # Student Robotics Pit Manager
 
 This is the Pit Manager's documentation. The Pit Manager is responsible for constructing and de-constructing the pits at the competition.
