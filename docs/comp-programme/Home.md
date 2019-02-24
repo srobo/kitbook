@@ -13,7 +13,7 @@ documentation.
 Role | Volunteer | Documentation
 -----|-----------|--------------
 Competition Event Coordinator | Rob Spanton | [Docs](/competition/event-coord/Home)
-Game Design Coordinator | [unfilled] | [Overview](roles/game-design-coord.md)
+Game Design Coordinator | [unfilled] | [Overview](roles/game-design-coord)
 Kickstart Events Coordinator | Thomas Scarsbrook
 Team Coordinator | Fiona Gillan | [Docs](/teams)
 Kit Coordinator | Richard Barlow | [Docs](/kit-coord/Home)
@@ -25,8 +25,8 @@ All of the people listed above are part of the [`srcomp-prog`](https://groups.go
 
 ## Things
 
- * [SR2017](SR2017/index.md)
+ * [SR2017](SR2017/)
  * Kickstart
-     * [Review process](kickstart/review.md)
+     * [Review process](kickstart/review)
  * Competition
  * Tech Days

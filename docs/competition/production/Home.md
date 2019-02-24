@@ -15,16 +15,16 @@ report to the production manager:
 
 Role | Volunteer | Docs
 -----|-----------|---
-[Venue Manager](roles/venue-manager.md) | Rob Spanton
+[Venue Manager](roles/venue-manage) | Rob Spanton
 [Arena Manager](roles/arena-manager) | Rich Barlow | [Docs](/competition/arena-manager/Home)
 [Pits Manager](roles/pits-manager) | Rich Barlow | [Docs](/competition/pit-manager/Home)
 [Network Manager](roles/network-manager) |
 
 ## Matters of Interest
 
- * [Networking](network/index.md)
- * [Schedule](schedule) of the event production
- * [Venue Requirements](venue)
+ * [Networking](/competition/production/network/index)
+ * [Schedule](/competition/production/schedule) of the event production
+ * [Venue Requirements](/competition/production/venue)
 
 Things that may appear here in the future:
 
