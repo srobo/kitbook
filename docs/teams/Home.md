@@ -13,5 +13,3 @@ Welcome to the sr-team-coord wiki which contains the relevant information for th
 | Jake Howard | East |
 | Andy Barrett-Sprot | South |
 | Fiona Gillan | Overseas |
-
-Documentation is licensed under the Creative Commons Attribution-ShareAlike 4.0 license.
