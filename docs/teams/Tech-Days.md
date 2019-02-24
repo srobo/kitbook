@@ -14,7 +14,6 @@ Feedback questions for Tech Days:
   6. Did you find that the information you needed to fulfil your objectives was
       readily available to you? If not, please go into specifics.
   7. Were there any new initiatives that you tried that you felt were
-particularly
-      successful?
+     particularly successful?
   8. Are there any changes you would make to the way that future Tech Days
       are organised, other than those you've already described above.

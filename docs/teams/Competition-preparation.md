@@ -3,11 +3,11 @@ original:
   authors: Fiona Gillan
   url: https://github.com/fgillan/sr-team-coord/wiki/Competition-preparation
 ---
-**Tickets**
+## Tickets
 
 Liaise with Competition Coordinator about ticket allocation process for teams.  Once system confirmed inform LTCs and Team Leaders and remind them of process periodically to ensure process is being followed.
 
-**Dealing with drop-outs when not enough time to re-allocate kits**
+## Dealing with drop-outs when not enough time to re-allocate kits
 
 When Team Leader has notified either Mentor or LTC, LTC should respond asking for more information about circumstances of dropping out.  If there is a problem that can be resolved by LTC or with involvement of Team Coordinator, then this should be done.  If not, then the Team Coordinator will respond in a way that is dependent on nature of drop-out.  If unavoidable or  unfortunate circumstance then email Team Leader acknowledging drop-out, offering further assistance if applicable or suggesting that they come to the competition anyway for experience and explain procedure for Kit Return.  If inconsiderate cause for drop-out explain ramifications of dropping out at this late stage and impact on applying for a place in the following year’s competition.
 
@@ -23,7 +23,7 @@ Furthermore, in terms of entering next year, which we would wholeheartedly encou
 
 Please do reconsider your decision to withdraw and I look forward to hearing from you."
 
-**Information about the competition**
+## Information about the competition
 
 Liaise with Competition Coordinator about information that they would like relayed to the Team Leaders prior to the competition and send email via MailChimp Team Leaders mailist. To include information such as the following:
 1. Teams should bring some laptops as we will not be providing any computers/laptops.
@@ -32,6 +32,6 @@ Liaise with Competition Coordinator about information that they would like relay
 4. Teams should have a good read of section 2.8 and Appendix B of the rules (Safety regulations). All robots will undergo a safety inspection and will not be allowed to compete until they pass this inspection.
 5. Please do let us know if your team has any special requirements with regards to disability access or other matters that need to be accommodated.
 
-**Deal with queries that arise**
+## Deal with queries that arise
 
 This involves monitoring emails, responding to LTC queries and directing people to the relevant person to resolve their query.

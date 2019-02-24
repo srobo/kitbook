@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan
   url: https://github.com/fgillan/sr-team-coord/wiki/Dropouts-and-reallocating-teams
 ---
-**Dropouts**
+## Dropouts
 
 * A Team Leader would email their LTC informing them of their intention to withdraw from the competition.
 * The LTC emails the Team Coordinator (and Kickstart Coordinator if prior to Kickstart).
@@ -12,8 +12,8 @@ original:
 * Team Coordinator to update SRYear Teams spreadsheet and other relevant spreadsheets.
 * Team Coordinator needs to re-allocate space to either new team or if no new teams remain, to allocate a second team to an organisation, if requested (taking into consideration successful participation of a second team in previous years’ competitions, by consulting ‘Team Archive’)
 
+## To re-allocate a team
 
-**To re-allocate a team:**
 * Consult Potential Team Leaders MailChimp list, sorted into chronological entries to establish waiting list.
 * Email offer of place (or second team place), asking to confirm contact information to first on the waiting list.
 * Once replied to confirm would still like to participate, update SRYear Teams spreadsheet, assign TLA after checking whether the Organisation has competed before.
