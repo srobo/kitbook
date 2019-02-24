@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/Tech-Days
+---
 Work needs to be done to produce guidance for LTCs about how to organise a Tech Day.
 
 Feedback questions for Tech Days:

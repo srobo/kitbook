@@ -13,6 +13,7 @@ theme:
   palette:
     primary: 'blue'
     accent: 'blue'
+  custom_dir: theme
 copyright: |
   Copyright &copy; Student Robotics contributors
   <br>

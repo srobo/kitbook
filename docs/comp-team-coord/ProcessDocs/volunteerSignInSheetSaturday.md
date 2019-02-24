@@ -1,3 +1,8 @@
+---
+original:
+  authors: Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/ProcessDocs/volunteerSignInSheetSaturday
+---
 ## SR2017 Volunteer sign in sheet - Saturday
 Use this sheet to **sign in** volunteers on Saturday the 1st of April 2017.
 

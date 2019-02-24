@@ -1,3 +1,8 @@
+---
+original:
+  authors: Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/ProcessDocs/orientationAndPitRules
+---
 ## Welcome to Student Robotics 2017!
 
 ## Pit Rules and Guidance

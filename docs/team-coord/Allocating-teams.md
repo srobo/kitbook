@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/Allocating-teams
+---
 **Allocating Teams**
 
 * Transfer data from GoogleForm Team Applications into spreadsheet, and populate new spreadsheet ‘SR Year Teams’ with following info, in chronological order:

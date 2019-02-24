@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Roving_Helper
+---
 # Roving Helper
 
 A Roving Helper is a volunteer who wanders around the pit areas to assist teams with quick and simple problems. If an issue cannot be easily resolved then the team should be referred to [[Helpdesk]]. Ideally a Roving Helper has some experience with Student Robotics kit, but this is not essential. In most cases good knowledge of the [Docs](https://www.studentrobotics.org/docs) and [Rules](https://www.studentrobotics.org/rules) will suffice.

@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/After-competition
+---
 **Kit Return**
 
 * Coordinated by Kit Coordinator who will produce a list of unreturned kit following the competition, including those teams who have applied and been granted a Kit Extension.

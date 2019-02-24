@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-comp-programme/wiki/SR2017/index
+---
 # SR2017
 
 ## Events

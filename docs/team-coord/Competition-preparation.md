@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/Competition-preparation
+---
 **Tickets**
 
 Liaise with Competition Coordinator about ticket allocation process for teams.  Once system confirmed inform LTCs and Team Leaders and remind them of process periodically to ensure process is being followed.

@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Kit%20Definition
+---
 # Kit Definition
 
 This page serves as the canonical list of parts constituting a Student Robotics kit.

@@ -1,3 +1,12 @@
+---
+original:
+  authors: Jeremy Morse, Rob Gilton and Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/RoleDescriptions/door-guard
+  extra: |
+    The original work is based on work done by Jeremy Morse, which was under the
+    Creative Commons Attribution 4.0 License.  To view a copy of this license,
+    visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
+---
 # Door Guard Volunteer
 
 At the end of the competition, teams tend to evaporate without warning. We wish

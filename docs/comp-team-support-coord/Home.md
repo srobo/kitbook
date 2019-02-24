@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
+  url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home
+---
 > [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Competition Event Coordinator](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
 
 # Student Robotics Competition Team Support Documentation

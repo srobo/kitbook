@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
+  url: https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Home
+---
 > [Ops](https://bitbucket.org/srobo/ops-manual/wiki/Home) » [Competition Programme Coordinator](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home) » [Kit Coordinator](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
 
 # Student Robotics Hardware Production Documentation

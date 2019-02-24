@@ -1,3 +1,12 @@
+---
+original:
+  authors: Jeremy Morse, Rob Gilton and Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/RoleDescriptions/crimper
+  extra: |
+    The original work is based on work done by Jeremy Morse, which was under the
+    Creative Commons Attribution 4.0 License.  To view a copy of this license,
+    visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
+---
 # Crimper Volunteer
 
 **Note: For the 2017 competition, the armbands provided have plastic fixings. This means that the crimper role will be performed directly by reception staff and there will be no secondary role**

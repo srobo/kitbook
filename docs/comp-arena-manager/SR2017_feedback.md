@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/SR2017_feedback
+---
 SR2017 Arena Documentation Feedback
 ===================================
 

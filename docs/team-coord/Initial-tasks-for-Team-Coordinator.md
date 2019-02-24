@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/Initial-tasks-for-Team-Coordinator
+---
 **Initial tasks for Team Coordinator**
 
 * Decide on deadline for application forms for team leaders to enter a team (12th September 2016), useful to include date of Kickstart (15th Oct 2016).

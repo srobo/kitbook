@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+What follows is an horrific hack to have a consistent License & Attribution
+section on page which have been merged in from other sources. Ideally we'd have
+something a bit more "proper", but this works for now.
+
+{% block source %}
+  {% if page.meta.original %}
+    <h2>Attribution</h2>
+    <p>
+      This page is based on work done by {{ page.meta.original.authors }},
+      originally published at
+      <a href="{{ page.meta.original.url }}">{{ page.meta.original.url }}</a>,
+      which was under the Creative Commons Attribution-ShareAlike 4.0
+      International License. To view a copy of this license, visit
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+      or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+    </p>
+    {% if page.meta.original.extra %}
+      <p>{{ page.meta.original.extra }}</p>
+    {% endif %}
+  {% endif %}
+  {#
+    Finally, include the actual 'source' block -- this is the link to GitHub
+    pages. This block was chosen because it's the first one after the content
+    section in the theme template.
+  #}
+  {{ super() }}
+{% endblock %}

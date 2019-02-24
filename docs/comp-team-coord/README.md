@@ -1,3 +1,8 @@
+---
+original:
+  authors: Jake Howard, Rob Gilton and Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/README
+---
 # Competition Team Coordinator Role Documentation
 
 This is the documentation for the competition team coordinator role.

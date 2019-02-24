@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/sr2016-token-verification-instructions
+---
 # SR2016 Token Verification Instructions
 
 These are instructions for the 'check' program in comp16/token-check of git://srobo.org/arena.git

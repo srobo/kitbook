@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-comp-programme/wiki/roles/game-design-coord
+---
 # Game Design Coordinator
 
 This is an overview of the game design coordinator role, intended to be read by the game design coordinator.

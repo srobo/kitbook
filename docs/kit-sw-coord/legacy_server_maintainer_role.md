@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-kit-sw-coord/wiki/legacy_server_maintainer_role
+---
 # Legacy Server Maintainer (LSM) Role Definition
 
 This page defines the Legacy Server Maintainer (LSM) role that reports to the Kit Software Coordinator. This role cannot create subordinate roles. Note that this role has some overlap of responsibilities with the Ancillary Software Coordinator and there has been an agreement between the Kit Software Coordinator and the Ancillary Software Coordinator regarding the reporting/management of the LSM role.

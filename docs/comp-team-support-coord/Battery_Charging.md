@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Battery_Charging
+---
 # Battery Charging
 
 We (Student Robotics) manage the charging of all batteries at the competition. Battery Charging volunteers are responsible for ensuring that there is a continuous supply of charged batteries available for use by teams.

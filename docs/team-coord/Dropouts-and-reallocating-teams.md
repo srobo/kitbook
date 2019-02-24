@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan
+  url: https://github.com/fgillan/sr-team-coord/wiki/Dropouts-and-reallocating-teams
+---
 **Dropouts**
 
 * A Team Leader would email their LTC informing them of their intention to withdraw from the competition.

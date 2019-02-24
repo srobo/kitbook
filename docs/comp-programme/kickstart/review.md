@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-comp-programme/wiki/kickstart/review
+---
 # Kickstart Event Review Process
 
 After a kickstart event has completed, and the dust has settled, it is time to perform a review of how it went.  The following process is performed to complete this review:

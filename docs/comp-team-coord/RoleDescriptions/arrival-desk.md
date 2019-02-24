@@ -1,3 +1,12 @@
+---
+original:
+  authors: Jeremy Morse, Rob Gilton and Sean Bedford
+  url: https://github.com/srobo/comp-team-coord-docs/RoleDescriptions/arrival-desk
+  extra: |
+    The original work is based on work done by Jeremy Morse, which was under the
+    Creative Commons Attribution 4.0 License.  To view a copy of this license,
+    visit <a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>.
+---
 # Arrival Desk Volunteer
 
 The arrival desk is a location for co-ordinating with teams and volunteers at

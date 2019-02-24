@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Kit%20Collation
+---
 # Kit Collation
 
 The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the [[Kit Packing]] Event. See [[SR2017 Kit Collation Plan]] for a detailed plan. See [[SR2018 Kit Collation Plan]] for a details of the upcoming KCE.

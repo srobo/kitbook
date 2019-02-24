@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/SR2017%20Kit%20Collation%20Plan
+---
 # SR2017 Kit Collation Plan
 
 The SR2017 Kit Collation Event follows the general plan outlined on the [[Kit Collation]] page. This page is to document any deviations from this plan or to document more details.
