@@ -26,7 +26,7 @@ The biggest risk of damage or injury is from the banana plugs coming unplugged f
 
 The batteries themselves have many built in safety features and, unless severely abused, are completely safe. All batteries undergoing charging must be placed inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery DO NOT attempt to tackle the fire - the batteries contain a flammable metal (Lithium) which cannot be safely tackled with most fire extinguishers.
 
-If at any point you have any doubts about safety, immediately summon the Competition Team Support Coordinator (Rich Barlow) and the Health & Safety Coordinator (Scarzy) via [[Helpdesk]].
+If at any point you have any doubts about safety, immediately summon the Competition Team Support Coordinator (Rich Barlow) and the Health & Safety Coordinator (Scarzy) via [Helpdesk](/competition/team-support-coord/Helpdesk).
 
 ## Procedures
 
@@ -36,7 +36,7 @@ Teams will bring discharged batteries to the Battery Charging station and requir
 
 ### Charging a discharged battery
 
-All of the battery chargers will be set-up and ready to use. Before a battery is connected the screen must display `LiPo BALANCE 2.2A 11.1V(3S)`. If it displays anything else then please do not use it and ask [[Helpdesk]] to summon Rich Barlow. Batteries are charged as follows:
+All of the battery chargers will be set-up and ready to use. Before a battery is connected the screen must display `LiPo BALANCE 2.2A 11.1V(3S)`. If it displays anything else then please do not use it and ask [Helpdesk](/competition/team-support-coord/Helpdesk) to summon Rich Barlow. Batteries are charged as follows:
 
  1. Check that the battery is not physically damaged. There should be no splits or tears in the body of the battery, no nicks in the wire insulation, no exposed wire and the battery should not be so swollen that it is no longer squidgy. There will be a couple of example batteries at the Battery Charging station to compare to.
  1. If the battery is damaged, tape over the yellow XT60 connector with red tape and place it in the damaged battery box.

@@ -21,7 +21,7 @@ Hardware Production Coordinator | Richard Barlow | [Docs](https://bitbucket.org/
 
 ## The Kit
 
-The canonical list of current SR kit can be found on the [[Kit Definition]] page.
+The canonical list of current SR kit can be found on the [Kit Definition](/kit-coord/Kit_Definition) page.
 
 ## Kit Disclaimer
 
