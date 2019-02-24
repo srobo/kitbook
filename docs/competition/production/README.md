@@ -22,7 +22,7 @@ Role | Volunteer | Docs
 
 ## Matters of Interest
 
- * [Networking](/competition/production/network/index)
+ * [Networking](/competition/production/network)
  * [Schedule](/competition/production/schedule) of the event production
  * [Venue Requirements](/competition/production/venue)
 
