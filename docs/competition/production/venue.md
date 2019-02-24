@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/venue
+---
 # Venue Requirements
 
 The venue that the competition is held in must meet certain

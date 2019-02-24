@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/roles/arena-manager
+---
 # Arena Manager
 
 The arena manager is responsible for constructing and deconstructing

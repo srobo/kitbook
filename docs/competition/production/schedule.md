@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/schedule
+---
 # Production Schedule
 
 The following shows the production schedule for SR2016.  Public

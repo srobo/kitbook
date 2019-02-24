@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-event-coord/wiki/desc/comp-team-coord.md
+---
 # Competition Team Coordinator
 
 The competition team coordinator is responsible for managing the teams at the competition.  As the team coordinator, your main responsibilities are:

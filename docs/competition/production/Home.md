@@ -1,3 +1,8 @@
+---
+original:
+  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
+  url: https://bitbucket.org/rspanton/sr-production/wiki/Home
+---
 [ops](https://bitbucket.org/srobo/ops-manual/wiki/Home)/[comp-programme](https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home)/[event-coord](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)/comp-prod
 
 # SR Competition Production Documentation

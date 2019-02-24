@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/network/index
+---
 # SR2016 Competition Network
 
 The network at the SR2016 competition will be similar to that deployed

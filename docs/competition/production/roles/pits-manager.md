@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/roles/pits-manager
+---
 # Pits Manager
 
 The pits manager is responsible for installing and uninstalling team

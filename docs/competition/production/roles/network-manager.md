@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/roles/network-manager
+---
 # Network Manager
 
 The network manager is responsible for designing, installing and

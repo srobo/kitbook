@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-event-coord/wiki/sr2017-event
+---
 # SR2017 Competition Event Details
 
 This page is primarily for internal use.  If you are a team competing in Student Robotics, you probably want our main website.

@@ -1,3 +1,8 @@
+---
+original:
+  authors: Rob Gilton
+  url: https://bitbucket.org/rspanton/sr-production/wiki/network/cabling
+---
 # SR2016 Competition Network Cabling
 
 This page is the canonical reference for the lengths of cable required
