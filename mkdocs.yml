@@ -13,7 +13,16 @@ theme:
   palette:
     primary: 'blue'
     accent: 'blue'
-copyright: 'Copyright &copy; Student Robotics'
+copyright: |
+  Copyright &copy; Student Robotics contributors
+  <br>
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" style="padding:0.2em 0.2em 0 0;float:left;height:15px;width:80px;">
+    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
+  </a>
+  This work is licensed under a
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+    Creative Commons Attribution-ShareAlike 4.0 International License
+  </a>.
 
 # Customization
 extra:
