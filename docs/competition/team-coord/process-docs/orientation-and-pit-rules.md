@@ -23,11 +23,11 @@ A wireless network is available, connection details:
 
 You will find the following pages on the website useful:
 
-[http://srobo.org/comp/schedule]() The schedule of matches.
+[http://srobo.org/comp/schedule](https://studentrobotics.org/comp/schedule) The schedule of matches.
 
-[http://srobo.org/comp/league]() The current league scores.
+[http://srobo.org/comp/league](https://studentrobotics.org/comp/league) The current league scores.
 
-[http://srobo.org/comp/team]() Statistics about your team and others.
+[http://srobo.org/comp/team](https://studentrobotics.org/comp/team) Statistics about your team and others.
 
 ## Schedule
 
