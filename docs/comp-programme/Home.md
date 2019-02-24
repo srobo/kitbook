@@ -25,7 +25,6 @@ All of the people listed above are part of the [`srcomp-prog`](https://groups.go
  * Kickstart
      * [Review process](kickstart/review.md)
  * Competition
-     * [Review process](comp/review.md)
  * Tech Days
 
 ## License
