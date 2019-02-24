@@ -13,7 +13,7 @@ documentation.
 Role | Volunteer | Documentation
 -----|-----------|--------------
 Competition Event Coordinator | Rob Spanton | [Docs](/competition/event-coord/Home)
-Game Design Coordinator | [unfilled] | [Overview](roles/game-design-coord)
+Game Design Coordinator | [unfilled] | [Overview](/comp-programme/roles/game-design-coord)
 Kickstart Events Coordinator | Thomas Scarsbrook
 Team Coordinator | Fiona Gillan | [Docs](/teams)
 Kit Coordinator | Richard Barlow | [Docs](/kit-coord/Home)
