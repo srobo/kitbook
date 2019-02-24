@@ -13,12 +13,12 @@ Role | Volunteer | Documentation
 -----|-----------|--------------
 Reward Manager |
 Competition Volunteer Welfare Coordinator |  | [Docs](https://gist.github.com/howiegoing/5876963bc0dcb63a6fa1028b02d1a5a6)
-Production Manager | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-production/wiki/Home)
-Competition Team Coordinator |  | [Description](./desc/comp-team-coord.md), [Docs](https://github.com/srobo/comp-team-coord-docs/blob/master/README.md)
+Production Manager | Rob Spanton | [Docs](/competition/production/Home)
+Competition Team Coordinator |  | [Description](/competition/event-coord/desc/comp-team-coord), [Docs](/competition/team-coord)
 Competition Software Coordinator | Peter Law
-Competition Team Support Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/Home)
+Competition Team Support Coordinator | Richard Barlow | [Docs](/competition/team-support-coord/Home)
 Competition H&S Coordinator | Thomas Scarsbrook | [Docs](http://scarzybrook.co.uk/SR/robotinspector.pdf)
-Match Coordinator | Tom Leese | [Docs](https://github.com/thomasleese/sr-match-coordinator/wiki)
+Match Coordinator | Tom Leese | [Docs](/competition/match-coordinator)
 
 ## Information
 

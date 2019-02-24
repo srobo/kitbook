@@ -16,8 +16,8 @@ report to the production manager:
 Role | Volunteer | Docs
 -----|-----------|---
 [Venue Manager](roles/venue-manager.md) | Rob Spanton
-[Arena Manager](roles/arena-manager) | Rich Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/Home)
-[Pits Manager](roles/pits-manager) | Rich Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-pit-manager/wiki/Home)
+[Arena Manager](roles/arena-manager) | Rich Barlow | [Docs](/competition/arena-manager/Home)
+[Pits Manager](roles/pits-manager) | Rich Barlow | [Docs](/competition/pit-manager/Home)
 [Network Manager](roles/network-manager) |
 
 ## Matters of Interest

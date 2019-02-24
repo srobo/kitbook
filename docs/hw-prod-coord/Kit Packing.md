@@ -44,7 +44,7 @@ Each kit contains various 'Camcon' pluggable terminal block connectors. These mu
 
 ## LAYOUT
 
-To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Kit_Definition) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
+To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](/kit-coord/Kit_Definition) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
 
 Some parts are designated for development use only and should not be shipped to teams. Since the parts processed at the Kit Collation Event are a mix of development and non-development the development ones need to be filtered out from the part stations. The following types of part have some designated for development and they must be removed before commencing the FILL task:
 

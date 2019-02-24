@@ -11,11 +11,11 @@ This is the Kit Coordinator's documentation. The Kit Coordinator is responsible 
 
 Role  |   Volunteer   |   Location of Documentation
 ------|---------------|----------------------------
-Kit Software Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-sw-coord/wiki/Home)
+Kit Software Coordinator | Richard Barlow | [Docs](/kit-sw-coord/Home)
 Kit Logistics Coordinator | Richard Barlow | [Docs](https://www.gitbook.com/read/book/srobo-legacy/student-robotics-kit-logistics)
-Kit Support Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-support-coord/wiki/Home)
+Kit Support Coordinator | Richard Barlow | [Docs](/kit-support-coord/Home)
 Hardware Development Coordinator | [unfilled] |
-Hardware Production Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Home)
+Hardware Production Coordinator | Richard Barlow | [Docs](/hw-prod-coord/Home)
 
 ## The Kit
 

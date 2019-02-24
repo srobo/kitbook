@@ -12,11 +12,11 @@ documentation.
 
 Role | Volunteer | Documentation
 -----|-----------|--------------
-Competition Event Coordinator | Rob Spanton | [Docs](https://bitbucket.org/rspanton/sr-event-coord/wiki/Home)
+Competition Event Coordinator | Rob Spanton | [Docs](/competition/event-coord/Home)
 Game Design Coordinator | [unfilled] | [Overview](roles/game-design-coord.md)
 Kickstart Events Coordinator | Thomas Scarsbrook
 Team Coordinator | Fiona Gillan | [Docs](/teams)
-Kit Coordinator | Richard Barlow | [Docs](https://bitbucket.org/richardbarlow/sr-kit-coord/wiki/Home)
+Kit Coordinator | Richard Barlow | [Docs](/kit-coord/Home)
 Ancillary Software Coordinator |
 
 ## Communication
