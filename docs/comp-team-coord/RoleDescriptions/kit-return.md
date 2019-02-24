@@ -56,13 +56,3 @@ You should have the following items present for your duties. If you do not, plea
 * Kit extension labels (to mark boxes that may leave the building).
 * Kit return shipping packs (to provide to teams that are keeping kit).
 * Name labels to mark up the RUBs.
-
-## License
-
-This work is licensed under the Creative Commons
-Attribution-ShareAlike 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
-
-This work is based on work done by Jeremy Morse, which was under the
-Creative Commons Attribution 4.0 License.  To view a copy of this
-license, visit https://creativecommons.org/licenses/by/4.0/.

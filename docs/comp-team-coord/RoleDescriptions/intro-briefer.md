@@ -36,13 +36,3 @@ The competition intro talk should:
 	 * "A" tokens are **red Apples** 🍎
 	 * "B" tokens are **yellow Bananas** 🍌
 	 * "C" tokens are **white/brown Coconuts** 🌴
-
-## License
-
-This work is licensed under the Creative Commons
-Attribution-ShareAlike 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
-
-This work is based on work done by Jeremy Morse, which was under the
-Creative Commons Attribution 4.0 License.  To view a copy of this
-license, visit https://creativecommons.org/licenses/by/4.0/.

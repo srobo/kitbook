@@ -19,9 +19,3 @@ in the following documents:
  * [Tinker](./RoleDescriptions/tinker.md)
 
 **Note: Typically the comptetition team coordinator role also includes ensuring teams have adequate orientation and information about the rules. A document covering this for the 2017 competition can be found [here](./ProcessDocs/orientationAndPitRules.md).**
-
-## License
-
-This work is licensed under the Creative Commons
-Attribution-ShareAlike 4.0 International License. To view a copy of
-this license, visit http://creativecommons.org/licenses/by-sa/4.0/.

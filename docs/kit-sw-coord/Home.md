@@ -16,6 +16,3 @@ The following 'unnamed' roles (a term from the Operations Manual) report to the 
 Role  |  Role Definition  |   Volunteer   |   Location of Volunteer Documentation
 ------|-------------------|---------------|---------------------------------------
 Legacy Server Maintainer | [LSM](legacy_server_maintainer_role) | [unfilled]
-
-## License
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
