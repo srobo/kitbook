@@ -11,9 +11,8 @@ the arenas.  Specifically, this includes the following:
  * Arena carpet
  * Arena walls
  * All props in the arena, including:
-   * Markers
-   * Any fixed or mobile installations in the arena (tokens,
-     pedestals, etc.)
+    * Markers
+    * Any fixed or mobile installations in the arena (tokens, pedestals, etc.)
  * Displays around the arena.
 
 ## Subordinates
