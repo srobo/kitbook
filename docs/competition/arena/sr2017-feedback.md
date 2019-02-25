@@ -3,11 +3,9 @@ original:
   authors: Richard Barlow
   url: https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/SR2017_feedback
 ---
-SR2017 Arena Documentation Feedback
-===================================
+# SR2017 Arena Documentation Feedback
 
-Display Assembly
-----------------
+## Display Assembly
 
 Peter, who was involved in the display assembly, provided the following feedback:
 

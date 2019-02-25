@@ -50,5 +50,5 @@ Setup (roughly in time order):
 
 The above tasks are vague descriptions of what needs to be done. Details documentation for each year can be found on the relevant page:
 
- * [SR2016](/competition/arena/SR2016)
- * [SR2017](/competition/arena/SR2017)
+ * [SR2016](/competition/arena/sr2016)
+ * [SR2017](/competition/arena/sr2017)
