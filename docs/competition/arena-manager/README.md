@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/Home
 ---
-# Student Robotics Arena Manager
+# Arena Manager
 
 This is the Arena Manager's documentation. The Arena Manager is responsible for constructing and de-constructing the arenas at the competition.
 

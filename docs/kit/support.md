@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-kit-support-coord/wiki/Home
 ---
-# Student Robotics Kit Support Documentation
+# Kit Support Documentation
 
 This is the Kit Support Coordinator's documentation. The Kit Support Coordinator is responsible for providing support to all users of the kit (both teams and volunteers), managing allocation of support kit and assessing claims of broken kit (and authorising shipping of spare kit where required). There are no subordinate roles.
 

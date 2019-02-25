@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-kit-sw-coord/wiki/Home
 ---
-# Student Robotics Kit Software Documentation
+# Kit Software Documentation
 
 This is the Kit Software Coordinator's documentation. The Kit Software Coordinator is responsible for the development and operation of all of the kit related software.
 

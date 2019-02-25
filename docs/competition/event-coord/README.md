@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/rspanton/sr-event-coord/wiki/Home
 ---
-# Student Robotics Competition Event Documentation
+# Competition Event Documentation
 
 This is the Competition Event Coordinator's operations documentation.
 

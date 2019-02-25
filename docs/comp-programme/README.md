@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/rspanton/sr-comp-programme/wiki/Home
 ---
-# Student Robotics Competition Programme Operations Documentation
+# Competition Programme Operations Documentation
 
 This is the Competition Programme Coordinator's operations
 documentation.
