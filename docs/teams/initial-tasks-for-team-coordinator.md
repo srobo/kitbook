@@ -11,13 +11,13 @@ original:
 
 * Produce GoogleForm Team Applications for capturing following info:
 
- * Team Leader Name
- * To confirm that Team Leader is over 18.
- * Team Leader Email address
- * Phone number
- * Organisation
- * Address
- * Number of team members
+    * Team Leader Name
+    * To confirm that Team Leader is over 18.
+    * Team Leader Email address
+    * Phone number
+    * Organisation
+    * Address
+    * Number of team members
 
 * Google Form Application Form needs to be put on website, via PR, to collect the following information for potential team leaders to register their interest in entering a team in the competition.
 

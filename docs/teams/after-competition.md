@@ -20,9 +20,9 @@ For example; lost property, ensuring prize-winners received their prizes, writin
 
 Include information/link requesting completion of Team feedback form and advise how teams should apply to reimbursement of expenses relating to the competition.
 
-“Dear Team Leaders,
-
-Thank you all so much for being part of SR2017 – this year’s competition was brilliant fun and an excellent showcase for all your hard work over the year.  We would, of course, appreciate your feedback on your experience of the competition as we are always striving to make Student Robotics as good as it possibly can be.”
+> Dear Team Leaders,
+>
+> Thank you all so much for being part of SR2017 – this year’s competition was brilliant fun and an excellent showcase for all your hard work over the year.  We would, of course, appreciate your feedback on your experience of the competition as we are always striving to make Student Robotics as good as it possibly can be.
 
 ## Write to the organisation associated with teams who dropped out without notifying SR in advance.
 
