@@ -3,7 +3,7 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/rspanton/sr-production/wiki/Home
 ---
-# SR Competition Production Documentation
+# Competition Production Documentation
 
 This is the documentation for the work of the competition production
 manager.
