@@ -9,7 +9,7 @@ The network at the SR2016 competition will be similar to that deployed
 at the SR2015 competition.
 
 Details of the cabling and cable protection can be found on the
-[cabling page](cabling).
+[cabling page](./cabling).
 
 ## Network Provision from Newbury Racecourse
 
