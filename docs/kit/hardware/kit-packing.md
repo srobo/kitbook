@@ -5,7 +5,7 @@ original:
 ---
 # Kit Packing
 
-The purpose Kit Packing is to take the tested parts from the [Kit Collation](/hw-prod-coord/kit-collation) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
+The purpose Kit Packing is to take the tested parts from the [Kit Collation](/kit/hardware/kit-collation) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
 
 ## Process
 
