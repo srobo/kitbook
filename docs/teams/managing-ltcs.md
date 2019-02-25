@@ -3,6 +3,8 @@ original:
   authors: Fiona Gillan
   url: https://github.com/fgillan/sr-team-coord/wiki/Managing-LTCs
 ---
+# Managing LTCs
+
 * Need to allocate teams to a Local Team Coordinator (LTC) through whom communications go to Team Leaders (about Kickstart, Kit etc.) and support them in their role.
 
 ## Example of email sent to new LTCs in 2017
