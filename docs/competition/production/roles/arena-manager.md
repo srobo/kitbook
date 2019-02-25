@@ -1,7 +1,7 @@
 ---
 original:
   authors: Rob Gilton
-  url: https://bitbucket.org/rspanton/sr-production/wiki/roles/arena-manager
+  url: https://bitbucket.org/rspanton/sr-production/wiki/roles/arena
 ---
 # Arena Manager
 
