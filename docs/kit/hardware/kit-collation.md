@@ -82,16 +82,16 @@ Follow the part specific testing procedure linked in the table below. Once the c
 
 | Part | Procedure | Duration |
 |------|-----------|----------|
-| Battery | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/battery.md | 1 day |
+| Battery | https://github.com/srobo/kit-maintenance-docs/tree/master/src/battery.md | 1 day |
 | Battery Charger | | |
-| Power board | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/power-board.md | 0.5 days |
-| Motor board | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/motor-board.md | 0.5 days |
-| Servo board | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/servo-board.md | 0.5 days |
+| Power board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/power-board.md | 0.5 days |
+| Motor board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/motor-board.md | 0.5 days |
+| Servo board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/servo-board.md | 0.5 days |
 | Ruggeduino | | |
 | Odroid | | |
 | Tablet | | |
 | USB charger | | |
-| USB hub | https://www.studentrobotics.org/cgit/kit-maintenance-docs.git/tree/src/usb-hub.md | |
+| USB hub | https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-hub.md | |
 | Webcam | | |
 | WiFi dongle | | |
 
