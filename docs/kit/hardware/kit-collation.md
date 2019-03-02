@@ -87,10 +87,10 @@ Follow the part specific testing procedure linked in the table below. Once the c
 | Power board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/power-board.md | 0.5 days |
 | Motor board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/motor-board.md | 0.5 days |
 | Servo board | https://github.com/srobo/kit-maintenance-docs/tree/master/src/servo-board.md | 0.5 days |
-| Ruggeduino | | |
-| Odroid | | |
+| Ruggeduino | https://github.com/srobo/kit-maintenance-docs/tree/master/src/ruggeduino.md | |
+| Odroid | https://github.com/srobo/kit-maintenance-docs/tree/master/src/odriod.md | |
 | Tablet | | |
-| USB charger | | |
+| USB charger | https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-charger.md | |
 | USB hub | https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-hub.md | |
 | Webcam | | |
 | WiFi dongle | | |
