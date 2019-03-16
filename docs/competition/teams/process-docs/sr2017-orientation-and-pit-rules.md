@@ -4,6 +4,8 @@ original:
   url: https://github.com/srobo/comp-team-coord-docs/ProcessDocs/orientationAndPitRules
 ---
 
+# SR 2017 Example orientation and  pit rules
+
 The following is an example of the competition event orientation and rules, as given to competitors in 2017.
 
 ## Welcome to Student Robotics 2017!
