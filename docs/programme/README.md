@@ -19,10 +19,6 @@ Team Coordinator | Fiona Gillan | [Docs](/teams)
 Kit Coordinator | Richard Barlow | [Docs](/kit-coord)
 Ancillary Software Coordinator |
 
-## Communication
-
-All of the people listed above are part of the [`srcomp-prog`](https://groups.google.com/forum/#!forum/srcomp-prog) mailing list.  This list is for those people to use when they need to communicate with the rest of the team (or a significant chunk of it).
-
 ## Things
 
  * Kickstart
