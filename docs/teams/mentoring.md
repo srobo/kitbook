@@ -6,7 +6,7 @@ original:
 # Mentoring
 
 * Contact the Volunteer Coordinator asking for potential Mentors.
-* A GoogleForm can be used to obtain the following information:
+* A Google Form can be used to obtain the following information:
     * Confirm over 18
     * Name
     * Email address

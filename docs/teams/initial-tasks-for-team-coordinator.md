@@ -9,7 +9,7 @@ original:
 
 * Recruit Local Team Coordinators in a variety of geographical locations, aiming for not more than 10 teams per LTC.
 
-* Produce GoogleForm Team Applications for capturing following info:
+* Produce Google Form Team Applications for capturing following info:
 
     * Team Leader Name
     * To confirm that Team Leader is over 18.
