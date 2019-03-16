@@ -9,13 +9,14 @@ Any roles related to scoring matches go here.
 
 ## Head Match Scorer
 
-**Responsible for managing the scorers and score entry which they may bring in as their only subordinate roles.**
+**Responsible for managing the marshals and score entry which they may bring in as their only subordinate roles.**
 
 They should station themselves near the arena/staging area to ensure any questions with regards to scoring can be asked.
+Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](/competition/matches/judging).
 
-## Match Scorer
+## Match Marshal
 
-**Responsible for being in the arena, saving robots and scoring matches. They may not bring in any subordinate volunteers.**
+**Responsible for being in the arena, saving robots and recording the end-state of matches. They may not bring in any subordinate volunteers.**
 
 In this role you will be assigned an arena and work with a partner. You will be allowed to enter the arena during matches if it is deemed necessary, however it is very important that you do not obstruct any robot or its vision and leave the arena as soon as possible. Each of you will be each given a score sheet<sup>1</sup> on a clipboard which you must both individually fill in fully by the end of the match. Anything that happens after the match has ended must not be counted as a score and the arena must not be changed until both scorers have finished. Once a match has finished it is your responsibility to take your completed score sheet to the score entry desk which will be near the arenas and you must return promptly to the arena in case you need to be found for further scoring questions. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
 
