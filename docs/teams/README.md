@@ -1,15 +1,10 @@
----
-original:
-  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
-  url: https://github.com/fgillan/sr-team-coord/wiki/Home
----
-Welcome to the sr-team-coord wiki which contains the relevant information for the Team Coordinator role.
+# Teams
 
-| Local Team Coordinator | Area covered |
-|-----------------------------|------|
-| Joe Hacker | North |
-| James Roff | West |
-| Sean Bedford | London |
-| Jake Howard | East |
-| Andy Barrett-Sprot | South |
-| Fiona Gillan | Overseas |
+This section contains information about the support we provide for teams
+entering the competition, how we get them involved and how we communicate with
+them.
+
+Generally a single person takes on the overall responsibility for teams, though
+during the competition year it is often advantageous to delegate geographical
+areas to other volunteers to ensure prompt responses to enquiries and avoid
+overloading a single person.
