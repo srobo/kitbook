@@ -32,7 +32,4 @@ The competition intro talk should:
    * Especially highlight that teams must insert the USB stick provided at the staging area  **before** turning on their robot at the beginning of the match.
  * Lay down rules on who is allowed where
  * Describe tinker time and make it clear how one books tinker time.
- * Give a short overview of the game itself (more or less what is printed on the competition flyer). Some important points to highlight:
-	 * "A" tokens are **red Apples** 🍎
-	 * "B" tokens are **yellow Bananas** 🍌
-	 * "C" tokens are **white/brown Coconuts** 🌴
+ * Give a short overview of the game itself (more or less what is printed on the competition flyer).
