@@ -9,6 +9,7 @@ The following is an example of the competition event orientation and rules, as g
 ## Welcome to Student Robotics 2017!
 
 ## Pit Rules and Guidance
+
 The following rules must be observed at all times in the pits:
 
 1.	No battery charging. You must hand over your battery charger and spare batteries at reception. During the competition, visit Helpdesk (on the top floor, see map) to swap a discharged battery for a charged one.
@@ -19,6 +20,7 @@ The following rules must be observed at all times in the pits:
 6.	Please refrain from running any wireless access points. If the provided network infrastructure isn't enough for teams, this issue should be raised to helpdesk.
 
 ## Network and Website Details
+
 A wireless network is available, connection details:
 
 * **SSID:** SR
@@ -62,9 +64,11 @@ You will find the following pages on the website useful:
 
 
 ## Tinkering Time
+
 During parts of the competition scheduled as “Tinkering time”, the arenas will be open for robots to be tested in the competition environment. **You must book a slot in an arena in advance.** Approach the competition staging area (next to the arenas, see map) up to half an hour before and during sessions to request a slot.
 
 ## How the competition runs
+
 Student Robotics features a series of league matches, then knockout rounds seeded by league scores. The schedule (on the website; see above link) defines when league matches will be for your team. You are responsible for bringing your robot to the arena, and taking part in the match:
 
 1.	You **must** arrive at the competition staging area (next to the arenas, see map) with your robot at least 2 minutes before your match starts.
@@ -76,6 +80,7 @@ Student Robotics features a series of league matches, then knockout rounds seede
 7.	If you wish to resign from a match whilst it is in play, you may signal to a match scoring official that you wish to “throw in the towel”.  They will then turn off your robot and you will forfeit that match.
 
 ### Getting help during the competition
+
 For matters related to the operation of the competition (such as querying a score you disagree with), please approach the competition staging area and ask to speak to the Judge.  For all other enquiries, please visit Helpdesk on the top floor (see map).
 
 
