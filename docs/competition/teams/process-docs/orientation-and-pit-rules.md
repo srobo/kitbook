@@ -16,7 +16,7 @@ The following rules must be observed at all times in the pits:
 3.	No powered tools on the top floor (such as soldering irons). **Power tools should only be used in the downstairs area.**
 4.	Keep your robot in your pit when possible – we may need to find you quickly.
 5.	Please avoid blocking or restricting aisles through pits.
-6.	Please refrain from running any wireless access points, they will only interfere with the AP next to your pit
+6.	Please refrain from running any wireless access points. If the provided network infrastructure isn't enough for teams, this issue should be raised to helpdesk.
 
 ## Network and Website Details
 A wireless network is available, connection details:
