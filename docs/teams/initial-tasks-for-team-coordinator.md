@@ -5,7 +5,7 @@ original:
 ---
 # Initial tasks for Team Coordinator
 
-* Decide on deadline for application forms for team leaders to enter a team (12th September 2016), useful to include date of Kickstart (15th Oct 2016).
+* Decide on deadline for application forms for team leaders to enter a team (this should probably be about a month before the planned date for the Kickstart), useful to include date of Kickstart.
 
 * Recruit Local Team Coordinators in a variety of geographical locations, aiming for not more than 10 teams per LTC.
 
@@ -21,9 +21,9 @@ original:
 
 * Google Form Application Form needs to be put on website, via PR, to collect the following information for potential team leaders to register their interest in entering a team in the competition.
 
-* Google Form also emailed to ‘Potential Team Leader’ list in MailChimp, to enter info on application form. (i.e. Registration announcement sent 27th Aug 2016).
-* ‘Prompt for applications’ email sent via MailChimp one week before deadline (5th September 2016).
-* ‘Last reminder to enter’ email sent via MailChimp 3 days before deadline (9th Sep 2016).
+* Google Form also emailed to ‘Potential Team Leader’ list in MailChimp, to enter info on application form. This should be around the start of the autumn term and well before the application deadline.
+* ‘Prompt for applications’ email sent via MailChimp one week before deadline.
+* ‘Last reminder to enter’ email sent via MailChimp 3 days before deadline.
 
 ## Once deadline reached
 
