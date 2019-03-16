@@ -20,6 +20,6 @@ Competition Team Support Coordinator | Richard Barlow | [Docs](/competition/team
 Competition H&S Coordinator | Thomas Scarsbrook | [Docs](http://scarzybrook.co.uk/SR/robotinspector.pdf)
 Match Coordinator | Tom Leese | [Docs](/competition/matches)
 
-## Information
+## Event-Specific Information
 
  * [SR2017 Event Details](/competition/event/sr2017-event)
