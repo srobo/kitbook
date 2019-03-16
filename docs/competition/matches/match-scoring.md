@@ -27,17 +27,17 @@ Teams must not be allowed in the arena during a match and only one team member i
 
 If the team members indicates that they wish for you to turn off their robot (i.e. "throwing in the towel") you may do so but by doing so they forfeit the match which will be recorded in the score sheets as a disqualification. There are two cases where you are allowed to switch off a robot yourself, one is when the match ends and the other is when a robot is causing **unintentional and significant** damage to another robot (i.e. mashes into another robot, pins it, stopping it from being able to function -- includes one dragging the other around if they become intertwined), and in that case it is up to you to decide which robot should be switched off but their match is not forfeited. If the damage is intentional, then the team will get forfeited (potentially for previous matched too), but this decision should be left to the judge. A checklist for robot damage is available below.
 
-You must read [points 1.1 to 1.7 and 3.5 of the rules](https://www.studentrobotics.org/docs/rules/) before starting this role to make sure you understand the game, the scoring rules and how the arena is laid out.
+You must read [the rules](https://www.studentrobotics.org/docs/rules/) before starting this role to make sure you understand the game, the scoring rules and how the arena is laid out.
 
 If you have any questions you may first ask the head match scorer and secondly the judge.
 
-### Arena Setup Checklist
+### Template Arena Setup Checklist
 
 1. Tokens in the arena aren't damaged. If they are, swap them out with the spares.
-2. The tokens in the arena are intended for that arena -- this can be established by reading the grey text printed on each marker on the token. Tokens for arena A have "Arena A" within the text, and tokens for arena B have "Arena B" within the text.
-3. There must be nine tokens in the arena, with all three nets appearing at least once.
-4. The four tokens closest to their respective starting zone for each robot has the colour of that zone facing upwards. All other tokens start with their top facing upwards in any orientation.
-6. Each token is placed on one of the token starting positions that are marked out on the arena floor.
+2. The tokens in the arena are intended for that arena -- this can be established by reading the grey text printed on each marker on the token.
+   If there is more than one arena then the markers on the sides of any tokens will have the name of the arena as part of the text in the bottom left of the marker.
+3. There must be the correct number of tokens of each type in the arena. The precise configuration depends on the game, though the per-year version of this checklist should be explicit about what's needed (and not rely on volunteers remembering the rules)
+4. Each token is placed on a suitable token starting positions that are marked out on the arena floor. Where possible these should be colour-coordinated.
 
 ![Arena Diagram](https://cloud.githubusercontent.com/assets/510498/14783612/a9026b9a-0ae8-11e6-89ef-678acd9ec48a.png)
 
