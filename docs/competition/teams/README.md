@@ -1,7 +1,7 @@
 ---
 original:
   authors: Jake Howard, Rob Gilton and Sean Bedford
-  url: https://github.com/srobo/comp-team-coord-docs/README
+  url: https://github.com/srobo/comp-team-coord-docs/blob/master/README.md
 ---
 # Competition Team Coordinator Role Documentation
 

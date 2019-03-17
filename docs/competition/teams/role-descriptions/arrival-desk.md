@@ -1,7 +1,7 @@
 ---
 original:
   authors: Jeremy Morse, Rob Gilton and Sean Bedford
-  url: https://github.com/srobo/comp-team-coord-docs/RoleDescriptions/arrival-desk
+  url: https://github.com/srobo/comp-team-coord-docs/blob/master/RoleDescriptions/arrival-desk.md
   extra: |
     The original work is based on work done by Jeremy Morse, which was under the
     Creative Commons Attribution 4.0 License.  To view a copy of this license,

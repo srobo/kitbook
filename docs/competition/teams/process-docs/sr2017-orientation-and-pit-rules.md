@@ -1,7 +1,7 @@
 ---
 original:
   authors: Sean Bedford
-  url: https://github.com/srobo/comp-team-coord-docs/ProcessDocs/orientationAndPitRules
+  url: https://github.com/srobo/comp-team-coord-docs/blob/master/ProcessDocs/orientationAndPitRules.md
 ---
 
 # SR 2017 Example orientation and  pit rules
