@@ -36,6 +36,10 @@ For each returned kit:
 * Write down the part code of the Really Useful Box on the kit return form.
 * Get their team leader to sign and write their name on the kit return form.
 
+### Teams leaving before competition-end
+
+If a team wishes to leave before the end of the competition, we should attempt to find any missing kit, rather than recording it on a missing kit form.
+
 ## Teams keeping kit
 
 * Write down the part code of the Really Useful Box on the kit return form.
