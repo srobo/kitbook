@@ -47,6 +47,7 @@ If a team wishes to leave before the end of the competition, we should attempt t
 * Get their team leader to sign and write their name on the kit return form.
 * Give the team a return kit and ensure you inform them that they will be responsible for return shipping charges.
 * Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
+* Kit should be shipped to the postal address listed on [the website](https://studentrobotics.org/contact/).
 
 This workflow is shown in the diagram below.
 
