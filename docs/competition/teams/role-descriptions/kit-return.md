@@ -32,7 +32,7 @@ For each returned kit:
   Make all reasonable attempts to retrieve kit there and then i.e. if they've left a bit upstairs they go and get it.
 * If they do not have something, record it on a missing kit form.
 * If the kit return form indicates that they have more than a normal kit to return (i.e. they had broken kit and did not return it upon arrival), see if they can return it now. If not, record it on a missing kit form.
-* Indicate if all parts are present or if a missing kit form has been filled in on the kit return form (provided by me).
+* Indicate if all parts are present or if a missing kit form has been filled in on the kit return form.
 * Write down the part code of the Really Useful Box on the kit return form.
 * Get their team leader to sign and write their name on the kit return form.
 
