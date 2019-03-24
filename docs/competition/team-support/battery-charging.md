@@ -10,8 +10,8 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 ## Setup
 
 ### Equipment
-
-There are two locations involved in battery charging:
+Most batteries and chargers will arrive with teams, but any batteries, bags, and chargers in inventory should be prepared during setup.
+There are two locations involved in battery charging. The equipment required at each is as listed below:
 
 - Helpdesk
     - 1 x Discharged Battery Box (18L RUB), clearly labelled
@@ -69,12 +69,12 @@ All of the battery chargers will be set-up and ready to use. Before a battery is
 
 Batteries are charged as follows:
 
-- 1. Check that the battery is not physically damaged. There should be no splits or tears in the body of the battery, no nicks in the wire insulation, no exposed wire and the battery should not be so swollen that it is no longer squidgy. There will be a couple of example batteries at the Battery Charging station to compare to.
-- If the battery is damaged, tape over the yellow XT60 connector with red tape and place it in the damaged battery box.
-- If the battery is not damaged, plug the yellow XT60 connector into the charger cable and the white balance connector into the 4-pin socket on the side of the charger.
-- 1. Place the battery in the charging bag next to the charger.
-- 1. Hold down the Start/Enter button for about 3 seconds until the screen displays `R:3SER S:3SER CONFIRM(ENTER)`. If both numbers are not 3 then disconnect the battery and summon Rich Barlow via Helpdesk.
-- 1. If the display is as expected, press Start/Enter to commence charging.
+1. Check that the battery is not physically damaged. There should be no splits or tears in the body of the battery, no nicks in the wire insulation, no exposed wire and the battery should not be so swollen that it is no longer squidgy. There will be a couple of example batteries at the Battery Charging station to compare to.
+    * if the battery is damaged, tape over the yellow XT60 connector with red tape and place it in the damaged battery box.
+1. If the battery is not damaged, plug the yellow XT60 connector into the charger cable and the white balance connector into the 4-pin socket on the side of the charger.
+1. Place the battery in the charging bag next to the charger.
+1. Hold down the Start/Enter button for about 3 seconds until the screen displays `R:3SER S:3SER CONFIRM(ENTER)`. If both numbers are not 3 then disconnect the battery and summon Rich Barlow via Helpdesk.
+1. If the display is as expected, press Start/Enter to commence charging.
 After about 1 hour the battery should complete charging - the screen will display a charge complete message. Simply disconnect the battery from the charger and place it in the charged battery box.
 
 If at any point throughout the charging cycle the charger indicates an issue (e.g. a timeout, capacity or cable error), disconnect the battery from the charger, apply a piece of red tape to the yellow XT60 connector on the battery and place it in the damaged battery box. Inevitably there will be a small number of faulty chargers. If you suspect that a particular charger is faulty (lots of batteries fail to charge on it), disconnect it from its power supply, apply red tape to its yellow XT60 connector and place it in the damaged battery box.
