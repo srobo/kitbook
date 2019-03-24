@@ -54,7 +54,7 @@ This workflow is shown in the diagram below.
 ![Kit return flow](../diagrams/kit-return-desk-flow.svg)
 
 ## Required Items
-You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible. The documents can be found in the [`kit-coordination-docs`](https://github.com/srobo/kit-coordination-docs) repo.
+You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible. The documents can be found in the [`kit-coordination-documents`](https://github.com/srobo/kit-coordination-documents) repo.
 
 * This documentation and flow chart.
 * Sign-out sheet.
