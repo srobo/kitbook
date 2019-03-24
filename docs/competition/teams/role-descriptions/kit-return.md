@@ -36,6 +36,8 @@ For each returned kit:
 * Write down the part code of the Really Useful Box on the kit return form.
 * Get their team leader to sign and write their name on the kit return form.
 
+After the competition, the missing kit for teams will be sent to them by the teams coordinator to ensure the kit is returned. Kit should be shipped to the postal address listed on [the website](https://studentrobotics.org/contact/)
+
 ### Teams leaving before competition-end
 
 Teams leaving early should follow the same process as above, though we should push them to spend more time searching for any missing items they might have lost at the venue. If they are unable to find the items or are sure that they didn't bring them, then we should record the item on a missing kit form (as above).
