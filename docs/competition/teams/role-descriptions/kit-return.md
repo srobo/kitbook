@@ -38,7 +38,7 @@ For each returned kit:
 
 ### Teams leaving before competition-end
 
-If a team wishes to leave before the end of the competition, we should attempt to find any missing kit, rather than recording it on a missing kit form.
+Teams leaving early should follow the same process as above, though we should push them to spend more time searching for any missing items they might have lost at the venue. If they are unable to find the items or are sure that they didn't bring them, then we should record the item on a missing kit form (as above).
 
 ## Teams keeping kit
 
