@@ -33,7 +33,7 @@ There are two locations involved in battery charging. The equipment required at 
 
 ## Volunteer Requirements
 
-Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raisedwith the Health and Safety officer ASAP.
+Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raised with the Health and Safety officer ASAP.
 
 ## Safety
 
@@ -73,7 +73,7 @@ Batteries are charged as follows:
     * if the battery is damaged, tape over the yellow XT60 connector with red tape and place it in the damaged battery box.
 1. If the battery is not damaged, plug the yellow XT60 connector into the charger cable and the white balance connector into the 4-pin socket on the side of the charger.
 1. Place the battery in the charging bag next to the charger.
-1. Hold down the Start/Enter button for about 3 seconds until the screen displays `R:3SER S:3SER CONFIRM(ENTER)`. If both numbers are not 3 then disconnect the battery and summon Rich Barlow via Helpdesk.
+1. Hold down the Start/Enter button for about 3 seconds until the screen displays `R:3SER S:3SER CONFIRM(ENTER)`. If both numbers are not 3 then disconnect the battery and summon the Health and Safety officer.
 1. If the display is as expected, press Start/Enter to commence charging.
 After about 1 hour the battery should complete charging - the screen will display a charge complete message. Simply disconnect the battery from the charger and place it in the charged battery box.
 
