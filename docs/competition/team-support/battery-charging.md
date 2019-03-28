@@ -33,7 +33,7 @@ There are two locations involved in battery charging. The equipment required at 
 
 ## Volunteer Requirements
 
-Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raised ASAP.
+Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raised with helpdesk ASAP.
 
 ## Safety
 
@@ -47,13 +47,7 @@ If at any point you have any doubts about safety, immediately summon the Health 
 
 ### Swapping a team's battery - Helpdesk
 
-- Teams will bring their discharged battery to the Helpdesk
-- Discharged batteries should be placed in the discharged battery box
-- If the battery is damaged, red tape should be placed on it and it should be placed in the damaged LiPo bag instead of the discharged battery box. 
-- A charged battery should be retrieved from the charged battery box and handed to the team.
-    - Do not allow teams to take batteries from the box themselves.
-    - If multiple batteries are returned, only give out one charged battery to each team.
-    - In the event that no charged batteries are in the box, contact the battery charging station over the radio to request more.
+Teams will bring discharged batteries to the Battery Charging station and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it in the discharged battery box. A charged battery should be removed from the charged battery box and handed to the team. Do not allow teams to take batteries from the box themselves - we want to prevent teams from hoarding batteries.
 
 ### Swapping batteries - Shuffling
 
