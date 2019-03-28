@@ -14,7 +14,7 @@ tickets and/or wristbands. Each reception staffer has a desk, chair, and
 computer.
 
 There are four flavours of visitor to the competition: competitors,
-team-leaders, volunteers and true-visitors. **Everyone** must complete a media consent form (MCF) OR hold a valid ticket (which also counts as an MCF). Under 18's must have this form completed by a parent or guardian.
+team-leaders, volunteers and true-visitors. **Everyone** must complete a media consent form (MCF) OR hold a valid ticket (which also counts as an MCF). Under 16's must have this form completed by a parent or guardian.
 
 When someone enters the building, you should follow the procedure below.
 
@@ -37,7 +37,7 @@ to helpdesk, or other unknown matters to other people in SR. Any member
 of the public should be allowed into the building if they sign a media consent
 form.
 
-During the 2017 competition, the 'crimper' role will also be performed by the receptionist. Please read this document as well for guidance on how to crimp correctly.
+The 'crimper' role will also be performed by the receptionist. Please read this document as well for guidance on how to crimp correctly.
 
 After the initial influx of people, the 'arrival-desk' role
 will be absorbed by the receptionist. If you have a time slot after the first
