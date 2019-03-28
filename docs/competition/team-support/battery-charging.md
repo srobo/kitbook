@@ -59,7 +59,7 @@ The volunteer that is running the battery charging station will periodically hav
 
 ### Charging a discharged battery - Battery Charging Station
 
-All of the battery chargers will be set-up and ready to use. Before a battery is connected the screen must display `LiPo BALANCE 2.2A 11.1V(3S)`. If it displays anything else then please do not use it and ask Helpdesk to summon help.
+All of the battery chargers will be set-up and ready to use. Before a battery is connected the screen must display `LiPo BALANCE 2.2A 11.1V(3S)`. If it displays anything else then please do not use it and contact helpdesk.
 
 Batteries are charged as follows:
 
