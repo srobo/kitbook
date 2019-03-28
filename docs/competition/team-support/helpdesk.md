@@ -22,9 +22,9 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Permanent marker
  * Large post-it notes
  * Radio
- * Emergency contact numbers for the Competition Team Support Coordinator (Rich Barlow) and the Competition Event Coordinator (Rob Spanton)
- * Spare robot badge for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
- * Saturday evening battery/charger loans
+ * Emergency contact numbers
+ * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+ * Saturday evening battery/charger loass
  * Velcro
  * Scissors
  * Velcro measurement/instruction sheet
@@ -88,14 +88,6 @@ Some teams may wish to work on their robot on Saturday night and will therefore 
 ### Handling requests for batteries/chargers/bags on Sunday evening
 
 Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries and stuff. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' downstairs when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not as that is where teams keeping kit will receive their batteries and stuff.
-
-### Handling requests for velcro
-
-Teams may request a piece of velcro to use on their robot for the purpose of attaching the robot badges. As we have a limited supply of velcro, please follow the instructions on the velcro measurements/instruction sheet. Make sure that you cross off their TLA once they have a piece of velcro so that they can't keep coming back for more.
-
-### Handling requests for sample robot badge
-
-The robots have 'robot badges' on them during competition matches. A team may ask for a sample badge to check for size. Helpdesk has a single sample badge to lend out to teams. Teams **MUST** return this badge to helpdesk ASAP. When handing it out take note of the team's TLA and chase them up if they haven't returned it in 5 mins.
 
 ### Frequently Asked Questions
 
