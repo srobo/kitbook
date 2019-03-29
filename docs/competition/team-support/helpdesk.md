@@ -45,7 +45,7 @@ Whenever a team comes to Helpdesk with an issue that cannot be solved instantly 
 
 ### Handling of requests for robot safety checks
 
-The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should direct teams enquiring about safety checks to the Health & Safety Coordinator (Scarzy).
+The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should direct teams enquiring about safety checks to the Health & Safety Coordinator.
 
 ### Handling of general robot development requests
 
@@ -53,19 +53,7 @@ Many teams will come to Helpdesk requesting help with the development of their r
 
 Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](/competition/team-support/Roving_Helper) should be summoned, via radio if necessary.
 
-In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. The following people are available for specific help and can be summoned over the radio:
-
-Electronic Hardware
-:   Rich Barlow
-:   Rob Spanton
-
-IDE
-:   Peter Law
-
-Python API
-:   Peter Law
-:   Rich Barlow
-:   Rob Spanton
+In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. Consult the Volunteer manager to find who might provide further help.
 
 ### Handling suspected damaged kit requests
 
