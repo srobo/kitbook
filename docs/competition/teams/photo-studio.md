@@ -1,14 +1,24 @@
 # Photo studio manager
 
-The role of the photo studio manager is to take nice photos of teams with their robots.
+The role of the photo studio manager is to take nice photos of teams with their robots, and a photo of robot on their own.
 
 You should have:
-- A camera on a tripod.
-- A notebook to annotate each photograph.
+- A camera on a tripod
+- A table for the robot
+- A logbook to annotate what photos go to what team.
+- A photo backdrop
 
-By far the most important part of this role is to make sure the photos are in focus and correctly framed.
+Take many photos, and make sure the photos are in focus and correctly framed before dismissing the team.
 
-To do this role please make sure you take note of which photos go to which team! Please write down the ID of the photos for each team (both the ID for the first and last).
+Take photos of:
+- The team posing with their robot
+- The robot itself
+
+Make sure you take note of which photos go to which team!
+
+Do this by doing both of the following:
+- Write down the ID of the photos for each team (for the first and last photos).
+- Take a photo of a piece of paper with the team's TLA.
 
 # Photo studio helper
 
