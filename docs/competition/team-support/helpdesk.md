@@ -24,7 +24,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Radio
  * Emergency contact numbers
  * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
- * Saturday evening battery/charger loass
+ * Saturday evening battery/charger loans
  * Velcro
  * Scissors
  * Velcro measurement/instruction sheet
