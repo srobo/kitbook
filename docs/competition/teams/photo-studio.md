@@ -18,7 +18,7 @@ Make sure you take note of which photos go to which team!
 
 Do this by doing both of the following:
 - Write down the ID of the photos for each team (for the first and last photos).
-- Take a photo of a piece of paper with the team's TLA.
+- Take a photo of a piece of paper with the team's TLA before each set of team photos.
 
 # Photo studio helper
 
