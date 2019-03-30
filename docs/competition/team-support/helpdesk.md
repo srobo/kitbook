@@ -24,6 +24,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Radio
  * Emergency contact numbers
  * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+ * Spare robot flag pipe fittings to give to teams.
  * Saturday evening battery/charger loans
  * Velcro
  * Scissors
@@ -76,6 +77,12 @@ Some teams may wish to work on their robot on Saturday night and will therefore 
 ### Handling requests for batteries/chargers/bags on Sunday evening
 
 Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries and stuff. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' downstairs when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not as that is where teams keeping kit will receive their batteries and stuff.
+
+### Handling requests for flag fittings
+
+Teams may request a pipe connector to use on their robot for the purpose of attaching the robot flags. As we have a limited supply, make sure that you only let each team only take one, so that they can't keep coming back for more.
+
+Also, please show teams how to remove the fittings, as they are very strong and need to be released in the correct way (Press down on the center ring)
 
 ### Frequently Asked Questions
 
