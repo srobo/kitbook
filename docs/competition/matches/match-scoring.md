@@ -50,7 +50,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 
 ### Template Arena Setup Checklist
 
-1. Props in the arena aren't damaged. If they are, swap them out with the spares.
+1. Props (e.g: tokens) in the arena aren't damaged. If they are, swap them out with the spares.
 2. The tokens in the arena are intended for that arena -- this can be established by reading the grey text printed on each marker on the token.
    If there is more than one arena then the markers on the sides of any tokens will have the name of the arena as part of the text in the bottom left of the marker.
 3. There must be the correct number of tokens of each type in the arena. The precise configuration depends on the game, though the per-year version of this checklist should be explicit about what's needed (and not rely on volunteers remembering the rules)
