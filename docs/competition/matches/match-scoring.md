@@ -45,6 +45,7 @@ Teams must not be allowed in the arena during a match. It is the responsibility 
 #### Turning off robots
 
 If the team members indicate that they wish for you to turn off their robot (i.e. "throwing in the towel") you may do so but by doing so they forfeit the match which will be recorded in the score sheets as a disqualification. There are two cases where you are allowed to switch off a robot yourself, one is when the match ends and the other is when a robot is causing **significant** damage to itself or another robot (i.e. mashes into another robot, pins it, stopping it from being able to function -- includes one dragging the other around if they become intertwined), and in that case it is up to you to decide which robot should be switched off but their match is not forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
+
 If you have any questions you may first ask the head match scorer and secondly the judge.
 
 ### Template Arena Setup Checklist
