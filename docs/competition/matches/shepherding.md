@@ -5,7 +5,7 @@ original:
 ---
 # Shepherding
 
-The purpose of the shepherding team is to ensure that teams have the best chance possible of attending all of their matches, by getting to through staging before the start of their match.
+The purpose of the shepherding team is to ensure that teams have the best chance possible of attending all of their matches, by getting them through staging before the start of their match.
 
 ## Roles
 
@@ -64,7 +64,7 @@ The responsibility of the roving shepherd is to sweep the venue and look for tea
 
 Teams are often known to set up 'bases' away from their pits, and the roving shepherd will be responsible for curating a list of these bases, to aid in the searching for teams that are not in their pits.
 
-The roving shepherd will be notified of teams that need to be found via radio, they will then check if they have a known base. If they do they'll proceed to it to try and find the team. If the team does not have a known base or is not there, the roving shepherd will walk through each floor of the arena in an attempt to locate them.
+The roving shepherd will be notified of teams that need to be found via radio, they will then check if they have a known base. If they do they'll proceed to it to try and find the team. If the team does not have a known base or is not there, the roving shepherd will walk through each floor of the venue in an attempt to locate them.
 
 The Roving Shepherd is **not** required to find every missing team, purely do a best effort sweep of the venue. If a team can not be found they will notify the Head Shepherd immediately.
 
