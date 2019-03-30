@@ -53,7 +53,7 @@ Many teams will come to Helpdesk requesting help with the development of their r
 
 Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](/competition/team-support/Roving_Helper) should be summoned, via radio if necessary.
 
-In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. Consult the Volunteer manager to find who might provide further help.
+In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. Consult the Volunteer Manager to find who might provide further help.
 
 ### Handling suspected damaged kit requests
 
