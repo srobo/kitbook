@@ -24,5 +24,5 @@ We recommend the items you get are:
 - Fruit
 - Biscuits
 
-Keep hold of your receipts, and send them in when we ask for Travel reimbursements, repayments will be made at that time.
+Keep hold of your receipts, and send them in when we ask for travel reimbursements, repayments will be made at that time.
 
