@@ -27,7 +27,7 @@ Your responsibilities are:
 - Ensuring robots start in the correct corner, and are entirely within their starting zone.
 - Ensuring no team members touch a robot after it has first moved. (see 'Teams touching robots').
 - Switching off robots when a team requests that you do so, or if they do not automatically turn off after a match ends.
-- Resetting the arena by moving props (tokens, for example) back to the correct place before the start of the following match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
+- Resetting the arena by moving props (tokens, for example) back to the correct place after you and your partmer have both recorded the end-state of the match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
 
 You are not responsible for:
 - Making sure a match starts with the correct number of teams -- that is down to the shepherds.
