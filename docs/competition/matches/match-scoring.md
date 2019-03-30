@@ -34,7 +34,7 @@ You are not responsible for:
 
 ### Scoring
 
-Both marshalls will be given a score sheet on a clipboard, which you must both individually fill in fully by the end of the match. You must do your best to record the state as it is at the exact end of the match. Anything that happens after the match has ended must not be recorded, and the arena must not be changed until both scorers have finished. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
+Both marshalls will be given a score sheet on a clipboard, which you must both individually fill in fully by the end of the match. Don't worry! You won't be calculating any actual scores whist doing this, we have a program to calculate the actual scores. All you need to do is record the state of the arena  as it is at the exact end of the match. Anything that happens after the match has ended must not be recorded, and the arena must not be changed until both scorers have finished. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
 
 Once you have finished scoring, you must drop your completed score sheet at the score entry desk which will be near the arenas. You must return promptly to the arena in case you need to be found for further scoring questions, and begin resetting the arena for the next match.
 
