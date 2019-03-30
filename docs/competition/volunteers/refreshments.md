@@ -9,7 +9,13 @@ It is the responsibility of the Refreshments role to offer and provide refreshme
 To do this, you should grab a tray, fill it with a mix of drinks and food, and go to all volunteer positions, offering refreshments.
 Please also fill some cups with water from a nearby water fountain, and brew coffee/tea if available.
 
-Please don't forget about those at tech decks, those at reception/helpdesk, and those who are commentating/marshalling.
+People at the following locations will be unable to leave their posts to fetch refreshments for themselves, so it is important to take refreshments to them regularly:
+- tech desks
+- reception
+- helpdesk
+- arena: commentator, marshals, head shepherd, score entry
+
+The tech desks roles and commentator are particularly important as they do not rotate between people at all.
 
 ## Running low on refreshments
 
