@@ -11,7 +11,7 @@ Any roles related to scoring matches go here.
 
 **Responsible for managing the marshals and score entry which they may bring in as their only subordinate roles.**
 
-They should station themselves near the arena/staging area to ensure any questions with regards to scoring can be asked.
+As head match scorer you should station yourself near the arena/staging area to ensure any questions with regards to scoring can be asked.
 Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](/competition/matches/judging).
 
 ## Match Marshal
@@ -47,13 +47,17 @@ Both marshalls will be given a score sheet on a clipboard, which you must both i
 
 Once you have finished scoring, you must drop your completed score sheet at the score entry desk which will be near the arenas. You must return promptly to the arena in case you need to be found for further scoring questions, and begin resetting the arena for the next match.
 
-#### Teams touching robots
+### Teams touching robots
 
 Teams must not be allowed in the arena during a match. It is the responsibility of the team members to place their robot in the start zone before the match starts. If a robot moves off before the match starts (aside from minor servo-resetting arm movements) teams are allowed to switch off their robot, reset it and start again. However, if the mis-started robot touches any arena prop then they should be immediately disqualified (there is a checkbox on the score sheet). Once the robot start button has been pressed and the match has started, teams are not allowed to interact with their robots until after scoring has taken place.
 
-#### Turning off robots
+### Turning off robots
 
-If the team members indicate that they wish for you to turn off their robot (i.e. "throwing in the towel") you may do so but by doing so they forfeit the match which will be recorded in the score sheets as a disqualification. There are two cases where you are allowed to switch off a robot yourself, one is when the match ends and the other is when a robot is causing **significant** damage to itself or another robot (i.e. mashes into another robot, pins it, stopping it from being able to function -- includes one dragging the other around if they become intertwined), and in that case it is up to you to decide which robot should be switched off but their match is not forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
+Be sure to turn off robots if they continue moving after the end of a match. Make sure you know where the off button is for all robots before the matches.
+
+There are two situations where robots should be turned off before the end of a match:
+- If the team members indicate that they wish to do so (by "throwing in the towel"). By doing so, the team forfeits the match, which should be recorded in the score sheets as a disqualification.
+- When a robot is causing **significant** damage to itself or another robot, i.e. Mashing into another robot, stopping it from being able to function, or dragging it around without being able to be freed, or overheating a motor by stalling against a wall. It's up to you to decide which robot should be switched off, but their match shouldn't be forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
 
 If you have any questions you may first ask the head match scorer and secondly the judge.
 
@@ -76,7 +80,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 
 ## Match Score Entry
 
-**Responsible for receiving scores from the match scorers and entering them into the competition software. They may not bring in any subordinate volunteers.**
+**Responsible for receiving match states from the marshals and entering them into the competition software. They may not bring in any subordinate volunteers.**
 
 In the role of score entry you will be stationed at a desk near to the arena/staging area. When a score sheet is given to you by the match scorers, you will enter the scores into a computer and then file the score sheet in a folder.
 
