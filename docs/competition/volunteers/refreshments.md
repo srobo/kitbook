@@ -19,7 +19,7 @@ The tech desks roles and commentator are particularly important as they do not r
 
 ## Running low on refreshments
 
-If we're running low on refreshments, it's your responsiblity to either go or find someone to go get more from the nearby shops. There should be an amount of cash by the refreshments to spend to replenish. If this has ran out, please speak to the Volunteer Manager.
+If we're running low on refreshments, it's your responsiblity to either go or find someone to go get more from the nearby shops. There should be an amount of cash by the refreshments to spend to replenish. It's intended to last for the whole competition, so do not spend it all. If the money has ran out, please speak to the Volunteer Manager.
 
 The nearest food shopfor SR2019 is the 'Coop Food' on Burgess road, see: https://goo.gl/maps/VETqx4apQet
 
