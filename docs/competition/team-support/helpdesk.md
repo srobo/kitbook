@@ -56,15 +56,17 @@ Some queries may require a volunteer to visit the team in their pit to observe b
 
 In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial, Here is a list of people to contact for further help:
 
-Electronic Hardware
-:   Rob Gilton
+List for SR2019:
+
+Electronic Hardware:
+-   Rob Gilton
 
 IDE
-:   Peter Law
+-   Peter Law
 
 Python API
-:   Peter Law
-:   Rob Gilton
+-   Peter Law
+-   Rob Gilton
 
 ### Handling suspected damaged kit requests
 
