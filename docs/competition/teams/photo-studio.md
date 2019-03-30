@@ -23,7 +23,7 @@ Do this by doing both of the following:
 
 # Photo studio helper
 
-The helper's job is to fetch teams to be photographed by the Photo studio manager. It's almost guaranteed that not all teams will want to be photographed immediately, so try to do it in order, but all teams must eventually be photographed!
+The helper's job is assist the studio photographer, and to fetch teams to be photographed by the Photo studio manager. It's almost guaranteed that not all teams will want to be photographed immediately, so try to do it in order, but all teams must eventually be photographed!
 
 Make sure the teams bring their robots, and try to maintain a queue of max 2 teams to be photographed. Any more will be a waste of teams' time.
 
