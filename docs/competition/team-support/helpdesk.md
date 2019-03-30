@@ -22,7 +22,7 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Permanent marker
  * Large post-it notes
  * Radio
- * Emergency contact numbers
+ * Emergency contact number for the Health and Safety Coordinator
  * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
  * Spare robot flag pipe fittings to give to teams.
  * Saturday evening battery/charger loans
