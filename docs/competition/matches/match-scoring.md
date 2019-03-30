@@ -18,7 +18,7 @@ Note that this role is _not_ about making decisions related to the interpretatio
 
 **Responsible for being in the arena, saving robots and recording the end-state of matches. They may not bring in any subordinate volunteers.**
 
-You MUST read [the rules](https://www.studentrobotics.org/docs/rules/) before starting this role, as you will be enforcing them. Especially make sure you understand the scoring rules (i.e. what counts as 'in' a zone), and how the arena should be laid out.
+You MUST read [the rules](https://www.studentrobotics.org/docs/rules/) before starting this role, as you will be enforcing them. Especially make sure you understand the scoring rules (i.e. what counts as 'in' a zone), and how the arena should be laid out.For convenience, we have listed the most important regulations and rules for a match scorer below, marshals should be trained on this before they start.
 
 In this role you will work in the arena with a partner. You will be the only ones allowed in the arena during matches, however it is very important that you do not obstruct any robot or its vision, (especially by casting shadows over markers).
 
@@ -31,6 +31,15 @@ Your responsibilities are:
 
 You are not responsible for:
 - Making sure a match starts with the correct number of teams -- that is down to the shepherds.
+
+### Summary of the most important rules & regulations for SR2019:
+
+- A token is considered to be ‘in’ a zone if either:
+  - Three corners of the token are in contact with the floor area inside the zone. Corners touching tape are not in the zone, tokens on Robots, or standing on their edges are not in the zone.
+  - The token is touching *only* other tokens (not robots, not the floor), which themselves are 'in'.
+
+- A robot is considered to be 'in' a zone if:
+  - The exact center of the flagpole is above the zone (if it's directly above the coloured tape, it's not in the zone).
 
 ### Scoring
 
