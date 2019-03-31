@@ -23,6 +23,7 @@ There are two locations involved in battery charging. The equipment required at 
     - 1 x Charged Battery Box (18L RUB), clearly labelled
     - 1 x Damaged battery box (18L RUB), clearly labelled, red taped
     - At least one roll of red insulating tape
+    - A Radio for contacting the health and safety officer.
     - Example good batteries (one brand new, one squidgy)
 
 ### Safe Use of Battery Charging Equipment - Battery Charging Station 
@@ -41,7 +42,7 @@ The biggest risk of damage or injury is from the banana plugs coming unplugged f
 
 The batteries themselves have many built in safety features and, unless severely abused, are completely safe. All batteries undergoing charging must be placed inside a fireproof charging bag. In the extremely unlikely event of a fire due to a battery DO NOT attempt to tackle the fire - the batteries contain a flammable metal (Lithium) which cannot be safely tackled with most fire extinguishers.
 
-If at any point you have any doubts about safety, immediately summon the Health & Safety officer.
+If at any point you have any doubts about safety, immediately summon the Health & Safety officer over the radio.
 
 ## Procedures
 
