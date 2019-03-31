@@ -10,7 +10,9 @@ original:
 # Arrival Desk Volunteer
 
 The arrival desk is a location for co-ordinating with teams and volunteers at
-the start of the competition. There are two aims:
+the start of the competition.
+
+There are two aims:
 
  * Team entry/exit recording
  	* Arrival desk staff will have sign-in / sign-out sheet(s) for team leaders to
@@ -39,7 +41,6 @@ ordered and a printed schedule of what they're doing for the day.
  * Regularly letting the competition software coordinator know which teams have arrived
 	* The competition software coordinator needs to have an accurate picture of which teams have arrived (and more importantly, which teams are not at the competition!) to plan the match schedules. The arrivals desk is responsible for periodically providing a list of teams that are present.
 
-After initial influx, the reception will absorb this role.
 
 The following flow is an outline of the processes described above:
 
