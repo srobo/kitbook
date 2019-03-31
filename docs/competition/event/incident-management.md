@@ -1,6 +1,6 @@
 # SR2019 Incident Management Procedure
 
-This page is primarily for internal use. If you are a team competing in Student Robotics, you probably want our main website.
+This page is primarily for internal use. If you are a team competing in Student Robotics, you probably want [our main website](https://studentrobotics.org/).
 
 This page details the procedures to be following in the event of an incident occuring during the competition. Incidents are split into 2 types; minor and major.
 
