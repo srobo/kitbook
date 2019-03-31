@@ -28,7 +28,7 @@ will reduce to two. Additionally, after the initial influx, receptionists
 should allow people wearing SR wristbands to enter the building at will (they
 should check that people walking in have one, or follow the procedure above).
 
-**Note: for any teams entering the competition trying to hand back kit at reception, please direct them to the arrivals desk**
+**Note: All receptionists at the start of Saturday will be handling the arrivals desk too.**
 
 Throughout the competition reception staffers will encounter a variety of
 members of the public enquiring what the event is, or otherwise receiving
