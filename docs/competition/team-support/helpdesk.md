@@ -22,12 +22,10 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
  * Permanent marker
  * Large post-it notes
  * Radio
- * Emergency contact numbers for the Competition Team Support Coordinator (Rich Barlow) and the Competition Event Coordinator (Rob Spanton)
- * Spare robot badge for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+ * Emergency contact number for the Health and Safety Coordinator
+ * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+ * Spare robot flag pipe fittings to give to teams
  * Saturday evening battery/charger loans
- * Velcro
- * Scissors
- * Velcro measurement/instruction sheet
 
 ## Volunteer Requirements
 
@@ -45,7 +43,7 @@ Whenever a team comes to Helpdesk with an issue that cannot be solved instantly 
 
 ### Handling of requests for robot safety checks
 
-The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should direct teams enquiring about safety checks to the Health & Safety Coordinator (Scarzy).
+The robots require safety checking before they are allowed to compete in the competition. Teams will not be given their hi-viz vest until their robot has passed the safety check procedure. Helpdesk volunteers should direct teams enquiring about safety checks to the Health & Safety Coordinator.
 
 ### Handling of general robot development requests
 
@@ -53,19 +51,19 @@ Many teams will come to Helpdesk requesting help with the development of their r
 
 Some queries may require a volunteer to visit the team in their pit to observe behaviour in situ. This must only be done by a Helpdesk volunteer if it will leave no fewer than two volunteers actively manning Helpdesk. If it is not possible for a Helpdesk volunteer to visit a team then a [Roving Helper](/competition/team-support/Roving_Helper) should be summoned, via radio if necessary.
 
-In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial. The following people are available for specific help and can be summoned over the radio:
+In some rare situations it may be necessary to request the assistance of a person with more in-depth knowledge of the kit to help solve an issue. This should only be done if the issue is non-trivial, Here is a list of people to contact for further help:
 
-Electronic Hardware
-:   Rich Barlow
-:   Rob Spanton
+List for SR2019:
+
+Electronic Hardware:
+-   Rob Gilton
 
 IDE
-:   Peter Law
+-   Peter Law
 
 Python API
-:   Peter Law
-:   Rich Barlow
-:   Rob Spanton
+-   Peter Law
+-   Rob Gilton
 
 ### Handling suspected damaged kit requests
 
@@ -79,23 +77,21 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 ### Swapping out kit
 
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/src/master/forms/kit_swap_form.odt) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [SR2019 Kit Swap Form](https://docs.google.com/document/d/1tvzO0WEqL8m0B0QEBJziylZGAx0bpNe0RP6K1INMVZA/edit?usp=sharing) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
 
 ### Handling requests for batteries/chargers/bags on Saturday evening
 
-Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Saturday Evening Battery/Charger Loans' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station.
+Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Overnight Battery Loan Form' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station, and marked as returned on the form.
 
 ### Handling requests for batteries/chargers/bags on Sunday evening
 
-Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries and stuff. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' downstairs when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not as that is where teams keeping kit will receive their batteries and stuff.
+Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries, chargers, and bags. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not, as that is where teams keeping kit will receive all the needed items.
 
-### Handling requests for velcro
+### Handling requests for flag fittings
 
-Teams may request a piece of velcro to use on their robot for the purpose of attaching the robot badges. As we have a limited supply of velcro, please follow the instructions on the velcro measurements/instruction sheet. Make sure that you cross off their TLA once they have a piece of velcro so that they can't keep coming back for more.
+Teams may request a pipe connector to use on their robot for the purpose of attaching the robot flags. As we have a limited supply, make sure that you only let each team only take one, so that they can't keep coming back for more.
 
-### Handling requests for sample robot badge
-
-The robots have 'robot badges' on them during competition matches. A team may ask for a sample badge to check for size. Helpdesk has a single sample badge to lend out to teams. Teams **MUST** return this badge to helpdesk ASAP. When handing it out take note of the team's TLA and chase them up if they haven't returned it in 5 mins.
+Also, please show teams how to remove the fittings, as they are very strong and need to be released in the correct way (Press down on the center ring)
 
 ### Frequently Asked Questions
 
@@ -107,4 +103,3 @@ Based on issues handled in previous years, the following may be helpful:
 | Need to initialise servos to non-zero position | Use 'Custom Robot Object Initialisation' and set position between `.init()` and `.wait_start()`. (On 'Programming->sr' page of docs near the bottom) |
 | How to access starting corner/zone number in code | Use 'R.zone' (On 'Programming->sr' page of docs in the 'Other Robot Attributes' section) |
 | Worried about token/marker offset of 100 in competition mode | We handle this automatically, they do not need to worry. If their code works in development mode with development markers, it will work in competition mode with competition markers. They must ensure that they plug the arena/competition key provided to them in the staging area into their robot before they turn the power on. |
-| Any issues with tablets/charging of tablets | Remind teams that they can access the robot interface on any WiFi enabled defined, i.e. a laptop, phone or tablet of their own. Direct them to the 'Kits->WiFi' page in the docs. If they really want to use the tablet and the battery is knackered, swap it out (following the procedure). |
