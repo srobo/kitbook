@@ -81,7 +81,7 @@ After determining that a piece of kit is most likely faulty it must be swapped w
 
 ### Handling requests for batteries/chargers/bags on Saturday evening
 
-Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Saturday Evening Battery/Charger Loans' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station.
+Some teams may wish to work on their robot on Saturday night and will therefore require batteries, a charger, a charger PSU and a battery bag. If a team requests these items, note down their TLA and the part codes of the five items on the 'Overnight Battery Loan Form' sheet and give them the parts. On Sunday morning one helpdesk volunteer must ensure that all of the parts listed on this sheet are collected from the teams and returned to the battery charging station, and marked as returned on the form.
 
 ### Handling requests for batteries/chargers/bags on Sunday evening
 
