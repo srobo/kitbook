@@ -23,7 +23,7 @@ If we're running low on refreshments, it's your responsiblity to make sure someo
 
 The nearest food shop for SR2019 is the 'Coop Food' on Burgess road, see: https://goo.gl/maps/VETqx4apQet
 
-We recommend the items you get are:
+Items we should keep in constant supply:
 - Hot drink facilities (if we have hot drinks cups)
   - Coffee
   - Tea
