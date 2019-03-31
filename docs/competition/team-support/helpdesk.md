@@ -80,7 +80,7 @@ If a team comes to Helpdesk with a suspicion of some of the Student Robotics kit
 
 ### Swapping out kit
 
-After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [Kit Swap Form](https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/src/master/forms/kit_swap_form.odt) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
+After determining that a piece of kit is most likely faulty it must be swapped with a working spare. Helpdesk has a supply of spare kit. To swap a piece of kit please fill in a [SR2019 Kit Swap Form](https://docs.google.com/document/d/1tvzO0WEqL8m0B0QEBJziylZGAx0bpNe0RP6K1INMVZA/edit?usp=sharing) and follow the instructions on there. Since there is a limited quantity of spare kit, all attempts must be made to verify that the issue being observed is not caused by something else.
 
 ### Handling requests for batteries/chargers/bags on Saturday evening
 
