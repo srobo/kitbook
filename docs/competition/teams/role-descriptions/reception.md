@@ -52,3 +52,5 @@ You should have the following items present for your duties. If you do not, plea
 * Pens to fill in MCFs.
 * Wristbands to give to entrants.
 * Competitor booklets to give to teams
+* Venue maps
+* Guest visitor flyers
