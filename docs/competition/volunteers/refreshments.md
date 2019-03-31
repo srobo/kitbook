@@ -2,7 +2,7 @@
 
 It's important that volunteers stay hydrated, which can be difficult for those in roles which don't allow them to move. (Don't give refreshments to competitors).
 
-**In SR2019, the refreshments are in the Volunteer Rest room, which is past the toilets and to the left. Also water points are on both level 2 and 3 in the corner furthest from the toilets.**
+**In SR2019, the refreshments are in the Volunteer Rest room, which is on level 2 past the toilets and to the left. Also water points are on both level 2 and 3 in the corner furthest from the toilets.**
 
 It is the responsibility of the refreshments role to offer and provide refreshments to all volunteers, especially those who can't leave their roles.
 
