@@ -69,7 +69,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 3. There must be the correct number of tokens of each type in the arena. The precise configuration depends on the game, though the per-year version of this checklist should be explicit about what's needed (and not rely on volunteers remembering the rules)
 4. Each token is placed on a suitable token starting positions that are marked out on the arena floor. Where possible these should be colour-coordinated.
 
-![Arena Diagram](https://user-images.githubusercontent.com/2551763/55267652-ccb33200-5283-11e9-8a5b-68ffc4026516.png)
+![Arena Diagram](diagrams/arena.svg)
 
 ### Robot Damage Checklist
 
