@@ -18,7 +18,7 @@ Note that this role is _not_ about making decisions related to the interpretatio
 
 **Responsible for being in the arena, saving robots and recording the end-state of matches. They may not bring in any subordinate volunteers.**
 
-You MUST read [the rules](https://www.studentrobotics.org/docs/rules/) before starting this role, as you will be enforcing them. Especially make sure you understand the scoring rules (i.e. what counts as 'in' a zone), and how the arena should be laid out.For convenience, we have listed the most important regulations and rules for a match scorer below, marshals should be trained on this before they start.
+You MUST read [the rules](https://www.studentrobotics.org/docs/rules/) before starting this role, as you will be enforcing them. Especially make sure you understand the scoring rules (i.e. what counts as 'in' a zone), and how the arena should be laid out. For convenience, we have listed the most important regulations and rules for a match scorer below, marshals should be trained on this before they start.
 
 In this role you will work in the arena with a partner. You will be the only ones allowed in the arena during matches, however it is very important that you do not obstruct any robot or its vision, (especially by casting shadows over markers).
 
