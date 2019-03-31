@@ -77,7 +77,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 - If the damage is intentional, seek the judge.
 - If the damage is unintentional:
   - If a robot mashes into another robot, but only briefly, leaving both robots free to move (including situations in which, say, one robot has a fragile, flaily arm that gets snapped off in the collision) then you must leave the robots to continue -- the teams are aware that accidental bumps and scrapes are inevitable.
-  - If a robot mashes into another robot, and becomes intertwined in a way that it is causing damage to the robot, then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are **not** forfeited in this case.
+  - If a robot mashes into another robot, and becomes intertwined in a way that it is causing damage to the robot, then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are not necessarily forfeited in this case.
 
 ## Match Score Entry
 
