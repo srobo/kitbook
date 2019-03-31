@@ -14,7 +14,7 @@ tickets and/or wristbands. Each reception staffer has a desk, chair, and
 computer.
 
 There are four flavours of visitor to the competition: competitors,
-team-leaders, volunteers and true-visitors. **Everyone** must complete a media consent form (MCF) OR hold a valid ticket (which also counts as an MCF). Under 16's must have this form completed by a parent or guardian.
+team-leaders, volunteers and true-visitors. **Everyone** must complete a media consent form (MCF) OR hold a valid ticket (which also counts as an MCF). Under 16's must have this form completed by a parent or guardian. If someone denies Media Consent, or is under age and doesn't have a form, please speak to the volunteer responsible for Managing Teams.
 
 When someone enters the building, you should follow the procedure below.
 

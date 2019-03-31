@@ -21,9 +21,9 @@ The tech desks roles and commentator are particularly important as they do not r
 
 If we're running low on refreshments, it's your responsiblity to make sure someone gets more from the nearby shops. Find someone or speak to the volunteer manager to find someone who is free to go get more. There should be cash by the refreshment storage for you to buy more. It's intended to last for the whole competition, so do not spend it all. If the money has ran out, please speak to the Volunteer Manager.
 
-The nearest food shopfor SR2019 is the 'Coop Food' on Burgess road, see: https://goo.gl/maps/VETqx4apQet
+The nearest food shop for SR2019 is the 'Coop Food' on Burgess road, see: https://goo.gl/maps/VETqx4apQet
 
-We recommend the items you get are:
+Items we should keep in constant supply:
 - Hot drink facilities (if we have hot drinks cups)
   - Coffee
   - Tea
