@@ -85,7 +85,7 @@ Some teams may wish to work on their robot on Saturday night and will therefore 
 
 ### Handling requests for batteries/chargers/bags on Sunday evening
 
-Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries and stuff. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' downstairs when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not as that is where teams keeping kit will receive their batteries and stuff.
+Some teams have been granted permission to keep the kit for a little while after the competition. To be able to make use of the kit they will require batteries, chargers, and bags. They **MUST NOT** be given any of these items from helpdesk. They will receive these items at the 'Kit Return Desk' when they leave. All teams must go to the Kit Return Desk, regardless of whether they are returning their kit or not, as that is where teams keeping kit will receive all the needed items.
 
 ### Handling requests for flag fittings
 
