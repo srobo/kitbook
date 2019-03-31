@@ -23,10 +23,10 @@ There are two locations involved in battery charging. The equipment required at 
     - 1 x Charged Battery Box (18L RUB), clearly labelled
     - 1 x Damaged battery box (18L RUB), clearly labelled, red taped
     - At least one roll of red insulating tape
-    - A Radio for contacting the health and safety officer.
+    - A Radio for contacting the health and safety officer
     - Example good batteries (one brand new, one squidgy)
 
-### Safe Use of Battery Charging Equipment - Battery Charging Station 
+### Safe Use of Battery Charging Equipment - Battery Charging Station
 
 - There should be `0.5A` of mains electricity available per charger.
 - It should be ensured that any power distribution / 4 ways is setup properly and able to handle the current draw.
