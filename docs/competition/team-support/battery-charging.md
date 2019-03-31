@@ -55,7 +55,7 @@ Teams will bring discharged batteries to helpdesk and require a replacement char
 
 The volunteer that is running the battery charging station will periodically have to go and get discharged batteries from the helpdesk, simultaneously dropping off charged batteries. Helpdesk may also contact the volunteer over radio to do it sooner.
 
-The general schedule will go as follows
+The general schedule will go as follows:
 - Charged batteries should be taken to the helpdesk and put into a fire-proof bag in the charged batteries box.
 - Discharged and damaged batteries should be taken from the fire-proof bag in the discharged batteries box to the battery charging station.
 - Any batteries that were marked as damaged by the helpdesk (using red tape) should be inspected and placed into their own fire-proof bag in the damaged battery box if they are damaged.
