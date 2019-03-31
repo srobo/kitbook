@@ -81,8 +81,18 @@ If you have any questions you may first ask the head match scorer and secondly t
 
 ## Match Score Entry
 
-**Responsible for receiving match states from the marshals and entering them into the competition software. They may not bring in any subordinate volunteers.**
+**Responsible for receiving match states from the marshals, checking them, and entering them into the competition software.**
 
-In the role of score entry you will be stationed at a desk near to the arena/staging area. When a score sheet is given to you by the match marhsals, you will enter the scores into a computer and then file the score sheet in a folder.
+In the role of score entry, you will be stationed at a desk near to the arena/staging area. There should always be two people responsible for match score entry, one using the keyboard and one to resolve disputes and ensure that values are entered correctly. Two score sheets per match will be given to you by the match marshals.
 
-You will be working closely with the head match scorer and also the competition software coordinator who will be stationed near to you (most likely on the same desk) and available if you have any questions.
+The steps to perform are as follows:
+1. Receive both score sheets from the marshals
+2. Check the sheets match, (and resolve any discrepencies)
+3. Enter the scores into the computer
+4. File the score sheet in a folder
+
+### Discrepency in score sheets
+
+There are two score sheets for every match. It's likely that there may be a discrepency between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
+
+If you have any questions, speak to the head match scorer. In SR2019 the head match scorer is on the balcony.
