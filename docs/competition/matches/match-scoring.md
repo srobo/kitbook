@@ -55,9 +55,10 @@ Teams must not be allowed in the arena during a match. It is the responsibility 
 
 Be sure to turn off robots if they continue moving after the end of a match. Make sure you know where the off button is for all robots before the matches.
 
-There are two situations where robots should be turned off before the end of a match:
+There are three situations where robots should be turned off before the end of a match:
 - If the team members indicate that they wish to do so (by "throwing in the towel"). By doing so, the team forfeits the match, which should be recorded in the score sheets as a disqualification.
-- When a robot is causing **significant** damage to itself or another robot, i.e. Mashing into another robot, stopping it from being able to function, or dragging it around without being able to be freed, or overheating a motor by stalling against a wall. It's up to you to decide which robot should be switched off, but their match shouldn't be forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
+- When a robot is causing **significant** damage to itself or another robot, i.e. Mashing into another robot, stopping it from being able to function, or dragging it around without being able to be freed, overheating a motor by stalling against a wall. It's up to you to decide which robot should be switched off, but their match shouldn't be forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
+- When a robot is causing a health and safety risk, i.e. by exposing its battery to puncture damage, or overheating a motor by stalling it against a wall. In this case their match shouldn't be forefeited.
 
 If you have any questions you may first ask the head match scorer and secondly the judge.
 
@@ -76,7 +77,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 - If the damage is intentional, seek the judge.
 - If the damage is unintentional:
   - If a robot mashes into another robot, but only briefly, leaving both robots free to move (including situations in which, say, one robot has a fragile, flaily arm that gets snapped off in the collision) then you must leave the robots to continue -- the teams are aware that accidental bumps and scrapes are inevitable.
-  - If a robot mashes into another robot, and pins it, stopping it from being able to function (including one dragging the other around if they become strongly intertwined) then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are **not** forfeited in this case.
+  - If a robot mashes into another robot, and becomes intertwined in a way that it is causing damage to the robot, then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are **not** forfeited in this case.
 
 ## Match Score Entry
 
