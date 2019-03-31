@@ -54,7 +54,7 @@ Teams will bring discharged batteries to helpdesk and require a replacement char
 
 ### Swapping batteries - Shuffling
 
-The volunteer that is running the battery charging station will periodically have to go and get discharged batteries from the helpdesk, simultaneously dropping off charged batteries. Helpdesk may also contact the volunteer over radio to do it sooner.
+One of the volunteers that is running the battery charging station will periodically have to go and get discharged batteries from the helpdesk, simultaneously dropping off charged batteries. Helpdesk may also contact them over radio to do it sooner.
 
 The general schedule will go as follows:
 - Charged batteries should be taken to the helpdesk and put into a fire-proof bag in the charged batteries box.
