@@ -36,7 +36,7 @@ There are two locations involved in battery charging. The equipment required at 
 
 ## Volunteer Requirements
 
-Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raised with helpdesk ASAP.
+Every volunteer performing the Battery Charging role must have read this document fully. Any doubts must be raised with the person who briefed you. If you weren't briefed, speak to the volunteer manager.
 
 ## Safety
 
