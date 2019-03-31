@@ -10,7 +10,7 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 ## Setup
 
 ### Equipment
-Most batteries and chargers will arrive with teams, but any batteries, bags, and chargers in inventory should be prepared during setup. Please only set up the blue 'IMAX B3' chargers, as it simplifies the charging role to have only one type of charger.
+Most batteries and chargers will arrive with teams, but any batteries, bags, and chargers in inventory should be prepared during setup. Please only set up the blue 'IMAX B6' chargers, as it simplifies the charging role to have only one type of charger.
 
 There are two locations involved in battery charging. The equipment required at each is as listed below:
 
