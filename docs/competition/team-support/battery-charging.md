@@ -49,16 +49,16 @@ If at any point you have any doubts about safety, immediately summon the Health 
 
 ### Swapping a team's battery - Helpdesk
 
-Teams will bring discharged batteries to helpdesk and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it in the discharged battery box. A charged battery should be removed from the charged battery box and handed to the team. Do not allow teams to take batteries from the box themselves - we want to prevent them from hoarding batteries.
+Teams will bring discharged batteries to helpdesk and require a replacement charged battery. A Battery Charging volunteer should receive the discharged battery from the team and place it a battery bag in the discharged battery box. A charged battery should be removed from a battery bag in the the charged battery box and handed to the team. Do not allow teams to take batteries themselves - we want to prevent them from hoarding batteries.
 
 ### Swapping batteries - Shuffling
 
 The volunteer that is running the battery charging station will periodically have to go and get discharged batteries from the helpdesk, simultaneously dropping off charged batteries. Helpdesk may also contact the volunteer over radio to do it sooner.
 
 The general schedule will go as follows
-- Charged batteries should be taken to the helpdesk and put into the charged batteries box.
-- Discharged and damaged batteries should be taken from the discharged batteries box to the battery charging station.
-- Any batteries that were marked as damaged by the helpdesk (using red tape) should be inspected and placed in the damaged battery box if they are damaged.
+- Charged batteries should be taken to the helpdesk and put into a fire-proof bag in the charged batteries box.
+- Discharged and damaged batteries should be taken from the fire-proof bag in the discharged batteries box to the battery charging station.
+- Any batteries that were marked as damaged by the helpdesk (using red tape) should be inspected and placed into their own fire-proof bag in the damaged battery box if they are damaged.
 
 
 ### Charging a discharged battery - Battery Charging Station
