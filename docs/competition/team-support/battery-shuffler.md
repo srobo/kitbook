@@ -7,6 +7,8 @@ original:
 
 A battery shuffler is a volunteer that moves batteries, battery chargers, battery charger PSUs and battery charging bags from the arrival desk to the battery charging station on Saturday morning and between the battery charging station and the kit return desk on Sunday afternoon.
 
+**In SR2019, the arrival desk is the same desk as reception.**
+
 ## Saturday Morning Shuffling
 
 Teams arrive on Saturday morning between 9:00 and 9:30. When they arrive we take the following items off of them at the arrival desk:
@@ -18,7 +20,7 @@ Teams arrive on Saturday morning between 9:00 and 9:30. When they arrive we take
 
 All of these parts need to be carried from the arrival desk to the battery charging station where they will be used by us to manage the charging of batteries.
 
-The arrival desk will have two blue Really Useful Boxes with 'Returned batteries/chargers/bags' signs on them. The volunteers manning the arrival desk will retrieve these items off of the teams and place them into these boxes. The Battery Shuffler needs to continually carry these boxes up to the battery charging station, empty their contents and then return the empty boxes downstairs. They must repeat this until 10:00. It probably makes sense to get the arrival desk volunteers to fill one box while the other is being taken upstairs.
+The arrival desk will be taking batteries/chargers/bags from teams as they arrive, as we do not allow teams to charge their own batteries. The Battery Shuffler needs to continually carry these items to the battery charging station. They must repeat this until most teams have arrived.
 
 ## Sunday Afternoon Shuffling
 
