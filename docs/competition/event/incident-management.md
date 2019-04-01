@@ -31,7 +31,8 @@ Examples might include;
 * Accident requiring significant first aid,
 * Battery failure renders access to an area unsafe
 
-As with minor incidents, the initial reaction should be to notify the relevant coordinator and follow their instructions. If first aid is required the First Aid Provider should __always__ be notified first.
+If first aid is required the First Aid Provider should __always__ be notified first.
+Following that, as with minor incidents, the reaction should be to notify the relevant coordinator and follow their instructions. 
 
 ## Stopping the competition
 
