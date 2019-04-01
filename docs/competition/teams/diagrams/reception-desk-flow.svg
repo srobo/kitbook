@@ -1,3 +1,1373 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 578 540" width="578pt" height="45pc" xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata> Produced by OmniGraffle 6.6.2 <dc:date>2017-03-24 08:23:11 +0000</dc:date></metadata><defs><filter id="Shadow" filterUnits="userSpaceOnUse"><feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="1.308"/><feOffset in="blur" result="offset" dx="0" dy="2"/><feFlood flood-color="black" flood-opacity=".5" result="flood"/><feComposite in="flood" in2="offset" operator="in"/></filter><font-face font-family="Helvetica" font-size="10" units-per-em="1000" underline-position="-75.683594" underline-thickness="49.316406" slope="0" x-height="522.94922" cap-height="717.28516" ascent="770.01953" descent="-229.98047" font-weight="500"><font-face-src><font-face-name name="Helvetica"/></font-face-src></font-face><marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black"><g><path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/></g></marker><font-face font-family="Helvetica Neue" font-size="12" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.99585" descent="-212.99744" font-weight="500"><font-face-src><font-face-name name="HelveticaNeue"/></font-face-src></font-face></defs><g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1"><title>Reception Desk Flow</title><rect fill="white" width="578" height="540"/><g><title>Layer 1</title><g><xl:use xl:href="#id8_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id19_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1196_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1209_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1210_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1214_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1215_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1220_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1225_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1230_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1233_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1235_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1241_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1242_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1246_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1249_Graphic" filter="url(#Shadow)"/><xl:use xl:href="#id1253_Graphic" filter="url(#Shadow)"/></g><g id="id8_Graphic"><rect x="28.13" y="22" width="81" height="36" fill="white"/><path d="M 28.13 22 L 109.13 22 L 109.13 58 L 28.13 58 Z M 36.23 22 L 36.23 58 M 101.03 58 L 101.03 22" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(41.23 28)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="14.060156" y="10" textLength="29.458008">Guest </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="12.3975586" y="22" textLength="30.004883">arrives</tspan></text></g><g id="id19_Graphic"><rect x="155.776" y="171.726" width="90" height="36" fill="white"/><rect x="155.776" y="171.726" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(160.776 177.726)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x=".53222656" y="10" textLength="81.713867">Scan QR code on </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="28.330078" y="22" textLength="23.339844">ticket</tspan></text></g><g id="id1196_Graphic"><path d="M 68.63 162.484 L 126.26 189.726 L 68.63 216.968 L 11 189.726 Z" fill="white"/><path d="M 68.63 162.484 L 126.26 189.726 L 68.63 216.968 L 11 189.726 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(31.5601 177.18116)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="4.5896875" y="10" textLength="70.043945">Do they have a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="23.771816" y="22" textLength="28.901367">ticket?</tspan></text></g><line x1="126.76" y1="189.726" x2="145.876" y2="189.726" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(131.26 177.058)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><text transform="translate(74.738593 222.3)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1209_Graphic"><path d="M 68.63 241.968 L 126.26 269.21 L 68.63 296.452 L 11 269.21 Z" fill="white"/><path d="M 68.63 241.968 L 126.26 269.21 L 68.63 296.452 L 11 269.21 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(31.5601 250.66516)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="15.431973" y="10" textLength="48.359375">Are they a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="2.375332" y="22" textLength="74.472656">competitor/team </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="25.988613" y="34" textLength="24.467773">lead?</tspan></text></g><g id="id1210_Graphic"><path d="M 68.63 321.452 L 126.26 348.694 L 68.63 375.936 L 11 348.694 Z" fill="white"/><path d="M 68.63 321.452 L 126.26 348.694 L 68.63 375.936 L 11 348.694 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(31.5601 336.14916)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="8.486172" y="10" textLength="62.250977">Are they over </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="29.880215" y="22" textLength="16.68457">18?</tspan></text></g><line x1="68.63" y1="216.968" x2="68.63" y2="232.068" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><line x1="68.63" y1="296.452" x2="68.63" y2="311.552" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(74.738593 301.784)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1214_Graphic"><rect x="155.776" y="330.694" width="90" height="36" fill="white"/><rect x="155.776" y="330.694" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(160.776 336.694)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="2.4853516" y="10" textLength="60.024414">Get them to fi</tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="62.509766" y="10" textLength="17.783203">ll in </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="25" y="22" textLength="30">a MCF</tspan></text></g><g id="id1215_Graphic"><path d="M 200.776 241.968 L 258.406 269.21 L 200.776 296.452 L 143.146 269.21 Z" fill="white"/><path d="M 200.776 241.968 L 258.406 269.21 L 200.776 296.452 L 143.146 269.21 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(163.7061 250.66516)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="19.601895" y="10" textLength="40.019531">Are they </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="14.318691" y="22" textLength="50.585938">returning a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="24.61166" y="34" textLength="27.22168">MCF?</tspan></text></g><line x1="126.76" y1="269.21" x2="133.246" y2="269.21" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(125.5 254.542)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><line x1="126.76" y1="348.694" x2="145.876" y2="348.694" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(125.5 336.026)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><g id="id1220_Graphic"><rect x="275.292" y="251.21" width="90" height="36" fill="#f26077"/><rect x="275.292" y="251.21" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(280.292 257.21)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="4.428711" y="10" textLength="73.9209">Call competition </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="2.4804688" y="22" textLength="75.039062">team coordinator</tspan></text></g><line x1="258.406" y1="269.21" x2="265.392" y2="269.21" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(259 254.542)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><line x1="200.776" y1="296.952" x2="200.776" y2="320.794" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(207 301.784)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1225_Graphic"><path d="M 68.63 400.936 L 126.26 428.178 L 68.63 455.42 L 11 428.178 Z" fill="white"/><path d="M 68.63 400.936 L 126.26 428.178 L 68.63 455.42 L 11 428.178 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(31.5601 409.63316)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="9.3138086" y="10" textLength="60.595703">Is a guardian </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="9.033047" y="22" textLength="61.157227">older than 18 </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="18.764492" y="34" textLength="38.916016">present?</tspan></text></g><line x1="68.63" y1="375.936" x2="68.63" y2="391.036" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(74.738593 381.268)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><path d="M 126.26 428.178 L 202 428.67044 L 200.97148 376.59207" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(131.26 410.808)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><g id="id1230_Graphic"><rect x="23.63" y="480.42" width="90" height="36" fill="#f26077"/><rect x="23.63" y="480.42" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(28.63 492.42)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="15.822754" y="10" textLength="48.354492">Deny entry</tspan></text></g><line x1="68.63" y1="455.42" x2="68.63" y2="470.52" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(74.738593 457.058)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1233_Graphic"><rect x="275.292" y="330.694" width="90" height="36" fill="white"/><rect x="275.292" y="330.694" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(280.292 330.694)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="13.0444336" y="10" textLength="56.689453">Give them a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="8.869629" y="22" textLength="65.039062">wristband and </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="4.4262695" y="34" textLength="71.14746">attach it to them</tspan></text></g><line x1="245.776" y1="348.694" x2="265.392" y2="348.694" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><g id="id1235_Graphic"><path d="M 320.292 162.484 L 377.922 189.726 L 320.292 216.968 L 262.662 189.726 Z" fill="white"/><path d="M 320.292 162.484 L 377.922 189.726 L 320.292 216.968 L 262.662 189.726 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(283.2221 177.18116)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="8.115078" y="10" textLength="9.4384766">W</tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="17.187344" y="10" textLength="53.9209">as the scan </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="25.158535" y="22" textLength="26.12793">valid?</tspan></text></g><line x1="320.292" y1="217.468" x2="320.292" y2="241.31" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><line x1="245.776" y1="189.726" x2="252.762" y2="189.726" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><path d="M 377.922 189.726 L 413.6574 189.726 L 413.6574 349.38804 L 375.19098 348.83605" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(376 177.058)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><text transform="translate(326.5 222.3)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1241_Graphic"><rect x="275.292" y="480.42" width="90" height="36" fill="#68bc36"/><rect x="275.292" y="480.42" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(280.292 492.42)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="14.992676" y="10" textLength="50.014648">Allow Entry</tspan></text></g><g id="id1242_Graphic"><path d="M 320.292 390.9725 L 392.753 428.178 L 320.292 465.3835 L 247.831 428.178 Z" fill="white"/><path d="M 320.292 390.9725 L 392.753 428.178 L 320.292 465.3835 L 247.831 428.178 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(272.39547 415.4339)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="26.555223" y="10" textLength="48.359375">Are they a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="23.222703" y="22" textLength="52.246094">competitor?</tspan></text></g><line x1="320.292" y1="366.694" x2="320.292" y2="381.0725" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><line x1="320.292" y1="465.3835" x2="320.292" y2="470.52" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(326.5 463.71496)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1246_Graphic"><rect x="416" y="480.42" width="129" height="36" fill="#68bc36"/><rect x="416" y="480.42" width="129" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(421 480.42)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="4.1972656" y="10" textLength="113.38379">Allow Entry &amp; Send them </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="3.3745117" y="22" textLength="115.0293">to the arrivals desk WITH </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="35.33252" y="34" textLength="48.33496">THEIR KIT</tspan></text></g><path d="M 393.253 428.178 L 480.52632 428.178 L 480.50524 470.02" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(391.5 415.558)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text><g id="id1249_Graphic"><path d="M 68.63 83 L 126.26 110.242 L 68.63 137.484 L 11 110.242 Z" fill="white"/><path d="M 68.63 83 L 126.26 110.242 L 68.63 137.484 L 11 110.242 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(31.5601 97.69716)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="4.5896875" y="10" textLength="70.043945">Do they have a </tspan><tspan font-family="Helvetica" font-size="10" font-weight="500" x="14.0428125" y="22" textLength="48.359375">wristband?</tspan></text></g><line x1="68.63" y1="137.984" x2="68.63" y2="152.584" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><line x1="68.63" y1="58" x2="68.63" y2="73.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(74.738593 136.058)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".168" y="11" textLength="8.664">N</tspan></text><g id="id1253_Graphic"><rect x="155.776" y="92.242" width="90" height="36" fill="#68bc36"/><rect x="155.776" y="92.242" width="90" height="36" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(160.776 104.242)" fill="black"><tspan font-family="Helvetica" font-size="10" font-weight="500" x="14.992676" y="10" textLength="50.014648">Allow Entry</tspan></text></g><line x1="126.76" y1="110.242" x2="145.876" y2="110.242" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/><text transform="translate(131.26 97.574)" fill="black"><tspan font-family="Helvetica Neue" font-size="12" font-weight="500" x=".112" y="11" textLength="7.776">Y</tspan></text></g></g></svg>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 578.00002 632.09747"
+   width="48.166668pc"
+   height="52.674789pc"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="reception-desk-flow.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     id="namedview337"
+     showgrid="false"
+     inkscape:zoom="0.98890193"
+     inkscape:cx="407.95349"
+     inkscape:cy="382.53212"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g32"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata4"> Produced by OmniGraffle 6.6.2 <dc:date>2017-03-24 08:23:11 +0000</dc:date>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <defs
+     id="defs6">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6618"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path6620"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4628"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4489"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <filter
+       id="Shadow"
+       filterUnits="userSpaceOnUse">
+      <feGaussianBlur
+         in="SourceAlpha"
+         result="blur"
+         stdDeviation="1.308"
+         id="feGaussianBlur9" />
+      <feOffset
+         in="blur"
+         result="offset"
+         dx="0"
+         dy="2"
+         id="feOffset11" />
+      <feFlood
+         flood-color="black"
+         flood-opacity=".5"
+         result="flood"
+         id="feFlood13" />
+      <feComposite
+         in="flood"
+         in2="offset"
+         operator="in"
+         id="feComposite15" />
+    </filter>
+    <font-face
+       font-family="Helvetica"
+       font-size="10"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="522.94922"
+       cap-height="717.28516"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face17"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="Helvetica" />
+      </font-face-src>
+    </font-face>
+    <marker
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8"
+       style="color:#000000;overflow:visible">
+      <g
+         id="g20">
+        <path
+           d="M 8,0 0,-3 0,3 Z"
+           id="path22"
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+      </g>
+    </marker>
+    <font-face
+       font-family="Helvetica Neue"
+       font-size="12"
+       panose-1="2 0 5 3 0 0 0 2 0 4"
+       units-per-em="1000"
+       underline-position="-100"
+       underline-thickness="50"
+       slope="0"
+       x-height="517"
+       cap-height="714"
+       ascent="951.99585"
+       descent="-212.99744"
+       font-weight="500"
+       id="font-face24"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <font-face-src>
+        <font-face-name
+           name="HelveticaNeue" />
+      </font-face-src>
+    </font-face>
+    <marker
+       style="color:#000000;overflow:visible"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-2"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8">
+      <g
+         id="g20-9">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 0,3 Z"
+           id="path22-1" />
+      </g>
+    </marker>
+    <marker
+       style="color:#000000;overflow:visible"
+       orient="auto"
+       overflow="visible"
+       markerUnits="strokeWidth"
+       id="FilledArrow_Marker-0"
+       viewBox="-1 -4 10 8"
+       markerWidth="10"
+       markerHeight="8">
+      <g
+         id="g20-6">
+        <path
+           style="fill:currentColor;stroke:currentColor;stroke-width:1"
+           inkscape:connector-curvature="0"
+           d="M 8,0 0,-3 0,3 Z"
+           id="path22-2" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4628-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+  </defs>
+  <g
+     id="g26"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
+     transform="translate(0,92.097466)">
+    <title
+       id="title28">Reception Desk Flow</title>
+    <rect
+       width="578"
+       height="632.09747"
+       id="rect30"
+       x="0"
+       y="-92.097466"
+       style="fill:#ffffff" />
+    <g
+       id="g32">
+      <title
+         id="title34">Layer 1</title>
+      <g
+         id="g36"
+         transform="translate(0,-96)">
+        <xlink:use
+           xlink:href="#id8_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id19_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1196_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1209_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1210_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1214_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1215_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1220_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1225_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1230_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1233_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1235_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1241_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1242_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1246_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1249_Graphic"
+           filter="url(#Shadow)" />
+        <xlink:use
+           xlink:href="#id1253_Graphic"
+           filter="url(#Shadow)" />
+      </g>
+      <g
+         id="id8_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="28.129999"
+           y="22"
+           width="81"
+           height="36"
+           id="rect39"
+           style="fill:#ffffff" />
+        <path
+           d="m 28.13,22 81,0 0,36 -81,0 z m 8.1,0 0,36 m 64.8,0 0,-36"
+           id="path41"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(41.23,28)"
+           id="text43"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="14.060156"
+             y="10"
+             textLength="29.458008"
+             id="tspan45"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Guest</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="12.397558"
+             y="22"
+             textLength="30.004883"
+             id="tspan47"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">arrives</tspan>
+        </text>
+      </g>
+      <g
+         id="id19_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="155.776"
+           y="171.726"
+           width="90"
+           height="36"
+           id="rect50"
+           style="fill:#ffffff" />
+        <rect
+           x="155.776"
+           y="171.726"
+           width="90"
+           height="36"
+           id="rect52"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(160.776,177.726)"
+           id="text54"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="0.53222656"
+             y="10"
+             textLength="81.713867"
+             id="tspan56"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Scan QR code on</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="28.330078"
+             y="22"
+             textLength="23.339844"
+             id="tspan58"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">ticket</tspan>
+        </text>
+      </g>
+      <g
+         id="id1196_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="M 68.63,162.484 126.26,189.726 68.63,216.968 11,189.726 Z"
+           id="path61"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,162.484 126.26,189.726 68.63,216.968 11,189.726 Z"
+           id="path63"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(31.5601,177.18116)"
+           id="text65"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.5896873"
+             y="10"
+             textLength="70.043945"
+             id="tspan67"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Do they have a</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="23.771816"
+             y="22"
+             textLength="28.901367"
+             id="tspan69"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">ticket?</tspan>
+        </text>
+      </g>
+      <line
+         x1="126.76"
+         y1="93.725998"
+         x2="145.87601"
+         y2="93.725998"
+         id="line71"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text73"
+         x="131.25999"
+         y="81.057999"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="131.37199"
+           y="92.057999"
+           textLength="7.776"
+           id="tspan75"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <text
+         id="text77"
+         x="74.738594"
+         y="126.3"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.906593"
+           y="137.3"
+           textLength="8.664"
+           id="tspan79"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1209_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
+           id="path82"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,241.968 126.26,269.21 68.63,296.452 11,269.21 Z"
+           id="path84"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+      </g>
+      <g
+         id="id1210_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="M 68.63,321.452 126.26,348.694 68.63,375.936 11,348.694 Z"
+           id="path95"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,321.452 126.26,348.694 68.63,375.936 11,348.694 Z"
+           id="path97"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(31.5601,336.14916)"
+           id="text99"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="8.4861717"
+             y="10"
+             textLength="62.250977"
+             id="tspan101"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Are they over</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="29.880215"
+             y="22"
+             textLength="16.68457"
+             id="tspan103"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">16?</tspan>
+        </text>
+      </g>
+      <line
+         x1="68.629997"
+         y1="120.968"
+         x2="68.629997"
+         y2="136.06799"
+         id="line105"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <line
+         x1="68.629997"
+         y1="200.452"
+         x2="68.629997"
+         y2="215.552"
+         id="line107"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text109"
+         x="74.738594"
+         y="205.784"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.906593"
+           y="216.784"
+           textLength="8.664"
+           id="tspan111"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1214_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="155.776"
+           y="330.694"
+           width="90"
+           height="36"
+           id="rect114"
+           style="fill:#ffffff" />
+        <rect
+           x="155.776"
+           y="330.694"
+           width="90"
+           height="36"
+           id="rect116"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(160.776,336.694)"
+           id="text118"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="2.4853516"
+             y="10"
+             textLength="60.024414"
+             id="tspan120"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Get them to fi</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="62.509766"
+             y="10"
+             textLength="17.783203"
+             id="tspan122"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">ll in</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="25"
+             y="22"
+             textLength="30"
+             id="tspan124"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">a MCF</tspan>
+        </text>
+      </g>
+      <text
+         id="text141"
+         x="188.99576"
+         y="176.27505"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="189.10776"
+           y="187.27505"
+           textLength="7.776"
+           id="tspan143"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <line
+         x1="126.76"
+         y1="252.694"
+         x2="145.87601"
+         y2="252.694"
+         id="line145"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text147"
+         x="125.5"
+         y="240.026"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="125.612"
+           y="251.026"
+           textLength="7.776"
+           id="tspan149"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <g
+         id="id1220_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="275.29199"
+           y="251.21001"
+           width="90"
+           height="36"
+           id="rect152"
+           style="fill:#f26077" />
+        <rect
+           x="275.29199"
+           y="251.21001"
+           width="90"
+           height="36"
+           id="rect154"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(280.292,257.21)"
+           id="text156"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.4287109"
+             y="10"
+             textLength="73.9209"
+             id="tspan158"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Call competition</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="2.4804688"
+             y="22"
+             textLength="75.039062"
+             id="tspan160"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">team coordinator</tspan>
+        </text>
+      </g>
+      <g
+         id="id1225_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="M 68.63,400.936 126.26,428.178 68.63,455.42 11,428.178 Z"
+           id="path175"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,400.936 126.26,428.178 68.63,455.42 11,428.178 Z"
+           id="path177"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(31.5601,409.63316)"
+           id="text179"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="9.3138084"
+             y="10"
+             textLength="60.595703"
+             id="tspan181"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Is a guardian</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="9.0330467"
+             y="22"
+             textLength="61.157227"
+             id="tspan183"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">older than 18</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="18.764492"
+             y="34"
+             textLength="38.916016"
+             id="tspan185"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">present?</tspan>
+        </text>
+      </g>
+      <line
+         x1="68.629997"
+         y1="279.936"
+         x2="68.629997"
+         y2="295.03601"
+         id="line187"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text189"
+         x="74.738594"
+         y="285.26801"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.906593"
+           y="296.26801"
+           textLength="8.664"
+           id="tspan191"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <path
+         d="m 126.26,332.178 75.74,0.49244 -1.02852,-52.07837"
+         id="path193"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text195"
+         x="131.25999"
+         y="314.80801"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="131.37199"
+           y="325.80801"
+           textLength="7.776"
+           id="tspan197"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <g
+         id="id1230_Graphic"
+         transform="translate(0,-16)">
+        <rect
+           x="23.629999"
+           y="480.42001"
+           width="90"
+           height="36"
+           id="rect200"
+           style="fill:#f26077" />
+        <rect
+           x="23.629999"
+           y="480.42001"
+           width="90"
+           height="36"
+           id="rect202"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(28.63,492.42)"
+           id="text204"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="15.822754"
+             y="10"
+             textLength="48.354492"
+             id="tspan206"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Deny entry</tspan>
+        </text>
+      </g>
+      <line
+         x1="68.629997"
+         y1="359.42001"
+         x2="68.629997"
+         y2="374.51999"
+         id="line208"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text210"
+         x="74.738594"
+         y="361.05801"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.906593"
+           y="372.05801"
+           textLength="8.664"
+           id="tspan212"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1233_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="275.29199"
+           y="330.694"
+           width="90"
+           height="36"
+           id="rect215"
+           style="fill:#ffffff" />
+        <rect
+           x="275.29199"
+           y="330.694"
+           width="90"
+           height="36"
+           id="rect217"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(280.292,330.694)"
+           id="text219"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="13.044434"
+             y="10"
+             textLength="56.689453"
+             id="tspan221"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Give them a</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="8.8696289"
+             y="22"
+             textLength="65.039062"
+             id="tspan223"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">wristband and</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.4262695"
+             y="34"
+             textLength="71.14746"
+             id="tspan225"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">attach it to them</tspan>
+        </text>
+      </g>
+      <line
+         x1="245.776"
+         y1="252.694"
+         x2="265.392"
+         y2="252.694"
+         id="line227"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <g
+         id="id1235_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="m 320.292,162.484 57.63,27.242 -57.63,27.242 -57.63,-27.242 z"
+           id="path230"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 320.292,162.484 57.63,27.242 -57.63,27.242 -57.63,-27.242 z"
+           id="path232"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(283.2221,177.18116)"
+           id="text234"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="8.115078"
+             y="10"
+             textLength="9.4384766"
+             id="tspan236"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">W</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="17.187344"
+             y="10"
+             textLength="53.9209"
+             id="tspan238"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">as the scan</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="25.158535"
+             y="22"
+             textLength="26.12793"
+             id="tspan240"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">valid?</tspan>
+        </text>
+      </g>
+      <line
+         x1="320.29199"
+         y1="121.468"
+         x2="320.29199"
+         y2="145.31"
+         id="line242"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <line
+         x1="245.776"
+         y1="93.725998"
+         x2="252.76199"
+         y2="93.725998"
+         id="line244"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <path
+         d="m 377.922,93.726 35.7354,0 0,159.66204 -38.46642,-0.55199"
+         id="path246"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text248"
+         x="376"
+         y="81.057999"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="376.112"
+           y="92.057999"
+           textLength="7.776"
+           id="tspan250"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <text
+         id="text252"
+         x="326.5"
+         y="126.3"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="326.668"
+           y="137.3"
+           textLength="8.664"
+           id="tspan254"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1241_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="275.29199"
+           y="480.42001"
+           width="90"
+           height="36"
+           id="rect257"
+           style="fill:#68bc36" />
+        <rect
+           x="275.29199"
+           y="480.42001"
+           width="90"
+           height="36"
+           id="rect259"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(280.292,492.42)"
+           id="text261"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="14.992676"
+             y="10"
+             textLength="50.014648"
+             id="tspan263"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Allow Entry</tspan>
+        </text>
+      </g>
+      <g
+         id="id1242_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="m 320.292,390.9725 72.461,37.2055 -72.461,37.2055 -72.461,-37.2055 z"
+           id="path266"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="m 320.292,390.9725 72.461,37.2055 -72.461,37.2055 -72.461,-37.2055 z"
+           id="path268"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(272.39547,415.4339)"
+           id="text270"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="26.555223"
+             y="10"
+             textLength="48.359375"
+             id="tspan272"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Are they a</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="23.222704"
+             y="22"
+             textLength="52.246094"
+             id="tspan274"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">competitor?</tspan>
+        </text>
+      </g>
+      <line
+         x1="320.29199"
+         y1="270.694"
+         x2="320.29199"
+         y2="285.07251"
+         id="line276"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <line
+         x1="320.29199"
+         y1="369.38351"
+         x2="320.29199"
+         y2="374.51999"
+         id="line278"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text280"
+         x="326.5"
+         y="367.71497"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="326.668"
+           y="378.71497"
+           textLength="8.664"
+           id="tspan282"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1246_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="416"
+           y="480.42001"
+           width="129"
+           height="36"
+           id="rect285"
+           style="fill:#68bc36" />
+        <rect
+           x="416"
+           y="480.42001"
+           width="129"
+           height="36"
+           id="rect287"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(421,480.42)"
+           id="text289"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.1972656"
+             y="10"
+             textLength="113.38379"
+             id="tspan291"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Allow Entry &amp; Send them</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="3.3745117"
+             y="22"
+             textLength="115.0293"
+             id="tspan293"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">to the arrivals desk WITH</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="35.33252"
+             y="34"
+             textLength="48.33496"
+             id="tspan295"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">THEIR KIT</tspan>
+        </text>
+      </g>
+      <path
+         d="m 393.253,332.178 87.27332,0 -0.0211,41.842"
+         id="path297"
+         inkscape:connector-curvature="0"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text299"
+         x="391.5"
+         y="319.55801"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="391.612"
+           y="330.55801"
+           textLength="7.776"
+           id="tspan301"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <g
+         id="id1249_Graphic"
+         transform="translate(0,-96)">
+        <path
+           d="M 68.63,83 126.26,110.242 68.63,137.484 11,110.242 Z"
+           id="path304"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,83 126.26,110.242 68.63,137.484 11,110.242 Z"
+           id="path306"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(31.5601,97.69716)"
+           id="text308"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.5896873"
+             y="10"
+             textLength="70.043945"
+             id="tspan310"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Do they have a</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="14.042812"
+             y="22"
+             textLength="48.359375"
+             id="tspan312"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">wristband?</tspan>
+        </text>
+      </g>
+      <line
+         x1="68.629997"
+         y1="41.983994"
+         x2="68.629997"
+         y2="56.584"
+         id="line314"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <line
+         x1="68.629997"
+         y1="-38"
+         x2="68.629997"
+         y2="-22.900002"
+         id="line316"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text318"
+         x="74.738594"
+         y="40.057999"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.906593"
+           y="51.057999"
+           textLength="8.664"
+           id="tspan320"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <g
+         id="id1253_Graphic"
+         transform="translate(0,-96)">
+        <rect
+           x="155.776"
+           y="92.241997"
+           width="90"
+           height="36"
+           id="rect323"
+           style="fill:#68bc36" />
+        <rect
+           x="155.776"
+           y="92.241997"
+           width="90"
+           height="36"
+           id="rect325"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(160.776,104.242)"
+           id="text327"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="14.992676"
+             y="10"
+             textLength="50.014648"
+             id="tspan329"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Allow Entry</tspan>
+        </text>
+      </g>
+      <line
+         x1="126.76"
+         y1="14.241997"
+         x2="145.87601"
+         y2="14.241997"
+         id="line331"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker)" />
+      <text
+         id="text333"
+         x="131.25999"
+         y="1.5739975"
+         style="fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="131.37199"
+           y="12.573997"
+           textLength="7.776"
+           id="tspan335"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+         d="m 133.2839,174 169.89407,53.19916"
+         id="path4480"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="id1225_Graphic-3"
+         transform="translate(0,-16.421221)">
+        <path
+           d="M 68.63,400.936 126.26,428.178 68.63,455.42 11,428.178 Z"
+           id="path175-6"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+        <path
+           d="M 68.63,400.936 126.26,428.178 68.63,455.42 11,428.178 Z"
+           id="path177-7"
+           inkscape:connector-curvature="0"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(31.5601,409.63316)"
+           id="text179-5"
+           style="fill:#000000" />
+      </g>
+      <line
+         x1="68.383202"
+         y1="439.32632"
+         x2="68.383202"
+         y2="454.4263"
+         id="line208-2"
+         style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#FilledArrow_Marker-2)" />
+      <text
+         id="text210-7"
+         x="74.491798"
+         y="440.96432"
+         style="font-size:12px;fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="74.659798"
+           y="451.96432"
+           textLength="8.664"
+           id="tspan212-0"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">N</tspan>
+      </text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="68.427361"
+         y="170.45122"
+         id="text4474"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4476"
+           x="68.427361"
+           y="170.45122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica">Do they have</tspan><tspan
+           sodipodi:role="line"
+           x="68.427361"
+           y="182.95122"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+           id="tspan4478">a MCF?</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Rockwell Extra Bold';-inkscape-font-specification:'Rockwell Extra Bold, Ultra-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="68.427361"
+         y="408.99799"
+         id="text4474-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="68.427361"
+           y="408.99799"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+           id="tspan4478-6">Are they a</tspan><tspan
+           sodipodi:role="line"
+           x="68.427361"
+           y="421.49799"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Helvetica;-inkscape-font-specification:Helvetica"
+           id="tspan5642">competitor?</tspan></text>
+      <g
+         id="id1220_Graphic-6"
+         transform="translate(-138.95725,213.21001)">
+        <rect
+           x="275.29199"
+           y="251.21001"
+           width="90"
+           height="36"
+           id="rect152-1"
+           style="fill:#f26077" />
+        <rect
+           x="275.29199"
+           y="251.21001"
+           width="90"
+           height="36"
+           id="rect154-8"
+           style="stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round" />
+        <text
+           transform="translate(280.292,257.21)"
+           id="text156-7"
+           style="fill:#000000">
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="4.4287109"
+             y="10"
+             textLength="73.9209"
+             id="tspan158-9"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">Call competition</tspan>
+          <tspan
+             font-size="10"
+             font-weight="500"
+             x="2.4804688"
+             y="22"
+             textLength="75.039062"
+             id="tspan160-2"
+             style="font-weight:500;font-size:10px;font-family:Helvetica">team coordinator</tspan>
+        </text>
+      </g>
+      <text
+         id="text252-2"
+         x="187.54276"
+         y="435.51001"
+         style="font-size:12px;fill:#000000">
+        <tspan
+           font-size="12"
+           font-weight="500"
+           x="187.71075"
+           y="446.51001"
+           textLength="8.664"
+           id="tspan254-3"
+           style="font-weight:500;font-size:12px;font-family:'Helvetica Neue'">Y</tspan>
+      </text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-2)"
+         d="m 128.13559,411.29238 56.05932,0 0,46.33474"
+         id="path6610"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>
