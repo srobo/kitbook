@@ -45,7 +45,7 @@ Due to the impact of stopping the competition, ability to do so is restricted to
 * Head Judge,
 * Majority decision from Trustees.
 
-Stopping the competition will be indicated by a call over the radio of "This is _role_; close the arena."
+Stopping the competition will be indicated by a call over the radio of "This is _role_; stop the competition."
 
 At this point the following should occur;
 
