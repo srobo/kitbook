@@ -46,6 +46,7 @@ Due to the impact of stopping the competition, ability to do so is restricted to
 * Majority decision from Trustees.
 
 Stopping the competition will be indicated by a call over the radio of "This is _role_; stop the competition."
+This call should be repeated at least once, and every minute or so until acknowledged by one of the other aforementioned roles.
 
 At this point the following should occur;
 
