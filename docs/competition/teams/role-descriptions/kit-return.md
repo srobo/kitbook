@@ -19,35 +19,46 @@ rejected. When presented with a RUB full of kit, kit return staff should:
 
 **Don't let people leave the competition for good with any kit if they aren't on the list of teams authorised to keep their kit**
 
-* For teams returning their kit (the majority of teams):
-    * Check the contents against a list of parts expected in the kit.
-     Make all reasonable attempts to retrieve kit there and then i.e. if they've left a bit upstairs they go and get it.
-    * If they do not have something, record it on a missing kit form.
-    * If the kit return form indicates that they have more than a normal kit to return (i.e. they had broken kit and did not return it upon arrival), see if they can return it now. If not, record it on a missing kit form.
-    * Indicate if all parts are present or if a missing kit form has been filled in on the kit return form (provided by me).
-    * Write down the part code of the Really Useful Box on the kit return form.
-    * Get their team leader to sign and write their name on the kit return form.
 
-* For teams keeping their kit (based on a list of teams authorised to do this):
-    * Write down the part code of the Really Useful Box on the kit return form.
-    * Give them two batteries, a battery charging bag and a charger+PSU. Record the part numbers of these five things on the kit return form.
-    * Get their team leader to sign and write their name on the kit return form.
-    * Give the team a return kit and ensure you inform them that they will be responsible for return shipping charges.
-    * Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
+## Teams returning kit
 
-* For each returned kit:
-    * Remove any batteries from the kit and store them separately
-    * Seal the handles of the kit with tape
-    * Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
-    * Stack the box with the post-it visible
+* Check the contents against a list of parts expected in the kit.
+  Make all reasonable attempts to retrieve kit there and then i.e. if they've left a bit upstairs they go and get it.
+* If they do not have something, record it on a missing kit form.
+* If the kit return form indicates that they have more than a normal kit to return (i.e. they had broken kit and did not return it upon arrival), see if they can return it now. If not, record it on a missing kit form.
+* Indicate if all parts are present or if a missing kit form has been filled in on the kit return form.
+* Write down the part code of the Really Useful Box on the kit return form.
+* Get their team leader to sign and write their name on the kit return form.
 
+After the competition, the missing kit for teams will be sent to them by the teams coordinator to ensure the kit is returned. Kit should be shipped to the postal address listed on [the website](https://studentrobotics.org/contact/)
+
+### Teams leaving before competition-end
+
+Teams leaving early should follow the same process as above, though we should push them to spend more time searching for any missing items they might have lost at the venue. If they are unable to find the items or are sure that they didn't bring them, then we should record the item on a missing kit form (as above).
+
+## Teams keeping kit
+
+* Write down the part code of the Really Useful Box on the kit return form.
+* Give them two batteries, a battery charging bag and a charger+PSU. Record the part numbers of these five things on the kit return form.
+* Get their team leader to sign and write their name on the kit return form.
+* Give the team a return kit and ensure you inform them that they will be responsible for return shipping charges.
+* Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
+* Kit should be shipped to the postal address listed on the website at https://studentrobotics.org/contact/, which is also included on the kit-authorisation form.
 
 This workflow is shown in the diagram below.
 
 ![Kit return flow](../diagrams/kit-return-desk-flow.svg)
 
+## For each returned kit
+
+* Remove any batteries from the kit and store them separately
+* Seal the handles of the kit with tape
+* Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
+* Stack the box with the post-it visible
+
+
 ## Required Items
-You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
+You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible. These documents should already be printed, but their source can be found in the [`kit-coordination-documents`](https://github.com/srobo/kit-coordination-documents) repo.
 
 * This documentation and flow chart.
 * Sign-out sheet.
