@@ -19,12 +19,6 @@ rejected. When presented with a RUB full of kit, kit return staff should:
 
 **Don't let people leave the competition for good with any kit if they aren't on the list of teams authorised to keep their kit**
 
-For each returned kit:
-
-* Remove any batteries from the kit and store them separately
-* Seal the handles of the kit with tape
-* Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
-* Stack the box with the post-it visible
 
 ## Teams returning kit
 
@@ -54,6 +48,14 @@ Teams leaving early should follow the same process as above, though we should pu
 This workflow is shown in the diagram below.
 
 ![Kit return flow](../diagrams/kit-return-desk-flow.svg)
+
+For each returned kit:
+
+* Remove any batteries from the kit and store them separately
+* Seal the handles of the kit with tape
+* Stick a post-it on the end of the box with the team's TLA on it (to allow for double checking later on)
+* Stack the box with the post-it visible
+
 
 ## Required Items
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible. The documents can be found in the [`kit-coordination-documents`](https://github.com/srobo/kit-coordination-documents) repo.
