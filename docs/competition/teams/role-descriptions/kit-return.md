@@ -43,7 +43,7 @@ Teams leaving early should follow the same process as above, though we should pu
 * Get their team leader to sign and write their name on the kit return form.
 * Give the team a return kit and ensure you inform them that they will be responsible for return shipping charges.
 * Stick the appropriate 'authorised to keep kit' sheet onto the kit of the Really Useful Box with tape.
-* Kit should be shipped to the postal address listed on [the website](https://studentrobotics.org/contact/).
+* Kit should be shipped to the postal address listed on the website at https://studentrobotics.org/contact/, which is also included on the kit-authorisation form.
 
 This workflow is shown in the diagram below.
 
