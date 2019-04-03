@@ -49,7 +49,7 @@ This workflow is shown in the diagram below.
 
 ![Kit return flow](../diagrams/kit-return-desk-flow.svg)
 
-For each returned kit:
+## For each returned kit
 
 * Remove any batteries from the kit and store them separately
 * Seal the handles of the kit with tape
