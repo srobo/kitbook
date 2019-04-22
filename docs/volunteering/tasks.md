@@ -48,7 +48,7 @@ which need a bit more input or have been highlighted as something that can be
 picked up relatively independently.
 
 Alternatively, if you're relatively new and would like to help with something
-that doens't require too much in-depth knowledge, we have some tasks which are
+that doesn't require too much in-depth knowledge, we have some tasks which are
 labelled as [good first issue][good-first-issue].
 
 [help-wanted]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
