@@ -19,7 +19,7 @@ something, so that they don't need to duplicate your efforts!
 
 If you see a task which you think someone else would be able to take on (perhaps
 because they expressed a particular interest in doing so, or are already doing
-something very similar), please @mention them on the task asking if they'd be
+something very similar), please `@mention` them on the task asking if they'd be
 interested.
 
 !!! note
