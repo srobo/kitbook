@@ -35,7 +35,7 @@ extra:
 extra_javascript:
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
 
-      # Extensions
+# Extensions
 markdown_extensions:
   # Note: the markdownmermaid plugin doesn't work properly if we enable either
   # of the following extensions, so we keep them disabled. If we turn out to
