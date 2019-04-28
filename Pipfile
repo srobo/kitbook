@@ -12,6 +12,8 @@ pymdown-extensions = "*"
 mdx-include = "*"
 yamllint = "*"
 mkdocs-markdownextradata-plugin = "*"
+mkdocs-mermaid-plugin = {git = "https://github.com/PeterJCLaw/mkdocs-mermaid-plugin",ref = "python-3"}
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3"

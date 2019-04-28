@@ -27,7 +27,7 @@ Only property of SR is tracked in the Inventory; meaning that property of third 
 
 For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. This flow is shown in the diagram below.
 
-{% mermaid %}
+```mermaid
 graph LR
   create(Creation)
   commission(Commission)
@@ -49,7 +49,7 @@ graph LR
   test-->decommission
   repair-->test
   decommission-->disposal
-{% endmermaid %}
+```
 
 #### Creation
 
