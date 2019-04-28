@@ -43,6 +43,7 @@ markdown_extensions:
   # - markdown.extensions.codehilite
   # - pymdownx.superfences
 
+  - footnotes
   - markdown.extensions.admonition
   - markdown.extensions.def_list
   - markdown.extensions.toc:
