@@ -7,7 +7,7 @@ original:
 
 The following sections document various bits of research that have been carried out by the Kit Logistics Coordinator while fulfilling their responsibilities.
 
-## Return Shipping Bag {#return-shipping-bag}
+## Return Shipping Bag
 
 | Size \(mm\) | Actual size \(mm\) | 18l RUB fit | 9l RUB \(non-XL\) fit |
 | --- | --- | --- | --- |
