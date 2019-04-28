@@ -14,4 +14,3 @@ Kit data for couriers:
 In all circumstances a shipment of a kit must have at least £500 worth of insurance.
 
 Note that the above package details are repeated in the loan extension instructions in [return-shipping-pack.git](https://github.com/srobo/return-shipping-pack/tree/master/instructions) and therefore should be updated there when the details change.
-

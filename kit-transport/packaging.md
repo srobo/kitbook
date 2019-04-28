@@ -56,6 +56,3 @@ When teams have to return a kit to us we provide them with a return shipping pac
 12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag \(don't forget to remove the narrow backing strip too\) **\[photo of lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
 14. Notify your LTC that the kit is ready for collection.
-
-
-

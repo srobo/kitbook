@@ -11,6 +11,3 @@ The following sections document various bits of research that have been carried 
 | 575x700 | 583x714 | Perfect easy fit with the box aligned with the bag | Easily fits two boxes either side-by-side or stacked \(preferred due to its rigidity\) |
 | 600x900 | 600x900 | Easily fits with the box aligned with the bag | Easily fits three boxes. Two stacked and one on its side. It is not a particularly solid arrangement. |
 | 700x850 | 700x850 | Easily fits in both orientations | Fits four boxes, stacked, pretty much perfectly. |
-
-
-

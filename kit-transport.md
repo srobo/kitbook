@@ -7,4 +7,3 @@ Almost all shipping requirements happen at well defined points throughout the St
 When kits or parts of kit are being shipped they must be suitably packaged to prevent them from being damaged. Details of the packaging requirements are detailed in the [Packaging](/kit-transport/packaging.md) chapter.
 
 Some parts of the kit require special attention when being shipped. The [Couriers](/kit-transport/couriers.md) chapter includes information on these requirements along with some general information about the parts commonly shipped.
-

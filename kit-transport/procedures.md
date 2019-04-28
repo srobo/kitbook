@@ -110,4 +110,3 @@ Non-team kits \(those that are classed as development, support, PR or local\) an
 ## Shipping of non-kit assets
 
 Most assets are kit related. However, a few assets are not kits or parts thereof. This is mostly competition hardware such as arena walls. The Kit Logistics Coordinator is also responsible for shipping these non-kit assets when required. TBD.
-
