@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/procedures.html
+---
 # Procedures
 
 These are the procedures that the Kit Logistics Coordinator follows to perform their Kit Shipping responsibilities. No one else is expected to follow these procedures, they are for internal documentation only.

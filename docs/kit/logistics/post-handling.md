@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/post-handling.html
+---
 # Post Handling
 
 These are the procedures related to the Kit Logistics Coordinator's post handing responsibilities.

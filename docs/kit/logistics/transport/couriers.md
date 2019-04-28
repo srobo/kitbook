@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/couriers.html
+---
 # Couriers
 
 We have confirmed that the following couriers are happy handling packages containing lithium polymer batteries:

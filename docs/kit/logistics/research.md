@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/research.html
+---
 # Research
 
 The following sections document various bits of research that have been carried out by the Kit Logistics Coordinator while fulfilling their responsibilities.

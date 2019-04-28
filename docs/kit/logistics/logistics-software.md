@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/logistics-software.html
+---
 # Logistics Software
 
 To fulfil the multitude of responsibilities, the Kit Logistics Coordinator uses various pieces of custom software. The software projects used and maintained by the Kit Logistics Coordinator are listed below.

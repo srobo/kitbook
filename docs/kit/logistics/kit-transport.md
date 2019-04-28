@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport.html
+---
 # Kit Shipping
 
 Part of the Kit Logistics Coordinator's responsibilities cover moving either whole or parts of kits around the UK and the world. This is generally referred to as shipping \(even though it rarely involves ships!\). All movement of kit is managed by the Kit Logistics Coordinator, so please do not ship anything without first speaking to them. You can contact them at: [logistics@studentrobotics.org](mailto:logistics@studentrobotics.org).

@@ -1,3 +1,8 @@
+---
+original:
+  authors: Richard Barlow
+  url: https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/packaging.html
+---
 # Packaging
 
 This information on packaging of kits and kit parts is for internal use only. The Kit Logistics Coordinator will use this information to instruct volunteers and third parties as necessary.
