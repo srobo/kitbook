@@ -32,7 +32,7 @@ extra:
     - type: twitter
       link: https://twitter.com/studentrobotics
 
-      # Extensions
+# Extensions
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.codehilite:
