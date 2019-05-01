@@ -83,9 +83,12 @@ During the *use* stage of an assets lifetime the majority of the updates to its 
 
 #### Test
 
-The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the Kit Collation Event, run by the Hardware Production Coordinator. **TODO: Link to HPC docs.** Assets that have been repaired or modified must also undergo testing.
+The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the [Kit Collation Event][kit-collation-event], run by the [Hardware Production Coordinator][hardware]. Assets that have been repaired or modified must also undergo testing.
 
 As in the *commission* stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be *decommissioned* and *disposed* of.
+
+[kit-collation-event]: ../hardware/kit-collation.md
+[hardware]: ../hardware/README.md
 
 #### Repair
 
