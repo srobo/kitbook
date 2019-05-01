@@ -7,7 +7,9 @@ original:
 
 One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all SRs assets. This is generally referred to as asset tracking. To allow SR to operate it is important that the location and state of all of its assets are known at all times.
 
-This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets. **TODO: link to user manual/docs**
+This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets.
+
+See the page on [logistics-software](./logistics-software.md) for details of the inventory's datastore and tooling required to use it.
 
 ## The Inventory
 
