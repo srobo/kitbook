@@ -37,7 +37,7 @@ When teams have to return a kit to us we provide them with a return shipping pac
 
 ### Instruction Notes
 
-1. Check all parts are present \(use list provided and notify the local teams co-ordinator of any missing items\).
+1. Check all parts are present \(use list provided and notify the local teams coordinator of any missing items\).
 2. Place parts into jiffy bags \(do not seal unless specified\):
    1. Large white **\[photo of four bags with the parts in front\]:**
       1. 1x tablet
@@ -60,4 +60,4 @@ When teams have to return a kit to us we provide them with a return shipping pac
 11. Stick the LiPo sticker onto the bag
 12. Place the supplied shipping label into the document wallet and stick the document wallet onto the bag \(don't forget to remove the narrow backing strip too\) **\[photo of lipo sticker and shipping label in document wallet\]**.
 13. Hand the package to reception/who ever it will be collected from.
-14. Notify your local teams co-ordinator that the kit is ready for collection.
+14. Notify your local teams coordinator that the kit is ready for collection.

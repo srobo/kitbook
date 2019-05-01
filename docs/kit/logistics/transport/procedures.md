@@ -36,10 +36,10 @@ After Kickstart, request scanned copies of the handout form and disclaimers from
 
 The operations manual currently requires that the Kit Logistics Coordinator ensures that kits are available to be collected by a courier no later than 2 week after Kickstart.
 
-Begin by requesting the following information from the Team Coordinator for the teams that didn't attend a Kickstart and ask them to confirm that the details are correct via the appropriate local teams co-ordinator:
+Begin by requesting the following information from the Team Coordinator for the teams that didn't attend a Kickstart and ask them to confirm that the details are correct via the appropriate local teams coordinator:
 
-* Name of local teams co-ordinator
-* Email of local teams co-ordinator \(so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator\)
+* Name of local teams coordinator
+* Email of local teams coordinator \(so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator\)
 * Name of recipient
 * Email of recipient
 * Phone number of recipient \(ideally a mobile number as that's what couriers prefer\)
@@ -55,7 +55,7 @@ For each team that needs a kit:
 
 1. Identify the kit to be shipped in the Inventory and move it to an appropriate `in-transit` sub directory \(e.g. `in-transit/to-srz`\).
 2. Once the details have been confirmed, instruct UK Postbox to forward the correct item to the team.
-3. Once UK Postbox have forwarded on the kit, email the local teams co-ordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.
+3. Once UK Postbox have forwarded on the kit, email the local teams coordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.
 4. Once the kit has been delivered, move the kit in the Inventory to the appropriate `team` sub directory \(e.g. `teams/2017/srz`\).
 
 ## Managing kits not collected at Kickstart
@@ -74,10 +74,10 @@ We need to ship kits from one team to another when a team drops out. TBD.
 
 When parts of the kit break teams need replacements. The Kit Logistics Coordinator needs to ship these spares/replacements to teams when instructed to do so by the Kit Support Coordinator.
 
-Begin by requesting the following information from the Team Coordinator for the team that needs replacement parts shipping to them and ask them to confirm that the details are correct via the appropriate local teams co-ordinator:
+Begin by requesting the following information from the Team Coordinator for the team that needs replacement parts shipping to them and ask them to confirm that the details are correct via the appropriate local teams coordinator:
 
-* Name of local teams co-ordinator
-* Email of local teams co-ordinator \(so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator\)
+* Name of local teams coordinator
+* Email of local teams coordinator \(so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator\)
 * Name of recipient
 * Email of recipient
 * Phone number of recipient \(ideally a mobile number as that's what couriers prefer\)
@@ -96,7 +96,7 @@ Begin by requesting the following information from the Team Coordinator for the 
 
 * Once the details have been confirmed, arrange for the package to be collected from yourself and delivered to the team.
 
-* Once you have the tracking number from the courier, email the local teams co-ordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.
+* Once you have the tracking number from the courier, email the local teams coordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.
 
 * Once the kit has been delivered, move the kit in the Inventory to the appropriate `team` sub directory \(e.g. `teams/2017/srz`\).
 
