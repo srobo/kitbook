@@ -11,12 +11,12 @@ The purpose of Kit Collation is to gather together all kit parts from the previo
 
 Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.
 
-1. [CHECKIN](#markdown-header-checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
-1. [VISUAL](#markdown-header-visual) - Visually inspect each part for damage.
-1. [CLEAN](#markdown-header-clean) - Clean each part.
-1. [TEST](#markdown-header-test) - Test each part, where possible.
-1. [CHECKOUT](#markdown-header-checkout) - Pack parts of the same type into boxes and update the Inventory.
-1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts.
+1. [CHECKIN](#checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
+1. [VISUAL](#visual) - Visually inspect each part for damage.
+1. [CLEAN](#clean) - Clean each part.
+1. [TEST](#test) - Test each part, where possible.
+1. [CHECKOUT](#checkout) - Pack parts of the same type into boxes and update the Inventory.
+1. [CHASEUP](#chaseup) - \[after event\] Chase up missing parts.
 
 Throughout the process the state of each part is tracked through two fields: `functional_condition` (currently `condition` for backwards compatibility) and `physical_condition`. The `functional_condition` field has a value of either `unknown`, `broken` or `working` and is set based upon the outcome of the testing procedure carried out in the TEST task. The `physical_condition` field has one of the same three values that the `functional_condition` field can have, but it is set based upon a visual inspection of the part during the VISUAL task.
 
@@ -24,8 +24,11 @@ We will only ship parts that have both a `functional_condition` and `physical_co
 
 ## CHECKIN
 
-Tools: Laptop, barcode/QR scanner
-Duration: 1 person day
+Tools:
+: Laptop, barcode/QR scanner
+
+Duration:
+: 1 person day
 
 Remove each part from the kit box and move it into a `checked-in` directory in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having `functional_condition: unknown` and `physical_condition: unknown`.
 
@@ -33,8 +36,11 @@ If the Inventory shows any parts remaining in the kit box after all of the parts
 
 ## VISUAL
 
-Tools: Laptop, barcode/QR scanner, label printer
-Duration: 2 person days
+Tools:
+: Laptop, barcode/QR scanner, label printer
+
+Duration:
+: 2 person days
 
 Inspect parts for visible physical damage - mild cosmetic damage is not a concern. Also apply a new asset sticker if the current one is damaged or illegible. See the following table for example of visible physical damage for each part. Note that a case is considered to be damaged if a panel is cracked entirely in half (or close to it) or if a piece has broken off such that the board can be touched. Once the physical condition of the part has been assessed, update its `physical_condition` field to either `working` or `broken`. If it is broken, add a short description of the issue.
 
@@ -68,15 +74,21 @@ Some parts are not tracked in the Inventory, but still require visual inspection
 
 ## CLEAN
 
-Tools: Bowl, J cloths, washing up liquid, IPA, label residue remover
-Duration: 2 person days
+Tools:
+: Bowl, J cloths, washing up liquid, IPA, label residue remover
+
+Duration:
+: 2 person days
 
 Using wringed-out cloth, give each part a wipe with soapy water. If it has adhesive residue, wipe it with label residue remover and then soapy water once the reside has been removed. For removal of grease and pen marks wipe it with IPA.
 
 ## TEST
 
-Tools: See part specific test procedure
-Duration: 6 person days
+Tools:
+: See part specific test procedure
+
+Duration:
+: 6 person days
 
 Follow the part specific testing procedure linked in the table below. Once the condition of the part has been assessed, update its `functional_condition` field to either `working` or `broken`.
 
@@ -97,8 +109,11 @@ Follow the part specific testing procedure linked in the table below. Once the c
 
 ## CHECKOUT
 
-Tools: Laptop, barcode/QR scanner
-Duration: 1 person day
+Tools:
+: Laptop, barcode/QR scanner
+
+Duration:
+: 1 person day
 
 Allocate a box or two for storage of broken parts. Allocate a box or two for storage of working parts of a single type (e.g. one box for servo boards, a couple of boxes for power boards). Check the condition of each part and, if both the `functional_condition` and `physical_condition` fields are set to `working`, place it in the appropriate working box and move it in the Inventory to that box. Otherwise place it in the broken box and move it in the Inventory to the broken box.
 
