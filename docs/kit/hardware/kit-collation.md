@@ -11,12 +11,12 @@ The purpose of Kit Collation is to gather together all kit parts from the previo
 
 Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.
 
-1. [CHECKIN](#markdown-header-checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
-1. [VISUAL](#markdown-header-visual) - Visually inspect each part for damage.
-1. [CLEAN](#markdown-header-clean) - Clean each part.
-1. [TEST](#markdown-header-test) - Test each part, where possible.
-1. [CHECKOUT](#markdown-header-checkout) - Pack parts of the same type into boxes and update the Inventory.
-1. [CHASEUP](#markdown-header-chaseup) - \[after event\] Chase up missing parts.
+1. [CHECKIN](#checkin) - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.
+1. [VISUAL](#visual) - Visually inspect each part for damage.
+1. [CLEAN](#clean) - Clean each part.
+1. [TEST](#test) - Test each part, where possible.
+1. [CHECKOUT](#checkout) - Pack parts of the same type into boxes and update the Inventory.
+1. [CHASEUP](#chaseup) - \[after event\] Chase up missing parts.
 
 Throughout the process the state of each part is tracked through two fields: `functional_condition` (currently `condition` for backwards compatibility) and `physical_condition`. The `functional_condition` field has a value of either `unknown`, `broken` or `working` and is set based upon the outcome of the testing procedure carried out in the TEST task. The `physical_condition` field has one of the same three values that the `functional_condition` field can have, but it is set based upon a visual inspection of the part during the VISUAL task.
 
