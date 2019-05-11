@@ -11,5 +11,5 @@ To fulfil the multitude of responsibilities, the Kit Logistics Coordinator uses 
 
 | Name            | Project URL | Notes |
 | --------------- | ----------- | ----- |
-| Inventory Tools | [https://www.studentrobotics.org/cgit/tools.git/](https://www.studentrobotics.org/cgit/tools.git/) | This project currently contains a mishmash of tools. The Inventory tools need teasing out. See https://srtools.readthedocs.io/en/latest/inventory/ for details of the inventory related commands |
+| Inventory Tools | [https://github.com/srobo/tools/](https://github.com/srobo/tools/) | This project currently contains a mishmash of tools. The Inventory tools need teasing out. See https://srtools.readthedocs.io/en/latest/inventory/ for details of the inventory related commands |
 | Inventory       | [https://github.com/srobo/inventory](https://github.com/srobo/inventory) | This is not a software project in itself. It represents the current state of all SR assets. |
