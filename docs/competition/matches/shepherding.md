@@ -68,5 +68,7 @@ The roving shepherd will be notified of teams that need to be found via radio, t
 
 The Roving Shepherd is **not** required to find every missing team, purely do a best effort sweep of the venue. If a team can not be found they will notify the Head Shepherd immediately.
 
+The Roving Shepherd will receive a printout of the match schedule which will show which teams need to be fetched for each match. We ask that shepherds notify the head shepherd immediately if they find any changes/errors in layout or colouring of their match schedule.
+
 ## Communication
 Shepherd's will communicative via radio with a fallback option of Slack if for some reason radios stop working. While Radios will require brief volunteer training, it means that our primary communication method is not reliant on the venues wifi, volunteers having devices to view slack on, or volunteers using their own personal mobile data.
