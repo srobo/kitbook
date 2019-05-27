@@ -20,6 +20,7 @@ Here is a description of the roles related to shepherding.
 - Assign volunteers to roles.
 - Brief volunteers.
 - Supervise shepherds and adjust shepherding procedures where necessary.
+  Notably: consider whether the "roving shepherd" and "timekeeper" roles are needed for the venue. It was noted during SR2019 that it wasn't clear that these roles provided much additional benefit given the layout of the venue and having only a single arena respectively.
 - Debrief roving shepherds to record locations of teams bases to then pass on to the next roving shepherd. They should also check for any immediately obvious Health and Saftey issues (blocking fire exit, walkway etc.).
 
 ### Shepherd
