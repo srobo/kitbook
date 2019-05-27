@@ -30,6 +30,7 @@ Pre-competition (in no particular order):
  * Specify and order materials for game props (e.g. cardboard boxes).
  * Work with Competition Software Coordinator to arrange for display computers to be available during set up.
  * Specify and source/order arena walls (we already own some, so only required if they change).
+ * Work with the [Head Shepherd](/competition/matches/shepherding#head-shepherd) to define the layout of the match staging area. (In the past it has been helpful to build a mockup using tables & chairs and real measurements and use that to practise each stage of the match cycle)
 
 Setup (roughly in time order):
 
