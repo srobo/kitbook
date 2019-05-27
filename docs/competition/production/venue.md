@@ -56,13 +56,13 @@ power can be distributed to the following:
  * Staging area
  * Team support area
 
-Note that the venue itself doens't need to do the power distribution,
+Note that the venue itself doesn't need to do the power distribution,
 as a production company can do that.
 
 ## Internet Requirements
 
 All of the attendees to the competition require internet access,
-preferably just through wifi.  This means that the venue must have an
+preferably just through WiFi.  This means that the venue must have an
 internet connection with high enough bandwidth to support this.
 
 If live video streams are to be uploaded from the venue then this

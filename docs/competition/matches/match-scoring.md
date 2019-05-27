@@ -27,7 +27,7 @@ Your responsibilities are:
 - Ensuring robots start in the correct corner, and are entirely within their starting zone.
 - Ensuring no team members touch a robot after it has first moved. (see 'Teams touching robots').
 - Switching off robots when a team requests that you do so, or if they do not automatically turn off after a match ends.
-- Resetting the arena by moving props (tokens, for example) back to the correct place after you and your partmer have both recorded the end-state of the match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
+- Resetting the arena by moving props (tokens, for example) back to the correct place after you and your partner have both recorded the end-state of the match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
 
 You are not responsible for:
 - Making sure a match starts with the correct number of teams -- that is down to the shepherds.
@@ -43,7 +43,7 @@ You are not responsible for:
 
 ### Scoring
 
-Both marshalls will be given a score sheet on a clipboard, which you must both individually fill in fully by the end of the match. Don't worry! You won't be calculating any actual scores whist doing this, we have a program to calculate the actual scores. All you need to do is record the state of the arena  as it is at the exact end of the match. Anything that happens after the match has ended must not be recorded, and the arena must not be changed until both scorers have finished. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
+Both marshals will be given a score sheet on a clipboard, which you must both individually fill in fully by the end of the match. Don't worry! You won't be calculating any actual scores whist doing this, we have a program to calculate the actual scores. All you need to do is record the state of the arena  as it is at the exact end of the match. Anything that happens after the match has ended must not be recorded, and the arena must not be changed until both scorers have finished. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
 
 Once you have finished scoring, you must drop your completed score sheet at the score entry desk which will be near the arenas. You must return promptly to the arena in case you need to be found for further scoring questions, and begin resetting the arena for the next match.
 
@@ -58,7 +58,7 @@ Be sure to turn off robots if they continue moving after the end of a match. Mak
 There are three situations where robots should be turned off before the end of a match:
 - If the team members indicate that they wish to do so (by "throwing in the towel"). By doing so, the team forfeits the match, which should be recorded in the score sheets as a disqualification.
 - When a robot is causing **significant** damage to itself or another robot, i.e. Mashing into another robot, stopping it from being able to function, or dragging it around without being able to be freed, overheating a motor by stalling against a wall. It's up to you to decide which robot should be switched off, but their match shouldn't be forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
-- When a robot is causing a health and safety risk, i.e. by exposing its battery to puncture damage, or overheating a motor by stalling it against a wall. In this case their match shouldn't be forefeited.
+- When a robot is causing a health and safety risk, i.e. by exposing its battery to puncture damage, or overheating a motor by stalling it against a wall. In this case their match shouldn't be forfeited.
 
 If you have any questions you may first ask the head match scorer and secondly the judge.
 
@@ -87,12 +87,12 @@ In the role of score entry, you will be stationed at a desk near to the arena/st
 
 The steps to perform are as follows:
 1. Receive both score sheets from the marshals
-2. Check the sheets match, (and resolve any discrepencies)
+2. Check the sheets match, (and resolve any discrepancies)
 3. Enter the scores into the computer
 4. File the score sheet in a folder
 
-### Discrepency in score sheets
+### Discrepancy in score sheets
 
-There are two score sheets for every match. It's likely that there may be a discrepency between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
+There are two score sheets for every match. It's likely that there may be a discrepancy between the sheets. If that's the case, one match score entry volunteer should speak to the marshals to try to find the correct state.
 
 If you have any questions, speak to the head match scorer. In SR2019 the head match scorer is on the balcony.
