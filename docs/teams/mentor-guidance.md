@@ -41,8 +41,7 @@ mention of what identifiers are or what their naming rules are. It’s
 fine to leave explaining those until they become important.
 
 A superb example of this in action is this video [*explaining quantum
-computing at five levels of
-depth*](https://www.youtube.com/watch?v=OWJCfOvochA).
+computing at five levels of depth*](https://www.youtube.com/watch?v=OWJCfOvochA).
 
 ### Explaining the “how”
 
