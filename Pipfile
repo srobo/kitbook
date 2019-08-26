@@ -12,7 +12,7 @@ pymdown-extensions = "*"
 mdx-include = "*"
 yamllint = "*"
 mkdocs-markdownextradata-plugin = "*"
-mkdocs-mermaid-plugin = {git = "https://github.com/PeterJCLaw/mkdocs-mermaid-plugin",ref = "python-3"}
+mkdocs-mermaid-plugin = {git = "https://github.com/pugong/mkdocs-mermaid-plugin"}
 beautifulsoup4 = "*"
 
 [requires]

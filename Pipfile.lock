@@ -125,8 +125,8 @@
             "version": "==4.1.1"
         },
         "mkdocs-mermaid-plugin": {
-            "git": "https://github.com/PeterJCLaw/mkdocs-mermaid-plugin",
-            "ref": "f010e161ed698e189a4f16a372c8996d72e0d47d"
+            "git": "https://github.com/pugong/mkdocs-mermaid-plugin",
+            "ref": "abf14392b0ed0c7022210b32c4e7c9c3e4c5c68a"
         },
         "pathspec": {
             "hashes": [
