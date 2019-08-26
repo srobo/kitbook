@@ -13,7 +13,6 @@ mdx-include = "*"
 yamllint = "*"
 mkdocs-markdownextradata-plugin = "*"
 mkdocs-mermaid-plugin = {git = "https://github.com/pugong/mkdocs-mermaid-plugin"}
-beautifulsoup4 = "*"
 
 [requires]
 python_version = "3"
