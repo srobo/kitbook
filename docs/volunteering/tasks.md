@@ -51,5 +51,5 @@ Alternatively, if you're relatively new and would like to help with something
 that doesn't require too much in-depth knowledge, we have some tasks which are
 labelled as [good first issue][good-first-issue].
 
-[help-wanted]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+[help-wanted]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22S%3A+Help+Wanted%22
 [good-first-issue]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
