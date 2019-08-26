@@ -1,4 +1,4 @@
-# Student Robotics Volunteer RunBook
+# Meta
 
 Welcome to our runbook. This aims to be a single source for all Student Robotics
 internal documentation, including information for the [Competition Team][competition-team]
@@ -18,10 +18,19 @@ In that regard, the runbook aims to be _descriptive_ rather than _prescriptive_.
 We are always open to new ways to do things, though by recording the reasons
 for our current approach we aim to avoid needing to rediscover that repeatedly.
 
-The runbook aims to be complete as far as our own specific information goes,
-however creating documentation for external tools is deliberately out of scope.
-As a concrete example: we might include here some guidance on how _we_ use a
-tool (perhaps including recipes for patterns common to us), however we should
-not be directly documenting how to use the tool. In the latter case we should
-link to the tool's own documentation. (If that tool's documentation is
-insufficient then we should submit improvements to that project!)
+### Scope Limitations
+
+The runbook aims to provide general information as far as our own specific
+information goes, so that it can always be a starting point for understanding.
+There are many cases where it should not contain the actual documentation:
+
+ * Information about Student Robotics' structure as a charity. This instead is
+   documented by the trustees in the [ops manual][ops-manual].
+ * Detailed information about internal (or external) tooling. These instead live
+   with the tooling so that the runbook is not coupled tightly to the
+   development of that tooling.
+   Note: the runbook _may_ contain guidance on our approach to using external
+   tooling, or recipes for using tooling which are common to us but too specific
+   for general documentation.
+
+[ops-manual]: https://opsmanual.studentrobotics.org
