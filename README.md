@@ -1,12 +1,10 @@
-# RunBook
-
-Student Robotics Competition Program
+# Student Robotics Volunteer RunBook
 
 [![CircleCI](https://circleci.com/gh/srobo/runbook.svg?style=svg)](https://circleci.com/gh/srobo/runbook)
 
-# Installation
+## Installation
 
-## Requirements
+In order to bootstrap this project you'll need:
 
 - Python (`>=3.5`)
 - `pip`
