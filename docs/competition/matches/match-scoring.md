@@ -45,7 +45,7 @@ You are not responsible for:
 
 Both marshals will be given a score sheet on a clipboard, which you must both individually fill in fully by the end of the match. Don't worry! You won't be calculating any actual scores whist doing this, we have a program to calculate the actual scores. All you need to do is record the state of the arena  as it is at the exact end of the match. Anything that happens after the match has ended must not be recorded, and the arena must not be changed until both scorers have finished. Teams are not allowed to enter the arena to collect their robots until after scoring has finished.
 
-Once you have finished scoring, you must drop your completed score sheet at the score entry desk which will be near the arenas. You must return promptly to the arena in case you need to be found for further scoring questions, and begin resetting the arena for the next match.
+Once you have finished scoring, you should compare your score-sheet to that of the other marshal in order to pick up any mistakes. One of you should then drop both of the completed score sheets at the score entry desk which will be near the arenas. You must return promptly to the arena in case you need to be found for further scoring questions, and begin resetting the arena for the next match.
 
 ### Teams touching robots
 
@@ -87,8 +87,8 @@ In the role of score entry, you will be stationed at a desk near to the arena/st
 
 The steps to perform are as follows:
 1. Receive both score sheets from the marshals
-2. Check the sheets match, (and resolve any discrepancies)
-3. Enter the scores into the computer
+2. Check the sheets match, if they don't then one of you needs to talk to the match marshals to resolve the discrepancy (see below)
+3. Enter the scores into the computer; typically one of you would enter the scores and the other check that they match the paper sheets
 4. File the score sheet in a folder
 
 ### Discrepancy in score sheets
