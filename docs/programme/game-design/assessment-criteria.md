@@ -1,10 +1,10 @@
 # Game Assessment Criteria
 
-### 1. Low barrier to entry.
+### 1. Low barrier to entry
 
 The kit that we distribute is a lever with which we lower the barrier.
 
-### 2. Axes of exploration.
+### 2. Axes of exploration
 
 There are three general engineering disciplines we want to provide as axes of exploration:
 
@@ -21,18 +21,18 @@ The scope for development within these axes should be well-balanced. A team shou
 - Reliability. Robots should not fall apart, software should not fall apart.
 - Technical 'insanity'. Things that are technically advanced are awesome.
 
-### 4. Games should be a spectacle!
+### 4. Games should be a spectacle
 
 - Fun to watch.
 - Fun to play.
 - No conclusion: must be very unlikely to end before time is up, or result in stalemates.
 - Continuous action: camping/sitting must not be encouraged.
 
-### 5. Game must be a non-contact sport.
+### 5. Game must be a non-contact sport
 
 Pushing, breaking, beating, etc. of other robots must not be encouraged.
 
-### 6. Encourage competitive interaction.
+### 6. Encourage competitive interaction
 
 The behaviour of a robot should be influenced by that of others.
 
