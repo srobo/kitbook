@@ -11,6 +11,8 @@ limitations in this regard.
 We occasionally announce things via Slack, however anything important will also
 be sent via email.
 
+You can join our Slack by filling in this [google form][slack-signup].
+
 ## Mailshots (via MailChimp)
 
 We have a general platform for emailing both volunteers and teams in a one-way
@@ -30,4 +32,5 @@ things we're working on happens in issues on GitHub. This is the case for our
 [tasks][tasks] list as well as in issues and pull requests in other repositories.
 
 
+[slack-signup]: https://goo.gl/forms/Maq41MHF8CYSRVn83
 [tasks]: https://github.com/srobo/tasks/issues
