@@ -1,12 +1,12 @@
 # Git & GitHub
 
 We use [git][git] and [GitHub][github] for a lot of our collaborative work.
-Git is a version control system which allows contributors to view a full history
-of our work (whether it's source code for software, designs for our kit hardware
-or something else) as well as for their contributions to add to that history.
-GitHub provides us with an online platform which is openly readable by everyone
-as well as allowing for review of contributions to share knowledge and maintain
-quality.
+Git is a [version control system][version-control] which allows contributors to
+view a full history of our work (whether it's source code for software, designs
+for our kit hardware or something else) as well as for their contributions to
+add to that history. GitHub provides us with an online platform which is openly
+readable by everyone as well as allowing for review of contributions to share
+knowledge and maintain quality.
 
 A full user guide to either tool is well beyond the scope of the runbook, though
 it is worth outlining some aspects of our approach.
@@ -45,3 +45,4 @@ repo.
 
 [git]: https://git-scm.org
 [github]: https://github.com/srobo
+[version-control]: https://en.wikipedia.org/wiki/Version_control
