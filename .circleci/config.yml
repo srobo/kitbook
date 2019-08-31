@@ -9,7 +9,7 @@ jobs:
 
             - restore_cache:
                 key: cache-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
-            - run: pipenv install --dev
+            - run: pipenv install --deploy --dev
             - save_cache:
                 key: cache-{{ .Branch }}-{{ checksum "Pipfile.lock" }}
                 paths:
