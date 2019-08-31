@@ -1,4 +1,4 @@
-# Meta
+# Home
 
 Welcome to our runbook. This aims to be a single source for all Student Robotics
 internal documentation, including information for the [Competition Team][competition-team]
