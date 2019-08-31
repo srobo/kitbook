@@ -11,7 +11,7 @@ and [Kit Team][kit-team], as well as other activities.
 
 ## Installation
 
-In order to bootstrap this project you'll need:
+To run this project locally, you'll need:
 
 - Python (`>=3.5`)
 - `pip`
