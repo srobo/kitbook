@@ -11,6 +11,9 @@ knowledge and maintain quality.
 A full user guide to either tool is well beyond the scope of the runbook, though
 it is worth outlining some aspects of our approach.
 
+If you're just starting out, GitHub have some [great guides][git-guides] about
+both git and GitHub. The [Pro Git book][pro-git] is also very accessible.
+
 ## Contribution
 
 In general we prefer that published history is preserved. This means that while
@@ -46,3 +49,5 @@ repo.
 [git]: https://git-scm.org
 [github]: https://github.com/srobo
 [version-control]: https://en.wikipedia.org/wiki/Version_control
+[git-guides]: https://guides.github.com/
+[pro-git]: https://git-scm.com/book/en/v2
