@@ -63,5 +63,8 @@ original:
     * once received the details of the Team meeting times/locations etc. match up geographically close potential mentors to teams
     * enter the potential TLA by the mentor on the Mentor Sign-Up spreadsheet to identify any clashes.
     * contact potential Mentor to inform them of their matched team to confirm availability etc. with Team Leader contact info, HIGHLIGHT that mentor should only be interacting with the Team Leader as the responsible adult (i.e over 18) for the team.  DIRECT them to Page 27 of Ops Manual for further info re. being a Mentor.
+    * provide the Mentor with guidance about what the role entails (our [general guidance][mentor-guidance] helps with this)
     * contact Team Leader to inform them of mentor, giving Mentor contact info.
     * check up on progress of Mentoring relationship through email updates.
+
+[mentor-guidance]: /volunteering/mentor-guidance
