@@ -31,9 +31,9 @@ contributors.
 
 We have a large number of repositories and so consideration should be given
 before any more are created. As we are in the process of moving from another
-hosting solution (`cgit` on a server of our own) to GitHub, this is doubly the
-case as there may be an existing but not-yet migrated repository which should be
-used.
+hosting solution ([`cgit` on a server of our own][sr-cgit]) to GitHub, this is
+doubly the case as there may be an existing but not-yet migrated repository
+which should be used.
 
 For content which varies by year (for example the rules of the competition game
 or arena layout) we prefer to have a single repository which either has a single
@@ -51,3 +51,4 @@ repo.
 [version-control]: https://en.wikipedia.org/wiki/Version_control
 [git-guides]: https://guides.github.com/
 [pro-git]: https://git-scm.com/book/en/v2
+[sr-cgit]: https://www.studentrobotics.org/cgit/
