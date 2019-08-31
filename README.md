@@ -1,12 +1,17 @@
-# RunBook
-
-Student Robotics Competition Program
+# Student Robotics Volunteer RunBook
 
 [![CircleCI](https://circleci.com/gh/srobo/runbook.svg?style=svg)](https://circleci.com/gh/srobo/runbook)
 
-# Installation
+The runbook aims to be a single source for all Student Robotics internal
+documentation. This includes information for the [Competition Team][competition-team]
+and [Kit Team][kit-team], as well as other activities.
 
-## Requirements
+[competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-programme-team
+[kit-team]: https://opsmanual.studentrobotics.org/v/master/annual-robotics-competition/kit-team
+
+## Installation
+
+To run this project locally, you'll need:
 
 - Python (`>=3.5`)
 - `pip`
