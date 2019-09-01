@@ -17,8 +17,8 @@ and work with you to find things you'd like to help with. They'll also ask you
 for contact details and for you to read the [Code of Conduct][code-of-conduct].
 
 They'll also be able to answer any questions you have about the organisation and
-get you set up with accounts on our collaboration platforms (we primarily use
-[Slack][sr-slack] and [GitHub][sr-github]).
+get you set up with accounts on our [collaboration platforms][comms-platforms]
+(we primarily use [Slack][sr-slack] and [GitHub][sr-github]).
 
 ## Tasks
 
@@ -29,5 +29,6 @@ something you'd like to get involved with doing, discussing on the task there
 (and possibly creating one if needed) is the way to go.
 
 [code-of-conduct]: https://srobo.gitbook.io/ops-manual/about-the-charity/code-of-conduct
+[comms-platforms]: ./communication-platforms.md
 [sr-slack]: https://studentrobotics.slack.com/
 [sr-github]: https://github.com/srobo
