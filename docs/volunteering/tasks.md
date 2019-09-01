@@ -2,14 +2,20 @@
 
 We record tasks which need doing at https://github.com/srobo/tasks/issues.
 
-If you spot a task which you'd like to do, please `@mention` the person who
-created the task to let them know that you're interested. If you're able to
+If you spot a task which you'd like to do or help with, please `@mention`
+someone (see below) to let them know that you're interested. If you're able to
 self-assign the task (for technical reasons you won't initially be able to do
 this), please also do that.
 
-<!--- Review question: is the original author the right person to ping here? --->
+Who to ping about tasks:
 
-This lets the original author know that you're interested, meaning that they can
+ * if there's someone currently assigned, ping them
+ * if you know of someone who is responsible for the task, perhaps a member of
+   one of the team committees, ping them
+ * otherwise, ping the ticket's author who will likely be able to point you in
+   the right direction
+
+This lets the current owner know that you're interested, meaning that they can
 pass on any additional information which might be needed to complete the task.
 Alternatively, if they're unsure, they can likely suggest someone else who would
 be able to advise you.
