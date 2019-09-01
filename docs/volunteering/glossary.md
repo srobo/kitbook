@@ -49,6 +49,10 @@ _SR_:
 
 : a shortened form of Student Robotics
 
+[_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
+
+: a software stack which we use to run competition events
+
 _srobo_:
 
 : another shortened form of Student Robotics
