@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6c4a8328ad57f41f512fc2074af0ed1289739efa04506c6360c5c7b41fc56685"
+            "sha256": "c8df5d37ada15278160cb80c3a69178d0efdcbd22dc02bf64c221fd009cc3566"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -114,6 +114,10 @@
             ],
             "index": "pypi",
             "version": "==4.1.1"
+        },
+        "mkdocs-mermaid-plugin": {
+            "git": "https://github.com/pugong/mkdocs-mermaid-plugin",
+            "ref": "abf14392b0ed0c7022210b32c4e7c9c3e4c5c68a"
         },
         "pathspec": {
             "hashes": [

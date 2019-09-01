@@ -15,10 +15,12 @@ Here is a description of the roles related to shepherding.
 
 **Responsible for managing the shepherds which they may bring in as their only subordinate role.**
 
+- Work with the [Arena Manager](/competition/arena/) to define the match staging area
 - Check and report volunteer arrival.
 - Assign volunteers to roles.
 - Brief volunteers.
 - Supervise shepherds and adjust shepherding procedures where necessary.
+  Notably: consider whether the "roving shepherd" and "timekeeper" roles are needed for the venue. It was noted during SR2019 that it wasn't clear that these roles provided much additional benefit given the layout of the venue and having only a single arena respectively.
 - Debrief roving shepherds to record locations of teams bases to then pass on to the next roving shepherd. They should also check for any immediately obvious Health and Saftey issues (blocking fire exit, walkway etc.).
 
 ### Shepherd
@@ -68,5 +70,7 @@ The roving shepherd will be notified of teams that need to be found via radio, t
 
 The Roving Shepherd is **not** required to find every missing team, purely do a best effort sweep of the venue. If a team can not be found they will notify the Head Shepherd immediately.
 
+The Roving Shepherd will receive a printout of the match schedule which will show which teams need to be fetched for each match. We ask that shepherds notify the head shepherd immediately if they find any changes/errors in layout or colouring of their match schedule.
+
 ## Communication
-Shepherd's will communicative via radio with a fallback option of Slack if for some reason radios stop working. While Radios will require brief volunteer training, it means that our primary communication method is not reliant on the venues wifi, volunteers having devices to view slack on, or volunteers using their own personal mobile data.
+Shepherd's will communicative via radio with a fallback option of Slack if for some reason radios stop working. While Radios will require brief volunteer training, it means that our primary communication method is not reliant on the venue's WiFi, volunteers having devices to view slack on, or volunteers using their own personal mobile data.
