@@ -41,7 +41,7 @@ _Shepherd_:
 : a volunteer at the competition event who helps ensure teams make it to their
 matches on time
 
-[_Slack_][https://studentrobotics.slack.com/]:
+[_Slack_](https://studentrobotics.slack.com/):
 
 : an instant-messaging tool we use for quick discussions
 
