@@ -2,7 +2,7 @@
 
 We record tasks which need doing at https://github.com/srobo/tasks/issues.
 
-If you spot a task which you'd like to do or help with, please `@mention`
+If you spot a task which you'd like to do or help with, please [`@mention`][at-mention]
 someone (see below) to let them know that you're interested. If you're able to
 self-assign the task (for technical reasons you won't initially be able to do
 this), please also do that.
@@ -57,5 +57,6 @@ Alternatively, if you're relatively new and would like to help with something
 that doesn't require too much in-depth knowledge, we have some tasks which are
 labelled as [good first issue][good-first-issue].
 
+[at-mention]: https://help.github.com/en/articles/basic-writing-and-formatting-syntax#mentioning-people-and-teams
 [help-wanted]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22S%3A+Help+Wanted%22
 [good-first-issue]: https://github.com/srobo/tasks/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
