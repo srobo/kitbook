@@ -47,7 +47,7 @@ matches on time
 
 _SR_:
 
-: a shortened form of Student Robotics
+: an abbreviation for 'Student Robotics'
 
 [_SRComp_](https://github.com/PeterJCLaw/srcomp/wiki):
 
@@ -55,7 +55,7 @@ _SR_:
 
 _srobo_:
 
-: another shortened form of Student Robotics
+: another abbreviation for 'Student Robotics'
 
 _SRnnnn_ (e.g: SR2019):
 
