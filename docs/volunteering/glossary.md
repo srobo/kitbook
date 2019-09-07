@@ -29,7 +29,7 @@ _Core Team_:
 : the group of 8 or so volunteers responsible for delivering the _SR2019_
 _Competition programme_; this has since been replaced by the _Competition Team_
 
-[_GitHub_](https://github.com/srobo):
+[_GitHub_](./git-and-github.md):
 
 : a development platform, used to host code repositories and to coordinate tasks
 
