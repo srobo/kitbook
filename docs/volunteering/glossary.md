@@ -64,6 +64,11 @@ the year number is the calendar year in which the competition event takes place,
 so SR2019 was the _competition programme_ which ran from November 2018 until
 April 2019
 
+[_Team Kits_](../kit/kit-definition.md):
+
+: we provide a kit of parts which form the starting point for robots built by
+the competing teams
+
 _Tech Day_
 
 : during the _competition year_ we organise events at which the teams can come
