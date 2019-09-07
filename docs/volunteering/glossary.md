@@ -31,7 +31,7 @@ _Competition programme_; this has since been replaced by the _Competition Team_
 
 [_GitHub_](https://github.com/srobo):
 
-: a platform for hosting code repositories which we also use to coordinate tasks
+: a development platform, used to host code repositories and to coordinate tasks
 
 _Kickstart_:
 
