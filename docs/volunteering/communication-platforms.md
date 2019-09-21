@@ -20,6 +20,9 @@ fashion. This is used primarily for important communications where responses can
 happen via another format (for example call for volunteers for an event, with
 responses via a Google Form).
 
+An archive of these emails exists in the [volunteer-emails](https://github.com/srobo/volunteer-emails/) 
+repo, along with information on how to send emails.
+
 ## Mailing lists
 
 We have some Google Groups mailing lists which are used for higher latency
