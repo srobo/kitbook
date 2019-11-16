@@ -30,6 +30,6 @@ There are many cases where it should not contain the actual documentation:
    tooling, or recipes for using tooling which are common to us but too specific
    for general documentation.
 
-[competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-programme-team
-[kit-team]: https://opsmanual.studentrobotics.org/v/master/annual-robotics-competition/kit-team
+[competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
+[kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 [ops-manual]: https://opsmanual.studentrobotics.org

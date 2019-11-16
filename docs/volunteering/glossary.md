@@ -19,7 +19,7 @@ _Competition year_:
 : the 6 months (or so) between _Kickstart_ and the _Competition_ during which
 teams build their robots; see also _SRnnnn_
 
-[_Competition Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-programme-team):
+[_Competition Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team):
 
 : the group of volunteers responsible for delivering a particular year's
 _Competition programme_
@@ -37,7 +37,7 @@ _Kickstart_:
 
 : the start of the competition year, when we hand out kits to teams
 
-[_Kit Team_](https://opsmanual.studentrobotics.org/v/master/annual-robotics-competition/kit-team):
+[_Kit Team_](https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team):
 
 : the group of volunteers responsible for maintenance and development of the
 _Team Kits_ and for supporting competitors in using those kits
