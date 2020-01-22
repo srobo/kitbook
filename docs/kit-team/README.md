@@ -1,5 +1,7 @@
 # Kit Team
 
+## What is the Kit Team?
+
 Our main reason for existing is to develop, maintain and support the
 "kit" that teams use to build their robots.  Organisationally, we do
 this by providing a "kit service" to the competition team (the
@@ -29,25 +31,28 @@ We are currently in the process of forming the following project teams:
 
 The support team provides technical support to students, teams and volunteers relating to *The Kit*.
 This can include:
-* Providing support at events like kickstart, tech days and the competition
-* Servicing support queries from students on the forums
-* Developing and maintaining documentation for *The Kit*
-* Determining when spare parts need to be shipped to teams (the Kit Assets Team will do the shipping)
-* Interacting with mentors to resolve problems
+
+ * Providing support at events like kickstart, tech days and the competition
+ * Servicing support queries from students on the forums
+ * Developing and maintaining documentation for *The Kit*
+ * Determining when spare parts need to be shipped to teams (the Kit Assets Team will do the shipping)
+ * Interacting with mentors to resolve problems
 
 ### Infrastructure Team
 
 Provides and maintains managed hosting services and tooling to the rest of the kit team.
 
 Technologies maintained by this team might include:
-* an environment in which the IDE software (maintained by the Dev Tooling team) can be run e.g. a cloud VM
-* administration of Kit Team's usage of shared services e.g. github, CI
+
+ * an environment in which the IDE software (maintained by the Dev Tooling team) can be run e.g. a cloud VM
+ * administration of Kit Team's usage of shared services e.g. github, CI
 
 The scope of the service provided by this team could perhaps be extended to the rest of the Student Robotics organisation in the future, thus covering technologies such as the website, forums, user database -- however this is not planned at present.
 
 ### Kit Assets Team
 
 The assets team is responsible for keeping track of the physical parts of the kit, as well as:
+
  * Storing it
  * Keeping it well maintained (e.g. fixing it between competitions)
  * Shipping the kit to Kickstarts and teams, including spares
@@ -69,6 +74,7 @@ The brain team should ensure that any features it releases to teams during a com
 Produces and maintains tooling for competitors to use to develop their robot software.
 
 For example:
+
 * the IDE
 * the robot simulator
 * live debugging tools e.g. the WiFi remote control interface
