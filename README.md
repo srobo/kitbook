@@ -1,4 +1,4 @@
-# Student Robotics Volunteer RunBook
+# Student Robotics Volunteer Runbook
 
 [![CircleCI](https://circleci.com/gh/srobo/runbook.svg?style=svg)](https://circleci.com/gh/srobo/runbook)
 
