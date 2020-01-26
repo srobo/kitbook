@@ -55,15 +55,18 @@ In some rare situations it may be necessary to request the assistance of a perso
 
 List for SR2019:
 
-Electronic Hardware:
--   Rob Gilton
+Electronic Hardware
+
+: - Rob Gilton
 
 IDE
--   Peter Law
+
+: - Peter Law
 
 Python API
--   Peter Law
--   Rob Gilton
+
+: - Peter Law
+  - Rob Gilton
 
 ### Handling suspected damaged kit requests
 
