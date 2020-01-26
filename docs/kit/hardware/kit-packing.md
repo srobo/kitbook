@@ -5,7 +5,7 @@ original:
 ---
 # Kit Packing
 
-The purpose Kit Packing is to take the tested parts from the [Kit Collation](/kit/hardware/kit-collation) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
+The purpose Kit Packing is to take the tested parts from the [Kit Collation](./kit-collation.md) Event and pack them into kits ready for use by teams. There is roughly a month between the two events to allow for repairs to be made and replacement parts purchased. At the end of Kit Packing the kits are loaded onto a pallet and shipped to our post handling provider. The kits will later be forwarded to the various Kickstart locations once the number of teams at each location has been confirmed.
 
 ## Process
 
@@ -44,7 +44,7 @@ Each kit contains various 'Camcon' pluggable terminal block connectors. These mu
 
 ## LAYOUT
 
-To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](/kit-coord/Kit_Definition) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
+To help with the filling of kits, boxes of each constituent part should be placed around the room such that one can easily walk around filling a kit box without missing a part. All parts should be laid out, including the wire and camcons, in 'part stations'. See the [canonical kit list](../kit-definition.md) for reference. Each part station must have a sign by it indicating the quantity to be packed. See the kit list for these quantities.
 
 Some parts are designated for development use only and should not be shipped to teams. Since the parts processed at the Kit Collation Event are a mix of development and non-development the development ones need to be filtered out from the part stations. The following types of part have some designated for development and they must be removed before commencing the FILL task:
 

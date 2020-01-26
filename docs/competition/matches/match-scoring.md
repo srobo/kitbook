@@ -12,7 +12,7 @@ Any roles related to scoring matches go here.
 **Responsible for managing the marshals and score entry which they may bring in as their only subordinate roles.**
 
 As head match scorer you should station yourself near the arena/staging area to ensure any questions with regards to scoring can be asked.
-Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](/competition/matches/judging).
+Note that this role is _not_ about making decisions related to the interpretations of the rules. That is the responsibility of the [Judge](./judging.md).
 
 ## Match Marshal
 

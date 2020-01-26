@@ -32,4 +32,4 @@ Setup (roughly in time order):
 
 The above tasks are vague descriptions of what needs to be done. Details documentation for each year can be found on the relevant page:
 
- * [SR2017](/competition/team-pits/sr2017)
+ * [SR2017](./sr2017.md)

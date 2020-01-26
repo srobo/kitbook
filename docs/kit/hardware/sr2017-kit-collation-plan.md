@@ -5,7 +5,7 @@ original:
 ---
 # SR2017 Kit Collation Plan
 
-The SR2017 Kit Collation Event follows the general plan outlined on the [Kit Collation](/kit/hardware/kit-collation) page. This page is to document any deviations from this plan or to document more details.
+The SR2017 Kit Collation Event follows the general plan outlined on the [Kit Collation](./kit-collation.md) page. This page is to document any deviations from this plan or to document more details.
 
 ## CHECKIN
 

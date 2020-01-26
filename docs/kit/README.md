@@ -11,15 +11,15 @@ This is the Kit Coordinator's documentation. The Kit Coordinator is responsible 
 
 Role  |   Volunteer   |   Location of Documentation
 ------|---------------|----------------------------
-Kit Software Coordinator | Richard Barlow | [Docs](/kit/software)
-Kit Logistics Coordinator | Richard Barlow | [Docs](/kit/logistics)
-Kit Support Coordinator | Richard Barlow | [Docs](/kit/support)
+Kit Software Coordinator | Richard Barlow | [Docs](./software/README.md)
+Kit Logistics Coordinator | Richard Barlow | [Docs](./logistics/README.md)
+Kit Support Coordinator | Richard Barlow | [Docs](./support.md)
 Hardware Development Coordinator | [unfilled] |
-Hardware Production Coordinator | Richard Barlow | [Docs](/hw-prod-coord)
+Hardware Production Coordinator | Richard Barlow |
 
 ## The Kit
 
-The canonical list of current SR kit can be found on the [Kit Definition](/kit/kit-definition) page.
+The canonical list of current SR kit can be found on the [Kit Definition](./kit-definition.md) page.
 
 ## Kit Disclaimer
 
