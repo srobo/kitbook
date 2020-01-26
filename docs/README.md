@@ -30,6 +30,10 @@ There are many cases where it should not contain the actual documentation:
    tooling, or recipes for using tooling which are common to us but too specific
    for general documentation.
 
+## A note on links
+
+`mkdocs` has the power to resolve and validate links, however only when they're in a specific format. Links to pages inside the runbook should be relative, and end with the `.md` file extension (ie `[some other page](./volunteering/tasks.md)` produces [some other page](./volunteering/tasks.md)). This way, `mkdocs` will correctly validate these links.
+
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 [ops-manual]: https://opsmanual.studentrobotics.org
