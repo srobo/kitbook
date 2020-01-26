@@ -22,19 +22,19 @@ Role | Volunteer | Docs
 
 ## Matters of Interest
 
- * [Networking](/competition/production/network)
- * [Schedule](/competition/production/schedule) of the event production
- * [Venue Requirements](/competition/production/venue)
+* [Networking](/competition/production/network)
+* [Schedule](/competition/production/schedule) of the event production
+* [Venue Requirements](/competition/production/venue)
 
 Things that may appear here in the future:
 
- * Arena construction details
- * Venue layout
- * Power setup
- * Sound setup
- * Lighting setup
- * Insurance details
- * Risk assessments
+* Arena construction details
+* Venue layout
+* Power setup
+* Sound setup
+* Lighting setup
+* Insurance details
+* Risk assessments
 
 ## Ticketing System
 

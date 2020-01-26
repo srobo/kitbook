@@ -26,8 +26,8 @@ After a kickstart event has completed, and the dust has settled, it is time to p
 
 This report will be sent to trustees, and the competition programme team.  This report must be stored for future reference.
 
- * A brief summary of how the event went.
- * Recommendations of changes to processes that should be made, split into the following categories:
+* A brief summary of how the event went.
+* Recommendations of changes to processes that should be made, split into the following categories:
     * Those that would require the trustees to adjust the ops manual
     * A category for each of the competition programme coordinator's subordinates
     * Those that just affect the competition programme coordinator

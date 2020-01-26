@@ -28,7 +28,7 @@ repo, along with information on how to send emails.
 We have some Google Groups mailing lists which are used for higher latency
 discussion and for general announcements.
 
- * https://groups.google.com/forum/#!forum/srobo
+* https://groups.google.com/forum/#!forum/srobo
 
 ## GitHub
 

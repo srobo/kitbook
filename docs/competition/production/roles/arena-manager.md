@@ -8,12 +8,12 @@ original:
 The arena manager is responsible for constructing and deconstructing
 the arenas.  Specifically, this includes the following:
 
- * Arena carpet
- * Arena walls
- * All props in the arena, including:
+* Arena carpet
+* Arena walls
+* All props in the arena, including:
     * Markers
     * Any fixed or mobile installations in the arena (tokens, pedestals, etc.)
- * Displays around the arena.
+* Displays around the arena.
 
 ## Subordinates
 

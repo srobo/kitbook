@@ -119,14 +119,14 @@ Allocate a box or two for storage of broken parts. Allocate a box or two for sto
 
 Also, count the following untracked items and note down the totals. Bag the CamCon connectors up by size and write the number of connectors contained on the bag.
 
- * USB Memory Stick
- * Micro USB Cable
- * Full-size USB Cable
- * 7.5mm CamCon
- * 5mm CamCon
- * 3.81mm CamCon
- * Odroid Power Cable
- * Screw Driver
+* USB Memory Stick
+* Micro USB Cable
+* Full-size USB Cable
+* 7.5mm CamCon
+* 5mm CamCon
+* 3.81mm CamCon
+* Odroid Power Cable
+* Screw Driver
 
 ## CHASEUP
 

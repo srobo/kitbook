@@ -143,32 +143,32 @@ works before getting them to bring the pieces together.
 
 If you had lots of time, that might look something like this:
 
- * Explain `print("some text")`
+* Explain `print("some text")`
 
- * Ask them to make it print “some other text”
+* Ask them to make it print “some other text”
 
- * Explain `foo = 42; print(foo)`
+* Explain `foo = 42; print(foo)`
 
- * Ask them to make it print a different number
+* Ask them to make it print a different number
 
- * Explain `for foo in range(5): print(foo)`
+* Explain `for foo in range(5): print(foo)`
 
     note: I probably wouldn’t at this point explain the interaction
     between `in` and `range` being a generator; I’d probably
     just think about this like a loop over numbers
 
- * Ask them to make it print up to a higher limit
+* Ask them to make it print up to a higher limit
 
- * Explain `foo = 42 % 3; print(foo)`
+* Explain `foo = 42 % 3; print(foo)`
 
- * Ask them to make it detect numbers divisible by something else
+* Ask them to make it detect numbers divisible by something else
 
- * Explain `foo = 42; if foo == 42: print("yes")`
+* Explain `foo = 42; if foo == 42: print("yes")`
 
- * Ask them to make it print if the number is divisible by three
+* Ask them to make it print if the number is divisible by three
 
- * Ask them if they now think they could solve the original task, and
-   what that might look like
+* Ask them if they now think they could solve the original task, and
+  what that might look like
 
 ### Helping when they’re “stuck”
 
@@ -210,14 +210,14 @@ something you thought you knew, but their question yields new insights).
 
 Here are some sentence starters you might find useful:
 
- * Have you considered ...
+* Have you considered ...
 
- * Why do you think X happens
+* Why do you think X happens
 
- * Tell me what you’re thinking
+* Tell me what you’re thinking
 
     (Useful if they get stuck and go silent)
 
- * What happens if you change..
+* What happens if you change..
 
- * Which bit of the code is responsible for…
+* Which bit of the code is responsible for…

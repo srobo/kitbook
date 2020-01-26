@@ -21,7 +21,7 @@ Ancillary Software Coordinator |
 
 ## Things
 
- * Kickstart
+* Kickstart
      * [Review process](/programme/kickstart/review)
- * Competition
- * Tech Days
+* Competition
+* Tech Days
