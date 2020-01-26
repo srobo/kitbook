@@ -23,6 +23,7 @@ You MUST read [the rules](https://www.studentrobotics.org/docs/rules/) before st
 In this role you will work in the arena with a partner. You will be the only ones allowed in the arena during matches, however it is very important that you do not obstruct any robot or its vision, (especially by casting shadows over markers).
 
 Your responsibilities are:
+
 - Recording the state of the arena at the exact end of the match (see 'Scoring').
 - Ensuring robots start in the correct corner, and are entirely within their starting zone.
 - Ensuring no team members touch a robot after it has first moved. (see 'Teams touching robots').
@@ -30,15 +31,18 @@ Your responsibilities are:
 - Resetting the arena by moving props (tokens, for example) back to the correct place after you and your partner have both recorded the end-state of the match. There is no mechanism for delaying the matches, so please request extra help if you are struggling to make the deadlines.
 
 You are not responsible for:
+
 - Making sure a match starts with the correct number of teams -- that is down to the shepherds.
 
 ### Summary of the most important rules & regulations for SR2019:
 
 - A token is considered to be ‘in’ a zone if either:
+
   - Three corners of the token are in contact with the floor area inside the zone. Corners touching tape are not in the zone, tokens on Robots, or standing on their edges are not in the zone.
   - The token is touching *only* other tokens (not robots, not the floor), which themselves are 'in'.
 
 - A robot is considered to be 'in' a zone if:
+
   - The exact center of the flagpole is above the zone (if it's directly above the coloured tape, it's not in the zone).
 
 ### Scoring
@@ -56,6 +60,7 @@ Teams must not be allowed in the arena during a match. It is the responsibility 
 Be sure to turn off robots if they continue moving after the end of a match. Make sure you know where the off button is for all robots before the matches.
 
 There are three situations where robots should be turned off before the end of a match:
+
 - If the team members indicate that they wish to do so (by "throwing in the towel"). By doing so, the team forfeits the match, which should be recorded in the score sheets as a disqualification.
 - When a robot is causing **significant** damage to itself or another robot, i.e. Mashing into another robot, stopping it from being able to function, or dragging it around without being able to be freed, overheating a motor by stalling against a wall. It's up to you to decide which robot should be switched off, but their match shouldn't be forfeited. If any damage seems intentional, please report it to the head judge. A checklist for robot damage is available below.
 - When a robot is causing a health and safety risk, i.e. by exposing its battery to puncture damage, or overheating a motor by stalling it against a wall. In this case their match shouldn't be forfeited.
@@ -76,8 +81,8 @@ If you have any questions you may first ask the head match scorer and secondly t
 
 - If the damage is intentional, seek the judge.
 - If the damage is unintentional:
-  - If a robot mashes into another robot, but only briefly, leaving both robots free to move (including situations in which, say, one robot has a fragile, flaily arm that gets snapped off in the collision) then you must leave the robots to continue -- the teams are aware that accidental bumps and scrapes are inevitable.
-  - If a robot mashes into another robot, and becomes intertwined in a way that it is causing damage to the robot, then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are not necessarily forfeited in this case.
+    - If a robot mashes into another robot, but only briefly, leaving both robots free to move (including situations in which, say, one robot has a fragile, flaily arm that gets snapped off in the collision) then you must leave the robots to continue -- the teams are aware that accidental bumps and scrapes are inevitable.
+    - If a robot mashes into another robot, and becomes intertwined in a way that it is causing damage to the robot, then at least one of the robots must be switched off, depending on which robot caused the damage, but the scores are not necessarily forfeited in this case.
 
 ## Match Score Entry
 
@@ -86,6 +91,7 @@ If you have any questions you may first ask the head match scorer and secondly t
 In the role of score entry, you will be stationed at a desk near to the arena/staging area. There should always be two people responsible for match score entry, one using the keyboard and one to resolve disputes and ensure that values are entered correctly. Two score sheets per match will be given to you by the match marshals.
 
 The steps to perform are as follows:
+
 1. Receive both score sheets from the marshals
 2. Check the sheets match, if they don't then one of you needs to talk to the match marshals to resolve the discrepancy (see below)
 3. Enter the scores into the computer; typically one of you would enter the scores and the other check that they match the paper sheets

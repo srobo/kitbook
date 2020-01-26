@@ -71,6 +71,7 @@ All other roles should remain in location and await further instructions.
 Further instructions will be given when appropriate, and should not be requested.
 
 ## Stopping matches
+
 With stopping matches, the Head Judge should make a decision about whether to stop the match part way through, or to stop the matches once the current match is finished. This decision should be based on the proximity of the incident to the arena, and any further information received regarding the incident.
 
 If the match is stopped at the end, the Marshals should score the match as normal, and then hit the power cut off on each robot. The arena should then be vacated and left as-is.

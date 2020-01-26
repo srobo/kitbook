@@ -62,6 +62,7 @@ The responsibility of the badgers is to supervise the staging as well as to hand
 More specifically, the badgers should make sure that teams follow the direction of travel through the staging area. Once the teams have entered staging the badgers then hand out the robot badges and match keys to the teams, making sure that a team has staged in the correct slot and is receiving the correct badges. The teams leaving the arena should be advised to place their robots on the destaging desks for badge and USB key removal. The badgers need to collect the badges and keys and sort them, ready to be handed out in the next round of staging. The badgers need to ensure that teams do not leave the staging area with markers or USB-keys. The badgers should also clear any items left on the staging tables at this point to prepare for the next round of staging.
 
 ### Roving Shepherd
+
 The responsibility of the roving shepherd is to sweep the venue and look for teams that are not in their pits.
 
 Teams are often known to set up 'bases' away from their pits, and the roving shepherd will be responsible for curating a list of these bases, to aid in the searching for teams that are not in their pits.
@@ -73,4 +74,5 @@ The Roving Shepherd is **not** required to find every missing team, purely do a 
 The Roving Shepherd will receive a printout of the match schedule which will show which teams need to be fetched for each match. We ask that shepherds notify the head shepherd immediately if they find any changes/errors in layout or colouring of their match schedule.
 
 ## Communication
+
 Shepherd's will communicative via radio with a fallback option of Slack if for some reason radios stop working. While Radios will require brief volunteer training, it means that our primary communication method is not reliant on the venue's WiFi, volunteers having devices to view slack on, or volunteers using their own personal mobile data.

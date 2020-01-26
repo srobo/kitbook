@@ -13,23 +13,23 @@ The following tasks are generally applicable from one year to the next. As the r
 
 Pre-competition (in no particular order):
 
- * Specify the following and communicate requirements to the Production Manager, who will handle hire:
+* Specify the following and communicate requirements to the Production Manager, who will handle hire:
     * Power equipment.
     * Tables and chairs.
- * Specify and order tape. A non-exhaustive list:
+* Specify and order tape. A non-exhaustive list:
     * Black gaffer tape for pit flags and other misc uses.
     * White gaffer tape for pit flags and other misc uses.
 
 Setup (roughly in time order):
 
- * Mark out the pit boundaries
- * Place the pit tables and chairs
- * Assemble pit flags
- * Attach pit flags to desks (following map)
- * Attach pit sheets to desks
+* Mark out the pit boundaries
+* Place the pit tables and chairs
+* Assemble pit flags
+* Attach pit flags to desks (following map)
+* Attach pit sheets to desks
 
 ## Year Specific Documentation
 
 The above tasks are vague descriptions of what needs to be done. Details documentation for each year can be found on the relevant page:
 
- * [SR2017](./sr2017.md)
+* [SR2017](./sr2017.md)

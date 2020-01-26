@@ -21,14 +21,14 @@ The runbook aims to provide general information as far as our own specific
 information goes, so that it can always be a starting point for understanding.
 There are many cases where it should not contain the actual documentation:
 
- * Information about Student Robotics' structure as a charity. This instead is
-   documented by the trustees in the [ops manual][ops-manual].
- * Detailed information about internal (or external) tooling. These instead live
-   with the tooling so that the runbook is not coupled tightly to the
-   development of that tooling.
-   Note: the runbook _may_ contain guidance on our approach to using external
-   tooling, or recipes for using tooling which are common to us but too specific
-   for general documentation.
+* Information about Student Robotics' structure as a charity. This instead is
+  documented by the trustees in the [ops manual][ops-manual].
+* Detailed information about internal (or external) tooling. These instead live
+  with the tooling so that the runbook is not coupled tightly to the
+  development of that tooling.
+  Note: the runbook _may_ contain guidance on our approach to using external
+  tooling, or recipes for using tooling which are common to us but too specific
+  for general documentation.
 
 ## A note on links
 

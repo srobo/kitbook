@@ -22,4 +22,4 @@ Match Coordinator | Tom Leese | [Docs](../matches/README.md)
 
 ## Event-Specific Information
 
- * [SR2017 Event Details](./sr2017-event.md)
+* [SR2017 Event Details](./sr2017-event.md)

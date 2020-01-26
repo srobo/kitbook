@@ -7,10 +7,10 @@ original:
 
 This is the Competition Team Support Coordinator's documentation. The Competition Team Support Coordinator is responsible for ensuring that teams are supported, with technical problems, throughout the competition. The Competition Team Support team consists of four roles:
 
- * [Helpdesk](./helpdesk.md) Volunteers
- * [Battery Shuffler](./battery-shuffler.md)
- * [Battery Charging](./battery-charging.md) Volunteers
- * [Roving Helper](./roving-helper.md)
+* [Helpdesk](./helpdesk.md) Volunteers
+* [Battery Shuffler](./battery-shuffler.md)
+* [Battery Charging](./battery-charging.md) Volunteers
+* [Roving Helper](./roving-helper.md)
 
 These roles will be filled by various people throughout the competition. All volunteers filling these roles report to the Competition Team Support Coordinator and may not create subordinate roles.
 

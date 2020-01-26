@@ -11,10 +11,10 @@ This is an overview of the game design coordinator role, intended to be read by 
 
 As game design coordinator, it is your responsibility to ensure that we end up with a suitable game design for the Student Robotics Competition Programme.  As you will find in the ops manual, your responsibilities are:
 
- * Designing the game.
- * Producing publishable rules for the game well in advance of Kickstart.
- * Ensuring that the details of the game are not publicly available until Kickstart.
- * Updating the published rules throughout the year in response to rule clarification requests.
+* Designing the game.
+* Producing publishable rules for the game well in advance of Kickstart.
+* Ensuring that the details of the game are not publicly available until Kickstart.
+* Updating the published rules throughout the year in response to rule clarification requests.
 
 ## Game Selection Process
 
