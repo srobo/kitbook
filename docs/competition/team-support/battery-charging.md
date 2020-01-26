@@ -10,6 +10,7 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 ## Setup
 
 ### Equipment
+
 Most batteries and chargers will arrive with teams, but any batteries, bags, and chargers in inventory should be prepared during setup. Please only set up the blue 'IMAX B6' chargers, as it simplifies the charging role to have only one type of charger.
 
 There are two locations involved in battery charging. The equipment required at each is as listed below:
@@ -61,7 +62,6 @@ The general schedule will go as follows:
 - Charged batteries should be taken to the helpdesk and put into a fire-proof bag in the charged batteries box.
 - Discharged and damaged batteries should be taken from the fire-proof bag in the discharged batteries box to the battery charging station.
 - Any batteries that were marked as damaged by the helpdesk (using red tape) should be inspected and placed into their own fire-proof bag in the damaged battery box if they are damaged.
-
 
 ### Charging a discharged battery - Battery Charging Station
 

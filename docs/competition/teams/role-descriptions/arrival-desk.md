@@ -47,6 +47,7 @@ The following flow is an outline of the processes described above:
 ![Arrival Desk Flow (Arrivals)](../diagrams/arrival-desk-arrivals-flow.svg)
 
 ## Required Items
+
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible.
 
 * This documentation and flow chart.
