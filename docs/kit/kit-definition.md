@@ -51,7 +51,7 @@ All of the above plus packaging (jiffy bags and paper void fill) weighs 4.95kg.
 
 ## Software
 
- * Odroid image
- * IDE
- * sr-robot
- * simulator
+* Odroid image
+* IDE
+* sr-robot
+* simulator

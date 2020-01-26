@@ -10,6 +10,7 @@ We (Student Robotics) manage the charging of all batteries at the competition. B
 ## Setup
 
 ### Equipment
+
 Most batteries and chargers will arrive with teams, but any batteries, bags, and chargers in inventory should be prepared during setup. Please only set up the blue 'IMAX B6' chargers, as it simplifies the charging role to have only one type of charger.
 
 There are two locations involved in battery charging. The equipment required at each is as listed below:
@@ -57,10 +58,10 @@ Teams will bring discharged batteries to helpdesk and require a replacement char
 One of the volunteers that is running the battery charging station will periodically have to go and get discharged batteries from the helpdesk, simultaneously dropping off charged batteries. Helpdesk may also contact them over radio to do it sooner.
 
 The general schedule will go as follows:
+
 - Charged batteries should be taken to the helpdesk and put into a fire-proof bag in the charged batteries box.
 - Discharged and damaged batteries should be taken from the fire-proof bag in the discharged batteries box to the battery charging station.
 - Any batteries that were marked as damaged by the helpdesk (using red tape) should be inspected and placed into their own fire-proof bag in the damaged battery box if they are damaged.
-
 
 ### Charging a discharged battery - Battery Charging Station
 
@@ -81,4 +82,3 @@ Batteries are charged as follows:
 After about 1 hour the battery should complete charging - the screen will display a charge complete message. Simply disconnect the battery from the charger and place it in the charged battery box.
 
 If at any point throughout the charging cycle the charger indicates an issue (e.g. a timeout, capacity or cable error), disconnect the battery from the charger, apply a piece of red tape to the yellow XT60 connector on the battery and place it in the damaged battery box. Inevitably there will be a small number of faulty chargers. If you suspect that a particular charger is faulty (lots of batteries fail to charge on it), disconnect it from its power supply, apply red tape to its yellow XT60 connector and place it in the damaged battery box.
-

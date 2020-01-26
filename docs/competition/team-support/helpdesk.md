@@ -9,23 +9,23 @@ Helpdesk is the teams' primary source of support. Volunteers are expected to adv
 
 ## Equipment
 
- * Two copies of the rules - one attached to a desk by some means
- * A copy of this document
- * Issue forms for both Helpdesk Volunteers and Roving Helpers
- * Kit Swap Forms
- * Spare kit in the 'spare kit box'
- * List of spare kit
- * Broken kit box
- * Issue Form box
- * Laptop to view documentation and the IDE
- * Red insulating tape
- * Permanent marker
- * Large post-it notes
- * Radio
- * Emergency contact number for the Health and Safety Coordinator
- * Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
- * Spare robot flag pipe fittings to give to teams
- * Saturday evening battery/charger loans
+* Two copies of the rules - one attached to a desk by some means
+* A copy of this document
+* Issue forms for both Helpdesk Volunteers and Roving Helpers
+* Kit Swap Forms
+* Spare kit in the 'spare kit box'
+* List of spare kit
+* Broken kit box
+* Issue Form box
+* Laptop to view documentation and the IDE
+* Red insulating tape
+* Permanent marker
+* Large post-it notes
+* Radio
+* Emergency contact number for the Health and Safety Coordinator
+* Spare robot flags/badges for teams to borrow to try for size (must be clearly marked and returned to helpdesk ASAP)
+* Spare robot flag pipe fittings to give to teams
+* Saturday evening battery/charger loans
 
 ## Volunteer Requirements
 
@@ -55,15 +55,18 @@ In some rare situations it may be necessary to request the assistance of a perso
 
 List for SR2019:
 
-Electronic Hardware:
--   Rob Gilton
+Electronic Hardware
+
+: - Rob Gilton
 
 IDE
--   Peter Law
+
+: - Peter Law
 
 Python API
--   Peter Law
--   Rob Gilton
+
+: - Peter Law
+  - Rob Gilton
 
 ### Handling suspected damaged kit requests
 

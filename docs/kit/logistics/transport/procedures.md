@@ -44,12 +44,12 @@ Begin by requesting the following information from the Team Coordinator for the 
 * Email of recipient
 * Phone number of recipient (ideally a mobile number as that's what couriers prefer)
 * Address including:
-  * School name
-  * Number (if applicable)
-  * Street
-  * Town/City
-  * County
-  * Postcode
+    * School name
+    * Number (if applicable)
+    * Street
+    * Town/City
+    * County
+    * Postcode
 
 For each team that needs a kit:
 
@@ -82,13 +82,12 @@ Begin by requesting the following information from the Team Coordinator for the 
 * Email of recipient
 * Phone number of recipient (ideally a mobile number as that's what couriers prefer)
 * Address including:
-
-  * School name
-  * Number (if applicable)
-  * Street
-  * Town/City
-  * County
-  * Postcode
+    * School name
+    * Number (if applicable)
+    * Street
+    * Town/City
+    * County
+    * Postcode
 
 * Identify the replacement parts to be shipped in the Inventory (as defined by the Kit Support Coordinator) and move them to an appropriate `in-transit` sub directory (e.g. `in-transit/to-srz`).
 

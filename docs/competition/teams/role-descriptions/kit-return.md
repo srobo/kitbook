@@ -58,6 +58,7 @@ This workflow is shown in the diagram below.
 
 
 ## Required Items
+
 You should have the following items present for your duties. If you do not, please let the competition team coordinator know as soon as possible. These documents should already be printed, but their source can be found in the [`kit-coordination-documents`](https://github.com/srobo/kit-coordination-documents) repo.
 
 * This documentation and flow chart.

@@ -12,15 +12,15 @@ requirements, all of which are described in this page.
 
 The venue must feature enough space for:
 
- * The arenas
- * Match spectators
- * Staging area
- * Score entry
- * Pits
- * Reception.
- * Team support
- * Battery charging
- * Network admin
+* The arenas
+* Match spectators
+* Staging area
+* Score entry
+* Pits
+* Reception.
+* Team support
+* Battery charging
+* Network admin
 
 ## Transport Links
 
@@ -47,14 +47,14 @@ The venue must feature heating to ensure it is a comfortable temperature.
 The venue needs to provide enough "big mains" power outlets so that
 power can be distributed to the following:
 
- * Arenas (lighting and sound)
- * Pits
- * Network infrastructure
- * Battery charging
- * Pits
- * Reception
- * Staging area
- * Team support area
+* Arenas (lighting and sound)
+* Pits
+* Network infrastructure
+* Battery charging
+* Pits
+* Reception
+* Staging area
+* Team support area
 
 Note that the venue itself doesn't need to do the power distribution,
 as a production company can do that.

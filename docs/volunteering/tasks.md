@@ -9,11 +9,11 @@ this), please also do that.
 
 Who to ping about tasks:
 
- * if there's someone currently assigned, ping them
- * if you know of someone who is responsible for the task, perhaps a member of
-   one of the team committees, ping them
- * otherwise, ping the ticket's author who will likely be able to point you in
-   the right direction
+* if there's someone currently assigned, ping them
+* if you know of someone who is responsible for the task, perhaps a member of
+  one of the team committees, ping them
+* otherwise, ping the ticket's author who will likely be able to point you in
+  the right direction
 
 This lets the current owner know that you're interested, meaning that they can
 pass on any additional information which might be needed to complete the task.

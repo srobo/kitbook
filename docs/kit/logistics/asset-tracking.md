@@ -57,11 +57,11 @@ graph LR
 
 When an asset is purchased or manufactured, a record must be entered into the Inventory. At this point a new asset code is automatically generated. The asset code **must** be marked onto the asset[^2]. The asset code can be marked in the following ways:
 
-  * Printed paper label with QR code and text
-  * Dymo label with code128 barcode and text
-  * Handwritten with permanent marker
-  * UHF RFID tag[^3]
-  * Programmed onto the asset (e.g. such that it is possible to read over USB)
+* Printed paper label with QR code and text
+* Dymo label with code128 barcode and text
+* Handwritten with permanent marker
+* UHF RFID tag[^3]
+* Programmed onto the asset (e.g. such that it is possible to read over USB)
 
 More than one of the above techniques can be used to provide redundancy.
 

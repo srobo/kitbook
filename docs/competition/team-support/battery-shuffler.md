@@ -13,10 +13,10 @@ A battery shuffler is a volunteer that moves batteries, battery chargers, batter
 
 Teams arrive on Saturday morning between 9:00 and 9:30. When they arrive we take the following items off of them at the arrival desk:
 
- * 2x batteries
- * 1x battery charger
- * 1x battery charger power supply
- * 1x battery charging bag
+* 2x batteries
+* 1x battery charger
+* 1x battery charger power supply
+* 1x battery charging bag
 
 All of these parts need to be carried from the arrival desk to the battery charging station where they will be used by us to manage the charging of batteries.
 
