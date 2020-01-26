@@ -10,6 +10,7 @@ To do this, you should grab a tray, fill it with a mix of drinks and food, and g
 Please also fill some cups with water from a nearby water fountain, and brew coffee/tea if available.
 
 People at the following locations will be unable to leave their posts to fetch refreshments for themselves, so it is important to take refreshments to them regularly:
+
 - tech desks
 - reception
 - helpdesk
@@ -24,10 +25,11 @@ If we're running low on refreshments, it's your responsibility to make sure some
 The nearest food shop for SR2019 is the 'Coop Food' on Burgess road, see: https://goo.gl/maps/VETqx4apQet
 
 Items we should keep in constant supply:
+
 - Hot drink facilities (if we have hot drinks cups)
-  - Coffee
-  - Tea
-  - Milk
+    - Coffee
+    - Tea
+    - Milk
 - Plastic tumblers
 - Soft drinks
 - Fruit
