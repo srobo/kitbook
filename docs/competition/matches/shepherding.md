@@ -15,7 +15,7 @@ Here is a description of the roles related to shepherding.
 
 **Responsible for managing the shepherds which they may bring in as their only subordinate role.**
 
-- Work with the [Arena Manager](/competition/arena/) to define the match staging area
+- Work with the [Arena Manager](../arena/README.md) to define the match staging area
 - Check and report volunteer arrival.
 - Assign volunteers to roles.
 - Brief volunteers.
