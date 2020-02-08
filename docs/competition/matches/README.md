@@ -1,8 +1,5 @@
----
-original:
-  authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
-  url: https://github.com/thomasleese/sr-match-coordinator/wiki/Home
----
-# Competition Match Coordinator
+# Matches
 
-This is the documentation for the Competition Match Coordinator.
+At the competition we run a large number of matches, during which the robots
+compete in an Arena. This section provides information about the running of
+those matches.
