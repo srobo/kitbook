@@ -52,9 +52,8 @@ running the competition -- use that too!
 
 Kick-off projects. At the start of a project or task, ensure that those who are
 going to be doing the work understand what's involved and that everyone has a
-clear picture of what a good outcome looks like. I realise this totally sounds
-like corporate management rubbish, but repeated personal experience shows it's
-totally worth doing.
+clear picture of what a good outcome looks like. Yes, this totally sounds like
+corporate management rubbish, but repeated experience shows it's worth doing.
 
 [How and Why to Kick-off your projects](https://thread.engineering/2019-11-10-project-kickoffs/)
 describes one approach to this.
