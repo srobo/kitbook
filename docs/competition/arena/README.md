@@ -3,9 +3,19 @@ original:
   authors: Fiona Gillan, Richard Barlow, Rob Gilton and Thomas Leese
   url: https://bitbucket.org/richardbarlow/sr-arena-manager/wiki/Home
 ---
-# Arena Manager
+# Arena
 
-This is the Arena Manager's documentation. The Arena Manager is responsible for constructing and de-constructing the arenas at the competition.
+This is information about constructing and de-constructing the arenas area at
+the competition. This includes:
+
+* Arena carpet
+* Arena walls
+* All props in the arena, including:
+    * Markers
+    * Any fixed or mobile installations in the arena (tokens, pedestals, etc.)
+* Displays around the arena
+* Staging area (for robots on their way in & out of the arenas)
+* Audience barriers
 
 ## Tasks
 
