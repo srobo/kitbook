@@ -1,5 +1,5 @@
-site_name: Student Robotics Volunteer Runbook
-site_url: https://studentrobotics.org/runbook/
+site_name: Student Robotics Kitbook
+site_url: https://srobo.github.io/kitbook
 repo_url: https://github.com/srobo/runbook
 strict: true
 edit_uri: blob/master/docs/
