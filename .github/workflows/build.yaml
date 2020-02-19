@@ -8,12 +8,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Build
-    container: registry.fedoraproject.org/fedora-minimal:31
+    container: rgilton/sr-kitbook-builder:58bdd329
 
     steps:
-      - name: Install build deps
-        run: microdnf install git tar python3 python3-pip pipenv tar
-
       - name: checkout
         uses: actions/checkout@v2
         with:
