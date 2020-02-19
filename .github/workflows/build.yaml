@@ -47,4 +47,4 @@ jobs:
 
       - name: Deploy
         # TODO: Put the commit hash in here
-        run: pipenv run mkdocs gh-deploy --verbose -m "Deploy build TODO"
+        run: pipenv run mkdocs gh-deploy --force --verbose -m "Deploy build TODO"
