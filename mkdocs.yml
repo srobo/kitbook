@@ -11,8 +11,8 @@ theme:
   feature:
     tabs: true
   palette:
-    primary: 'blue'
-    accent: 'blue'
+    primary: 'deep orange'
+    accent: 'deep orange'
   custom_dir: theme
 copyright: |
   Copyright &copy; Student Robotics contributors
