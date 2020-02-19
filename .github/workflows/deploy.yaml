@@ -1,0 +1,47 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Build and deploy
+    container: rgilton/sr-kitbook-builder:58bdd329
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: setup-env
+        run: pipenv install --deploy --dev
+
+      - name: Build it all
+        run: pipenv run build
+
+      # There is some mismatch between /etc/passwd and $HOME...
+      # fix it like this for now
+      - name: Correct home directory
+        run: rm -rf /root && ln -s $HOME /root
+
+      - name: Install SSH key
+        run: |
+          mkdir -m 0700 -p ~/.ssh &&
+          cat << EOF > ~/.ssh/id_rsa &&
+          ${{ secrets.DEPLOY_KEY }}
+          EOF
+          cat << EOF > ~/.ssh/known_hosts &&
+          github.com ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+          EOF
+          chmod 0600 ~/.ssh/id_rsa &&
+          chmod 0600 ~/.ssh/known_hosts
+
+      - name: Point git repo at ssh git instead of ssh
+        run: git remote set-url --push origin git@github.com:${GITHUB_REPOSITORY}.git
+
+      - name: Deploy
+        # TODO: Put the commit hash in here
+        run: pipenv run mkdocs gh-deploy --force --verbose -m "Deploy build TODO"
