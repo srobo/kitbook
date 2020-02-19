@@ -32,7 +32,7 @@ There are many cases where it should not contain the actual documentation:
 
 ## A note on links
 
-`mkdocs` has the power to resolve and validate links, however only when they're in a specific format. Links to pages inside the runbook should be relative, and end with the `.md` file extension (ie `[some other page](./volunteering/tasks.md)` produces [some other page](./volunteering/tasks.md)). This way, `mkdocs` will correctly validate these links. Links which don't follow this format are not validated.
+`mkdocs` has the power to resolve and validate links, however only when they're in a specific format. Links to pages inside the runbook should be relative, and end with the `.md` file extension (ie `[some other page](./kit-team/README.md)` produces [some other page](./kit-team/README.md)). This way, `mkdocs` will correctly validate these links. Links which don't follow this format are not validated.
 
 [competition-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/competition-team
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
