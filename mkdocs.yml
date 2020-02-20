@@ -1,6 +1,6 @@
 site_name: Student Robotics Kitbook
 site_url: https://srobo.github.io/kitbook
-repo_url: https://github.com/srobo/runbook
+repo_url: https://github.com/srobo/kitbook
 strict: true
 edit_uri: blob/master/docs/
 theme:
