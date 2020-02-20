@@ -1,6 +1,6 @@
 # Student Robotics Volunteer Kitbook
 
-The kitbook contains documentation that is relevant to al of the Student Robotics [Kit Team][kit-team].
+The kitbook contains documentation that is relevant to all of the Student Robotics [Kit Team][kit-team].
 
 [kit-team]: https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team
 
