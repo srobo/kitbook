@@ -13,7 +13,15 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Cache pipenv
+        uses: actions/cache@v1
+        id: pipenv-cache
+        with:
+          path: ~/.local/share/virtualenvs
+          key: ${{ runner.os }}-pipenv-${{ hashFiles('Pipfile.lock') }}
+
       - name: setup-env
+        if: steps.pipenv-cache.outputs.cache-hit != 'true'
         run: pipenv install --deploy --dev
 
       - name: Build it all
