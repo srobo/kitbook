@@ -9,6 +9,10 @@ original:
 ---
 # Kit Return Volunteer
 
+**Please note that this page is obsolete: It is a remnant from old
+documentation, and will be replaced-with/integrated-into the relevant
+project team's documentation when possible**
+
 Kit return staff are responsible for receiving kit from teams at the end of the
 competition and checking it. A combination of door guards and teams having to
 sign out at reception should ensure that kit return staff do not have to
