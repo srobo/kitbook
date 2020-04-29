@@ -44,6 +44,10 @@ There are some rudimentary tests in the project. These are all run by the CI, an
 pipenv run lint-yaml  # Checks the yaml content is well formatted
 ```
 
+## A note on links
+
+`mkdocs` has the power to resolve and validate links, however only when they're in a specific format. Links to pages inside the runbook should be relative, and end with the `.md` file extension (ie `[some other page](./kit-team/README.md)` produces [some other page](./kit-team/README.md)). This way, `mkdocs` will correctly validate these links. Links which don't follow this format are not validated.
+
 
 ## License
 
