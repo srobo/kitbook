@@ -3,7 +3,9 @@ original:
   authors: Richard Barlow
   url: https://bitbucket.org/richardbarlow/sr-comp-team-support-coord/wiki/kit-testing-rig
 ---
-** This page is WIP. The Kit Testing Rig will not be deployed at SR2016 **
+**Please note that this page is obsolete: It is a remnant from old
+documentation, and will be replaced-with/integrated-into the relevant
+project team's documentation when possible**
 
 # Kit Testing Rig
 
