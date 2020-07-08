@@ -71,13 +71,13 @@ The brain team should ensure that any features it releases to teams during a com
 
 ### Dev Tooling Team
 
-Produces and maintains tooling for competitors to use to develop their robot software.
+Produces and maintains tooling for competitors to use to develop their robot software.  This team is responsible for software that is not used 'on', or within, the physical kit that is shipped to teams.
 
 For example:
 
-* the IDE
-* the robot simulator
-* live debugging tools e.g. the WiFi remote control interface
+* an IDE
+* a robot simulator
+* live debugging tools e.g. the non-robot side of a remote debugging interface
 
 ### Hardware Strategy Team
 
