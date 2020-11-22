@@ -6,12 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-mkdocs = "*"
-mkdocs-material = "*"
-pymdown-extensions = "*"
-mdx-include = "*"
-yamllint = "*"
-mkdocs-markdownextradata-plugin = "*"
+mkdocs = "==1.0.4"
+mkdocs-material = "==4.1.1"
+pymdown-extensions = "==7.1"
+mdx-include = "==1.3.3"
+yamllint = "==1.15.0"
+mkdocs-markdownextradata-plugin = "==0.0.5"
 mkdocs-mermaid-plugin = {git = "https://github.com/pugong/mkdocs-mermaid-plugin"}
 
 [requires]
