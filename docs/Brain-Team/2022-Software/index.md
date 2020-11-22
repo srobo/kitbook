@@ -1,6 +1,6 @@
 # Goals
 
-The 2021 Kit software aims to replace the 2015 software, with a launch targeted for SR2021 Kickstart.
+The 2022 Kit software aims to replace the 2015 software, with a launch targeted for SR2022 Kickstart.
 
 ## What does the 2015 kit do right?
 
