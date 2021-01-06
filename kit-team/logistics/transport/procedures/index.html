@@ -1,0 +1,786 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="https://srobo.github.io/kitbook/kit-team/logistics/transport/procedures/" rel="canonical"/>
+<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
+<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
+<meta content="en" name="lang:search.language"/>
+<meta content="True" name="lang:search.pipeline.stopwords"/>
+<meta content="True" name="lang:search.pipeline.trimmer"/>
+<meta content="No matching documents" name="lang:search.result.none"/>
+<meta content="1 matching document" name="lang:search.result.one"/>
+<meta content="# matching documents" name="lang:search.result.other"/>
+<meta content="[\s\-]+" name="lang:search.tokenizer"/>
+<link href="../../../../favicon.ico" rel="shortcut icon"/>
+<meta content="mkdocs-1.1.2, mkdocs-material-4.1.1" name="generator"/>
+<title>Procedures - Student Robotics Kitbook</title>
+<link href="../../../../assets/stylesheets/application.3020aac5.css" rel="stylesheet"/>
+<link href="../../../../assets/stylesheets/application-palette.224b79ff.css" rel="stylesheet"/>
+<meta content="#ff7043" name="theme-color"/>
+<script src="../../../../assets/javascripts/modernizr.01ccdecf.js"></script>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono" rel="stylesheet"/>
+<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+<link href="../../../../assets/fonts/material-icons.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" dir="ltr">
+<svg class="md-svg">
+<defs>
+<svg height="448" id="__github" viewbox="0 0 416 448" width="416" xmlns="http://www.w3.org/2000/svg">
+<path d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" fill="currentColor"></path>
+</svg>
+</defs>
+</svg>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+<a class="md-skip" href="#procedures" tabindex="1">
+        Skip to content
+      </a>
+<header class="md-header" data-md-component="header">
+<nav class="md-header-nav md-grid">
+<div class="md-flex">
+<div class="md-flex__cell md-flex__cell--shrink">
+<a class="md-header-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch">
+<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+<span class="md-header-nav__topic">
+              Student Robotics Kitbook
+            </span>
+<span class="md-header-nav__topic">
+              Procedures
+            </span>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
+<label class="md-icon md-search__icon" for="__search"></label>
+<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
+        
+      </button>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="result">
+<div class="md-search-result__meta">
+            Type to start searching
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<div class="md-header-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container">
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../.." title="Home">
+        Home
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../Brain-Team/" title="Brain Team">
+          Brain Team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../competition/team-support/helpdesk/" title="Competition">
+          Competition
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="../../../" title="Kit team">
+          Kit team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../teams/" title="Teams">
+          Teams
+        </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main">
+<div class="md-main__inner md-grid" data-md-component="container">
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title md-nav__title--site" for="__drawer">
+<a class="md-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+    Student Robotics Kitbook
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../.." title="Home">
+      Home
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../project-readme/" title="Project readme">
+      Project readme
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3">
+      Brain Team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-3">
+        Brain Team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/" title="About the Brain Team">
+      About the Brain Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/2015-Software/" title="2015 Software">
+      2015 Software
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" id="nav-3-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3-3">
+      2022 Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-3-3">
+        2022 Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/2022-Software/" title="Goals">
+      Goals
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" id="nav-4" type="checkbox"/>
+<label class="md-nav__link" for="nav-4">
+      Competition
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-4">
+        Competition
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" id="nav-4-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-1">
+      Team support
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-1">
+        Team support
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/team-support/helpdesk/" title="Helpdesk">
+      Helpdesk
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/team-support/kit-testing-rig/" title="Kit testing rig">
+      Kit testing rig
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" id="nav-4-2" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-2">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2-1" id="nav-4-2-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2-1">
+      Role descriptions
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-4-2-1">
+        Role descriptions
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/teams/role-descriptions/kit-return/" title="Kit Return Volunteer">
+      Kit Return Volunteer
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5" id="nav-5" type="checkbox"/>
+<label class="md-nav__link" for="nav-5">
+      Kit team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-5">
+        Kit team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../" title="Kit Team">
+      Kit Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../README-OLD/" title="Legacy Index">
+      Legacy Index
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../introductory-meetings/" title="Introductory Meetings">
+      Introductory Meetings
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../kit-definition/" title="Kit Definition">
+      Kit Definition
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../support/" title="Kit Support Documentation">
+      Kit Support Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-6" id="nav-5-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-6">
+      Hardware
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-6">
+        Hardware
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/" title="Hardware Production Documentation">
+      Hardware Production Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/kit-collation/" title="Kit Collation">
+      Kit Collation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/kit-packing/" title="Kit Packing">
+      Kit Packing
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/sr2017-kit-collation-plan/" title="SR2017 Kit Collation Plan">
+      SR2017 Kit Collation Plan
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7" id="nav-5-7" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7">
+      Logistics
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-7">
+        Logistics
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../" title="Kit Logistics Documentation">
+      Kit Logistics Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../asset-tracking/" title="Asset Tracking">
+      Asset Tracking
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-storage/" title="Kit Storage">
+      Kit Storage
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-transport/" title="Kit Shipping">
+      Kit Shipping
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics-software/" title="Logistics Software">
+      Logistics Software
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../post-handling/" title="Post Handling">
+      Post Handling
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../research/" title="Research">
+      Research
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7-8" id="nav-5-7-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7-8">
+      Transport
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-5-7-8">
+        Transport
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../couriers/" title="Couriers">
+      Couriers
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../packaging/" title="Packaging">
+      Packaging
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+        Procedures
+      </label>
+<a class="md-nav__link md-nav__link--active" href="./" title="Procedures">
+      Procedures
+    </a>
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-kickstarts" title="Shipping kits to Kickstarts">
+    Shipping kits to Kickstarts
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-teams-that-didnt-attend-a-kickstart" title="Shipping kits to teams that didn't attend a Kickstart">
+    Shipping kits to teams that didn't attend a Kickstart
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#managing-kits-not-collected-at-kickstart" title="Managing kits not collected at Kickstart">
+    Managing kits not collected at Kickstart
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#reallocating-kits-from-drop-outs" title="Reallocating kits from drop-outs">
+    Reallocating kits from drop-outs
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-sparesreplacements" title="Shipping spares/replacements">
+    Shipping spares/replacements
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-storage-at-the-end-of-the-competition" title="Shipping kits to storage at the end of the competition">
+    Shipping kits to storage at the end of the competition
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#ensuring-the-timely-return-of-kits-not-returned-at-the-competition" title="Ensuring the timely return of kits not returned at the competition">
+    Ensuring the timely return of kits not returned at the competition
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-of-non-team-kits-and-development-tools-to-volunteers" title="Shipping of non-team kits and development tools to volunteers">
+    Shipping of non-team kits and development tools to volunteers
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-of-non-kit-assets" title="Shipping of non-kit assets">
+    Shipping of non-kit assets
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-8" id="nav-5-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-8">
+      Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-8">
+        Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../software/" title="Kit Software Documentation">
+      Kit Software Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../software/legacy-server-maintainer-role/" title="Legacy Server Maintainer (LSM) Role Definition">
+      Legacy Server Maintainer (LSM) Role Definition
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-6">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-6">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../teams/" title="Teams">
+      Teams
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../teams/kit/" title="Kit">
+      Kit
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-kickstarts" title="Shipping kits to Kickstarts">
+    Shipping kits to Kickstarts
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-teams-that-didnt-attend-a-kickstart" title="Shipping kits to teams that didn't attend a Kickstart">
+    Shipping kits to teams that didn't attend a Kickstart
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#managing-kits-not-collected-at-kickstart" title="Managing kits not collected at Kickstart">
+    Managing kits not collected at Kickstart
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#reallocating-kits-from-drop-outs" title="Reallocating kits from drop-outs">
+    Reallocating kits from drop-outs
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-sparesreplacements" title="Shipping spares/replacements">
+    Shipping spares/replacements
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-kits-to-storage-at-the-end-of-the-competition" title="Shipping kits to storage at the end of the competition">
+    Shipping kits to storage at the end of the competition
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#ensuring-the-timely-return-of-kits-not-returned-at-the-competition" title="Ensuring the timely return of kits not returned at the competition">
+    Ensuring the timely return of kits not returned at the competition
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-of-non-team-kits-and-development-tools-to-volunteers" title="Shipping of non-team kits and development tools to volunteers">
+    Shipping of non-team kits and development tools to volunteers
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#shipping-of-non-kit-assets" title="Shipping of non-kit assets">
+    Shipping of non-kit assets
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content">
+<article class="md-content__inner md-typeset">
+<a class="md-icon md-content__icon" href="https://github.com/srobo/kitbook/blob/master/docs/kit-team/logistics/transport/procedures.md" title="Edit this page"></a>
+<h1 id="procedures">Procedures<a class="headerlink" href="#procedures" title="Permanent link">¶</a></h1>
+<p>These are the procedures that the Kit Logistics Coordinator follows to perform their Kit Shipping responsibilities. No one else is expected to follow these procedures, they are for internal documentation only.</p>
+<h2 id="shipping-kits-to-kickstarts">Shipping kits to Kickstarts<a class="headerlink" href="#shipping-kits-to-kickstarts" title="Permanent link">¶</a></h2>
+<p>To provide sufficient time for problems/delays, kits should be shipped to Kickstart locations no later than 1 week before Kickstart. Shipping the kits many weeks in advance may not be possible due to limited storage requirements at some Kickstart locations.</p>
+<p>First ensure that the Kickstart Event Coordinator is aware of the paperwork requirements (handout forms and disclaimers). Request the following information from the Kickstart Event Coordinator:</p>
+<ul>
+<li>Name of Local Kickstart Event Coordinator</li>
+<li>Email address of Local Kickstart Event Coordinator</li>
+<li>Number of teams attending</li>
+<li>Name of person able to receive the kit (if not the Local Kickstart Event Coordinator)</li>
+<li>Email address of person able to receive the kit (if not the Local Kickstart Event Coordinator)</li>
+<li>Phone number of person able to receive the kit</li>
+<li>Address to ship the kit to</li>
+</ul>
+<p>For each Kickstart:</p>
+<ol>
+<li>Ensure that the Local Kickstart Event Coordinator, or the person that they are delegating kit management to, has received the necessary training (to be defined).</li>
+<li>Identify the kits to be shipped in the Inventory and move them into an appropriate <code>in-transit</code> sub directory (e.g. <code>in-transit/to-oxford-ks</code>).</li>
+<li>Instruct UK Postbox to forward the correct items to the recipient.</li>
+<li>Once UK Postbox have forwarded on the kits, email the LKEC and the recipient (if not the LKEC) with the tracking number/link and a list of kit asset numbers shipped to them. Ask them to report back when they have received the shipment and doubled checked that they have the expected kits.</li>
+<li>Once the kits have been delivered, move them in the Inventory to an appropriate sub directory (e.g. <code>kickstart-venues/oxford</code>).</li>
+<li>Email details of what kits are where to the Kickstart Event Coordinator so that they can prepare handout forms for each of the Local Kickstart Event Coordinators.</li>
+</ol>
+<p>After Kickstart, request scanned copies of the handout form and disclaimers from all of the Kickstarts from the Kickstart Event Coordinator (who will then request them from the Local Kickstart Coordinators). Move each kit into an appropriate sub directory in the Inventory based upon which team it was given to (e.g. move a kit to <code>teams/2017/srz</code>).</p>
+<h2 id="shipping-kits-to-teams-that-didnt-attend-a-kickstart">Shipping kits to teams that didn't attend a Kickstart<a class="headerlink" href="#shipping-kits-to-teams-that-didnt-attend-a-kickstart" title="Permanent link">¶</a></h2>
+<p>The operations manual currently requires that the Kit Logistics Coordinator ensures that kits are available to be collected by a courier no later than 2 week after Kickstart.</p>
+<p>Begin by requesting the following information from the Team Coordinator for the teams that didn't attend a Kickstart and ask them to confirm that the details are correct via the appropriate local teams coordinator:</p>
+<ul>
+<li>Name of local teams coordinator</li>
+<li>Email of local teams coordinator (so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator)</li>
+<li>Name of recipient</li>
+<li>Email of recipient</li>
+<li>Phone number of recipient (ideally a mobile number as that's what couriers prefer)</li>
+<li>Address including:<ul>
+<li>School name</li>
+<li>Number (if applicable)</li>
+<li>Street</li>
+<li>Town/City</li>
+<li>County</li>
+<li>Postcode</li>
+</ul>
+</li>
+</ul>
+<p>For each team that needs a kit:</p>
+<ol>
+<li>Identify the kit to be shipped in the Inventory and move it to an appropriate <code>in-transit</code> sub directory (e.g. <code>in-transit/to-srz</code>).</li>
+<li>Once the details have been confirmed, instruct UK Postbox to forward the correct item to the team.</li>
+<li>Once UK Postbox have forwarded on the kit, email the local teams coordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.</li>
+<li>Once the kit has been delivered, move the kit in the Inventory to the appropriate <code>team</code> sub directory (e.g. <code>teams/2017/srz</code>).</li>
+</ol>
+<h2 id="managing-kits-not-collected-at-kickstart">Managing kits not collected at Kickstart<a class="headerlink" href="#managing-kits-not-collected-at-kickstart" title="Permanent link">¶</a></h2>
+<p>Some teams may not turn up at Kickstart, therefore leaving their kit uncollected. This kit needs to either be stored safely by someone nearby or returned to UK Postbox. The kit will most likely make its way to a team (either the originally intended recipient or otherwise) in the week or two after Kickstart.</p>
+<p>If a responsible person in attendance at the Kickstart event (for example the Local Kickstart Coordinator) is willing to store the kit for a week or two, and is able to make it available for courier collection, then this is preferable.</p>
+<p>If it is not possible to store the kit locally, it must be returned to UK Postbox ASAP. A <a href="#return-shipping-pack">Return Shipping Pack</a> must be used to package the kit for return. Someone (possibly the venue) will need to make the kit available for courier collection in the day or two following Kickstart.</p>
+<h2 id="reallocating-kits-from-drop-outs">Reallocating kits from drop-outs<a class="headerlink" href="#reallocating-kits-from-drop-outs" title="Permanent link">¶</a></h2>
+<p>We need to ship kits from one team to another when a team drops out. TBD.</p>
+<h2 id="shipping-sparesreplacements">Shipping spares/replacements<a class="headerlink" href="#shipping-sparesreplacements" title="Permanent link">¶</a></h2>
+<p>When parts of the kit break teams need replacements. The Kit Logistics Coordinator needs to ship these spares/replacements to teams when instructed to do so by the Kit Support Coordinator.</p>
+<p>Begin by requesting the following information from the Team Coordinator for the team that needs replacement parts shipping to them and ask them to confirm that the details are correct via the appropriate local teams coordinator:</p>
+<ul>
+<li>Name of local teams coordinator</li>
+<li>Email of local teams coordinator (so that any further queries and an email containing a tracking link doesn't have to go via the Team Coordinator)</li>
+<li>Name of recipient</li>
+<li>Email of recipient</li>
+<li>Phone number of recipient (ideally a mobile number as that's what couriers prefer)</li>
+<li>
+<p>Address including:</p>
+<ul>
+<li>School name</li>
+<li>Number (if applicable)</li>
+<li>Street</li>
+<li>Town/City</li>
+<li>County</li>
+<li>Postcode</li>
+</ul>
+</li>
+<li>
+<p>Identify the replacement parts to be shipped in the Inventory (as defined by the Kit Support Coordinator) and move them to an appropriate <code>in-transit</code> sub directory (e.g. <code>in-transit/to-srz</code>).</p>
+</li>
+<li>
+<p>Package the parts into a cardboard box, using Jiffy bags, bubblewrap or similar to protect the parts.</p>
+</li>
+<li>
+<p>Once the details have been confirmed, arrange for the package to be collected from yourself and delivered to the team.</p>
+</li>
+<li>
+<p>Once you have the tracking number from the courier, email the local teams coordinator with the tracking number/link so that they can pass it onto the team. Get them to ask the team to inform them when the kit has been delivered.</p>
+</li>
+<li>
+<p>Once the kit has been delivered, move the kit in the Inventory to the appropriate <code>team</code> sub directory (e.g. <code>teams/2017/srz</code>).</p>
+</li>
+</ul>
+<h2 id="shipping-kits-to-storage-at-the-end-of-the-competition">Shipping kits to storage at the end of the competition<a class="headerlink" href="#shipping-kits-to-storage-at-the-end-of-the-competition" title="Permanent link">¶</a></h2>
+<p>At the end of the competition we have the majority of the kits returned to us. The Competition Team Coordinator is responsible for managing the return process. The Kit Logistics Coordinator can aid in this process and is responsible for shipping the kits to storage after they have been returned. TBD.</p>
+<h2 id="ensuring-the-timely-return-of-kits-not-returned-at-the-competition">Ensuring the timely return of kits not returned at the competition<a class="headerlink" href="#ensuring-the-timely-return-of-kits-not-returned-at-the-competition" title="Permanent link">¶</a></h2>
+<p>Some teams will have been given permission to retain their kit for a while after the competition. The teams are responsible for arranging and paying for a courier to return the kit to us. The Kit Logistics Coordinator is responsible for assisting teams in this process and ensuring that all kits are returned by the 1<sup>st</sup> June of the same year that the competition was held in. TBD.</p>
+<h2 id="shipping-of-non-team-kits-and-development-tools-to-volunteers">Shipping of non-team kits and development tools to volunteers<a class="headerlink" href="#shipping-of-non-team-kits-and-development-tools-to-volunteers" title="Permanent link">¶</a></h2>
+<p>Non-team kits (those that are classed as development, support, PR or local) and development tools need to be shipped around as deemed appropriate by the person responsible for their allocation. That being the Kit Coordinator for development kits and tools, the Kit Support Coordinator for support kits, the PR coordinator for PR kits and the Team Coordinator for local kits. TBD.</p>
+<h2 id="shipping-of-non-kit-assets">Shipping of non-kit assets<a class="headerlink" href="#shipping-of-non-kit-assets" title="Permanent link">¶</a></h2>
+<p>Most assets are kit related. However, a few assets are not kits or parts thereof. This is mostly competition hardware such as arena walls. The Kit Logistics Coordinator is also responsible for shipping these non-kit assets when required. TBD.</p>
+<h2>Attribution</h2>
+<p>
+      This page is based on work done by Richard Barlow,
+      originally published at
+      <a href="https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/procedures.html">https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/procedures.html</a>,
+      which was under the Creative Commons Attribution-ShareAlike 4.0
+      International License. To view a copy of this license, visit
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+      or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+    </p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-nav">
+<nav class="md-footer-nav__inner md-grid">
+<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../packaging/" rel="prev" title="Packaging">
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Packaging
+              </span>
+</div>
+</a>
+<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="../../../software/" rel="next" title="Kit Software Documentation">
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Kit Software Documentation
+              </span>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+</div>
+</a>
+</nav>
+</div>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+<div class="md-footer-copyright__highlight">
+            Copyright © Student Robotics contributors
+<br/>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
+
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+</div>
+<div class="md-footer-social">
+<link href="../../../../assets/fonts/font-awesome.css" rel="stylesheet"/>
+<a class="md-footer-social__link fa fa-globe" href="https://studentrobotics.org"></a>
+<a class="md-footer-social__link fa fa-github-alt" href="https://github.com/srobo"></a>
+<a class="md-footer-social__link fa fa-twitter" href="https://twitter.com/studentrobotics"></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../../../../assets/javascripts/application.dc02f8ce.js"></script>
+<script>app.initialize({version:"1.1.2",url:{base:"../../../.."}})</script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+</body>
+</html>

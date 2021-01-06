@@ -1,0 +1,757 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="https://srobo.github.io/kitbook/kit-team/logistics/transport/packaging/" rel="canonical"/>
+<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
+<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
+<meta content="en" name="lang:search.language"/>
+<meta content="True" name="lang:search.pipeline.stopwords"/>
+<meta content="True" name="lang:search.pipeline.trimmer"/>
+<meta content="No matching documents" name="lang:search.result.none"/>
+<meta content="1 matching document" name="lang:search.result.one"/>
+<meta content="# matching documents" name="lang:search.result.other"/>
+<meta content="[\s\-]+" name="lang:search.tokenizer"/>
+<link href="../../../../favicon.ico" rel="shortcut icon"/>
+<meta content="mkdocs-1.1.2, mkdocs-material-4.1.1" name="generator"/>
+<title>Packaging - Student Robotics Kitbook</title>
+<link href="../../../../assets/stylesheets/application.3020aac5.css" rel="stylesheet"/>
+<link href="../../../../assets/stylesheets/application-palette.224b79ff.css" rel="stylesheet"/>
+<meta content="#ff7043" name="theme-color"/>
+<script src="../../../../assets/javascripts/modernizr.01ccdecf.js"></script>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono" rel="stylesheet"/>
+<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+<link href="../../../../assets/fonts/material-icons.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" dir="ltr">
+<svg class="md-svg">
+<defs>
+<svg height="448" id="__github" viewbox="0 0 416 448" width="416" xmlns="http://www.w3.org/2000/svg">
+<path d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" fill="currentColor"></path>
+</svg>
+</defs>
+</svg>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+<a class="md-skip" href="#packaging" tabindex="1">
+        Skip to content
+      </a>
+<header class="md-header" data-md-component="header">
+<nav class="md-header-nav md-grid">
+<div class="md-flex">
+<div class="md-flex__cell md-flex__cell--shrink">
+<a class="md-header-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch">
+<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+<span class="md-header-nav__topic">
+              Student Robotics Kitbook
+            </span>
+<span class="md-header-nav__topic">
+              Packaging
+            </span>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
+<label class="md-icon md-search__icon" for="__search"></label>
+<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
+        
+      </button>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="result">
+<div class="md-search-result__meta">
+            Type to start searching
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<div class="md-header-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container">
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../.." title="Home">
+        Home
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../Brain-Team/" title="Brain Team">
+          Brain Team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../competition/team-support/helpdesk/" title="Competition">
+          Competition
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="../../../" title="Kit team">
+          Kit team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../../teams/" title="Teams">
+          Teams
+        </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main">
+<div class="md-main__inner md-grid" data-md-component="container">
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title md-nav__title--site" for="__drawer">
+<a class="md-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+    Student Robotics Kitbook
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../.." title="Home">
+      Home
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../project-readme/" title="Project readme">
+      Project readme
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3">
+      Brain Team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-3">
+        Brain Team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/" title="About the Brain Team">
+      About the Brain Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/2015-Software/" title="2015 Software">
+      2015 Software
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" id="nav-3-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3-3">
+      2022 Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-3-3">
+        2022 Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../Brain-Team/2022-Software/" title="Goals">
+      Goals
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" id="nav-4" type="checkbox"/>
+<label class="md-nav__link" for="nav-4">
+      Competition
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-4">
+        Competition
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" id="nav-4-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-1">
+      Team support
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-1">
+        Team support
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/team-support/helpdesk/" title="Helpdesk">
+      Helpdesk
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/team-support/kit-testing-rig/" title="Kit testing rig">
+      Kit testing rig
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" id="nav-4-2" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-2">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2-1" id="nav-4-2-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2-1">
+      Role descriptions
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-4-2-1">
+        Role descriptions
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../competition/teams/role-descriptions/kit-return/" title="Kit Return Volunteer">
+      Kit Return Volunteer
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5" id="nav-5" type="checkbox"/>
+<label class="md-nav__link" for="nav-5">
+      Kit team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-5">
+        Kit team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../" title="Kit Team">
+      Kit Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../README-OLD/" title="Legacy Index">
+      Legacy Index
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../introductory-meetings/" title="Introductory Meetings">
+      Introductory Meetings
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../kit-definition/" title="Kit Definition">
+      Kit Definition
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../support/" title="Kit Support Documentation">
+      Kit Support Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-6" id="nav-5-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-6">
+      Hardware
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-6">
+        Hardware
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/" title="Hardware Production Documentation">
+      Hardware Production Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/kit-collation/" title="Kit Collation">
+      Kit Collation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/kit-packing/" title="Kit Packing">
+      Kit Packing
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../hardware/sr2017-kit-collation-plan/" title="SR2017 Kit Collation Plan">
+      SR2017 Kit Collation Plan
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7" id="nav-5-7" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7">
+      Logistics
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-7">
+        Logistics
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../" title="Kit Logistics Documentation">
+      Kit Logistics Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../asset-tracking/" title="Asset Tracking">
+      Asset Tracking
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-storage/" title="Kit Storage">
+      Kit Storage
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-transport/" title="Kit Shipping">
+      Kit Shipping
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics-software/" title="Logistics Software">
+      Logistics Software
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../post-handling/" title="Post Handling">
+      Post Handling
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../research/" title="Research">
+      Research
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7-8" id="nav-5-7-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7-8">
+      Transport
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-5-7-8">
+        Transport
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../couriers/" title="Couriers">
+      Couriers
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+        Packaging
+      </label>
+<a class="md-nav__link md-nav__link--active" href="./" title="Packaging">
+      Packaging
+    </a>
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#packaging-info" title="Packaging Info">
+    Packaging Info
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#return-shipping-pack" title="Return Shipping Pack">
+    Return Shipping Pack
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#instruction-notes" title="Instruction Notes">
+    Instruction Notes
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../procedures/" title="Procedures">
+      Procedures
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-8" id="nav-5-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-8">
+      Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-8">
+        Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../software/" title="Kit Software Documentation">
+      Kit Software Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../software/legacy-server-maintainer-role/" title="Legacy Server Maintainer (LSM) Role Definition">
+      Legacy Server Maintainer (LSM) Role Definition
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-6">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-6">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../teams/" title="Teams">
+      Teams
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../../teams/kit/" title="Kit">
+      Kit
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#packaging-info" title="Packaging Info">
+    Packaging Info
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#return-shipping-pack" title="Return Shipping Pack">
+    Return Shipping Pack
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#instruction-notes" title="Instruction Notes">
+    Instruction Notes
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content">
+<article class="md-content__inner md-typeset">
+<a class="md-icon md-content__icon" href="https://github.com/srobo/kitbook/blob/master/docs/kit-team/logistics/transport/packaging.md" title="Edit this page"></a>
+<h1 id="packaging">Packaging<a class="headerlink" href="#packaging" title="Permanent link">¶</a></h1>
+<p>This information on packaging of kits and kit parts is for internal use only. The Kit Logistics Coordinator will use this information to instruct volunteers and third parties as necessary.</p>
+<h2 id="packaging-info">Packaging Info<a class="headerlink" href="#packaging-info" title="Permanent link">¶</a></h2>
+<ul>
+<li>Kits should generally be shipped in the while 18l Really Useful Box (RUB).</li>
+<li>All parts of the kit should be suitably protected either in Jiffy bags or bubble wrap. The Return Shipping Pack includes a new set of jiffy bags.</li>
+<li>Batteries <strong>must</strong> be placed inside a small brown jiffy bag and the jiffy bag placed inside the charging bag.</li>
+<li>In general no more than two batteries should be shipped in each RUB (to ease shipping restrictions).</li>
+<li>Damaged batteries must not be shipped.</li>
+<li>Any empty space in the box should be filled with paper or bubble wrap. No packing peanuts; They're messy. The Return Shipping Pack includes sufficient paper.</li>
+<li>The box should be sealed with cable ties and, if available high quality tape over the handles (not selotape or insulating tape). The Return Shipping Pack includes cables ties, but no tape (as it's difficult to obtain a tiny roll of high quality tape).</li>
+</ul>
+<h2 id="return-shipping-pack">Return Shipping Pack<a class="headerlink" href="#return-shipping-pack" title="Permanent link">¶</a></h2>
+<p>When teams have to return a kit to us we provide them with a return shipping pack. This kit contains the following:</p>
+<table>
+<thead>
+<tr>
+<th align="left">Item</th>
+<th align="left">Quantity</th>
+<th align="left">URL</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">575x700mm polythene bag</td>
+<td align="left">1</td>
+<td align="left"><a href="http://www.ukpackaging.com/postal-packaging/polythene-mailing-bags/grey-polythene-mailing-bags-575x700mm-60mu">UK Packaging ref 08220</a></td>
+<td align="left"><a href="../../research/#return-shipping-bag">Bag size research</a></td>
+</tr>
+<tr>
+<td align="left">160x4.8mm cable tie</td>
+<td align="left">5</td>
+<td align="left"><a href="https://www.cabletiesonline.co.uk/cable-ties-b-w/cable-ties-160mm-x-4.html">Cableties Online</a></td>
+<td align="left">Two per handle. One spare.</td>
+</tr>
+<tr>
+<td align="left">112x80mm caution lithium ion battery label</td>
+<td align="left">1</td>
+<td align="left"><a href="http://www.limpetlabels.co.uk/shop/view/293_Caution_Lithium_Battery_Labels/755_Caution_Lithium_Ion_Battery_Labels_%28112_x_80mm%29">Limpet Labels</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">A6 plain document wallet</td>
+<td align="left">2</td>
+<td align="left"><a href="http://www.ukpackaging.com/document-wallets-a6-document-enclosed-wallets-plain">UK Packaging ref 10008</a></td>
+<td align="left">One to use for address label. One spare.</td>
+</tr>
+<tr>
+<td align="left">750mm wide kraft paper</td>
+<td align="left">2m</td>
+<td align="left"><a href="http://www.ukpackaging.com/kraft-paper-rolls-imitation-kraft-kraft-paper-rolls-imitation-kraft-750mmx220m">UK Packaging ref 11042</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">120x215mm (internal) gold jiffy bag</td>
+<td align="left">4</td>
+<td align="left"><a href="http://www.ukpackaging.com/arofol-classic-postal-bags-gold-2">UK Packaging ref 09033</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">170x245mm (internal) white jiffy bag</td>
+<td align="left">4</td>
+<td align="left"><a href="http://www.ukpackaging.com/jiffy-earth-aware-airkraft-white-ak1-170x245mm-50-pack">UK Packaging ref 09312</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">220x320mm (internal) white jiffy bag</td>
+<td align="left">1</td>
+<td align="left"><a href="http://www.ukpackaging.com/postal-packaging/jiffy-bags/jiffy-earth-aware-airkraft-white-ak3-220x320mm-50-pack">UK Packaging ref 09314</a></td>
+<td align="left">To put the whole return shipping pack into.</td>
+</tr>
+<tr>
+<td align="left">Return shipping pack instructions</td>
+<td align="left">1</td>
+<td align="left"><a href="https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/return-shipping-pack-instructions.pdf">Revision SR2017-2</a></td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Loan extension instructions</td>
+<td align="left">1</td>
+<td align="left"><a href="https://github.com/srobo/return-shipping-pack/releases/download/SR2017-2/loanext-instructions.pdf">Revision SR2017-2</a></td>
+<td align="left">Only included in return shipping packs handed out at the end of the competition.</td>
+</tr>
+<tr>
+<td align="left">Kit list</td>
+<td align="left">1</td>
+<td align="left"><a href="../../../kit-definition/">Kit Definition</a></td>
+<td align="left">Only included in return shipping packs handed out at the end of the competition. Remove 'disclaimer'  and the wire from the list.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="instruction-notes">Instruction Notes<a class="headerlink" href="#instruction-notes" title="Permanent link">¶</a></h3>
+<ol>
+<li>Check all parts are present (use list provided and notify the local teams coordinator of any missing items).</li>
+<li>Place parts into jiffy bags (do not seal unless specified):</li>
+<li>Large white <strong>[photo of four bags with the parts in front]:</strong><ol>
+<li>1x tablet</li>
+<li>1x battery charger</li>
+<li>1x battery charger power supply, 1x webcam, 1x tablet charger</li>
+<li>1x power board, 1x servo board</li>
+</ol>
+</li>
+<li>Small brown <strong>[photo of four bags with the parts in front]</strong>:<ol>
+<li>2x batteries</li>
+<li>2x motor boards, 1x ruggeduio with screw shields plugged in</li>
+<li>2x USB hubs, 1x brain board</li>
+<li>Remaining loose items: wifi dongles, usb memory stick, camcons (7.5, 5 and 3.81mm), screwdriver, brain board power cable. <strong>seal</strong>.</li>
+</ol>
+</li>
+<li>Place jiffy bag containing the batteries into the battery charging bag <strong>[photo of jiffy bag partially in charging bag]</strong></li>
+<li>Tear the brown paper into two equally sized pieces</li>
+<li>Scrunch up one piece of brown paper and place in the bottom of the RUB <strong>[photo of scrunched up paper in the bottom of RUB]</strong></li>
+<li>Place battery charging bag, jiffy bags and all cables (full size USB, micro USB and any wire) into the RUB <strong>[photo of stuff in RUB]</strong></li>
+<li>Scrunch up the other piece of brown paper and place on top of the stuff <strong>[photo of scrunched up paper on top]</strong></li>
+<li>Fit the lid onto the RUB and seal handles with four cable ties (do not cut the cable ties as the sharp corners could tear the bag) <strong>[photo of cable tie being threaded through, photo of loose cable tie, photo of complete handle demonstrating tail direction]</strong></li>
+<li>Place the sealed RUB into the bag <strong>[photo of RUB partially in the bag]</strong></li>
+<li>Seal the bag closed <strong>[photo of the sealed bag highlighting it being tight]</strong></li>
+<li>Stick the LiPo sticker onto the bag</li>
+<li>Place the supplied shipping label into the document wallet and stick the document wallet onto the bag (don't forget to remove the narrow backing strip too) <strong>[photo of lipo sticker and shipping label in document wallet]</strong>.</li>
+<li>Hand the package to reception/who ever it will be collected from.</li>
+<li>Notify your local teams coordinator that the kit is ready for collection.</li>
+</ol>
+<h2>Attribution</h2>
+<p>
+      This page is based on work done by Richard Barlow,
+      originally published at
+      <a href="https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/packaging.html">https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/kit-transport/packaging.html</a>,
+      which was under the Creative Commons Attribution-ShareAlike 4.0
+      International License. To view a copy of this license, visit
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+      or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+    </p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-nav">
+<nav class="md-footer-nav__inner md-grid">
+<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../couriers/" rel="prev" title="Couriers">
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Couriers
+              </span>
+</div>
+</a>
+<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="../procedures/" rel="next" title="Procedures">
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Procedures
+              </span>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+</div>
+</a>
+</nav>
+</div>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+<div class="md-footer-copyright__highlight">
+            Copyright © Student Robotics contributors
+<br/>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
+
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+</div>
+<div class="md-footer-social">
+<link href="../../../../assets/fonts/font-awesome.css" rel="stylesheet"/>
+<a class="md-footer-social__link fa fa-globe" href="https://studentrobotics.org"></a>
+<a class="md-footer-social__link fa fa-github-alt" href="https://github.com/srobo"></a>
+<a class="md-footer-social__link fa fa-twitter" href="https://twitter.com/studentrobotics"></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../../../../assets/javascripts/application.dc02f8ce.js"></script>
+<script>app.initialize({version:"1.1.2",url:{base:"../../../.."}})</script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+</body>
+</html>

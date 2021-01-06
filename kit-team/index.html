@@ -1,0 +1,765 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="https://srobo.github.io/kitbook/kit-team/" rel="canonical"/>
+<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
+<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
+<meta content="en" name="lang:search.language"/>
+<meta content="True" name="lang:search.pipeline.stopwords"/>
+<meta content="True" name="lang:search.pipeline.trimmer"/>
+<meta content="No matching documents" name="lang:search.result.none"/>
+<meta content="1 matching document" name="lang:search.result.one"/>
+<meta content="# matching documents" name="lang:search.result.other"/>
+<meta content="[\s\-]+" name="lang:search.tokenizer"/>
+<link href="../favicon.ico" rel="shortcut icon"/>
+<meta content="mkdocs-1.1.2, mkdocs-material-4.1.1" name="generator"/>
+<title>Kit Team - Student Robotics Kitbook</title>
+<link href="../assets/stylesheets/application.3020aac5.css" rel="stylesheet"/>
+<link href="../assets/stylesheets/application-palette.224b79ff.css" rel="stylesheet"/>
+<meta content="#ff7043" name="theme-color"/>
+<script src="../assets/javascripts/modernizr.01ccdecf.js"></script>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono" rel="stylesheet"/>
+<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+<link href="../assets/fonts/material-icons.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" dir="ltr">
+<svg class="md-svg">
+<defs>
+<svg height="448" id="__github" viewbox="0 0 416 448" width="416" xmlns="http://www.w3.org/2000/svg">
+<path d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" fill="currentColor"></path>
+</svg>
+</defs>
+</svg>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+<a class="md-skip" href="#kit-team" tabindex="1">
+        Skip to content
+      </a>
+<header class="md-header" data-md-component="header">
+<nav class="md-header-nav md-grid">
+<div class="md-flex">
+<div class="md-flex__cell md-flex__cell--shrink">
+<a class="md-header-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch">
+<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+<span class="md-header-nav__topic">
+              Student Robotics Kitbook
+            </span>
+<span class="md-header-nav__topic">
+              Kit Team
+            </span>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
+<label class="md-icon md-search__icon" for="__search"></label>
+<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
+        
+      </button>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="result">
+<div class="md-search-result__meta">
+            Type to start searching
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<div class="md-header-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container">
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href=".." title="Home">
+        Home
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../Brain-Team/" title="Brain Team">
+          Brain Team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../competition/team-support/helpdesk/" title="Competition">
+          Competition
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="./" title="Kit team">
+          Kit team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../teams/" title="Teams">
+          Teams
+        </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main">
+<div class="md-main__inner md-grid" data-md-component="container">
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title md-nav__title--site" for="__drawer">
+<a class="md-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+    Student Robotics Kitbook
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href=".." title="Home">
+      Home
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../project-readme/" title="Project readme">
+      Project readme
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3">
+      Brain Team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-3">
+        Brain Team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Brain-Team/" title="About the Brain Team">
+      About the Brain Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Brain-Team/2015-Software/" title="2015 Software">
+      2015 Software
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" id="nav-3-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3-3">
+      2022 Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-3-3">
+        2022 Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Brain-Team/2022-Software/" title="Goals">
+      Goals
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" id="nav-4" type="checkbox"/>
+<label class="md-nav__link" for="nav-4">
+      Competition
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-4">
+        Competition
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" id="nav-4-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-1">
+      Team support
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-1">
+        Team support
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../competition/team-support/helpdesk/" title="Helpdesk">
+      Helpdesk
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../competition/team-support/kit-testing-rig/" title="Kit testing rig">
+      Kit testing rig
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" id="nav-4-2" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-2">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2-1" id="nav-4-2-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2-1">
+      Role descriptions
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-4-2-1">
+        Role descriptions
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../competition/teams/role-descriptions/kit-return/" title="Kit Return Volunteer">
+      Kit Return Volunteer
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5" id="nav-5" type="checkbox"/>
+<label class="md-nav__link" for="nav-5">
+      Kit team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-5">
+        Kit team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+        Kit Team
+      </label>
+<a class="md-nav__link md-nav__link--active" href="./" title="Kit Team">
+      Kit Team
+    </a>
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-is-the-kit-team" title="What is the Kit Team?">
+    What is the Kit Team?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#project-teams" title="Project Teams">
+    Project Teams
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#support-team" title="Support Team">
+    Support Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#infrastructure-team" title="Infrastructure Team">
+    Infrastructure Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#kit-assets-team" title="Kit Assets Team">
+    Kit Assets Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#brain-team" title="Brain Team">
+    Brain Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#dev-tooling-team" title="Dev Tooling Team">
+    Dev Tooling Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#hardware-strategy-team" title="Hardware Strategy Team">
+    Hardware Strategy Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#firmware-team" title="Firmware Team">
+    Firmware Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#robot-perception-and-planning-team" title="Robot Perception and Planning Team">
+    Robot Perception and Planning Team
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="README-OLD/" title="Legacy Index">
+      Legacy Index
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="introductory-meetings/" title="Introductory Meetings">
+      Introductory Meetings
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="kit-definition/" title="Kit Definition">
+      Kit Definition
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="support/" title="Kit Support Documentation">
+      Kit Support Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-6" id="nav-5-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-6">
+      Hardware
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-6">
+        Hardware
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="hardware/" title="Hardware Production Documentation">
+      Hardware Production Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="hardware/kit-collation/" title="Kit Collation">
+      Kit Collation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="hardware/kit-packing/" title="Kit Packing">
+      Kit Packing
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="hardware/sr2017-kit-collation-plan/" title="SR2017 Kit Collation Plan">
+      SR2017 Kit Collation Plan
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7" id="nav-5-7" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7">
+      Logistics
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-7">
+        Logistics
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/" title="Kit Logistics Documentation">
+      Kit Logistics Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/asset-tracking/" title="Asset Tracking">
+      Asset Tracking
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/kit-storage/" title="Kit Storage">
+      Kit Storage
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/kit-transport/" title="Kit Shipping">
+      Kit Shipping
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/logistics-software/" title="Logistics Software">
+      Logistics Software
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/post-handling/" title="Post Handling">
+      Post Handling
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/research/" title="Research">
+      Research
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7-8" id="nav-5-7-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7-8">
+      Transport
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-5-7-8">
+        Transport
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/transport/couriers/" title="Couriers">
+      Couriers
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/transport/packaging/" title="Packaging">
+      Packaging
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="logistics/transport/procedures/" title="Procedures">
+      Procedures
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-8" id="nav-5-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-8">
+      Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-8">
+        Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="software/" title="Kit Software Documentation">
+      Kit Software Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="software/legacy-server-maintainer-role/" title="Legacy Server Maintainer (LSM) Role Definition">
+      Legacy Server Maintainer (LSM) Role Definition
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-6">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-6">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teams/" title="Teams">
+      Teams
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../teams/kit/" title="Kit">
+      Kit
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#what-is-the-kit-team" title="What is the Kit Team?">
+    What is the Kit Team?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#project-teams" title="Project Teams">
+    Project Teams
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#support-team" title="Support Team">
+    Support Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#infrastructure-team" title="Infrastructure Team">
+    Infrastructure Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#kit-assets-team" title="Kit Assets Team">
+    Kit Assets Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#brain-team" title="Brain Team">
+    Brain Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#dev-tooling-team" title="Dev Tooling Team">
+    Dev Tooling Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#hardware-strategy-team" title="Hardware Strategy Team">
+    Hardware Strategy Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#firmware-team" title="Firmware Team">
+    Firmware Team
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#robot-perception-and-planning-team" title="Robot Perception and Planning Team">
+    Robot Perception and Planning Team
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content">
+<article class="md-content__inner md-typeset">
+<a class="md-icon md-content__icon" href="https://github.com/srobo/kitbook/blob/master/docs/kit-team/README.md" title="Edit this page"></a>
+<h1 id="kit-team">Kit Team<a class="headerlink" href="#kit-team" title="Permanent link">¶</a></h1>
+<h2 id="what-is-the-kit-team">What is the Kit Team?<a class="headerlink" href="#what-is-the-kit-team" title="Permanent link">¶</a></h2>
+<p>Our main reason for existing is to develop, maintain and support the
+"kit" that teams use to build their robots.  Organisationally, we do
+this by providing a "kit service" to the competition team (the
+reference description of our responsibilities can be found in the <a href="https://opsmanual.studentrobotics.org/annual-robotics-competition/kit-team">ops
+manual</a>).</p>
+<p><strong>Our overarching mission is to to empower teams to discover their
+ability to engineer amazing robots.</strong></p>
+<p>The kit team is organised by the kit team committee, who ensure that
+the kit team's responsibilities are upheld.</p>
+<p>The kit team's operations are divided into a set of "project teams",
+each of which is:</p>
+<ul>
+<li>Overseen by the kit committee</li>
+<li>Takes ownership of its responsibilities.</li>
+<li>Autonomous, in that it organises itself, works out how it should
+   operate interally, and how to prioritise its activities.</li>
+<li>A small group of volunteers (approx 3-10).</li>
+</ul>
+<h2 id="project-teams">Project Teams<a class="headerlink" href="#project-teams" title="Permanent link">¶</a></h2>
+<p>We are currently in the process of forming the following project teams:</p>
+<h3 id="support-team">Support Team<a class="headerlink" href="#support-team" title="Permanent link">¶</a></h3>
+<p>The support team provides technical support to students, teams and volunteers relating to <em>The Kit</em>.
+This can include:</p>
+<ul>
+<li>Providing support at events like kickstart, tech days and the competition</li>
+<li>Servicing support queries from students on the forums</li>
+<li>Developing and maintaining documentation for <em>The Kit</em></li>
+<li>Determining when spare parts need to be shipped to teams (the Kit Assets Team will do the shipping)</li>
+<li>Interacting with mentors to resolve problems</li>
+</ul>
+<h3 id="infrastructure-team">Infrastructure Team<a class="headerlink" href="#infrastructure-team" title="Permanent link">¶</a></h3>
+<p>Provides and maintains managed hosting services and tooling to the rest of the kit team.</p>
+<p>Technologies maintained by this team might include:</p>
+<ul>
+<li>an environment in which the IDE software (maintained by the Dev Tooling team) can be run e.g. a cloud VM</li>
+<li>administration of Kit Team's usage of shared services e.g. github, CI</li>
+</ul>
+<p>The scope of the service provided by this team could perhaps be extended to the rest of the Student Robotics organisation in the future, thus covering technologies such as the website, forums, user database -- however this is not planned at present.</p>
+<h3 id="kit-assets-team">Kit Assets Team<a class="headerlink" href="#kit-assets-team" title="Permanent link">¶</a></h3>
+<p>The assets team is responsible for keeping track of the physical parts of the kit, as well as:</p>
+<ul>
+<li>Storing it</li>
+<li>Keeping it well maintained (e.g. fixing it between competitions)</li>
+<li>Shipping the kit to Kickstarts and teams, including spares</li>
+<li>Chasing non-returned kits and retrieving them</li>
+<li>Packing kits</li>
+</ul>
+<p>This includes any kit that may be solely allocated to 'development'.</p>
+<p>(For SR veterans: please note that the assets team is not responsible for managing SR assets that are not kit related -- e.g. parts of the arena, marketing materials etc.  Also note that the assets team may choose to use whatever asset tracking methods they deem to be suitable -- they are not constrained to using any particular system.)</p>
+<h3 id="brain-team">Brain Team<a class="headerlink" href="#brain-team" title="Permanent link">¶</a></h3>
+<p>The brain team is responsible for the development and maintenance of the software that runs on the 'brain' part of the kit.  It should provide documentation to the support team regarding how the end-user should use the software.</p>
+<p>The brain team should ensure that any features it releases to teams during a competition year continue to be available and usable until that competition year has completed.</p>
+<h3 id="dev-tooling-team">Dev Tooling Team<a class="headerlink" href="#dev-tooling-team" title="Permanent link">¶</a></h3>
+<p>Produces and maintains tooling for competitors to use to develop their robot software.  This team is responsible for software that is not used 'on', or within, the physical kit that is shipped to teams.</p>
+<p>For example:</p>
+<ul>
+<li>an IDE</li>
+<li>a robot simulator</li>
+<li>live debugging tools e.g. the non-robot side of a remote debugging interface</li>
+</ul>
+<h3 id="hardware-strategy-team">Hardware Strategy Team<a class="headerlink" href="#hardware-strategy-team" title="Permanent link">¶</a></h3>
+<p>The kit includes a selection of hardware that teams use to construct their robot.  It is the job of the hardware strategy team to ensure that this selection is the best it can be to fulfil the kit team's mission.  The hardware strategy team defines what hardware is to be included in the kit each year.  It does not perform hardware development of any kind -- instead it performs investigations and comes up with a strategy for how the hardware should develop.  It then confers with the kit team committee to ascertain whether any new project teams need to be formed to support the development/maintenance any new items of kit.</p>
+<p>The hardware strategy team's investigations should involve looking at how the kit is currently being used, as well as what is technically feasible given the available resources (money, time).</p>
+<h3 id="firmware-team">Firmware Team<a class="headerlink" href="#firmware-team" title="Permanent link">¶</a></h3>
+<p>The firmware team is responsible for developing and maintaining the firmware for hardware included in the kit.</p>
+<p>The firmware team should ensure that any features it releases to teams during a competition year continue to be available until that competition year has completed.</p>
+<h3 id="robot-perception-and-planning-team">Robot Perception and Planning Team<a class="headerlink" href="#robot-perception-and-planning-team" title="Permanent link">¶</a></h3>
+<p>There are lots of aspects of robotics that extend beyond simple motor control and line-following.  The robot perception and planning team's responsibility is to research, develop and maintain software that helps teams to make their robots perceive the world, as well as plan and execute motion through space.</p>
+<p>Sometimes these new developments may introduce new hardware dependencies -- this team should interact with the hardware strategy team to determine feasibility etc.</p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-nav">
+<nav class="md-footer-nav__inner md-grid">
+<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../competition/teams/role-descriptions/kit-return/" rel="prev" title="Kit Return Volunteer">
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Kit Return Volunteer
+              </span>
+</div>
+</a>
+<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="README-OLD/" rel="next" title="Legacy Index">
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Legacy Index
+              </span>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+</div>
+</a>
+</nav>
+</div>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+<div class="md-footer-copyright__highlight">
+            Copyright © Student Robotics contributors
+<br/>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
+
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+</div>
+<div class="md-footer-social">
+<link href="../assets/fonts/font-awesome.css" rel="stylesheet"/>
+<a class="md-footer-social__link fa fa-globe" href="https://studentrobotics.org"></a>
+<a class="md-footer-social__link fa fa-github-alt" href="https://github.com/srobo"></a>
+<a class="md-footer-social__link fa fa-twitter" href="https://twitter.com/studentrobotics"></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../assets/javascripts/application.dc02f8ce.js"></script>
+<script>app.initialize({version:"1.1.2",url:{base:".."}})</script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+</body>
+</html>

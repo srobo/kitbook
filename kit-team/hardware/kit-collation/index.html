@@ -1,0 +1,906 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="https://srobo.github.io/kitbook/kit-team/hardware/kit-collation/" rel="canonical"/>
+<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
+<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
+<meta content="en" name="lang:search.language"/>
+<meta content="True" name="lang:search.pipeline.stopwords"/>
+<meta content="True" name="lang:search.pipeline.trimmer"/>
+<meta content="No matching documents" name="lang:search.result.none"/>
+<meta content="1 matching document" name="lang:search.result.one"/>
+<meta content="# matching documents" name="lang:search.result.other"/>
+<meta content="[\s\-]+" name="lang:search.tokenizer"/>
+<link href="../../../favicon.ico" rel="shortcut icon"/>
+<meta content="mkdocs-1.1.2, mkdocs-material-4.1.1" name="generator"/>
+<title>Kit Collation - Student Robotics Kitbook</title>
+<link href="../../../assets/stylesheets/application.3020aac5.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/application-palette.224b79ff.css" rel="stylesheet"/>
+<meta content="#ff7043" name="theme-color"/>
+<script src="../../../assets/javascripts/modernizr.01ccdecf.js"></script>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono" rel="stylesheet"/>
+<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+<link href="../../../assets/fonts/material-icons.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" dir="ltr">
+<svg class="md-svg">
+<defs>
+<svg height="448" id="__github" viewbox="0 0 416 448" width="416" xmlns="http://www.w3.org/2000/svg">
+<path d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" fill="currentColor"></path>
+</svg>
+</defs>
+</svg>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+<a class="md-skip" href="#kit-collation" tabindex="1">
+        Skip to content
+      </a>
+<header class="md-header" data-md-component="header">
+<nav class="md-header-nav md-grid">
+<div class="md-flex">
+<div class="md-flex__cell md-flex__cell--shrink">
+<a class="md-header-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch">
+<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+<span class="md-header-nav__topic">
+              Student Robotics Kitbook
+            </span>
+<span class="md-header-nav__topic">
+              Kit Collation
+            </span>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
+<label class="md-icon md-search__icon" for="__search"></label>
+<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
+        
+      </button>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="result">
+<div class="md-search-result__meta">
+            Type to start searching
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<div class="md-header-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container">
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../.." title="Home">
+        Home
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../Brain-Team/" title="Brain Team">
+          Brain Team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../competition/team-support/helpdesk/" title="Competition">
+          Competition
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="../../" title="Kit team">
+          Kit team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../teams/" title="Teams">
+          Teams
+        </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main">
+<div class="md-main__inner md-grid" data-md-component="container">
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title md-nav__title--site" for="__drawer">
+<a class="md-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+    Student Robotics Kitbook
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../.." title="Home">
+      Home
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../project-readme/" title="Project readme">
+      Project readme
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3">
+      Brain Team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-3">
+        Brain Team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/" title="About the Brain Team">
+      About the Brain Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/2015-Software/" title="2015 Software">
+      2015 Software
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" id="nav-3-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3-3">
+      2022 Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-3-3">
+        2022 Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/2022-Software/" title="Goals">
+      Goals
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" id="nav-4" type="checkbox"/>
+<label class="md-nav__link" for="nav-4">
+      Competition
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-4">
+        Competition
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" id="nav-4-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-1">
+      Team support
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-1">
+        Team support
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/team-support/helpdesk/" title="Helpdesk">
+      Helpdesk
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/team-support/kit-testing-rig/" title="Kit testing rig">
+      Kit testing rig
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" id="nav-4-2" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-2">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2-1" id="nav-4-2-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2-1">
+      Role descriptions
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-4-2-1">
+        Role descriptions
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/teams/role-descriptions/kit-return/" title="Kit Return Volunteer">
+      Kit Return Volunteer
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5" id="nav-5" type="checkbox"/>
+<label class="md-nav__link" for="nav-5">
+      Kit team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-5">
+        Kit team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../" title="Kit Team">
+      Kit Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../README-OLD/" title="Legacy Index">
+      Legacy Index
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../introductory-meetings/" title="Introductory Meetings">
+      Introductory Meetings
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-definition/" title="Kit Definition">
+      Kit Definition
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../support/" title="Kit Support Documentation">
+      Kit Support Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-6" id="nav-5-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-6">
+      Hardware
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-6">
+        Hardware
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../" title="Hardware Production Documentation">
+      Hardware Production Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+        Kit Collation
+      </label>
+<a class="md-nav__link md-nav__link--active" href="./" title="Kit Collation">
+      Kit Collation
+    </a>
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#process" title="Process">
+    Process
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#checkin" title="CHECKIN">
+    CHECKIN
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#visual" title="VISUAL">
+    VISUAL
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#clean" title="CLEAN">
+    CLEAN
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#test" title="TEST">
+    TEST
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#checkout" title="CHECKOUT">
+    CHECKOUT
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#chaseup" title="CHASEUP">
+    CHASEUP
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../kit-packing/" title="Kit Packing">
+      Kit Packing
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../sr2017-kit-collation-plan/" title="SR2017 Kit Collation Plan">
+      SR2017 Kit Collation Plan
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7" id="nav-5-7" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7">
+      Logistics
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-7">
+        Logistics
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/" title="Kit Logistics Documentation">
+      Kit Logistics Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/asset-tracking/" title="Asset Tracking">
+      Asset Tracking
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/kit-storage/" title="Kit Storage">
+      Kit Storage
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/kit-transport/" title="Kit Shipping">
+      Kit Shipping
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/logistics-software/" title="Logistics Software">
+      Logistics Software
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/post-handling/" title="Post Handling">
+      Post Handling
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/research/" title="Research">
+      Research
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7-8" id="nav-5-7-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7-8">
+      Transport
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-5-7-8">
+        Transport
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/transport/couriers/" title="Couriers">
+      Couriers
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/transport/packaging/" title="Packaging">
+      Packaging
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../logistics/transport/procedures/" title="Procedures">
+      Procedures
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-8" id="nav-5-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-8">
+      Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-8">
+        Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../software/" title="Kit Software Documentation">
+      Kit Software Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../software/legacy-server-maintainer-role/" title="Legacy Server Maintainer (LSM) Role Definition">
+      Legacy Server Maintainer (LSM) Role Definition
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-6">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-6">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../teams/" title="Teams">
+      Teams
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../teams/kit/" title="Kit">
+      Kit
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#process" title="Process">
+    Process
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#checkin" title="CHECKIN">
+    CHECKIN
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#visual" title="VISUAL">
+    VISUAL
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#clean" title="CLEAN">
+    CLEAN
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#test" title="TEST">
+    TEST
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#checkout" title="CHECKOUT">
+    CHECKOUT
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#chaseup" title="CHASEUP">
+    CHASEUP
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content">
+<article class="md-content__inner md-typeset">
+<a class="md-icon md-content__icon" href="https://github.com/srobo/kitbook/blob/master/docs/kit-team/hardware/kit-collation.md" title="Edit this page"></a>
+<h1 id="kit-collation">Kit Collation<a class="headerlink" href="#kit-collation" title="Permanent link">¶</a></h1>
+<p>The purpose of Kit Collation is to gather together all kit parts from the previous Competition Programme year, test them and store them ready for packing at the <a href="../kit-packing/">Kit Packing</a> Event. See <a href="../sr2017-kit-collation-plan/">SR2017 Kit Collation Plan</a> for a detailed plan.</p>
+<h2 id="process">Process<a class="headerlink" href="#process" title="Permanent link">¶</a></h2>
+<p>Each kit must go through the following process. Once the CHECKIN task has been performed for a given kit the remaining tasks can be run in parallel - especially the testing of different parts. The sequence of tasks is the same for all parts, however the specific requirements vary depending upon the part.</p>
+<ol>
+<li><a href="#checkin">CHECKIN</a> - Unpack each kit and scan its contents into a single location in the Inventory. Any kit expected back from teams but not found is marked as missing.</li>
+<li><a href="#visual">VISUAL</a> - Visually inspect each part for damage.</li>
+<li><a href="#clean">CLEAN</a> - Clean each part.</li>
+<li><a href="#test">TEST</a> - Test each part, where possible.</li>
+<li><a href="#checkout">CHECKOUT</a> - Pack parts of the same type into boxes and update the Inventory.</li>
+<li><a href="#chaseup">CHASEUP</a> - [after event] Chase up missing parts.</li>
+</ol>
+<p>Throughout the process the state of each part is tracked through two fields: <code>functional_condition</code> (currently <code>condition</code> for backwards compatibility) and <code>physical_condition</code>. The <code>functional_condition</code> field has a value of either <code>unknown</code>, <code>broken</code> or <code>working</code> and is set based upon the outcome of the testing procedure carried out in the TEST task. The <code>physical_condition</code> field has one of the same three values that the <code>functional_condition</code> field can have, but it is set based upon a visual inspection of the part during the VISUAL task.</p>
+<p>We will only ship parts that have both a <code>functional_condition</code> and <code>physical_condition</code> of <code>working</code>. After the Kit Collation Event any parts with either a <code>functional_condition</code> or <code>physical_condition</code> of <code>broken</code> will be assessed to see whether they can be repaired or need to be replaced.</p>
+<h2 id="checkin">CHECKIN<a class="headerlink" href="#checkin" title="Permanent link">¶</a></h2>
+<dl>
+<dt>Tools:</dt>
+<dd>Laptop, barcode/QR scanner</dd>
+<dt>Duration:</dt>
+<dd>1 person day</dd>
+</dl>
+<p>Remove each part from the kit box and move it into a <code>checked-in</code> directory in the Inventory. There is no need to worry about keeping track of which team the part came from, as this information can be retrieved from the Inventory at a later date if required. Mark each part as having <code>functional_condition: unknown</code> and <code>physical_condition: unknown</code>.</p>
+<p>If the Inventory shows any parts remaining in the kit box after all of the parts have been physically removed move them into a <code>missing</code> directory.</p>
+<h2 id="visual">VISUAL<a class="headerlink" href="#visual" title="Permanent link">¶</a></h2>
+<dl>
+<dt>Tools:</dt>
+<dd>Laptop, barcode/QR scanner, label printer</dd>
+<dt>Duration:</dt>
+<dd>2 person days</dd>
+</dl>
+<p>Inspect parts for visible physical damage - mild cosmetic damage is not a concern. Also apply a new asset sticker if the current one is damaged or illegible. See the following table for example of visible physical damage for each part. Note that a case is considered to be damaged if a panel is cracked entirely in half (or close to it) or if a piece has broken off such that the board can be touched. Once the physical condition of the part has been assessed, update its <code>physical_condition</code> field to either <code>working</code> or <code>broken</code>. If it is broken, add a short description of the issue.</p>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Examples of physical damage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Power board</td>
+<td>cuts, nicks or exposed copper on wires; large heatshrink slipping off of XT 60; loose screw terminal; case cracked/broken/missing screws; charring on board; connectors broken/full of stuff</td>
+</tr>
+<tr>
+<td>Motor board</td>
+<td>case cracked/broken, charring on board, connectors broken/full of stuff, button held down (try pressing the button - it should click)</td>
+</tr>
+<tr>
+<td>Servo board</td>
+<td>case cracked/broken, charring on board, blackened pins, connectors broken/full of stuff</td>
+</tr>
+<tr>
+<td>Ruggeduino</td>
+<td>case cracked/broken/missing screws, charring on board, connectors broken/full of stuff</td>
+</tr>
+<tr>
+<td>Screw shields</td>
+<td>bent pins, chewed up screw heads</td>
+</tr>
+<tr>
+<td>Odroid</td>
+<td>case cracked/broken, case hinge broken (try pulling apart at hinge end), connectors broken/full of stuff</td>
+</tr>
+<tr>
+<td>Tablet</td>
+<td>cracked screen</td>
+</tr>
+<tr>
+<td>USB charger</td>
+<td>bent pins, cracked case</td>
+</tr>
+<tr>
+<td>USB hub</td>
+<td>cracked case, damaged connector, loose parts rattling around inside</td>
+</tr>
+<tr>
+<td>WiFi dongle</td>
+<td>cracked case, damaged connector</td>
+</tr>
+<tr>
+<td>Webcam</td>
+<td>cracked case, damaged cable, damaged connector (missing stand is OK)</td>
+</tr>
+<tr>
+<td>Battery charger</td>
+<td>cracked case, damaged wires, large heatshrink slipping off of XT 60, missing cable tie, missing buttons</td>
+</tr>
+<tr>
+<td>Battery charger supply</td>
+<td>cracked case, damaged strain relief</td>
+</tr>
+<tr>
+<td>Battery bag</td>
+<td>torn stitching</td>
+</tr>
+<tr>
+<td>Battery</td>
+<td>Damaged wires, swollen to the point of being hard (squidgy is OK)</td>
+</tr>
+</tbody>
+</table>
+<p>Some parts are not tracked in the Inventory, but still require visual inspection. If any of these parts fail they should be thrown in the bin:</p>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Example of visible damage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>USB memory stick</td>
+<td></td>
+</tr>
+<tr>
+<td>Micro USB cable</td>
+<td></td>
+</tr>
+<tr>
+<td>Full-size USB cable</td>
+<td></td>
+</tr>
+<tr>
+<td>Odroid power cable</td>
+<td></td>
+</tr>
+<tr>
+<td>Screwdriver</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="clean">CLEAN<a class="headerlink" href="#clean" title="Permanent link">¶</a></h2>
+<dl>
+<dt>Tools:</dt>
+<dd>Bowl, J cloths, washing up liquid, IPA, label residue remover</dd>
+<dt>Duration:</dt>
+<dd>2 person days</dd>
+</dl>
+<p>Using wringed-out cloth, give each part a wipe with soapy water. If it has adhesive residue, wipe it with label residue remover and then soapy water once the reside has been removed. For removal of grease and pen marks wipe it with IPA.</p>
+<h2 id="test">TEST<a class="headerlink" href="#test" title="Permanent link">¶</a></h2>
+<dl>
+<dt>Tools:</dt>
+<dd>See part specific test procedure</dd>
+<dt>Duration:</dt>
+<dd>6 person days</dd>
+</dl>
+<p>Follow the part specific testing procedure linked in the table below. Once the condition of the part has been assessed, update its <code>functional_condition</code> field to either <code>working</code> or <code>broken</code>.</p>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>Procedure</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Battery</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/battery.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/battery.md</a></td>
+<td>1 day</td>
+</tr>
+<tr>
+<td>Battery Charger</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Power board</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/power-board.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/power-board.md</a></td>
+<td>0.5 days</td>
+</tr>
+<tr>
+<td>Motor board</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/motor-board.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/motor-board.md</a></td>
+<td>0.5 days</td>
+</tr>
+<tr>
+<td>Servo board</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/servo-board.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/servo-board.md</a></td>
+<td>0.5 days</td>
+</tr>
+<tr>
+<td>Ruggeduino</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/ruggeduino.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/ruggeduino.md</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Odroid</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/odriod.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/odriod.md</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Tablet</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>USB charger</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-charger.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-charger.md</a></td>
+<td></td>
+</tr>
+<tr>
+<td>USB hub</td>
+<td><a href="https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-hub.md">https://github.com/srobo/kit-maintenance-docs/tree/master/src/usb-hub.md</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Webcam</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>WiFi dongle</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="checkout">CHECKOUT<a class="headerlink" href="#checkout" title="Permanent link">¶</a></h2>
+<dl>
+<dt>Tools:</dt>
+<dd>Laptop, barcode/QR scanner</dd>
+<dt>Duration:</dt>
+<dd>1 person day</dd>
+</dl>
+<p>Allocate a box or two for storage of broken parts. Allocate a box or two for storage of working parts of a single type (e.g. one box for servo boards, a couple of boxes for power boards). Check the condition of each part and, if both the <code>functional_condition</code> and <code>physical_condition</code> fields are set to <code>working</code>, place it in the appropriate working box and move it in the Inventory to that box. Otherwise place it in the broken box and move it in the Inventory to the broken box.</p>
+<p>Also, count the following untracked items and note down the totals. Bag the CamCon connectors up by size and write the number of connectors contained on the bag.</p>
+<ul>
+<li>USB Memory Stick</li>
+<li>Micro USB Cable</li>
+<li>Full-size USB Cable</li>
+<li>7.5mm CamCon</li>
+<li>5mm CamCon</li>
+<li>3.81mm CamCon</li>
+<li>Odroid Power Cable</li>
+<li>Screw Driver</li>
+</ul>
+<h2 id="chaseup">CHASEUP<a class="headerlink" href="#chaseup" title="Permanent link">¶</a></h2>
+<p>After the event the parts left in the <code>kit-collation-venue/missing</code> directory need to be chased up. Each part should be traced back to the team it belonged to and the team leader notified of the missing items. Note that they may be missing due to parts being swapped at the competition, etc, so they may not have any knowledge of the parts whereabouts.</p>
+<h2>Attribution</h2>
+<p>
+      This page is based on work done by Richard Barlow,
+      originally published at
+      <a href="https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Kit%20Collation">https://bitbucket.org/richardbarlow/sr-hw-prod-coord/wiki/Kit%20Collation</a>,
+      which was under the Creative Commons Attribution-ShareAlike 4.0
+      International License. To view a copy of this license, visit
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+      or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+    </p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-nav">
+<nav class="md-footer-nav__inner md-grid">
+<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../" rel="prev" title="Hardware Production Documentation">
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Hardware Production Documentation
+              </span>
+</div>
+</a>
+<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="../kit-packing/" rel="next" title="Kit Packing">
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Kit Packing
+              </span>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+</div>
+</a>
+</nav>
+</div>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+<div class="md-footer-copyright__highlight">
+            Copyright © Student Robotics contributors
+<br/>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
+
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+</div>
+<div class="md-footer-social">
+<link href="../../../assets/fonts/font-awesome.css" rel="stylesheet"/>
+<a class="md-footer-social__link fa fa-globe" href="https://studentrobotics.org"></a>
+<a class="md-footer-social__link fa fa-github-alt" href="https://github.com/srobo"></a>
+<a class="md-footer-social__link fa fa-twitter" href="https://twitter.com/studentrobotics"></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../../../assets/javascripts/application.dc02f8ce.js"></script>
+<script>app.initialize({version:"1.1.2",url:{base:"../../.."}})</script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+</body>
+</html>

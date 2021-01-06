@@ -1,0 +1,797 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="ie=edge" http-equiv="x-ua-compatible"/>
+<link href="https://srobo.github.io/kitbook/kit-team/logistics/asset-tracking/" rel="canonical"/>
+<meta content="Copy to clipboard" name="lang:clipboard.copy"/>
+<meta content="Copied to clipboard" name="lang:clipboard.copied"/>
+<meta content="en" name="lang:search.language"/>
+<meta content="True" name="lang:search.pipeline.stopwords"/>
+<meta content="True" name="lang:search.pipeline.trimmer"/>
+<meta content="No matching documents" name="lang:search.result.none"/>
+<meta content="1 matching document" name="lang:search.result.one"/>
+<meta content="# matching documents" name="lang:search.result.other"/>
+<meta content="[\s\-]+" name="lang:search.tokenizer"/>
+<link href="../../../favicon.ico" rel="shortcut icon"/>
+<meta content="mkdocs-1.1.2, mkdocs-material-4.1.1" name="generator"/>
+<title>Asset Tracking - Student Robotics Kitbook</title>
+<link href="../../../assets/stylesheets/application.3020aac5.css" rel="stylesheet"/>
+<link href="../../../assets/stylesheets/application-palette.224b79ff.css" rel="stylesheet"/>
+<meta content="#ff7043" name="theme-color"/>
+<script src="../../../assets/javascripts/modernizr.01ccdecf.js"></script>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono" rel="stylesheet"/>
+<style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+<link href="../../../assets/fonts/material-icons.css" rel="stylesheet"/>
+</head>
+<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" dir="ltr">
+<svg class="md-svg">
+<defs>
+<svg height="448" id="__github" viewbox="0 0 416 448" width="416" xmlns="http://www.w3.org/2000/svg">
+<path d="M160 304q0 10-3.125 20.5t-10.75 19-18.125
+        8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19 18.125-8.5
+        18.125 8.5 10.75 19 3.125 20.5zM320 304q0 10-3.125 20.5t-10.75
+        19-18.125 8.5-18.125-8.5-10.75-19-3.125-20.5 3.125-20.5 10.75-19
+        18.125-8.5 18.125 8.5 10.75 19 3.125 20.5zM360
+        304q0-30-17.25-51t-46.75-21q-10.25 0-48.75 5.25-17.75 2.75-39.25
+        2.75t-39.25-2.75q-38-5.25-48.75-5.25-29.5 0-46.75 21t-17.25 51q0 22 8
+        38.375t20.25 25.75 30.5 15 35 7.375 37.25 1.75h42q20.5 0
+        37.25-1.75t35-7.375 30.5-15 20.25-25.75 8-38.375zM416 260q0 51.75-15.25
+        82.75-9.5 19.25-26.375 33.25t-35.25 21.5-42.5 11.875-42.875 5.5-41.75
+        1.125q-19.5 0-35.5-0.75t-36.875-3.125-38.125-7.5-34.25-12.875-30.25-20.25-21.5-28.75q-15.5-30.75-15.5-82.75
+        0-59.25 34-99-6.75-20.5-6.75-42.5 0-29 12.75-54.5 27 0 47.5 9.875t47.25
+        30.875q36.75-8.75 77.25-8.75 37 0 70 8 26.25-20.5
+        46.75-30.25t47.25-9.75q12.75 25.5 12.75 54.5 0 21.75-6.75 42 34 40 34
+        99.5z" fill="currentColor"></path>
+</svg>
+</defs>
+</svg>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+<a class="md-skip" href="#asset-tracking" tabindex="1">
+        Skip to content
+      </a>
+<header class="md-header" data-md-component="header">
+<nav class="md-header-nav md-grid">
+<div class="md-flex">
+<div class="md-flex__cell md-flex__cell--shrink">
+<a class="md-header-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch">
+<div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+<span class="md-header-nav__topic">
+              Student Robotics Kitbook
+            </span>
+<span class="md-header-nav__topic">
+              Asset Tracking
+            </span>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="query" data-md-state="active" name="query" placeholder="Search" spellcheck="false" type="text"/>
+<label class="md-icon md-search__icon" for="__search"></label>
+<button class="md-icon md-search__icon" data-md-component="reset" tabindex="-1" type="reset">
+        
+      </button>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="result">
+<div class="md-search-result__meta">
+            Type to start searching
+          </div>
+<ol class="md-search-result__list"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<div class="md-header-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</header>
+<div class="md-container">
+<nav class="md-tabs md-tabs--active" data-md-component="tabs">
+<div class="md-tabs__inner md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../.." title="Home">
+        Home
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../Brain-Team/" title="Brain Team">
+          Brain Team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../competition/team-support/helpdesk/" title="Competition">
+          Competition
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="../../" title="Kit team">
+          Kit team
+        </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../../../teams/" title="Teams">
+          Teams
+        </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main">
+<div class="md-main__inner md-grid" data-md-component="container">
+<div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--primary" data-md-level="0">
+<label class="md-nav__title md-nav__title--site" for="__drawer">
+<a class="md-nav__button md-logo" href="https://srobo.github.io/kitbook" title="Student Robotics Kitbook">
+<i class="md-icon">library_books</i>
+</a>
+    Student Robotics Kitbook
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-source="github" href="https://github.com/srobo/kitbook/" title="Go to repository">
+<div class="md-source__icon">
+<svg height="24" viewbox="0 0 24 24" width="24">
+<use height="24" width="24" xlink:href="#__github"></use>
+</svg>
+</div>
+<div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../.." title="Home">
+      Home
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../project-readme/" title="Project readme">
+      Project readme
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" id="nav-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3">
+      Brain Team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-3">
+        Brain Team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/" title="About the Brain Team">
+      About the Brain Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/2015-Software/" title="2015 Software">
+      2015 Software
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-3-3" id="nav-3-3" type="checkbox"/>
+<label class="md-nav__link" for="nav-3-3">
+      2022 Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-3-3">
+        2022 Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../Brain-Team/2022-Software/" title="Goals">
+      Goals
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4" id="nav-4" type="checkbox"/>
+<label class="md-nav__link" for="nav-4">
+      Competition
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-4">
+        Competition
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-1" id="nav-4-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-1">
+      Team support
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-1">
+        Team support
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/team-support/helpdesk/" title="Helpdesk">
+      Helpdesk
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/team-support/kit-testing-rig/" title="Kit testing rig">
+      Kit testing rig
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2" id="nav-4-2" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-4-2">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-4-2-1" id="nav-4-2-1" type="checkbox"/>
+<label class="md-nav__link" for="nav-4-2-1">
+      Role descriptions
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-4-2-1">
+        Role descriptions
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../competition/teams/role-descriptions/kit-return/" title="Kit Return Volunteer">
+      Kit Return Volunteer
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5" id="nav-5" type="checkbox"/>
+<label class="md-nav__link" for="nav-5">
+      Kit team
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-5">
+        Kit team
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../" title="Kit Team">
+      Kit Team
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../README-OLD/" title="Legacy Index">
+      Legacy Index
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../introductory-meetings/" title="Introductory Meetings">
+      Introductory Meetings
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../kit-definition/" title="Kit Definition">
+      Kit Definition
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../support/" title="Kit Support Documentation">
+      Kit Support Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-6" id="nav-5-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-6">
+      Hardware
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-6">
+        Hardware
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../hardware/" title="Hardware Production Documentation">
+      Hardware Production Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../hardware/kit-collation/" title="Kit Collation">
+      Kit Collation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../hardware/kit-packing/" title="Kit Packing">
+      Kit Packing
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../hardware/sr2017-kit-collation-plan/" title="SR2017 Kit Collation Plan">
+      SR2017 Kit Collation Plan
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7" id="nav-5-7" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7">
+      Logistics
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-7">
+        Logistics
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../" title="Kit Logistics Documentation">
+      Kit Logistics Documentation
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-toggle md-nav__toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+        Asset Tracking
+      </label>
+<a class="md-nav__link md-nav__link--active" href="./" title="Asset Tracking">
+      Asset Tracking
+    </a>
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#the-inventory" title="The Inventory">
+    The Inventory
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#asset-lifecycle" title="Asset Lifecycle">
+    Asset Lifecycle
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#creation" title="Creation">
+    Creation
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#commission" title="Commission">
+    Commission
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#use" title="Use">
+    Use
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#test" title="Test">
+    Test
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#repair" title="Repair">
+    Repair
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#modify" title="Modify">
+    Modify
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#decommission" title="Decommission">
+    Decommission
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#disposal" title="Disposal">
+    Disposal
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../kit-storage/" title="Kit Storage">
+      Kit Storage
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../kit-transport/" title="Kit Shipping">
+      Kit Shipping
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../logistics-software/" title="Logistics Software">
+      Logistics Software
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../post-handling/" title="Post Handling">
+      Post Handling
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../research/" title="Research">
+      Research
+    </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-7-8" id="nav-5-7-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-7-8">
+      Transport
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="3">
+<label class="md-nav__title" for="nav-5-7-8">
+        Transport
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../transport/couriers/" title="Couriers">
+      Couriers
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../transport/packaging/" title="Packaging">
+      Packaging
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../transport/procedures/" title="Procedures">
+      Procedures
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-5-8" id="nav-5-8" type="checkbox"/>
+<label class="md-nav__link" for="nav-5-8">
+      Software
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="2">
+<label class="md-nav__title" for="nav-5-8">
+        Software
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../software/" title="Kit Software Documentation">
+      Kit Software Documentation
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../software/legacy-server-maintainer-role/" title="Legacy Server Maintainer (LSM) Role Definition">
+      Legacy Server Maintainer (LSM) Role Definition
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-toggle md-nav__toggle" data-md-toggle="nav-6" id="nav-6" type="checkbox"/>
+<label class="md-nav__link" for="nav-6">
+      Teams
+    </label>
+<nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+<label class="md-nav__title" for="nav-6">
+        Teams
+      </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../teams/" title="Teams">
+      Teams
+    </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../../teams/kit/" title="Kit">
+      Kit
+    </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">Table of contents</label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#the-inventory" title="The Inventory">
+    The Inventory
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#asset-lifecycle" title="Asset Lifecycle">
+    Asset Lifecycle
+  </a>
+<nav class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#creation" title="Creation">
+    Creation
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#commission" title="Commission">
+    Commission
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#use" title="Use">
+    Use
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#test" title="Test">
+    Test
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#repair" title="Repair">
+    Repair
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#modify" title="Modify">
+    Modify
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#decommission" title="Decommission">
+    Decommission
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#disposal" title="Disposal">
+    Disposal
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content">
+<article class="md-content__inner md-typeset">
+<a class="md-icon md-content__icon" href="https://github.com/srobo/kitbook/blob/master/docs/kit-team/logistics/asset-tracking.md" title="Edit this page"></a>
+<h1 id="asset-tracking">Asset Tracking<a class="headerlink" href="#asset-tracking" title="Permanent link">¶</a></h1>
+<p>One of the responsibilities of the Kit Logistics Coordinator is to maintain a record of the location and state of all SRs assets. This is generally referred to as asset tracking. To allow SR to operate it is important that the location and state of all of its assets are known at all times.</p>
+<p>This chapter documents the high-level organisation aspects around SR asset tracking. It is not intended as a comprehensive user manual for the Inventory system, but rather how SR uses the system to track its assets.</p>
+<p>See the page on <a href="../logistics-software/">logistics-software</a> for details of the inventory's datastore and tooling required to use it.</p>
+<h2 id="the-inventory">The Inventory<a class="headerlink" href="#the-inventory" title="Permanent link">¶</a></h2>
+<p>To record all of the necessary information regarding SR assets, all<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> assets are tracked in the Inventory. Unfortunately, due to historical use of the term, SR uses the term <em>Inventory</em> to refer to its asset tracking system. Normally inventory refers to a record of things that an organisation sells whereas assets are things that an organisation owns and uses to operate; tracked in its asset tracking system. It is not a big problem, but it is an unusual quirk to be aware of.</p>
+<p>Each asset, for example an individual webcam, has a corresponding record in the Inventory. Within this record various properties of the asset are held such that it is possible to unambiguously identify the matching asset from its Inventory record and conversely, identify the matching Inventory record from the asset. There is a one-to-one mapping of assets to Inventory records.</p>
+<p>Each type of asset is identified by its <em>name</em>; for example a Logitech C270 webcam has the name <code>webcam-logitech-c270</code>. All assets of the same type have the same name. When creating assets that do not have an existing name in the Inventory, care must be taken to ensure that the new name given to the asset is suitably descriptive. This ensures that it does not clash with future assets that are similar, but not the same; for example an asset with the name <code>usb-charger</code> is not descriptive enough, but <code>usb-charger-a-500ma</code> is.</p>
+<p>The Inventory primarily records the location of each asset, its value, its physical and functional condition, its asset code and a history of any changes made to any of these properties. Secondary to these properties, certain assets have extra information recorded such as MAC address (for assets that have an Ethernet or Bluetooth PHY), serial number and modification flags.</p>
+<p>To provide the one-to-one mapping between assets and their Inventory records, each asset/record pair have an <em>asset code</em>, which uniquely identifies them. An important part of maintaining this one-to-one mapping is ensuring that the asset code is suitably marked onto the asset such that it can be read in the future.</p>
+<p>Only property of SR is tracked in the Inventory; meaning that property of third parties must not be tracked in the Inventory.</p>
+<h3 id="asset-lifecycle">Asset Lifecycle<a class="headerlink" href="#asset-lifecycle" title="Permanent link">¶</a></h3>
+<p>For each asset that SR owns there is a reasonably well defined sequence of stages that it flows through during its lifetime. This flow is shown in the diagram below.</p>
+<pre><code class="language-mermaid">graph LR
+  create(Creation)
+  commission(Commission)
+  use(Use)
+  test(Test)
+  repair(Repair)
+  modify(Modify)
+  decommission(Decommission)
+  disposal(Disposal)
+
+  create--&gt;commission
+  commission--&gt;use
+  use--&gt;modify
+  use--&gt;test
+  use--&gt;decommission
+  modify--&gt;test
+  test--&gt;repair
+  test--&gt;use
+  test--&gt;decommission
+  repair--&gt;test
+  decommission--&gt;disposal
+</code></pre>
+<h4 id="creation">Creation<a class="headerlink" href="#creation" title="Permanent link">¶</a></h4>
+<p>When an asset is purchased or manufactured, a record must be entered into the Inventory. At this point a new asset code is automatically generated. The asset code <strong>must</strong> be marked onto the asset<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>. The asset code can be marked in the following ways:</p>
+<ul>
+<li>Printed paper label with QR code and text</li>
+<li>Dymo label with code128 barcode and text</li>
+<li>Handwritten with permanent marker</li>
+<li>UHF RFID tag<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup></li>
+<li>Programmed onto the asset (e.g. such that it is possible to read over USB)</li>
+</ul>
+<p>More than one of the above techniques can be used to provide redundancy.</p>
+<p>The ideal marking solution is both human and machine readable and should be durable. These criteria should be considered when deciding how to mark a particular asset. Programming the asset code onto the asset, where possible, provides a very high level of durability as there is no label or pen that can be damaged; However one has to physically plug a cable in to read the code. QR codes and barcodes have the advantage that physical contact with the asset is not required, but they do require the asset to be visible. UHF RFID tags provide the added benefit of allowing the asset code to be read even when they are not visible; for instance when it is in a box.</p>
+<h4 id="commission">Commission<a class="headerlink" href="#commission" title="Permanent link">¶</a></h4>
+<p>Some assets will require commissioning after they have been added to the Inventory. This can be best explained with an example: When a newly manufactured motor board is added to the Inventory it is yet to be programmed or fully tested (although it may have had some basic end-of-line testing performed upon it). Once it has been added to the Inventory, in the <em>Creation</em> stage, it is ready to be programmed and tested before being used. This initial programming and testing of the motor board is part of its <em>commissioning</em> process.</p>
+<p>Not all assets will require commissioning. Generally these are things such as USB hubs, where it is assumed that the manufacturer has suitably tested their product and there is no further programming required.</p>
+<p>Once an asset has been commissioned, its physical and functional condition must be updated appropriately in its record. In the case of assets that do not require any special commissioning procedure to be carried out, it should be assumed that they are both physically and functionally working and their records updated as such.</p>
+<h4 id="use">Use<a class="headerlink" href="#use" title="Permanent link">¶</a></h4>
+<p>Once an asset has been commissioned, or has been tested and shown to be working, it is ready to be used for its intended purpose. For the majority of assets this means that it will become part of a kit and ultimately be used by a team.</p>
+<p>During the <em>use</em> stage of an assets lifetime the majority of the updates to its record in the Inventory will be to keep track of its physical location; for example with a particular team. Occasionally there may also be other updates to its record required, such as adding a note to its description.</p>
+<h4 id="test">Test<a class="headerlink" href="#test" title="Permanent link">¶</a></h4>
+<p>The Inventory should, as far as is possible, represent the current state of all assets. However as time passes, the recorded physical and functional condition of a given asset will diverge from reality. To help rectify this, assets are regularly tested. For most assets this occurs once each year at the <a href="../../hardware/kit-collation/">Kit Collation Event</a>, run by the <a href="../../hardware/">Hardware Production Coordinator</a>. Assets that have been repaired or modified must also undergo testing.</p>
+<p>As in the <em>commission</em> stage, an asset's physical and functional condition must be updated appropriately in its record once it has been tested. If the asset is in full working order it is ready for use. If the asset is broken then it may be possible to repair it. In some situations it is either not cost effective or not possible to repair an asset. When this occurs, the asset is no longer useful to SR and will be <em>decommissioned</em> and <em>disposed</em> of.</p>
+<h4 id="repair">Repair<a class="headerlink" href="#repair" title="Permanent link">¶</a></h4>
+<p>If an asset is found to be broken, it may be possible to repair it. An example of this is a motor board that has a cracked case. It is trivial to replace the broken parts of the case and therefore allow the motor board to once again be used (after being retested).</p>
+<h4 id="modify">Modify<a class="headerlink" href="#modify" title="Permanent link">¶</a></h4>
+<p>Throughout the lifetime of an asset it may be necessary to perform modifications to it. This may be to add extra functionality, improve reliability or to fix a known problem. For most assets the opportunity to perform these modifications is at the Kit Collation Event, run by the Hardware Production Coordinator. If modifications are required they will perform them as necessary.</p>
+<p>When modifications are made to an asset it is important to track the changes in its Inventory record. These generally take the form of <em>modification flags</em> that indicate if a particular asset has been modified. If a modification across all assets of a given type is planed, for example soldering on an extra component to all motor boards, then all motor board Inventory records should be updated to indicate that none of them have received the modification. Once each asset is modified, its Inventory record must be updated appropriately.</p>
+<h4 id="decommission">Decommission<a class="headerlink" href="#decommission" title="Permanent link">¶</a></h4>
+<p>If an asset is broken and unrepairable or if an asset is simply no longer required then it must be decommissioned and then disposed of. The Kit Logistics Coordinator must only decommission and dispose of an asset when explicitly instructed to do so by the person responsible for the asset. <strong>TODO: Define who is responsible for each type of asset</strong></p>
+<p>It must first be determined if the asset is to be sold/given away or if it is to be thrown away, as this affects the decommissioning process. Some assets will have specific decommissioning requirements, however in all cases there are common steps that must be taken.</p>
+<p>For assets that are to be sold or given to a third party all SR logos and 'property of' messages must be removed/obliterated. This ensures that future owners and users of the assets do not mistakenly think that it is property of SR and that SR itself does not mistakenly think that it is property belonging to SR.</p>
+<p>Once an asset has been fully decommissioned its Inventory record must be updated with a <em>modification flag</em> that indicates that it has been decommissioned.</p>
+<h4 id="disposal">Disposal<a class="headerlink" href="#disposal" title="Permanent link">¶</a></h4>
+<p>Once an asset has been decommissioned, it must be either sold/given away or thrown away, depending upon what was previously agreed when starting the decommissioning process.</p>
+<p>If an asset is to be sold the Kit Logistics Coordinator will work with the person previously responsible for that asset to determine the best way to sell the asset. If the estimated value of the asset at the time of selling is above £50 then the trustees are to be be consulted.</p>
+<p>If an asset is to be thrown away the Kit Logistics Coordinator will work with the person previous responsible for that asset to determine if there are any special requirements regarding its disposal; for example WEEE regulations for electronics. Also if the value of the asset, as shown in its Inventory record, is above £50 then the trustees are to be consulted.</p>
+<p>Once an asset has been disposed of, either via selling/giving away or by throwing away, its Inventory record must be removed from the Inventory. Only records that have a decommissioned modification flag should be removed from the Inventory.</p>
+<div class="footnote">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>This is not strictly true as certain low-value assets are not tracked. A general rule-of-thumb is that anything under £5 is not tracked. <a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+<li id="fn:2">
+<p>There was historically a concept of 'deferred labelling', where a record was added to the Inventory and the asset labelled at a later time. This approach is no longer used as it can result in assets going unlabelled. <a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">↩</a></p>
+</li>
+<li id="fn:3">
+<p>Currently in the planning stage. <a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">↩</a></p>
+</li>
+</ol>
+</div>
+<h2>Attribution</h2>
+<p>
+      This page is based on work done by Richard Barlow,
+      originally published at
+      <a href="https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/asset-tracking.html">https://srobo-legacy.gitbooks.io/student-robotics-kit-logistics/asset-tracking.html</a>,
+      which was under the Creative Commons Attribution-ShareAlike 4.0
+      International License. To view a copy of this license, visit
+      <a href="http://creativecommons.org/licenses/by-sa/4.0/">http://creativecommons.org/licenses/by-sa/4.0/</a>
+      or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+    </p>
+</article>
+</div>
+</div>
+</main>
+<footer class="md-footer">
+<div class="md-footer-nav">
+<nav class="md-footer-nav__inner md-grid">
+<a class="md-flex md-footer-nav__link md-footer-nav__link--prev" href="../" rel="prev" title="Kit Logistics Documentation">
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+</div>
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Kit Logistics Documentation
+              </span>
+</div>
+</a>
+<a class="md-flex md-footer-nav__link md-footer-nav__link--next" href="../kit-storage/" rel="next" title="Kit Storage">
+<div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+<span class="md-flex__ellipsis">
+<span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Kit Storage
+              </span>
+</div>
+<div class="md-flex__cell md-flex__cell--shrink">
+<i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+</div>
+</a>
+</nav>
+</div>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-footer-copyright">
+<div class="md-footer-copyright__highlight">
+            Copyright © Student Robotics contributors
+<br/>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+  Creative Commons Attribution-ShareAlike 4.0 International License
+</a>.
+
+          </div>
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+</div>
+<div class="md-footer-social">
+<link href="../../../assets/fonts/font-awesome.css" rel="stylesheet"/>
+<a class="md-footer-social__link fa fa-globe" href="https://studentrobotics.org"></a>
+<a class="md-footer-social__link fa fa-github-alt" href="https://github.com/srobo"></a>
+<a class="md-footer-social__link fa fa-twitter" href="https://twitter.com/studentrobotics"></a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script src="../../../assets/javascripts/application.dc02f8ce.js"></script>
+<script>app.initialize({version:"1.1.2",url:{base:"../../.."}})</script>
+<script src="https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js"></script>
+</body>
+</html>
